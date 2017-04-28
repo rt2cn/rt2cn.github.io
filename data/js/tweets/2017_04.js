@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Fri Apr 28 01:32:19 +0000 2017",
+		"id": 857769414459916300,
+		"id_str": "857769414459916288",
+		"text": "RT @KwokMiles: 发＂不＂会我们会准备邀请三位受中囯法治陷害的当事人或家人各演讲15分钟\n如709律师事件．雷洋．李明．徐明家人．被双规人员的家人等．我希望他们在拥有自由的情况下向世界讲述过去几年发生在他们身上的故事．所以我只希望当事人讲述过去五年内的事情我将负责包…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KwokMiles",
+					"name": "郭文贵 guo wen gui",
+					"id": 3131350487,
+					"id_str": "3131350487",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770449590827057200,
+			"id_str": "770449590827057155",
+			"name": "RT2CN",
+			"screen_name": "RT2CN",
+			"location": "",
+			"description": "Tweets to China.",
+			"url": "https://t.co/3D5ALDLwNY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3D5ALDLwNY",
+							"expanded_url": "https://rt2cn.github.io",
+							"display_url": "rt2cn.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Tue Aug 30 02:34:31 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": 28800,
+			"time_zone": "Hong Kong",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22,
+			"lang": "zh-cn",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/775195623221972992/NKQHH0xT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/775195623221972992/NKQHH0xT_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 27 13:48:11 +0000 2017",
+			"id": 857592214192607200,
+			"id_str": "857592214192607234",
+			"text": "发＂不＂会我们会准备邀请三位受中囯法治陷害的当事人或家人各演讲15分钟\n如709律师事件．雷洋．李明．徐明家人．被双规人员的家人等．我希望他们在拥有自由的情况下向世界讲述过去几年发生在他们身上的故事．所以我只希望当事人讲述过去五年内的事情我将负责包括机票住宿等一切费用请和文贵联系",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3131350487,
+				"id_str": "3131350487",
+				"name": "郭文贵 guo wen gui",
+				"screen_name": "KwokMiles",
+				"location": "",
+				"description": "Twitter: @KwokMiles, WhatsApp:+447341057158, YouTube:wenguiguo@gmail.com, Email:guowenguimiles@gmail.com   为中国真的依法治国而奋斗！🌗一切都是刚刚开始！",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 111966,
+				"friends_count": 4895,
+				"listed_count": 371,
+				"created_at": "Thu Apr 02 16:44:03 +0000 2015",
+				"favourites_count": 1669,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3024,
+				"lang": "zh-cn",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/584805231030075394/ZtZnLrKv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/584805231030075394/ZtZnLrKv_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 194,
+			"favorite_count": 545,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "zh"
+		},
+		"is_quote_status": false,
+		"retweet_count": 194,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh"
+	},
+	{
 		"created_at": "Fri Apr 28 01:02:32 +0000 2017",
 		"id": 857761917712031700,
 		"id_str": "857761917712031744",
