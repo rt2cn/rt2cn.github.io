@@ -552,8 +552,8 @@ var Grailbird = function (type, date, data) {
 
     exports.localizeStrings = function() {
       $('html').attr('lang', payload_details["lang"]);
-      document.title = "你的 Twitter 存档";
-      $('#footer-text').append("这是你的 Twitter 推文离线存档。使用上面的月份来选择存档。");
+      document.title = "@RT2CN 的 Twitter 存档";
+      $('#footer-text').append("这是 @RT2CN 的 Twitter 推文离线存档。使用上面的月份来选择存档。");
       var compose_new_tweet = "撰写新推文";
       $('#compose-tweet').append(compose_new_tweet);
       $('#compose-tweet-a').attr('title', compose_new_tweet);
