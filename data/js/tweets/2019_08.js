@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 30 08:43:22 +0000 2019",
+		"id": 1167320978721931300,
+		"id_str": "1167357129956777984",
+		"full_text": "香港民间人权阵线组织的8.31大游行因为没有获得警方的不反对通知书取消了。但是香港人很会玩，现在改成基督徒为罪人祈祷大游行。因为根据公安条例，宗教活动不需要向警方申请不反对通知书。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35219547,
+			"id_str": "35219547",
+			"name": "Jian Alan Huang",
+			"screen_name": "hnjhj",
+			"location": "Shanghai, Hong Kong, Sydney",
+			"description": "An atheistic, skeptic, liberalist. A software engineer and researcher. I seek, I think, I speak.",
+			"url": "https://t.co/8dc82SjorG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8dc82SjorG",
+							"expanded_url": "http://blog.hnjhj.com",
+							"display_url": "blog.hnjhj.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35056,
+			"friends_count": 501,
+			"listed_count": 331,
+			"created_at": "Sat Apr 25 14:15:32 +0000 2009",
+			"favourites_count": 202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35219547/1348406013",
+			"profile_link_color": "22497E",
+			"profile_sidebar_border_color": "AFAFAF",
+			"profile_sidebar_fill_color": "E7E7E7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0073b76548e5984f",
+			"url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+			"place_type": "city",
+			"name": "Sydney",
+			"full_name": "Sydney, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							150.520928608,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-33.578140996
+						],
+						[
+							150.520928608,
+							-33.578140996
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 194,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "香港民间人权阵线组织的8.31大游行因为没有获得警方的不反对通知书取消了。但是香港人很会玩，现在改成基督徒为罪人祈祷大游行。因为根据公安条例，宗教活动不需要向警方申请不反对通知书。"
+	},
+	{
 		"created_at": "Fri Aug 30 08:32:53 +0000 2019",
 		"id": 1167337171340185600,
 		"id_str": "1167354491403997184",
