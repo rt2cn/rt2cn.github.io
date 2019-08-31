@@ -1,6 +1,585 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 31 06:59:49 +0000 2019",
+		"id": 1167074572711018500,
+		"id_str": "1167693455470092288",
+		"full_text": "有個現象我真係百思不得其解\n香港有一班人上咗年紀念嘅人，明明經歷過文革，64甚至三年大饑荒。\n經歴千辛萬苦走佬落香港，終於一嚐到自由空氣。而家生活環境無憂就好似失咗憶咁係到歌頌共產黨，發埋啲中國夢。無知一問，究竟中間發生咗乜嘢事？\n🤔🤔🤔🤔🤔🤔🤔🤔\n#chinazism #BoycottChina https://t.co/Qrdljc6Ivy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "chinazism",
+					"indices": [
+						125,
+						135
+					]
+				},
+				{
+					"text": "BoycottChina",
+					"indices": [
+						136,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1167074560551747600,
+					"id_str": "1167074560551747584",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EDJIISAVAAAGFNO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EDJIISAVAAAGFNO.jpg",
+					"url": "https://t.co/Qrdljc6Ivy",
+					"display_url": "pic.twitter.com/Qrdljc6Ivy",
+					"expanded_url": "https://twitter.com/CyrilHo2/status/1167074572711018497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167074560551747600,
+					"id_str": "1167074560551747584",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EDJIISAVAAAGFNO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EDJIISAVAAAGFNO.jpg",
+					"url": "https://t.co/Qrdljc6Ivy",
+					"display_url": "pic.twitter.com/Qrdljc6Ivy",
+					"expanded_url": "https://twitter.com/CyrilHo2/status/1167074572711018497/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EDJIISAVAAAGFNO.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1146090046761472000,
+			"id_str": "1146090046761472002",
+			"name": "Cyril Ho🇭🇰",
+			"screen_name": "CyrilHo2",
+			"location": "Hong Kong",
+			"description": "時代革命 光復香港\nEnemy of CCP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 208,
+			"listed_count": 0,
+			"created_at": "Tue Jul 02 16:15:35 +0000 2019",
+			"favourites_count": 217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167672136208715776/wAJ_PiKr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167672136208715776/wAJ_PiKr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1146090046761472002/1567011566",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 241,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "有個現象我真係百思不得其解\n香港有一班人上咗年紀念嘅人，明明經歷過文革，64甚至三年大饑荒。\n經歴千辛萬苦走佬落香港，終於一嚐到自由空氣。而家生活環境無憂就好似失咗憶咁係到歌頌共產黨，發埋啲中國夢。無知一問，究竟中間發生咗乜嘢事？\n🤔🤔🤔🤔🤔🤔🤔🤔\n#chinazism #BoycottChina https://t.co/Qrdljc6Ivy"
+	},
+	{
+		"created_at": "Sat Aug 31 06:58:27 +0000 2019",
+		"id": 1167690722885144600,
+		"id_str": "1167693112824750087",
+		"full_text": "這運動是一場持久戰，不會是一時三刻完成，運動會一直走，當中以何種模式進行或者走下去，現階段難以作準，是什麼樣的升級，會隨著局勢而變化，沒有人可以預計得到。所以明知道是一場持久戰，那麼如何把運動升級是至勝關鍵。當中最終極的升級是需要良好的準備，就是學習。https://t.co/AEZysZOnpF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AEZysZOnpF",
+					"expanded_url": "https://www.vjmedia.com.hk/articles/2019/08/17/198145#%E3%80%8C%E5%8F%8D%E9%80%81%E4%B8%AD%E3%80%8D%E7%9A%84%E7%B5%82%E6%A5%B5%E5%8D%87%E7%B4%9A-%E5%AD%B8%E7%BF%92",
+					"display_url": "vjmedia.com.hk/articles/2019/…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1162023211069915100,
+			"id_str": "1162023211069915138",
+			"name": "KACAVAWU",
+			"screen_name": "kacavawu",
+			"location": "Hong Kong",
+			"description": "I love Hong Kong and please stand with Hong Kong",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 176,
+			"friends_count": 275,
+			"listed_count": 1,
+			"created_at": "Thu Aug 15 15:28:17 +0000 2019",
+			"favourites_count": 700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162185609479241728/6OAMtYPu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162185609479241728/6OAMtYPu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1162023211069915138/1565921615",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "這運動是一場持久戰，不會是一時三刻完成，運動會一直走，當中以何種模式進行或者走下去，現階段難以作準，是什麼樣的升級，會隨著局勢而變化，沒有人可以預計得到。所以明知道是一場持久戰，那麼如何把運動升級是至勝關鍵。當中最終極的升級是需要良好的準備，就是學習。https://t.co/AEZysZOnpF"
+	},
+	{
+		"created_at": "Sat Aug 31 06:58:15 +0000 2019",
+		"id": 1167690724667584500,
+		"id_str": "1167693064581865472",
+		"full_text": "年青人好好學習裝備自己，這是慢長的鬥爭。知識改變命運。#FreeHongKong #FollowBackHongKong",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FreeHongKong",
+					"indices": [
+						27,
+						40
+					]
+				},
+				{
+					"text": "FollowBackHongKong",
+					"indices": [
+						41,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1167690722885144600,
+		"in_reply_to_status_id_str": "1167690722885144584",
+		"in_reply_to_user_id": 1162023211069915100,
+		"in_reply_to_user_id_str": "1162023211069915138",
+		"in_reply_to_screen_name": "kacavawu",
+		"user": {
+			"id": 1162023211069915100,
+			"id_str": "1162023211069915138",
+			"name": "KACAVAWU",
+			"screen_name": "kacavawu",
+			"location": "Hong Kong",
+			"description": "I love Hong Kong and please stand with Hong Kong",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 176,
+			"friends_count": 275,
+			"listed_count": 1,
+			"created_at": "Thu Aug 15 15:28:17 +0000 2019",
+			"favourites_count": 700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162185609479241728/6OAMtYPu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162185609479241728/6OAMtYPu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1162023211069915138/1565921615",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "年青人好好學習裝備自己，這是慢長的鬥爭。知識改變命運。#FreeHongKong #FollowBackHongKong"
+	},
+	{
+		"created_at": "Sat Aug 31 06:54:52 +0000 2019",
+		"id": 1167618109789757400,
+		"id_str": "1167692210009194496",
+		"full_text": "“只要有饭吃就能活下来的民族也确实是很可怕的” \n\n这让我想到了 #theWalkingDead 中的 zombies\n\nZombies 没有reproductive 的能力，但可能将任何咬过的人或死了的人都变成自己同类。  中国人不仅有reproductive 能力而且具有zombie 都具有的能力。 https://t.co/iGNQ0DZhsk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "theWalkingDead",
+					"indices": [
+						33,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iGNQ0DZhsk",
+					"expanded_url": "https://twitter.com/LindaTangUSA/status/1167617023200743429",
+					"display_url": "twitter.com/LindaTangUSA/s…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 730105474788393000,
+			"id_str": "730105474788392962",
+			"name": "Linda Tang",
+			"screen_name": "LindaTangUSA",
+			"location": "California, USA",
+			"description": "reason on twitter: throw little punches on the #CCP wall so that one day all CN children could have non-communist education and live together with their parents",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5193,
+			"friends_count": 1572,
+			"listed_count": 31,
+			"created_at": "Tue May 10 18:41:24 +0000 2016",
+			"favourites_count": 17353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/901534958476378113/_H5x9fWe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/901534958476378113/_H5x9fWe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/730105474788392962/1536186021",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1167617023200743400,
+		"quoted_status_id_str": "1167617023200743429",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iGNQ0DZhsk",
+			"expanded": "https://twitter.com/LindaTangUSA/status/1167617023200743429",
+			"display": "twitter.com/LindaTangUSA/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 31 01:56:06 +0000 2019",
+			"id": 1167617023200743400,
+			"id_str": "1167617023200743429",
+			"full_text": "在看Quora上历史上曾最强的帝国， https://t.co/LdE758pj0p\n\n一个感慨：如果中国被美日俄瓜分了，说不定还会再有几百年生命，有机会再成为世界super power。中国社会的再生力很可能跟他的受灾难的次数和程度成正比的。 \n也可能跟他本身没有信仰有关。只要有饭吃就能活下来的民族也确实是很可怕的。",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LdE758pj0p",
+						"expanded_url": "https://www.quora.com/Who-were-the-most-powerful-countries-in-the-world-at-different-points-in-history",
+						"display_url": "quora.com/Who-were-the-m…",
+						"indices": [
+							19,
+							42
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 730105474788393000,
+				"id_str": "730105474788392962",
+				"name": "Linda Tang",
+				"screen_name": "LindaTangUSA",
+				"location": "California, USA",
+				"description": "reason on twitter: throw little punches on the #CCP wall so that one day all CN children could have non-communist education and live together with their parents",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5193,
+				"friends_count": 1572,
+				"listed_count": 31,
+				"created_at": "Tue May 10 18:41:24 +0000 2016",
+				"favourites_count": 17353,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10624,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/901534958476378113/_H5x9fWe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/901534958476378113/_H5x9fWe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/730105474788392962/1536186021",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "zh"
+		},
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "“只要有饭吃就能活下来的民族也确实是很可怕的” \n\n这让我想到了 #theWalkingDead 中的 zombies\n\nZombies 没有reproductive 的能力，但可能将任何咬过的人或死了的人都变成自己同类。  中国人不仅有reproductive 能力而且具有zombie 都具有的能力。 https://t.co/iGNQ0DZhsk"
+	},
+	{
 		"created_at": "Sat Aug 31 06:05:35 +0000 2019",
 		"id": 1167607218969071600,
 		"id_str": "1167679809897545731",
