@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 31 16:12:05 +0000 2019",
+		"id": 1167832169852440600,
+		"id_str": "1167832440238419968",
+		"full_text": "#HongKongPolice 你哋咁做會令我諗起咩？\n\n我只會諗起9年前喺電視旁邊，眼白白咁睇住一班無能嘅警察令到9個香港人畀人殺死\n\n今日我同樣眼白白喺網上，睇住一班懦夫荷槍實彈，襲擊車上嘅百姓\n\n我痛恨唔去保護市民嘅警察，更對傷害市民嘅警察恨之入骨\n\n此恨此生不忘\n\n#HongKongProtests\n#FreeHK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HongKongPolice",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"text": "HongKongProtests",
+					"indices": [
+						137,
+						154
+					]
+				},
+				{
+					"text": "FreeHK",
+					"indices": [
+						155,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42237620,
+			"id_str": "42237620",
+			"name": "Gau膠",
+			"screen_name": "gauplastichk",
+			"location": "Hong Kong",
+			"description": "香港人加油 | 🇭🇰 scientific researcher / cat and dog lover / Cantonese and English / #catporn inspector / :0)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1232,
+			"friends_count": 1344,
+			"listed_count": 5,
+			"created_at": "Sun May 24 16:32:19 +0000 2009",
+			"favourites_count": 1587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167823182826332161/6tLpSmDX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167823182826332161/6tLpSmDX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42237620/1566293094",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "#HongKongPolice 你哋咁做會令我諗起咩？\n\n我只會諗起9年前喺電視旁邊，眼白白咁睇住一班無能嘅警察令到9個香港人畀人殺死\n\n今日我同樣眼白白喺網上，睇住一班懦夫荷槍實彈，襲擊車上嘅百姓\n\n我痛恨唔去保護市民嘅警察，更對傷害市民嘅警察恨之入骨\n\n此恨此生不忘\n\n#HongKongProtests\n#FreeHK"
+	},
+	{
+		"created_at": "Sat Aug 31 16:11:24 +0000 2019",
+		"id": 1167832207202771000,
+		"id_str": "1167832267663785984",
+		"full_text": "香 港 警 察 係 黑 社 會 。\n@hkpoliceforce is traid.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hkpoliceforce",
+					"name": "Hong Kong Police Force",
+					"id": 1057237461007396900,
+					"id_str": "1057237461007396864",
+					"indices": [
+						18,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 468320185,
+			"id_str": "468320185",
+			"name": "Chuichui🇭🇰",
+			"screen_name": "iamchuichui",
+			"location": "Hong Kong",
+			"description": "\"We are here, not because we are law-breakers; we are here in our efforts to become law-makers\" Emmeline Pankhurst. #StandwithHK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 404,
+			"friends_count": 317,
+			"listed_count": 5,
+			"created_at": "Thu Jan 19 12:14:22 +0000 2012",
+			"favourites_count": 501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167785187955994624/aO1QMRCs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167785187955994624/aO1QMRCs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/468320185/1566589937",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "香 港 警 察 係 黑 社 會 。\n@hkpoliceforce is traid."
+	},
+	{
 		"created_at": "Sat Aug 31 16:01:38 +0000 2019",
 		"id": 1167824612563898400,
 		"id_str": "1167829810195963905",
@@ -888,7 +1085,7 @@ Grailbird.data.tweets_2019_08 =
 		"user": {
 			"id": 5417862,
 			"id_str": "5417862",
-			"name": "🌈 ykk 🏳️‍🌈 612 721 811",
+			"name": "🌈 ykk 🏳️🌈 612 721 811",
 			"screen_name": "yukikei",
 			"location": "",
 			"description": "每天發呆妄想的時間比清醒還要多; 閒時喜歡四圍影四圍玩四圍食; 敗家程度比生產總值還要高 🤩 亂碼蛋頭無推文五毛三毛必封 ❌ ［香港人加油，萬事小心］",
@@ -983,7 +1180,7 @@ Grailbird.data.tweets_2019_08 =
 		"user": {
 			"id": 5417862,
 			"id_str": "5417862",
-			"name": "🌈 ykk 🏳️‍🌈 612 721 811",
+			"name": "🌈 ykk 🏳️🌈 612 721 811",
 			"screen_name": "yukikei",
 			"location": "",
 			"description": "每天發呆妄想的時間比清醒還要多; 閒時喜歡四圍影四圍玩四圍食; 敗家程度比生產總值還要高 🤩 亂碼蛋頭無推文五毛三毛必封 ❌ ［香港人加油，萬事小心］",
@@ -1264,7 +1461,7 @@ Grailbird.data.tweets_2019_08 =
 		"user": {
 			"id": 5417862,
 			"id_str": "5417862",
-			"name": "🌈 ykk 🏳️‍🌈 612 721 811",
+			"name": "🌈 ykk 🏳️🌈 612 721 811",
 			"screen_name": "yukikei",
 			"location": "",
 			"description": "每天發呆妄想的時間比清醒還要多; 閒時喜歡四圍影四圍玩四圍食; 敗家程度比生產總值還要高 🤩 亂碼蛋頭無推文五毛三毛必封 ❌ ［香港人加油，萬事小心］",
@@ -1649,7 +1846,7 @@ Grailbird.data.tweets_2019_08 =
 		"user": {
 			"id": 5417862,
 			"id_str": "5417862",
-			"name": "🌈 ykk 🏳️‍🌈 612 721 811",
+			"name": "🌈 ykk 🏳️🌈 612 721 811",
 			"screen_name": "yukikei",
 			"location": "",
 			"description": "每天發呆妄想的時間比清醒還要多; 閒時喜歡四圍影四圍玩四圍食; 敗家程度比生產總值還要高 🤩 亂碼蛋頭無推文五毛三毛必封 ❌ ［香港人加油，萬事小心］",
@@ -1822,7 +2019,7 @@ Grailbird.data.tweets_2019_08 =
 		"user": {
 			"id": 5417862,
 			"id_str": "5417862",
-			"name": "🌈 ykk 🏳️‍🌈 612 721 811",
+			"name": "🌈 ykk 🏳️🌈 612 721 811",
 			"screen_name": "yukikei",
 			"location": "",
 			"description": "每天發呆妄想的時間比清醒還要多; 閒時喜歡四圍影四圍玩四圍食; 敗家程度比生產總值還要高 🤩 亂碼蛋頭無推文五毛三毛必封 ❌ ［香港人加油，萬事小心］",
