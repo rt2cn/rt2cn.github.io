@@ -1,6 +1,1298 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 31 06:05:35 +0000 2019",
+		"id": 1167607218969071600,
+		"id_str": "1167679809897545731",
+		"full_text": "出水炮車金鐘的可能性最大，其他道路相對淺窄，不要硬碰。今天最重要人多，證明沒有大台的香港人不畏懼不屈服。不受伤不流血不被捕，長命抗爭，才能走得更遠。香港人，萬事小心，加油！ https://t.co/aLsApKWYyJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aLsApKWYyJ",
+					"expanded_url": "https://twitter.com/criticshk/status/1167597660431192071",
+					"display_url": "twitter.com/criticshk/stat…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1162532347276738600,
+			"id_str": "1162532347276738562",
+			"name": "三爪1",
+			"screen_name": "sanzhao41",
+			"location": "Hong Kong",
+			"description": "和理優HKer。三爪大號被限制，小號",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6410,
+			"friends_count": 1943,
+			"listed_count": 40,
+			"created_at": "Sat Aug 17 01:11:36 +0000 2019",
+			"favourites_count": 4057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162533505131151360/OtVtN5hH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162533505131151360/OtVtN5hH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1162532347276738562/1566004562",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1167597660431192000,
+		"quoted_status_id_str": "1167597660431192071",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aLsApKWYyJ",
+			"expanded": "https://twitter.com/criticshk/status/1167597660431192071",
+			"display": "twitter.com/criticshk/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 31 00:39:09 +0000 2019",
+			"id": 1167597660431192000,
+			"id_str": "1167597660431192071",
+			"full_text": "重要一戰，唔係最後一戰 https://t.co/CxwripEeiW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				11
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CxwripEeiW",
+						"expanded_url": "https://twitter.com/pinkyaxolotl/status/1167596270229192704",
+						"display_url": "twitter.com/pinkyaxolotl/s…",
+						"indices": [
+							12,
+							35
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 980455264900939800,
+				"id_str": "980455264900939778",
+				"name": "百彈齋主",
+				"screen_name": "criticshk",
+				"location": "香港",
+				"description": "百彈齋主，香港人一個，粵語粵文為主。\n\n三毛即封，大中華法西斯主義即封。",
+				"url": "https://t.co/rGwtAXdqgH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rGwtAXdqgH",
+								"expanded_url": "https://m.facebook.com/CriticsHK/",
+								"display_url": "m.facebook.com/CriticsHK/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 223,
+				"friends_count": 132,
+				"listed_count": 4,
+				"created_at": "Sun Apr 01 14:42:05 +0000 2018",
+				"favourites_count": 79,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 278,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/981206774161195009/cYpY9Vcf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/981206774161195009/cYpY9Vcf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/980455264900939778/1522772897",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1167596270229192700,
+			"quoted_status_id_str": "1167596270229192704",
+			"quoted_status_permalink": {
+				"url": "https://t.co/CxwripEeiW",
+				"expanded": "https://twitter.com/pinkyaxolotl/status/1167596270229192704",
+				"display": "twitter.com/pinkyaxolotl/s…"
+			},
+			"retweet_count": 5,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "zh"
+		},
+		"retweet_count": 31,
+		"favorite_count": 134,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "出水炮車金鐘的可能性最大，其他道路相對淺窄，不要硬碰。今天最重要人多，證明沒有大台的香港人不畏懼不屈服。不受伤不流血不被捕，長命抗爭，才能走得更遠。香港人，萬事小心，加油！ https://t.co/aLsApKWYyJ"
+	},
+	{
+		"created_at": "Sat Aug 31 06:04:06 +0000 2019",
+		"id": 1167628639111803000,
+		"id_str": "1167679436176707586",
+		"full_text": "留一口氣，點一盞燈。\n\n這是民陣的呼籲。今晚八點三十一分，無論你在何方，打開手機電筒，呼喊你屬意的口號，讓民主之光，散發在香港每個角落！\n\n有燈，就有人。\n#香港人加油，#萬事小心。\n\n【8.31 給香港人的家書】 https://t.co/y3HGMvOho0\n\n#831五周年 https://t.co/QZeKT8UfNx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "香港人加油",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "萬事小心",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "831五周年",
+					"indices": [
+						133,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y3HGMvOho0",
+					"expanded_url": "http://bit.ly/2UiicXh",
+					"display_url": "bit.ly/2UiicXh",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1167628616219418600,
+					"id_str": "1167628616219418631",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EDRACkNW4Ac6Lf5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDRACkNW4Ac6Lf5.jpg",
+					"url": "https://t.co/QZeKT8UfNx",
+					"display_url": "pic.twitter.com/QZeKT8UfNx",
+					"expanded_url": "https://twitter.com/charlesmok/status/1167628639111802880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167628616219418600,
+					"id_str": "1167628616219418631",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EDRACkNW4Ac6Lf5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDRACkNW4Ac6Lf5.jpg",
+					"url": "https://t.co/QZeKT8UfNx",
+					"display_url": "pic.twitter.com/QZeKT8UfNx",
+					"expanded_url": "https://twitter.com/charlesmok/status/1167628639111802880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11302532,
+			"id_str": "11302532",
+			"name": "Charles Mok 莫乃光",
+			"screen_name": "charlesmok",
+			"location": "Hong Kong",
+			"description": "Hong Kong's IT Legislator, ICT entrepreneur, founder of Internet Society HK and Professional Commons -- uphold rule of law, democracy, and Internet freedom.",
+			"url": "http://t.co/4Z5wUFdH4L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/4Z5wUFdH4L",
+							"expanded_url": "http://www.charlesmok.hk",
+							"display_url": "charlesmok.hk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20089,
+			"friends_count": 2571,
+			"listed_count": 448,
+			"created_at": "Tue Dec 18 17:37:03 +0000 2007",
+			"favourites_count": 45,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 42889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/922391551996600320/CCXBgpBx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/922391551996600320/CCXBgpBx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11302532/1529419799",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "留一口氣，點一盞燈。\n\n這是民陣的呼籲。今晚八點三十一分，無論你在何方，打開手機電筒，呼喊你屬意的口號，讓民主之光，散發在香港每個角落！\n\n有燈，就有人。\n#香港人加油，#萬事小心。\n\n【8.31 給香港人的家書】 https://t.co/y3HGMvOho0\n\n#831五周年 https://t.co/QZeKT8UfNx"
+	},
+	{
+		"created_at": "Sat Aug 31 06:02:44 +0000 2019",
+		"id": 1167676422112055300,
+		"id_str": "1167679090226319360",
+		"full_text": "#香港民主女神像 \n高4米～被安放在中文大學范克廉樓對開文化廣場\n#freehongkong https://t.co/tc5Jgvawj6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "香港民主女神像",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "freehongkong",
+					"indices": [
+						33,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1167676413715107800,
+					"id_str": "1167676413715107840",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EDRrgvwXUAAVm6s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDRrgvwXUAAVm6s.jpg",
+					"url": "https://t.co/tc5Jgvawj6",
+					"display_url": "pic.twitter.com/tc5Jgvawj6",
+					"expanded_url": "https://twitter.com/hkerblog/status/1167676422112055297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167676413715107800,
+					"id_str": "1167676413715107840",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EDRrgvwXUAAVm6s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDRrgvwXUAAVm6s.jpg",
+					"url": "https://t.co/tc5Jgvawj6",
+					"display_url": "pic.twitter.com/tc5Jgvawj6",
+					"expanded_url": "https://twitter.com/hkerblog/status/1167676422112055297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 386917429,
+			"id_str": "386917429",
+			"name": "香港人",
+			"screen_name": "hkerblog",
+			"location": "香港",
+			"description": "speaking my mind",
+			"url": "https://t.co/AnyTQofX78",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AnyTQofX78",
+							"expanded_url": "https://instagram.com/hkerblog",
+							"display_url": "instagram.com/hkerblog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13843,
+			"friends_count": 32,
+			"listed_count": 118,
+			"created_at": "Sat Oct 08 04:29:11 +0000 2011",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157999579788263424/BkfUmqx-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157999579788263424/BkfUmqx-_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "35fd5bacecc4c6e5",
+			"url": "https://api.twitter.com/1.1/geo/id/35fd5bacecc4c6e5.json",
+			"place_type": "country",
+			"name": "香港",
+			"full_name": "香港",
+			"country_code": "HK",
+			"country": "香港",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							113.81813,
+							22.1465116
+						],
+						[
+							114.502196,
+							22.1465116
+						],
+						[
+							114.502196,
+							22.614177
+						],
+						[
+							113.81813,
+							22.614177
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "#香港民主女神像 \n高4米～被安放在中文大學范克廉樓對開文化廣場\n#freehongkong https://t.co/tc5Jgvawj6"
+	},
+	{
+		"created_at": "Sat Aug 31 06:02:25 +0000 2019",
+		"id": 1167617757027827700,
+		"id_str": "1167679011360858112",
+		"full_text": "#LIHKG 伺服器正在被惡意攻擊 (DDoS) 中\n\n由今早起我們的伺服器正在承受前所未見的大型 DDoS 攻擊。目前我們正採取緊急措施中，用戶如無法正常使用 App，請嘗試使用手機網頁版。\n\n我們亦會持續留意伺服器情況及盡快使服務回復正常，敬請見諒。\n\n最新消息會同時在其他社交媒體發佈\nFB/IG: @lihkg.forum",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIHKG",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lihkg",
+					"name": "Sannihita Narisetty",
+					"id": 149421825,
+					"id_str": "149421825",
+					"indices": [
+						153,
+						159
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143446245429502000,
+			"id_str": "1143446245429501952",
+			"name": "LIHKG 討論區",
+			"screen_name": "lihkg_forum",
+			"location": "",
+			"description": "集合城中熱門話題、時事、娛樂、創意、日常生活討論 以自由討論為宗旨，喺哩到你可以暢所欲言！  \niOS: https://t.co/KiAvwA99hZ \nAndroid: https://t.co/gjYCsqyzDy",
+			"url": "https://t.co/bahQa77UMP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bahQa77UMP",
+							"expanded_url": "https://lihkg.com",
+							"display_url": "lihkg.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KiAvwA99hZ",
+							"expanded_url": "https://lih.kg/ios",
+							"display_url": "lih.kg/ios",
+							"indices": [
+								53,
+								76
+							]
+						},
+						{
+							"url": "https://t.co/gjYCsqyzDy",
+							"expanded_url": "https://lih.kg/android",
+							"display_url": "lih.kg/android",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 64300,
+			"friends_count": 0,
+			"listed_count": 113,
+			"created_at": "Tue Jun 25 09:10:03 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1143449168540684288/Zt4UL1oH_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143449168540684288/Zt4UL1oH_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143446245429501952/1561454561",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1369,
+		"favorite_count": 2934,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "#LIHKG 伺服器正在被惡意攻擊 (DDoS) 中\n\n由今早起我們的伺服器正在承受前所未見的大型 DDoS 攻擊。目前我們正採取緊急措施中，用戶如無法正常使用 App，請嘗試使用手機網頁版。\n\n我們亦會持續留意伺服器情況及盡快使服務回復正常，敬請見諒。\n\n最新消息會同時在其他社交媒體發佈\nFB/IG: @lihkg.forum"
+	},
+	{
+		"created_at": "Sat Aug 31 06:02:22 +0000 2019",
+		"id": 1167620611549450200,
+		"id_str": "1167678997565726722",
+		"full_text": "新加入Twitter 的香港人，記得幾點\n1）文宣盡量用中文書面語或英文，Twitter 的翻譯功能不能支持廣東話；\n2）fact check, 不實消息會影響公信力也容易被舉報；\n3）不要和大陸水軍糾纏，舉報拉黑，不要讓對方有影響力；\n4）多用#tag 推話題（我也在習慣中）\n5）不要理睬恨不送香港人死的「反共派」",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1162532347276738600,
+			"id_str": "1162532347276738562",
+			"name": "三爪1",
+			"screen_name": "sanzhao41",
+			"location": "Hong Kong",
+			"description": "和理優HKer。三爪大號被限制，小號",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6410,
+			"friends_count": 1943,
+			"listed_count": 40,
+			"created_at": "Sat Aug 17 01:11:36 +0000 2019",
+			"favourites_count": 4057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162533505131151360/OtVtN5hH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162533505131151360/OtVtN5hH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1162532347276738562/1566004562",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 164,
+		"favorite_count": 513,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "新加入Twitter 的香港人，記得幾點\n1）文宣盡量用中文書面語或英文，Twitter 的翻譯功能不能支持廣東話；\n2）fact check, 不實消息會影響公信力也容易被舉報；\n3）不要和大陸水軍糾纏，舉報拉黑，不要讓對方有影響力；\n4）多用#tag 推話題（我也在習慣中）\n5）不要理睬恨不送香港人死的「反共派」"
+	},
+	{
+		"created_at": "Sat Aug 31 06:01:41 +0000 2019",
+		"id": 1167601948209508400,
+		"id_str": "1167678826245177349",
+		"full_text": "基本法承諾了香港的民主選舉，各民主建制政黨90年代就表示目標是07/08實現，但2004年人大決議否決07/08實施，繼續拖延，2012民間普選呼聲不斷高漲，三子計劃的佔領中環爭普選演變成雨傘運動，2014年8月31日人大正式落閘，令香港普選無望，這是香港年輕人一代絕望抗爭的背景https://t.co/eyCyck19VJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eyCyck19VJ",
+					"expanded_url": "https://youtu.be/_UwvebE2azc",
+					"display_url": "youtu.be/_UwvebE2azc",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1162532347276738600,
+			"id_str": "1162532347276738562",
+			"name": "三爪1",
+			"screen_name": "sanzhao41",
+			"location": "Hong Kong",
+			"description": "和理優HKer。三爪大號被限制，小號",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6410,
+			"friends_count": 1943,
+			"listed_count": 40,
+			"created_at": "Sat Aug 17 01:11:36 +0000 2019",
+			"favourites_count": 4057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162533505131151360/OtVtN5hH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162533505131151360/OtVtN5hH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1162532347276738562/1566004562",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "基本法承諾了香港的民主選舉，各民主建制政黨90年代就表示目標是07/08實現，但2004年人大決議否決07/08實施，繼續拖延，2012民間普選呼聲不斷高漲，三子計劃的佔領中環爭普選演變成雨傘運動，2014年8月31日人大正式落閘，令香港普選無望，這是香港年輕人一代絕望抗爭的背景https://t.co/eyCyck19VJ"
+	},
+	{
+		"created_at": "Sat Aug 31 06:01:20 +0000 2019",
+		"id": 1167672951484887000,
+		"id_str": "1167678739523821569",
+		"full_text": "港人始终争的是民主，而不是独立，这是经过充分讨论的。港人当然不介意独立，但是港人并不争这个。无论是在党的领导下实现民主，还是在一国两制框架内实现民主，或是脱离中国实现民主，这些都是途径，但民主是核心，也是最大公约数，可以团结全社会的力量并避开不必要的争议，体现出港人的理性和务实。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35219547,
+			"id_str": "35219547",
+			"name": "Jian Alan Huang",
+			"screen_name": "hnjhj",
+			"location": "Shanghai, Hong Kong, Sydney",
+			"description": "An atheistic, skeptic, liberalist. A software engineer and researcher. I seek, I think, I speak.",
+			"url": "https://t.co/8dc82SjorG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8dc82SjorG",
+							"expanded_url": "http://blog.hnjhj.com",
+							"display_url": "blog.hnjhj.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35162,
+			"friends_count": 503,
+			"listed_count": 332,
+			"created_at": "Sat Apr 25 14:15:32 +0000 2009",
+			"favourites_count": 207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35219547/1348406013",
+			"profile_link_color": "22497E",
+			"profile_sidebar_border_color": "AFAFAF",
+			"profile_sidebar_fill_color": "E7E7E7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0073b76548e5984f",
+			"url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+			"place_type": "city",
+			"name": "Sydney",
+			"full_name": "Sydney, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							150.520928608,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-33.578140996
+						],
+						[
+							150.520928608,
+							-33.578140996
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "港人始终争的是民主，而不是独立，这是经过充分讨论的。港人当然不介意独立，但是港人并不争这个。无论是在党的领导下实现民主，还是在一国两制框架内实现民主，或是脱离中国实现民主，这些都是途径，但民主是核心，也是最大公约数，可以团结全社会的力量并避开不必要的争议，体现出港人的理性和务实。"
+	},
+	{
+		"created_at": "Sat Aug 31 06:01:17 +0000 2019",
+		"id": 1167676909918064600,
+		"id_str": "1167678726953414663",
+		"full_text": "一周前连登网友发起民主女神塑像的投票，并提供了9个选项向市民征求意见，https://t.co/Dz11mCutKJ 今天塑像已经被赶制完成，出现在了香港中文大学。她面带头盔眼罩和防毒面具，身背双肩包，一手拿着雨伞，一手举着“光复香港，时代革命”的旗帜，这是新时代港人心目中的民主女神。 https://t.co/Qmg4TwAc8N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dz11mCutKJ",
+					"expanded_url": "https://lihkg.com/thread/1502026/page/1",
+					"display_url": "lihkg.com/thread/1502026…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1167676903005798400,
+					"id_str": "1167676903005798401",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EDRr9OgWwAEF36G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDRr9OgWwAEF36G.jpg",
+					"url": "https://t.co/Qmg4TwAc8N",
+					"display_url": "pic.twitter.com/Qmg4TwAc8N",
+					"expanded_url": "https://twitter.com/hnjhj/status/1167676909918064640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 506,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1072,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 893,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167676903005798400,
+					"id_str": "1167676903005798401",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EDRr9OgWwAEF36G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDRr9OgWwAEF36G.jpg",
+					"url": "https://t.co/Qmg4TwAc8N",
+					"display_url": "pic.twitter.com/Qmg4TwAc8N",
+					"expanded_url": "https://twitter.com/hnjhj/status/1167676909918064640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 506,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1072,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 893,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35219547,
+			"id_str": "35219547",
+			"name": "Jian Alan Huang",
+			"screen_name": "hnjhj",
+			"location": "Shanghai, Hong Kong, Sydney",
+			"description": "An atheistic, skeptic, liberalist. A software engineer and researcher. I seek, I think, I speak.",
+			"url": "https://t.co/8dc82SjorG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8dc82SjorG",
+							"expanded_url": "http://blog.hnjhj.com",
+							"display_url": "blog.hnjhj.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35162,
+			"friends_count": 503,
+			"listed_count": 332,
+			"created_at": "Sat Apr 25 14:15:32 +0000 2009",
+			"favourites_count": 207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35219547/1348406013",
+			"profile_link_color": "22497E",
+			"profile_sidebar_border_color": "AFAFAF",
+			"profile_sidebar_fill_color": "E7E7E7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0073b76548e5984f",
+			"url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+			"place_type": "city",
+			"name": "Sydney",
+			"full_name": "Sydney, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							150.520928608,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-33.578140996
+						],
+						[
+							150.520928608,
+							-33.578140996
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "一周前连登网友发起民主女神塑像的投票，并提供了9个选项向市民征求意见，https://t.co/Dz11mCutKJ 今天塑像已经被赶制完成，出现在了香港中文大学。她面带头盔眼罩和防毒面具，身背双肩包，一手拿着雨伞，一手举着“光复香港，时代革命”的旗帜，这是新时代港人心目中的民主女神。 https://t.co/Qmg4TwAc8N"
+	},
+	{
 		"created_at": "Fri Aug 30 14:36:53 +0000 2019",
 		"id": 1167417930759327700,
 		"id_str": "1167446092184731648",
