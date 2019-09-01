@@ -1,6 +1,557 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 01 14:22:50 +0000 2019",
+		"id": 1168162668764643300,
+		"id_str": "1168167334076461056",
+		"full_text": "有獨立調查會只係自欺欺人，查完就當無件事，然後繼續萬劫不復\n一日香港俾中共統治，一日香港都不得安寧，香港都唔屬於香港人嘅地方。\nIf you want peace, prepare for war. #光復香港時代革命 #hkpolice #PoliceTerrorism #HongKongProtests https://t.co/ccjxNarLOw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "光復香港時代革命",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "hkpolice",
+					"indices": [
+						110,
+						119
+					]
+				},
+				{
+					"text": "PoliceTerrorism",
+					"indices": [
+						120,
+						136
+					]
+				},
+				{
+					"text": "HongKongProtests",
+					"indices": [
+						137,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ccjxNarLOw",
+					"expanded_url": "https://twitter.com/thuggishregimee/status/1168161583777951744",
+					"display_url": "twitter.com/thuggishregime…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2594385728,
+			"id_str": "2594385728",
+			"name": "crazy diamond",
+			"screen_name": "thuggishregimee",
+			"location": "Hong Kong",
+			"description": "Too many hobbies, too little time. Intermediate German 🇩🇪 #BNOisBritish #SOSHK. . . – – – . . .",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 181,
+			"friends_count": 472,
+			"listed_count": 1,
+			"created_at": "Sun Jun 29 07:13:29 +0000 2014",
+			"favourites_count": 829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1165492364137267206/Gps8Aihl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1165492364137267206/Gps8Aihl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2594385728/1567327272",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1168161583777951700,
+		"quoted_status_id_str": "1168161583777951744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ccjxNarLOw",
+			"expanded": "https://twitter.com/thuggishregimee/status/1168161583777951744",
+			"display": "twitter.com/thuggishregime…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 01 13:59:59 +0000 2019",
+			"id": 1168161583777951700,
+			"id_str": "1168161583777951744",
+			"full_text": "@RobertJonGodden @hkpoliceforce Doesn't matter if there is independent enquiry. As long as the regime isn't a democratic one, the enquiry is not accredited; as long as we are ruled by communists, we do not have freedom. #PoliceTerrorism https://t.co/76uxAdd1ci",
+			"truncated": false,
+			"display_text_range": [
+				32,
+				236
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PoliceTerrorism",
+						"indices": [
+							220,
+							236
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RobertJonGodden",
+						"name": "Robert Godden",
+						"id": 1001348290682667000,
+						"id_str": "1001348290682667008",
+						"indices": [
+							0,
+							16
+						]
+					},
+					{
+						"screen_name": "hkpoliceforce",
+						"name": "Hong Kong Police Force",
+						"id": 1057237461007396900,
+						"id_str": "1057237461007396864",
+						"indices": [
+							17,
+							31
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1168161567340474400,
+						"id_str": "1168161567340474374",
+						"indices": [
+							237,
+							260
+						],
+						"media_url": "http://pbs.twimg.com/media/EDYkwZ2XsAY9ozo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDYkwZ2XsAY9ozo.jpg",
+						"url": "https://t.co/76uxAdd1ci",
+						"display_url": "pic.twitter.com/76uxAdd1ci",
+						"expanded_url": "https://twitter.com/thuggishregimee/status/1168161583777951744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1168161567340474400,
+						"id_str": "1168161567340474374",
+						"indices": [
+							237,
+							260
+						],
+						"media_url": "http://pbs.twimg.com/media/EDYkwZ2XsAY9ozo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDYkwZ2XsAY9ozo.jpg",
+						"url": "https://t.co/76uxAdd1ci",
+						"display_url": "pic.twitter.com/76uxAdd1ci",
+						"expanded_url": "https://twitter.com/thuggishregimee/status/1168161583777951744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1168161567378169900,
+						"id_str": "1168161567378169858",
+						"indices": [
+							237,
+							260
+						],
+						"media_url": "http://pbs.twimg.com/media/EDYkwZ_W4AIWqlS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDYkwZ_W4AIWqlS.jpg",
+						"url": "https://t.co/76uxAdd1ci",
+						"display_url": "pic.twitter.com/76uxAdd1ci",
+						"expanded_url": "https://twitter.com/thuggishregimee/status/1168161583777951744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 980,
+								"h": 590,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 409,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 980,
+								"h": 590,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1167835546875355100,
+			"in_reply_to_status_id_str": "1167835546875355136",
+			"in_reply_to_user_id": 1001348290682667000,
+			"in_reply_to_user_id_str": "1001348290682667008",
+			"in_reply_to_screen_name": "RobertJonGodden",
+			"user": {
+				"id": 2594385728,
+				"id_str": "2594385728",
+				"name": "crazy diamond",
+				"screen_name": "thuggishregimee",
+				"location": "Hong Kong",
+				"description": "Too many hobbies, too little time. Intermediate German 🇩🇪 #BNOisBritish #SOSHK. . . – – – . . .",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 181,
+				"friends_count": 472,
+				"listed_count": 1,
+				"created_at": "Sun Jun 29 07:13:29 +0000 2014",
+				"favourites_count": 829,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 583,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1165492364137267206/Gps8Aihl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1165492364137267206/Gps8Aihl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2594385728/1567327272",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "有獨立調查會只係自欺欺人，查完就當無件事，然後繼續萬劫不復\n一日香港俾中共統治，一日香港都不得安寧，香港都唔屬於香港人嘅地方。\nIf you want peace, prepare for war. #光復香港時代革命 #hkpolice #PoliceTerrorism #HongKongProtests https://t.co/ccjxNarLOw"
+	},
+	{
+		"created_at": "Sun Sep 01 14:21:25 +0000 2019",
+		"id": 1168014567974170600,
+		"id_str": "1168166978114215937",
+		"full_text": "海關高級關員 洪國樑 編號89192 https://t.co/filsqyHcUF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1168014559187046400,
+					"id_str": "1168014559187046401",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWfDZzUEAEIAcE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWfDZzUEAEIAcE.jpg",
+					"url": "https://t.co/filsqyHcUF",
+					"display_url": "pic.twitter.com/filsqyHcUF",
+					"expanded_url": "https://twitter.com/chan_seline/status/1168014567974170624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 315,
+							"h": 312,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 315,
+							"h": 312,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 315,
+							"h": 312,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168014559187046400,
+					"id_str": "1168014559187046401",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWfDZzUEAEIAcE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWfDZzUEAEIAcE.jpg",
+					"url": "https://t.co/filsqyHcUF",
+					"display_url": "pic.twitter.com/filsqyHcUF",
+					"expanded_url": "https://twitter.com/chan_seline/status/1168014567974170624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 315,
+							"h": 312,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 315,
+							"h": 312,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 315,
+							"h": 312,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1168014559140925400,
+					"id_str": "1168014559140925442",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWfDZoUUAIdhE6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWfDZoUUAIdhE6.jpg",
+					"url": "https://t.co/filsqyHcUF",
+					"display_url": "pic.twitter.com/filsqyHcUF",
+					"expanded_url": "https://twitter.com/chan_seline/status/1168014567974170624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 748,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 748,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1136129724982255600,
+			"id_str": "1136129724982255616",
+			"name": "Seline Chan",
+			"screen_name": "chan_seline",
+			"location": "",
+			"description": "城邦會戰勝歸來",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 494,
+			"friends_count": 105,
+			"listed_count": 6,
+			"created_at": "Wed Jun 05 04:36:49 +0000 2019",
+			"favourites_count": 1232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140818909412507648/IFC1F6n6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140818909412507648/IFC1F6n6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1136129724982255616/1561033742",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 710,
+		"favorite_count": 828,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "海關高級關員 洪國樑 編號89192 https://t.co/filsqyHcUF"
+	},
+	{
 		"created_at": "Sun Sep 01 13:07:32 +0000 2019",
 		"id": 1168115180904910800,
 		"id_str": "1168148383393075200",
