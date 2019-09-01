@@ -1,6 +1,2264 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 31 23:34:07 +0000 2019",
+		"id": 1167846411381031000,
+		"id_str": "1167943678700052481",
+		"full_text": "最後一幕多令人心痛......\n\n地鐵落閘，急救員被拒入內救援，痛哭不已。\nhttps://t.co/GxqeZQQQw7\n\n●來源：有線新聞、眾新聞、田中菜津美\n#急救員 #油麻地 #chinazi #LIHKG https://t.co/aGeIJ5RREx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "急救員",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "油麻地",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "chinazi",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"text": "LIHKG",
+					"indices": [
+						101,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GxqeZQQQw7",
+					"expanded_url": "https://lih.kg/1523777",
+					"display_url": "lih.kg/1523777",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1167846005422772200,
+					"id_str": "1167846005422772224",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1167846005422772224/pu/img/8_qkeAZQ_o7SuJ30.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1167846005422772224/pu/img/8_qkeAZQ_o7SuJ30.jpg",
+					"url": "https://t.co/aGeIJ5RREx",
+					"display_url": "pic.twitter.com/aGeIJ5RREx",
+					"expanded_url": "https://twitter.com/lihkg_forum/status/1167846411381030913/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167846005422772200,
+					"id_str": "1167846005422772224",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1167846005422772224/pu/img/8_qkeAZQ_o7SuJ30.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1167846005422772224/pu/img/8_qkeAZQ_o7SuJ30.jpg",
+					"url": "https://t.co/aGeIJ5RREx",
+					"display_url": "pic.twitter.com/aGeIJ5RREx",
+					"expanded_url": "https://twitter.com/lihkg_forum/status/1167846411381030913/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1167846005422772224/pu/vid/720x720/YSI5squ5VSL8gb1h.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1167846005422772224/pu/vid/480x480/UmlydSdiSOjuD_Qz.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1167846005422772224/pu/vid/320x320/KZjbh_nbPvL0LhQq.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1167846005422772224/pu/pl/Il9bWwVnNbLPuPMf.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143446245429502000,
+			"id_str": "1143446245429501952",
+			"name": "LIHKG 討論區",
+			"screen_name": "lihkg_forum",
+			"location": "",
+			"description": "集合城中熱門話題、時事、娛樂、創意、日常生活討論 以自由討論為宗旨，喺哩到你可以暢所欲言！  \niOS: https://t.co/KiAvwA99hZ \nAndroid: https://t.co/gjYCsqyzDy",
+			"url": "https://t.co/bahQa77UMP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bahQa77UMP",
+							"expanded_url": "https://lihkg.com",
+							"display_url": "lihkg.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KiAvwA99hZ",
+							"expanded_url": "https://lih.kg/ios",
+							"display_url": "lih.kg/ios",
+							"indices": [
+								53,
+								76
+							]
+						},
+						{
+							"url": "https://t.co/gjYCsqyzDy",
+							"expanded_url": "https://lih.kg/android",
+							"display_url": "lih.kg/android",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 68579,
+			"friends_count": 0,
+			"listed_count": 116,
+			"created_at": "Tue Jun 25 09:10:03 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1143449168540684288/Zt4UL1oH_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143449168540684288/Zt4UL1oH_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143446245429501952/1561454561",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1082,
+		"favorite_count": 1031,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "最後一幕多令人心痛......\n\n地鐵落閘，急救員被拒入內救援，痛哭不已。\nhttps://t.co/GxqeZQQQw7\n\n●來源：有線新聞、眾新聞、田中菜津美\n#急救員 #油麻地 #chinazi #LIHKG https://t.co/aGeIJ5RREx"
+	},
+	{
+		"created_at": "Sat Aug 31 23:33:57 +0000 2019",
+		"id": 1167862881393594400,
+		"id_str": "1167943640460615685",
+		"full_text": "人神共憤 警察入港鐵捉人時推到個女仔跌倒 頭撼牆\nhttps://t.co/EakGInBFrS\n\n●來源：我要錫你春袋\n#警察 #拘捕 #chinazi #LIHKG https://t.co/pQzoFhKfzf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "警察",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "拘捕",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "chinazi",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"text": "LIHKG",
+					"indices": [
+						78,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EakGInBFrS",
+					"expanded_url": "https://lih.kg/1524303",
+					"display_url": "lih.kg/1524303",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1167862529546018800,
+					"id_str": "1167862529546018818",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1167862529546018818/pu/img/uhPEGorAu7H-C7e2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1167862529546018818/pu/img/uhPEGorAu7H-C7e2.jpg",
+					"url": "https://t.co/pQzoFhKfzf",
+					"display_url": "pic.twitter.com/pQzoFhKfzf",
+					"expanded_url": "https://twitter.com/lihkg_forum/status/1167862881393594369/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167862529546018800,
+					"id_str": "1167862529546018818",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1167862529546018818/pu/img/uhPEGorAu7H-C7e2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1167862529546018818/pu/img/uhPEGorAu7H-C7e2.jpg",
+					"url": "https://t.co/pQzoFhKfzf",
+					"display_url": "pic.twitter.com/pQzoFhKfzf",
+					"expanded_url": "https://twitter.com/lihkg_forum/status/1167862881393594369/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 115600,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1167862529546018818/pu/vid/480x480/5iE1Uc3d5sCGrPKW.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1167862529546018818/pu/vid/720x720/4ZaKdm_Hwd4wVKQm.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1167862529546018818/pu/vid/320x320/m78UyDDgYlwAxWXp.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1167862529546018818/pu/pl/3Qk75fdUQE3Sl-k7.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143446245429502000,
+			"id_str": "1143446245429501952",
+			"name": "LIHKG 討論區",
+			"screen_name": "lihkg_forum",
+			"location": "",
+			"description": "集合城中熱門話題、時事、娛樂、創意、日常生活討論 以自由討論為宗旨，喺哩到你可以暢所欲言！  \niOS: https://t.co/KiAvwA99hZ \nAndroid: https://t.co/gjYCsqyzDy",
+			"url": "https://t.co/bahQa77UMP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bahQa77UMP",
+							"expanded_url": "https://lihkg.com",
+							"display_url": "lihkg.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KiAvwA99hZ",
+							"expanded_url": "https://lih.kg/ios",
+							"display_url": "lih.kg/ios",
+							"indices": [
+								53,
+								76
+							]
+						},
+						{
+							"url": "https://t.co/gjYCsqyzDy",
+							"expanded_url": "https://lih.kg/android",
+							"display_url": "lih.kg/android",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 68579,
+			"friends_count": 0,
+			"listed_count": 116,
+			"created_at": "Tue Jun 25 09:10:03 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1143449168540684288/Zt4UL1oH_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143449168540684288/Zt4UL1oH_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143446245429501952/1561454561",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 659,
+		"favorite_count": 591,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "人神共憤 警察入港鐵捉人時推到個女仔跌倒 頭撼牆\nhttps://t.co/EakGInBFrS\n\n●來源：我要錫你春袋\n#警察 #拘捕 #chinazi #LIHKG https://t.co/pQzoFhKfzf"
+	},
+	{
+		"created_at": "Sat Aug 31 23:32:56 +0000 2019",
+		"id": 1167941843100659700,
+		"id_str": "1167943382452207618",
+		"full_text": "香港8.31白色恐怖之夜 蒙面警進入地鐵車廂無差別打人  https://t.co/viD9Q37N1H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/viD9Q37N1H",
+					"expanded_url": "https://stimme-de.de/2019/08/31/4378/",
+					"display_url": "stimme-de.de/2019/08/31/437…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1076090121248739300,
+			"id_str": "1076090121248739333",
+			"name": "Die Stimme Deutschlands 德國之音🎗️",
+			"screen_name": "SDeutschlands",
+			"location": "Berlin, Germany",
+			"description": "一個有態度的在綫媒體，由一群志願者運作。https://t.co/dS0B8OJXYF",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dS0B8OJXYF",
+							"expanded_url": "https://stimme-de.de",
+							"display_url": "stimme-de.de",
+							"indices": [
+								20,
+								43
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15982,
+			"friends_count": 173,
+			"listed_count": 108,
+			"created_at": "Fri Dec 21 12:20:52 +0000 2018",
+			"favourites_count": 1566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154175884821245953/c7u4YeJa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154175884821245953/c7u4YeJa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1076090121248739333/1565729482",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "香港8.31白色恐怖之夜 蒙面警進入地鐵車廂無差別打人  https://t.co/viD9Q37N1H"
+	},
+	{
+		"created_at": "Sat Aug 31 23:32:10 +0000 2019",
+		"id": 1167884538543915000,
+		"id_str": "1167943190483099650",
+		"full_text": "至凌晨2时多，經現場急救人員確認，警察恐襲太子站至今三個小時，仍未有任何傷者被送離地鐵站。\n\n一批防暴警察現再進入太子站，港鐵職員隨即落閘，阻止記者進入。 https://t.co/RHI0GFz1bs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1167884521213022200,
+					"id_str": "1167884521213022209",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EDUoyMmUUAEeG6c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDUoyMmUUAEeG6c.jpg",
+					"url": "https://t.co/RHI0GFz1bs",
+					"display_url": "pic.twitter.com/RHI0GFz1bs",
+					"expanded_url": "https://twitter.com/SDeutschlands/status/1167884538543915009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167884521213022200,
+					"id_str": "1167884521213022209",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EDUoyMmUUAEeG6c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDUoyMmUUAEeG6c.jpg",
+					"url": "https://t.co/RHI0GFz1bs",
+					"display_url": "pic.twitter.com/RHI0GFz1bs",
+					"expanded_url": "https://twitter.com/SDeutschlands/status/1167884538543915009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1167884521267589000,
+					"id_str": "1167884521267589120",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EDUoyMzU8AAWDZB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDUoyMzU8AAWDZB.jpg",
+					"url": "https://t.co/RHI0GFz1bs",
+					"display_url": "pic.twitter.com/RHI0GFz1bs",
+					"expanded_url": "https://twitter.com/SDeutschlands/status/1167884538543915009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1087,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1087,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1167884521238220800,
+					"id_str": "1167884521238220800",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EDUoyMsU0AAhW5k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDUoyMsU0AAhW5k.jpg",
+					"url": "https://t.co/RHI0GFz1bs",
+					"display_url": "pic.twitter.com/RHI0GFz1bs",
+					"expanded_url": "https://twitter.com/SDeutschlands/status/1167884538543915009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1076090121248739300,
+			"id_str": "1076090121248739333",
+			"name": "Die Stimme Deutschlands 德國之音🎗️",
+			"screen_name": "SDeutschlands",
+			"location": "Berlin, Germany",
+			"description": "一個有態度的在綫媒體，由一群志願者運作。https://t.co/dS0B8OJXYF",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dS0B8OJXYF",
+							"expanded_url": "https://stimme-de.de",
+							"display_url": "stimme-de.de",
+							"indices": [
+								20,
+								43
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15982,
+			"friends_count": 173,
+			"listed_count": 108,
+			"created_at": "Fri Dec 21 12:20:52 +0000 2018",
+			"favourites_count": 1566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154175884821245953/c7u4YeJa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154175884821245953/c7u4YeJa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1076090121248739333/1565729482",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "至凌晨2时多，經現場急救人員確認，警察恐襲太子站至今三個小時，仍未有任何傷者被送離地鐵站。\n\n一批防暴警察現再進入太子站，港鐵職員隨即落閘，阻止記者進入。 https://t.co/RHI0GFz1bs"
+	},
+	{
+		"created_at": "Sat Aug 31 23:31:28 +0000 2019",
+		"id": 1167871513036382200,
+		"id_str": "1167943015916138496",
+		"full_text": "831恐襲最恐怖同需要留意其實係：\n\n「打到你頭破血流，然後唔拘捕你」\n\n之前黑警打示威者都仲叫有拒捕作為原因，今日黑警完全係睇你唔順眼就可以打你，莫須有\n\n佢地係有槍，而且唔會有人告佢地暴動罪\n\n呢件事比721嚴重好多倍\n\n必須正視，記者會必須回應係咪警察已取替香港法律，覺得市民有問題就可以打",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 899892458,
+			"id_str": "899892458",
+			"name": "yannnnnn",
+			"screen_name": "yannnnnn111",
+			"location": "Hong Kong",
+			"description": "🇭🇰Gwong Fuk Heung Gong, Si Doi Gak Ming 🇭🇰||| A #HongKonger that will try my best to tweet in English, feel free to retweet to the world!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 875,
+			"friends_count": 788,
+			"listed_count": 2,
+			"created_at": "Tue Oct 23 13:25:18 +0000 2012",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164418165046034432/1LTxgfQo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164418165046034432/1LTxgfQo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/899892458/1566920176",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "831恐襲最恐怖同需要留意其實係：\n\n「打到你頭破血流，然後唔拘捕你」\n\n之前黑警打示威者都仲叫有拒捕作為原因，今日黑警完全係睇你唔順眼就可以打你，莫須有\n\n佢地係有槍，而且唔會有人告佢地暴動罪\n\n呢件事比721嚴重好多倍\n\n必須正視，記者會必須回應係咪警察已取替香港法律，覺得市民有問題就可以打"
+	},
+	{
+		"created_at": "Sat Aug 31 23:27:29 +0000 2019",
+		"id": 1167875847446859800,
+		"id_str": "1167942012160471041",
+		"full_text": "医护人员和伤者隔着一道由黑警把守的闸门！\n医护人员几乎是带着哭腔哀求：请放我进去救人，事后你们打我也心甘情愿！\n\n医者仁心！令人感动！可你们忘记了这是可以爆女护士眼球的黑警！\n\n一道闸门，已经阻隔了善恶！😢\n\n谢谢推友@wschanah提供线索\n\n https://t.co/0vYVZxH30I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wschanah",
+					"name": "Ally Chan",
+					"id": 784433420902371300,
+					"id_str": "784433420902371328",
+					"indices": [
+						109,
+						118
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1167848165652877300,
+					"id_str": "1167848165652877314",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1167848165652877314/pu/img/4_CzjPWl7KCFLsP7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1167848165652877314/pu/img/4_CzjPWl7KCFLsP7.jpg",
+					"url": "https://t.co/0vYVZxH30I",
+					"display_url": "pic.twitter.com/0vYVZxH30I",
+					"expanded_url": "https://twitter.com/nc_never/status/1167848291779796994/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1167848291779797000,
+					"source_status_id_str": "1167848291779796994",
+					"source_user_id": 1165347868569243600,
+					"source_user_id_str": "1165347868569243648"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167848165652877300,
+					"id_str": "1167848165652877314",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1167848165652877314/pu/img/4_CzjPWl7KCFLsP7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1167848165652877314/pu/img/4_CzjPWl7KCFLsP7.jpg",
+					"url": "https://t.co/0vYVZxH30I",
+					"display_url": "pic.twitter.com/0vYVZxH30I",
+					"expanded_url": "https://twitter.com/nc_never/status/1167848291779796994/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1167848291779797000,
+					"source_status_id_str": "1167848291779796994",
+					"source_user_id": 1165347868569243600,
+					"source_user_id_str": "1165347868569243648",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 110200,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1167848165652877314/pu/vid/640x640/Ba3llBxYYctgapXt.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1167848165652877314/pu/pl/FKyfB6ODZzp8K0iQ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1167848165652877314/pu/vid/320x320/C75BeWd59eGC-0G_.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1167848165652877314/pu/vid/480x480/37CCzhW7scCXNIo5.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1165347868569243600,
+							"id_str": "1165347868569243648",
+							"name": "NeverSeverNC",
+							"screen_name": "nc_never",
+							"location": "United Kingdom",
+							"description": "Never Sever.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3,
+							"friends_count": 16,
+							"listed_count": 0,
+							"created_at": "Sat Aug 24 19:39:27 +0000 2019",
+							"favourites_count": 10,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 23,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1167854303370858496/p8snzE2c_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167854303370858496/p8snzE2c_normal.jpg",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 338248117,
+			"id_str": "338248117",
+			"name": "新闻大吐槽",
+			"screen_name": "TuCaoFakeNews",
+			"location": "",
+			"description": "独特视角对比墙内外热点！ 吐槽可笑、可悲、可叹的墙内外“新闻”！欢迎转发！17-01-2019始 ！坚信智慧和脏话不共存，请文明发帖",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20340,
+			"friends_count": 4491,
+			"listed_count": 84,
+			"created_at": "Tue Jul 19 08:56:41 +0000 2011",
+			"favourites_count": 25221,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085013653089185793/E7suCzwt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085013653089185793/E7suCzwt_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "医护人员和伤者隔着一道由黑警把守的闸门！\n医护人员几乎是带着哭腔哀求：请放我进去救人，事后你们打我也心甘情愿！\n\n医者仁心！令人感动！可你们忘记了这是可以爆女护士眼球的黑警！\n\n一道闸门，已经阻隔了善恶！😢\n\n谢谢推友@wschanah提供线索\n\n https://t.co/0vYVZxH30I"
+	},
+	{
+		"created_at": "Sat Aug 31 23:26:09 +0000 2019",
+		"id": 1167933620591267800,
+		"id_str": "1167941674397356032",
+		"full_text": "Hongkong police brutality… they learn from the moster \nhttps://t.co/VmBpbvUYPs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VmBpbvUYPs",
+					"expanded_url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/2176737/hong-kongs-anti-terrorism-task-force-goes-xinjiang",
+					"display_url": "scmp.com/news/hong-kong…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 267695291,
+			"id_str": "267695291",
+			"name": "巴丢草  Badiucao",
+			"screen_name": "badiucao",
+			"location": "",
+			"description": "Chinese Artist hated by Chinese Gov/ Cartoonist for @CDT @HongKongFP/ FreeSpeech & Humanrights / Check out my ArtShop for support me . 他说：人都是王八蛋",
+			"url": "https://t.co/BpqMNRuD3o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BpqMNRuD3o",
+							"expanded_url": "https://www.badiucao.com/artshop",
+							"display_url": "badiucao.com/artshop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42166,
+			"friends_count": 8183,
+			"listed_count": 412,
+			"created_at": "Thu Mar 17 11:22:49 +0000 2011",
+			"favourites_count": 18521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 116230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/267695291/1565220501",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hongkong police brutality… they learn from the moster \nhttps://t.co/VmBpbvUYPs"
+	},
+	{
+		"created_at": "Sat Aug 31 23:25:04 +0000 2019",
+		"id": 1167844311335133200,
+		"id_str": "1167941404573589505",
+		"full_text": "\"Tell me WHY?\" \n\"I want to go that way!\"\n\"This is Hong Kong, not China!\" https://t.co/bfkHzajkVr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1167844285422719000,
+					"id_str": "1167844285422718976",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1167844285422718976/pu/img/aCRKSrSyArzqK_El.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1167844285422718976/pu/img/aCRKSrSyArzqK_El.jpg",
+					"url": "https://t.co/bfkHzajkVr",
+					"display_url": "pic.twitter.com/bfkHzajkVr",
+					"expanded_url": "https://twitter.com/anti_elab/status/1167844311335133185/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167844285422719000,
+					"id_str": "1167844285422718976",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1167844285422718976/pu/img/aCRKSrSyArzqK_El.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1167844285422718976/pu/img/aCRKSrSyArzqK_El.jpg",
+					"url": "https://t.co/bfkHzajkVr",
+					"display_url": "pic.twitter.com/bfkHzajkVr",
+					"expanded_url": "https://twitter.com/anti_elab/status/1167844311335133185/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							2
+						],
+						"duration_millis": 21370,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1167844285422718976/pu/pl/GK3Fv9vTz-FDDk-3.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1167844285422718976/pu/vid/320x640/SrnLyOlIQTCuDBpK.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1138468715090124800,
+			"id_str": "1138468715090124800",
+			"name": "antiELAB",
+			"screen_name": "anti_elab",
+			"location": "Hong Kong",
+			"description": "Live updates on anti-extradition bill related #HongKongProtests. 📌List of upcoming protests: https://t.co/JY2kbbYAGV (managed by @HKersPressRoom)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JY2kbbYAGV",
+							"expanded_url": "http://bit.ly/HKersCampaignSchedule",
+							"display_url": "bit.ly/HKersCampaignS…",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16104,
+			"friends_count": 336,
+			"listed_count": 180,
+			"created_at": "Tue Jun 11 15:31:08 +0000 2019",
+			"favourites_count": 541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139909828229423104/9yX39AT5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139909828229423104/9yX39AT5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1138468715090124800/1561839141",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1966,
+		"favorite_count": 2210,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Tell me WHY?\" \n\"I want to go that way!\"\n\"This is Hong Kong, not China!\" https://t.co/bfkHzajkVr"
+	},
+	{
+		"created_at": "Sat Aug 31 23:24:41 +0000 2019",
+		"id": 1167871138648608800,
+		"id_str": "1167941308226293761",
+		"full_text": "地铁站里，一老外被一群黑警控制，他不服气的问：凭什么抓我？这是香港，不是中国！\n\n被黑警带走的路上，他还一直高喊：你们指控我什么？没有指控，你们不可以逮捕我！\n\n外国人一旦不相信香港的司法，信任将难以修复，影响深远\n\n引自推友@abeleung \n感谢推友@wschanah 提供\nhttps://t.co/5oTH9fKi63",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abeleung",
+					"name": "🦆🍗",
+					"id": 38143483,
+					"id_str": "38143483",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"screen_name": "wschanah",
+					"name": "Ally Chan",
+					"id": 784433420902371300,
+					"id_str": "784433420902371328",
+					"indices": [
+						128,
+						137
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1167842929471148000,
+					"id_str": "1167842929471148032",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1167842929471148032/pu/img/UeL18god2OhEHY2V.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1167842929471148032/pu/img/UeL18god2OhEHY2V.jpg",
+					"url": "https://t.co/5oTH9fKi63",
+					"display_url": "pic.twitter.com/5oTH9fKi63",
+					"expanded_url": "https://twitter.com/abeleung/status/1167843422167654401/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1167843422167654400,
+					"source_status_id_str": "1167843422167654401",
+					"source_user_id": 38143483,
+					"source_user_id_str": "38143483"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167842929471148000,
+					"id_str": "1167842929471148032",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1167842929471148032/pu/img/UeL18god2OhEHY2V.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1167842929471148032/pu/img/UeL18god2OhEHY2V.jpg",
+					"url": "https://t.co/5oTH9fKi63",
+					"display_url": "pic.twitter.com/5oTH9fKi63",
+					"expanded_url": "https://twitter.com/abeleung/status/1167843422167654401/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1167843422167654400,
+					"source_status_id_str": "1167843422167654401",
+					"source_user_id": 38143483,
+					"source_user_id_str": "38143483",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							2
+						],
+						"duration_millis": 21550,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1167842929471148032/pu/pl/Z2ogvjxLomhrNjnJ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1167842929471148032/pu/vid/320x640/FgKxHmMjb_OhwYYc.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 38143483,
+							"id_str": "38143483",
+							"name": "🦆🍗",
+							"screen_name": "abeleung",
+							"location": "",
+							"description": "",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1698,
+							"friends_count": 541,
+							"listed_count": 45,
+							"created_at": "Wed May 06 08:58:31 +0000 2009",
+							"favourites_count": 7304,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 23781,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/534363526257602560/W3GK7DS3_normal.jpeg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/534363526257602560/W3GK7DS3_normal.jpeg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/38143483/1421234568",
+							"profile_link_color": "000000",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 338248117,
+			"id_str": "338248117",
+			"name": "新闻大吐槽",
+			"screen_name": "TuCaoFakeNews",
+			"location": "",
+			"description": "独特视角对比墙内外热点！ 吐槽可笑、可悲、可叹的墙内外“新闻”！欢迎转发！17-01-2019始 ！坚信智慧和脏话不共存，请文明发帖",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20340,
+			"friends_count": 4491,
+			"listed_count": 84,
+			"created_at": "Tue Jul 19 08:56:41 +0000 2011",
+			"favourites_count": 25221,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085013653089185793/E7suCzwt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085013653089185793/E7suCzwt_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 315,
+		"favorite_count": 530,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "地铁站里，一老外被一群黑警控制，他不服气的问：凭什么抓我？这是香港，不是中国！\n\n被黑警带走的路上，他还一直高喊：你们指控我什么？没有指控，你们不可以逮捕我！\n\n外国人一旦不相信香港的司法，信任将难以修复，影响深远\n\n引自推友@abeleung \n感谢推友@wschanah 提供\nhttps://t.co/5oTH9fKi63"
+	},
+	{
+		"created_at": "Sat Aug 31 23:24:04 +0000 2019",
+		"id": 1167891464317067300,
+		"id_str": "1167941150361227264",
+		"full_text": "（各国法律均规定，警察可以做卧底，但不得有犯罪行为。香港政府却指派港警犯罪）\n\n8月31日的抗议示威中，多名警察假扮示威者不断地向路面扔汽油弹。\n这些扔汽油弹的“示威者”，大都背后有LED灯在闪烁，有的还佩带手枪。\n这些假扮示威者的警察被发现后，众多示威者追打他们。 https://t.co/Ki36boWXg1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ki36boWXg1",
+					"expanded_url": "http://www.epochtimes.com/gb/19/8/31/n11490668.htm",
+					"display_url": "epochtimes.com/gb/19/8/31/n11…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 864006212085440500,
+			"id_str": "864006212085440512",
+			"name": "祝圣武",
+			"screen_name": "dY6u2H5TkppCIq6",
+			"location": "温哥华",
+			"description": "中国第一个因为“影射社会主义”被吊销律师证的律师，原山东信常律师事务所主任",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2848,
+			"friends_count": 752,
+			"listed_count": 19,
+			"created_at": "Mon May 15 06:35:08 +0000 2017",
+			"favourites_count": 510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163346798930358272/gjb5bs1u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163346798930358272/gjb5bs1u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/864006212085440512/1566198466",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "（各国法律均规定，警察可以做卧底，但不得有犯罪行为。香港政府却指派港警犯罪）\n\n8月31日的抗议示威中，多名警察假扮示威者不断地向路面扔汽油弹。\n这些扔汽油弹的“示威者”，大都背后有LED灯在闪烁，有的还佩带手枪。\n这些假扮示威者的警察被发现后，众多示威者追打他们。 https://t.co/Ki36boWXg1"
+	},
+	{
+		"created_at": "Sat Aug 31 23:22:14 +0000 2019",
+		"id": 1167902138384601000,
+		"id_str": "1167940691965571073",
+		"full_text": "中共残酷迫害新疆维族人，不少中国人拍手叫好；中共、林郑月娥执意破坏“一国两制”承诺，导致香港民众掀起“反送中”运动，不少中国人抱怨香港警察下手太轻。在中共长期奴役下，有些中国人的灵魂被中共吃掉，他们变得毫无人性，毫无同情心。不要说对新疆维族、香港人，他们对自己亲属被“强拆”都麻木不仁。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2865179814,
+			"id_str": "2865179814",
+			"name": "LIFETIME 視界",
+			"screen_name": "LifetimeUSCN",
+			"location": "United States",
+			"description": "Independent #China issues and #US -China relations researcher. Any media is welcome to use the comments here unconditionally.",
+			"url": "https://t.co/0w8VjW3FaQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0w8VjW3FaQ",
+							"expanded_url": "https://www.facebook.com/lifetimeuscn/",
+							"display_url": "facebook.com/lifetimeuscn/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 146979,
+			"friends_count": 243,
+			"listed_count": 951,
+			"created_at": "Sun Oct 19 15:02:14 +0000 2014",
+			"favourites_count": 22191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1150450353382412291/OKwhOUYP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150450353382412291/OKwhOUYP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2865179814/1567266645",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 282,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "中共残酷迫害新疆维族人，不少中国人拍手叫好；中共、林郑月娥执意破坏“一国两制”承诺，导致香港民众掀起“反送中”运动，不少中国人抱怨香港警察下手太轻。在中共长期奴役下，有些中国人的灵魂被中共吃掉，他们变得毫无人性，毫无同情心。不要说对新疆维族、香港人，他们对自己亲属被“强拆”都麻木不仁。"
+	},
+	{
+		"created_at": "Sat Aug 31 23:21:21 +0000 2019",
+		"id": 1167891271827902500,
+		"id_str": "1167940467004039169",
+		"full_text": "德国之音是媒体，我们坚守媒体职责，呈现真相；运作德国之音的志愿者也是几个来自民主国家的公民，作为公民，对已经知道的暴行没有理由保持沉默，8.31恐怖之夜的视频将被汇总，转至一些西方国家的议会、政府；世界也没有理由沉默！ https://t.co/l11K3Pwspe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1167891124100321300,
+					"id_str": "1167891124100321280",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1167891124100321280/pu/img/27h8nBYcnls-S4rh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1167891124100321280/pu/img/27h8nBYcnls-S4rh.jpg",
+					"url": "https://t.co/l11K3Pwspe",
+					"display_url": "pic.twitter.com/l11K3Pwspe",
+					"expanded_url": "https://twitter.com/SDeutschlands/status/1167891271827902464/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167891124100321300,
+					"id_str": "1167891124100321280",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1167891124100321280/pu/img/27h8nBYcnls-S4rh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1167891124100321280/pu/img/27h8nBYcnls-S4rh.jpg",
+					"url": "https://t.co/l11K3Pwspe",
+					"display_url": "pic.twitter.com/l11K3Pwspe",
+					"expanded_url": "https://twitter.com/SDeutschlands/status/1167891271827902464/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 113360,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1167891124100321280/pu/vid/360x270/jhEF2r6cEjSZaeo6.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1167891124100321280/pu/pl/TZobGR0drKtf-z6V.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1167891124100321280/pu/vid/400x300/BBcXvZyhNb4yu78v.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1076090121248739300,
+			"id_str": "1076090121248739333",
+			"name": "Die Stimme Deutschlands 德國之音🎗️",
+			"screen_name": "SDeutschlands",
+			"location": "Berlin, Germany",
+			"description": "一個有態度的在綫媒體，由一群志願者運作。https://t.co/dS0B8OJXYF",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dS0B8OJXYF",
+							"expanded_url": "https://stimme-de.de",
+							"display_url": "stimme-de.de",
+							"indices": [
+								20,
+								43
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15982,
+			"friends_count": 173,
+			"listed_count": 108,
+			"created_at": "Fri Dec 21 12:20:52 +0000 2018",
+			"favourites_count": 1566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154175884821245953/c7u4YeJa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154175884821245953/c7u4YeJa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1076090121248739333/1565729482",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 299,
+		"favorite_count": 457,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "德国之音是媒体，我们坚守媒体职责，呈现真相；运作德国之音的志愿者也是几个来自民主国家的公民，作为公民，对已经知道的暴行没有理由保持沉默，8.31恐怖之夜的视频将被汇总，转至一些西方国家的议会、政府；世界也没有理由沉默！ https://t.co/l11K3Pwspe"
+	},
+	{
+		"created_at": "Sat Aug 31 23:18:45 +0000 2019",
+		"id": 1167837324639711200,
+		"id_str": "1167939812923338752",
+		"full_text": "反送中已核實資訊頻道 - 【0006】昨日一名示威者投擲汽油彈期間，被攝得腰間佩戴一把疑似手槍，遭質疑是警察喬裝。頻道證實該把實為氣槍，並獲在場人士及槍會成員確認。 另警方公布曾於維園發射兩槍實彈。 https://t.co/M7ghHQ8M1h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M7ghHQ8M1h",
+					"expanded_url": "https://t.me/antiextraditionverifiednews/1601",
+					"display_url": "t.me/antiextraditio…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 800548,
+			"id_str": "800548",
+			"name": "Jacky",
+			"screen_name": "jackysee",
+			"location": "Hong Kong",
+			"description": "網絡暴民",
+			"url": "https://t.co/FqZdJ9t9H1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FqZdJ9t9H1",
+							"expanded_url": "https://jacky.seezone.net",
+							"display_url": "jacky.seezone.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 216,
+			"listed_count": 94,
+			"created_at": "Wed Feb 28 09:30:40 +0000 2007",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1923994680/avatar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1923994680/avatar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/800548/1353289861",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "反送中已核實資訊頻道 - 【0006】昨日一名示威者投擲汽油彈期間，被攝得腰間佩戴一把疑似手槍，遭質疑是警察喬裝。頻道證實該把實為氣槍，並獲在場人士及槍會成員確認。 另警方公布曾於維園發射兩槍實彈。 https://t.co/M7ghHQ8M1h"
+	},
+	{
 		"created_at": "Sat Aug 31 17:00:12 +0000 2019",
 		"id": 1167842814274629600,
 		"id_str": "1167844548866904064",
