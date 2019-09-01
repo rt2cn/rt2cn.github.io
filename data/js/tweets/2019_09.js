@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 01 16:08:47 +0000 2019",
+		"id": 1168171904449929200,
+		"id_str": "1168193997929635841",
+		"full_text": "朋友的IG上看到的，機場出來鐵路和巴士都停開，大批和你塞的市民要從機場走路出來，很多私家車主聽到消息自發去北大嶼山收費站接人，塞滿了十條行車道，後來是市民不夠車多⋯⋯香港的友愛互助，痴線㗎！#hkprotesters #StandwithHK #香港加油 加 https://t.co/cE7FMqnWjK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hkprotesters",
+					"indices": [
+						95,
+						108
+					]
+				},
+				{
+					"text": "StandwithHK",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"text": "香港加油",
+					"indices": [
+						122,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1168171896803774500,
+					"id_str": "1168171896803774464",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EDYuJqGVUAAbxv6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDYuJqGVUAAbxv6.jpg",
+					"url": "https://t.co/cE7FMqnWjK",
+					"display_url": "pic.twitter.com/cE7FMqnWjK",
+					"expanded_url": "https://twitter.com/sanzhao41/status/1168171904449929216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1020,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1020,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168171896803774500,
+					"id_str": "1168171896803774464",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EDYuJqGVUAAbxv6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDYuJqGVUAAbxv6.jpg",
+					"url": "https://t.co/cE7FMqnWjK",
+					"display_url": "pic.twitter.com/cE7FMqnWjK",
+					"expanded_url": "https://twitter.com/sanzhao41/status/1168171904449929216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1020,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1020,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1162532347276738600,
+			"id_str": "1162532347276738562",
+			"name": "三爪1",
+			"screen_name": "sanzhao41",
+			"location": "Hong Kong",
+			"description": "和理優HKer。三爪大號被限制，小號",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6868,
+			"friends_count": 2016,
+			"listed_count": 41,
+			"created_at": "Sat Aug 17 01:11:36 +0000 2019",
+			"favourites_count": 4306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162533505131151360/OtVtN5hH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162533505131151360/OtVtN5hH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1162532347276738562/1566004562",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 258,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "朋友的IG上看到的，機場出來鐵路和巴士都停開，大批和你塞的市民要從機場走路出來，很多私家車主聽到消息自發去北大嶼山收費站接人，塞滿了十條行車道，後來是市民不夠車多⋯⋯香港的友愛互助，痴線㗎！#hkprotesters #StandwithHK #香港加油 加 https://t.co/cE7FMqnWjK"
+	},
+	{
 		"created_at": "Sun Sep 01 16:04:33 +0000 2019",
 		"id": 1168191968343515100,
 		"id_str": "1168192932513497088",
