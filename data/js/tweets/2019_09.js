@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 01 13:07:32 +0000 2019",
+		"id": 1168115180904910800,
+		"id_str": "1168148383393075200",
+		"full_text": "HK Police attempt to murder protesters. Just watch this slow motion video, you can know how HKGOV put risk on our next generation. President Xi and Carrie LAN refuse listen to our voice. They rule Hong Kong by bullet instead of law. https://t.co/v7nCrdgJP9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1168115080375894000,
+					"id_str": "1168115080375894016",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1168115080375894016/pu/img/vYvagDzeoKY_urX_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1168115080375894016/pu/img/vYvagDzeoKY_urX_.jpg",
+					"url": "https://t.co/v7nCrdgJP9",
+					"display_url": "pic.twitter.com/v7nCrdgJP9",
+					"expanded_url": "https://twitter.com/joshuawongcf/status/1168115180904910848/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168115080375894000,
+					"id_str": "1168115080375894016",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1168115080375894016/pu/img/vYvagDzeoKY_urX_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1168115080375894016/pu/img/vYvagDzeoKY_urX_.jpg",
+					"url": "https://t.co/v7nCrdgJP9",
+					"display_url": "pic.twitter.com/v7nCrdgJP9",
+					"expanded_url": "https://twitter.com/joshuawongcf/status/1168115180904910848/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 89160,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1168115080375894016/pu/pl/yMdZLjMKrce5S9G4.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1168115080375894016/pu/vid/480x270/DcGSg2uOFdOZHeNL.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1168115080375894016/pu/vid/1280x720/PLVEr3eYsYdKL-ry.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1168115080375894016/pu/vid/640x360/KbIVgcERdVwWBTRg.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18798768,
+			"id_str": "18798768",
+			"name": "Joshua Wong 黃之鋒",
+			"screen_name": "joshuawongcf",
+			"location": "Hong Kong",
+			"description": "Activist from Hong Kong. Secretary General of @demosisto. Email: joshua@demosisto.hk. Donation: https://t.co/GE16ejNpXs",
+			"url": "https://t.co/B3O49Kzf3Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B3O49Kzf3Y",
+							"expanded_url": "https://www.facebook.com/joshuawongchifung",
+							"display_url": "facebook.com/joshuawongchif…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GE16ejNpXs",
+							"expanded_url": "https://www.demosisto.hk/donation?lang=en",
+							"display_url": "demosisto.hk/donation?lang=…",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 308134,
+			"friends_count": 872,
+			"listed_count": 1254,
+			"created_at": "Fri Jan 09 11:23:36 +0000 2009",
+			"favourites_count": 1139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062905324279975936/bP3d4IcB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062905324279975936/bP3d4IcB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18798768/1543457160",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 923,
+		"favorite_count": 1092,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HK Police attempt to murder protesters. Just watch this slow motion video, you can know how HKGOV put risk on our next generation. President Xi and Carrie LAN refuse listen to our voice. They rule Hong Kong by bullet instead of law. https://t.co/v7nCrdgJP9"
+	},
+	{
 		"created_at": "Sun Sep 01 11:06:50 +0000 2019",
 		"id": 1168062424202637300,
 		"id_str": "1168118007203336193",
