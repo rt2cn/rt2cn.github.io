@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 01 16:04:33 +0000 2019",
+		"id": 1168191968343515100,
+		"id_str": "1168192932513497088",
+		"full_text": "港人今天发起代号为敦刻尔克的救援行动，上百私家车自发到青马大桥接从机场徒步撤退的抗示威者回家，场面宏大。#dunkirk https://t.co/HOgRjDYZnm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dunkirk",
+					"indices": [
+						52,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HOgRjDYZnm",
+					"expanded_url": "https://twitter.com/rhokilpatrick/status/1168156914158469120",
+					"display_url": "twitter.com/rhokilpatrick/…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35219547,
+			"id_str": "35219547",
+			"name": "Jian Alan Huang",
+			"screen_name": "hnjhj",
+			"location": "Shanghai, Hong Kong, Sydney",
+			"description": "An atheistic, skeptic, liberalist. A software engineer and researcher. I seek, I think, I speak.",
+			"url": "https://t.co/8dc82SjorG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8dc82SjorG",
+							"expanded_url": "http://blog.hnjhj.com",
+							"display_url": "blog.hnjhj.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35273,
+			"friends_count": 501,
+			"listed_count": 333,
+			"created_at": "Sat Apr 25 14:15:32 +0000 2009",
+			"favourites_count": 208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35219547/1348406013",
+			"profile_link_color": "22497E",
+			"profile_sidebar_border_color": "AFAFAF",
+			"profile_sidebar_fill_color": "E7E7E7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0073b76548e5984f",
+			"url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+			"place_type": "city",
+			"name": "Sydney",
+			"full_name": "Sydney, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							150.520928608,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-33.578140996
+						],
+						[
+							150.520928608,
+							-33.578140996
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1168156914158469000,
+		"quoted_status_id_str": "1168156914158469120",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HOgRjDYZnm",
+			"expanded": "https://twitter.com/rhokilpatrick/status/1168156914158469120",
+			"display": "twitter.com/rhokilpatrick/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 01 13:41:26 +0000 2019",
+			"id": 1168156914158469000,
+			"id_str": "1168156914158469120",
+			"full_text": "Look at this fleet of supports and kind-hearted strangers trying to get protesters out of the Tsing Ma Bridge toll plaza and #backhome safe. https://t.co/7VDTYT696S",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "backhome",
+						"indices": [
+							125,
+							134
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1168156868134359000,
+						"id_str": "1168156868134359040",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1168156868134359040/pu/img/Swlp60pH4aTjbrXz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1168156868134359040/pu/img/Swlp60pH4aTjbrXz.jpg",
+						"url": "https://t.co/7VDTYT696S",
+						"display_url": "pic.twitter.com/7VDTYT696S",
+						"expanded_url": "https://twitter.com/rhokilpatrick/status/1168156914158469120/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1168156868134359000,
+						"id_str": "1168156868134359040",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1168156868134359040/pu/img/Swlp60pH4aTjbrXz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1168156868134359040/pu/img/Swlp60pH4aTjbrXz.jpg",
+						"url": "https://t.co/7VDTYT696S",
+						"display_url": "pic.twitter.com/7VDTYT696S",
+						"expanded_url": "https://twitter.com/rhokilpatrick/status/1168156914158469120/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 5900,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1168156868134359040/pu/pl/sVZEeAHTvtyPb4H0.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1168156868134359040/pu/vid/640x360/UOgWoQtL1kQcW3qd.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1168156868134359040/pu/vid/480x270/B01pLhNgmIsY01Gb.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1168156868134359040/pu/vid/1280x720/9zomsjSt8hJiIu8I.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1168155485393969200,
+			"in_reply_to_status_id_str": "1168155485393969152",
+			"in_reply_to_user_id": 95640686,
+			"in_reply_to_user_id_str": "95640686",
+			"in_reply_to_screen_name": "rhokilpatrick",
+			"user": {
+				"id": 95640686,
+				"id_str": "95640686",
+				"name": "Ryan Ho Kilpatrick 何松濤",
+				"screen_name": "rhokilpatrick",
+				"location": "Hong Kong",
+				"description": "Writer | Maritime Archaeologist | Dive Professional | Bylines @TIME, @latimes, @WSJ, @SCMPNews, @NewStatesman, @guardian, @Independent | Made in Hong Kong 🇭🇰",
+				"url": "https://t.co/7Q6GZk0FLG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7Q6GZk0FLG",
+								"expanded_url": "http://ryanhokilpatrick.com",
+								"display_url": "ryanhokilpatrick.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14207,
+				"friends_count": 599,
+				"listed_count": 232,
+				"created_at": "Wed Dec 09 12:59:33 +0000 2009",
+				"favourites_count": 2263,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4453,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCFBF9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/975313387251949569/xkVRlidm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/975313387251949569/xkVRlidm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95640686/1566316593",
+				"profile_link_color": "888888",
+				"profile_sidebar_border_color": "383635",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "474340",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 367,
+			"favorite_count": 627,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "港人今天发起代号为敦刻尔克的救援行动，上百私家车自发到青马大桥接从机场徒步撤退的抗示威者回家，场面宏大。#dunkirk https://t.co/HOgRjDYZnm"
+	},
+	{
 		"created_at": "Sun Sep 01 14:22:50 +0000 2019",
 		"id": 1168162668764643300,
 		"id_str": "1168167334076461056",
