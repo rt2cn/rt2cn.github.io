@@ -1,6 +1,554 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 01 05:58:23 +0000 2019",
+		"id": 1167942885766905900,
+		"id_str": "1168040384284348416",
+		"full_text": "我妈竟然主动跟我说香港的事，她的观点也是挺奇特的，说那些（香港）孩子后半生都不会好过了，因为秋后算账，他们找工作干啥都会受影响…\n\n卧槽，既然都能意识到后半生会被惩罚，为什么还不能理解人家抗争？ https://t.co/z9y9kLXxZQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1167942881983651800,
+					"id_str": "1167942881983651841",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EDVd3PaU4AER1bU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDVd3PaU4AER1bU.jpg",
+					"url": "https://t.co/z9y9kLXxZQ",
+					"display_url": "pic.twitter.com/z9y9kLXxZQ",
+					"expanded_url": "https://twitter.com/SlowZhu/status/1167942885766905856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 524,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 297,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 542,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167942881983651800,
+					"id_str": "1167942881983651841",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EDVd3PaU4AER1bU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDVd3PaU4AER1bU.jpg",
+					"url": "https://t.co/z9y9kLXxZQ",
+					"display_url": "pic.twitter.com/z9y9kLXxZQ",
+					"expanded_url": "https://twitter.com/SlowZhu/status/1167942885766905856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 524,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 297,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 542,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 97045279,
+			"id_str": "97045279",
+			"name": "((走马困))😈🇳🇱",
+			"screen_name": "SlowZhu",
+			"location": "",
+			"description": "#拳擊女仔 #待我赚够口粮再来和你们谈笑风生 #investmentindex",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10041,
+			"friends_count": 994,
+			"listed_count": 170,
+			"created_at": "Tue Dec 15 19:33:13 +0000 2009",
+			"favourites_count": 2033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 138360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0C0E26",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055204645654515712/DnvvDv_j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055204645654515712/DnvvDv_j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/97045279/1551334932",
+			"profile_link_color": "0F112F",
+			"profile_sidebar_border_color": "1C2059",
+			"profile_sidebar_fill_color": "181B4B",
+			"profile_text_color": "121438",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 230,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "我妈竟然主动跟我说香港的事，她的观点也是挺奇特的，说那些（香港）孩子后半生都不会好过了，因为秋后算账，他们找工作干啥都会受影响…\n\n卧槽，既然都能意识到后半生会被惩罚，为什么还不能理解人家抗争？ https://t.co/z9y9kLXxZQ"
+	},
+	{
+		"created_at": "Sun Sep 01 05:48:37 +0000 2019",
+		"id": 1168036730722644000,
+		"id_str": "1168037927835684864",
+		"full_text": "車廂有口罩😷有雨🌂分分鐘被控罪，這就是當今的香港🇭🇰仲衰過大陸。（新彊只不過菜刀實名制）😢 https://t.co/k8fgn7sNzp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1168036724422799400,
+					"id_str": "1168036724422799360",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWzNlvU8AARCWY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWzNlvU8AARCWY.jpg",
+					"url": "https://t.co/k8fgn7sNzp",
+					"display_url": "pic.twitter.com/k8fgn7sNzp",
+					"expanded_url": "https://twitter.com/MaggieHo20/status/1168036730722643968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168036724422799400,
+					"id_str": "1168036724422799360",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWzNlvU8AARCWY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWzNlvU8AARCWY.jpg",
+					"url": "https://t.co/k8fgn7sNzp",
+					"display_url": "pic.twitter.com/k8fgn7sNzp",
+					"expanded_url": "https://twitter.com/MaggieHo20/status/1168036730722643968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1168036725462945800,
+					"id_str": "1168036725462945794",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWzNpnUUAISLYS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWzNpnUUAISLYS.jpg",
+					"url": "https://t.co/k8fgn7sNzp",
+					"display_url": "pic.twitter.com/k8fgn7sNzp",
+					"expanded_url": "https://twitter.com/MaggieHo20/status/1168036730722643968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 857839894684516400,
+			"id_str": "857839894684516352",
+			"name": "Maggie",
+			"screen_name": "MaggieHo20",
+			"location": "香港",
+			"description": "五大訴求 缺一不可！齊上齊落！不分割！💪五毛，左膠，偽運，藍屍👕請繞道。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7900,
+			"friends_count": 90,
+			"listed_count": 47,
+			"created_at": "Fri Apr 28 06:12:23 +0000 2017",
+			"favourites_count": 69537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162706814804230144/Yuf5XhdC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162706814804230144/Yuf5XhdC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/857839894684516352/1493563057",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "車廂有口罩😷有雨🌂分分鐘被控罪，這就是當今的香港🇭🇰仲衰過大陸。（新彊只不過菜刀實名制）😢 https://t.co/k8fgn7sNzp"
+	},
+	{
+		"created_at": "Sun Sep 01 05:47:08 +0000 2019",
+		"id": 1168037341358747600,
+		"id_str": "1168037553813041152",
+		"full_text": "1342 [更新] #機場 機場快線香港站往機場列車暫停服務; 博覽館往香港港站維持十分鐘一班\nSource: Now新聞\n\n#901突發 \n#LIHKG \n#901和你飛 https://t.co/GdCdQT82Pz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "機場",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "901突發",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "LIHKG",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "901和你飛",
+					"indices": [
+						79,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1168037327081496600,
+					"id_str": "1168037327081496576",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWzwq0W4AAp13J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWzwq0W4AAp13J.jpg",
+					"url": "https://t.co/GdCdQT82Pz",
+					"display_url": "pic.twitter.com/GdCdQT82Pz",
+					"expanded_url": "https://twitter.com/Cheuk8964/status/1168037341358747648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 351,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 557,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 557,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168037327081496600,
+					"id_str": "1168037327081496576",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWzwq0W4AAp13J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWzwq0W4AAp13J.jpg",
+					"url": "https://t.co/GdCdQT82Pz",
+					"display_url": "pic.twitter.com/GdCdQT82Pz",
+					"expanded_url": "https://twitter.com/Cheuk8964/status/1168037341358747648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 351,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 557,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 557,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1105022712,
+			"id_str": "1105022712",
+			"name": "C",
+			"screen_name": "Cheuk8964",
+			"location": "",
+			"description": "A Hongkonger 🇭🇰 #followbackhongkong\n光復香港 時代革命 Liberate Hong Kong; revolution of our times\n五大訴求 缺一不可 All five demands must be fulfilled\n唔介意我洗版就follow我啦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 422,
+			"friends_count": 374,
+			"listed_count": 3,
+			"created_at": "Sun Jan 20 00:47:10 +0000 2013",
+			"favourites_count": 87,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167497052860776448/7I_XTYiM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167497052860776448/7I_XTYiM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1105022712/1566999366",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "1342 [更新] #機場 機場快線香港站往機場列車暫停服務; 博覽館往香港港站維持十分鐘一班\nSource: Now新聞\n\n#901突發 \n#LIHKG \n#901和你飛 https://t.co/GdCdQT82Pz"
+	},
+	{
 		"created_at": "Sun Sep 01 04:43:37 +0000 2019",
 		"id": 1167984190026993700,
 		"id_str": "1168021567411912704",
