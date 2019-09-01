@@ -1,6 +1,2372 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 01 04:43:37 +0000 2019",
+		"id": 1167984190026993700,
+		"id_str": "1168021567411912704",
+		"full_text": "831事件圖解\n\n此推完\n\n#SOSHK #SaveHongKong #StandWithHongKong #HongKongProtest https://t.co/uFqdUXutnL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOSHK",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "SaveHongKong",
+					"indices": [
+						21,
+						34
+					]
+				},
+				{
+					"text": "StandWithHongKong",
+					"indices": [
+						35,
+						53
+					]
+				},
+				{
+					"text": "HongKongProtest",
+					"indices": [
+						54,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1167984112902144000,
+					"id_str": "1167984112902144000",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWDXMjVAAAR_CV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWDXMjVAAAR_CV.jpg",
+					"url": "https://t.co/uFqdUXutnL",
+					"display_url": "pic.twitter.com/uFqdUXutnL",
+					"expanded_url": "https://twitter.com/cupnarwhal/status/1167984190026993664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167984112902144000,
+					"id_str": "1167984112902144000",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWDXMjVAAAR_CV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWDXMjVAAAR_CV.jpg",
+					"url": "https://t.co/uFqdUXutnL",
+					"display_url": "pic.twitter.com/uFqdUXutnL",
+					"expanded_url": "https://twitter.com/cupnarwhal/status/1167984190026993664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1167984140450295800,
+					"id_str": "1167984140450295808",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWDYzLUcAAzcV_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWDYzLUcAAzcV_.jpg",
+					"url": "https://t.co/uFqdUXutnL",
+					"display_url": "pic.twitter.com/uFqdUXutnL",
+					"expanded_url": "https://twitter.com/cupnarwhal/status/1167984190026993664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1167984162084544500,
+					"id_str": "1167984162084544515",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWDaDxU4AMSC8r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWDaDxU4AMSC8r.jpg",
+					"url": "https://t.co/uFqdUXutnL",
+					"display_url": "pic.twitter.com/uFqdUXutnL",
+					"expanded_url": "https://twitter.com/cupnarwhal/status/1167984190026993664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1167983753060159500,
+		"in_reply_to_status_id_str": "1167983753060159491",
+		"in_reply_to_user_id": 3806030601,
+		"in_reply_to_user_id_str": "3806030601",
+		"in_reply_to_screen_name": "cupnarwhal",
+		"user": {
+			"id": 3806030601,
+			"id_str": "3806030601",
+			"name": "一角鯨歌",
+			"screen_name": "cupnarwhal",
+			"location": "海洋",
+			"description": "幻想龍一樣在空中飛翔，海洋就是我的天空，但願能唱出穿越時空的歌聲。\n\n\n感謝夜邊贈頭像:)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 830,
+			"friends_count": 200,
+			"listed_count": 13,
+			"created_at": "Mon Sep 28 17:50:24 +0000 2015",
+			"favourites_count": 22051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079810999715168256/kXtEsr2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079810999715168256/kXtEsr2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3806030601/1520003974",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "831事件圖解\n\n此推完\n\n#SOSHK #SaveHongKong #StandWithHongKong #HongKongProtest https://t.co/uFqdUXutnL"
+	},
+	{
+		"created_at": "Sun Sep 01 04:43:32 +0000 2019",
+		"id": 1167983753060159500,
+		"id_str": "1168021550047449088",
+		"full_text": "企圖打擊新聞自由\n\n共14張圖，請續下推 https://t.co/KNJZNaEump",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1167983665768325000,
+					"id_str": "1167983665768325126",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWC9K2UYAYRQv7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWC9K2UYAYRQv7.jpg",
+					"url": "https://t.co/KNJZNaEump",
+					"display_url": "pic.twitter.com/KNJZNaEump",
+					"expanded_url": "https://twitter.com/cupnarwhal/status/1167983753060159491/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167983665768325000,
+					"id_str": "1167983665768325126",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWC9K2UYAYRQv7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWC9K2UYAYRQv7.jpg",
+					"url": "https://t.co/KNJZNaEump",
+					"display_url": "pic.twitter.com/KNJZNaEump",
+					"expanded_url": "https://twitter.com/cupnarwhal/status/1167983753060159491/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1167983687998177300,
+					"id_str": "1167983687998177284",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWC-dqVAAQzAxH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWC-dqVAAQzAxH.jpg",
+					"url": "https://t.co/KNJZNaEump",
+					"display_url": "pic.twitter.com/KNJZNaEump",
+					"expanded_url": "https://twitter.com/cupnarwhal/status/1167983753060159491/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1167983708839665700,
+					"id_str": "1167983708839665667",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWC_rTU4AMTu49.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWC_rTU4AMTu49.jpg",
+					"url": "https://t.co/KNJZNaEump",
+					"display_url": "pic.twitter.com/KNJZNaEump",
+					"expanded_url": "https://twitter.com/cupnarwhal/status/1167983753060159491/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1167983729253335000,
+					"id_str": "1167983729253335042",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWDA3WUwAIoxMH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWDA3WUwAIoxMH.jpg",
+					"url": "https://t.co/KNJZNaEump",
+					"display_url": "pic.twitter.com/KNJZNaEump",
+					"expanded_url": "https://twitter.com/cupnarwhal/status/1167983753060159491/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1167983368136343600,
+		"in_reply_to_status_id_str": "1167983368136343552",
+		"in_reply_to_user_id": 3806030601,
+		"in_reply_to_user_id_str": "3806030601",
+		"in_reply_to_screen_name": "cupnarwhal",
+		"user": {
+			"id": 3806030601,
+			"id_str": "3806030601",
+			"name": "一角鯨歌",
+			"screen_name": "cupnarwhal",
+			"location": "海洋",
+			"description": "幻想龍一樣在空中飛翔，海洋就是我的天空，但願能唱出穿越時空的歌聲。\n\n\n感謝夜邊贈頭像:)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 830,
+			"friends_count": 200,
+			"listed_count": 13,
+			"created_at": "Mon Sep 28 17:50:24 +0000 2015",
+			"favourites_count": 22051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079810999715168256/kXtEsr2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079810999715168256/kXtEsr2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3806030601/1520003974",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "企圖打擊新聞自由\n\n共14張圖，請續下推 https://t.co/KNJZNaEump"
+	},
+	{
+		"created_at": "Sun Sep 01 04:43:28 +0000 2019",
+		"id": 1167983368136343600,
+		"id_str": "1168021532280610817",
+		"full_text": "831不同地區圖解\n共14張圖，請續看下推 https://t.co/BK3OekQzNA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1167983250913939500,
+					"id_str": "1167983250913939459",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWClBZU0AMVRqw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWClBZU0AMVRqw.jpg",
+					"url": "https://t.co/BK3OekQzNA",
+					"display_url": "pic.twitter.com/BK3OekQzNA",
+					"expanded_url": "https://twitter.com/cupnarwhal/status/1167983368136343552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167983250913939500,
+					"id_str": "1167983250913939459",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWClBZU0AMVRqw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWClBZU0AMVRqw.jpg",
+					"url": "https://t.co/BK3OekQzNA",
+					"display_url": "pic.twitter.com/BK3OekQzNA",
+					"expanded_url": "https://twitter.com/cupnarwhal/status/1167983368136343552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1167983285969940500,
+					"id_str": "1167983285969940481",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWCnD_U8AEWu0X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWCnD_U8AEWu0X.jpg",
+					"url": "https://t.co/BK3OekQzNA",
+					"display_url": "pic.twitter.com/BK3OekQzNA",
+					"expanded_url": "https://twitter.com/cupnarwhal/status/1167983368136343552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1167983323722838000,
+					"id_str": "1167983323722838017",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWCpQoUcAEgPw1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWCpQoUcAEgPw1.jpg",
+					"url": "https://t.co/BK3OekQzNA",
+					"display_url": "pic.twitter.com/BK3OekQzNA",
+					"expanded_url": "https://twitter.com/cupnarwhal/status/1167983368136343552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1167983341397627000,
+					"id_str": "1167983341397626880",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWCqSeUUAAC89F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWCqSeUUAAC89F.jpg",
+					"url": "https://t.co/BK3OekQzNA",
+					"display_url": "pic.twitter.com/BK3OekQzNA",
+					"expanded_url": "https://twitter.com/cupnarwhal/status/1167983368136343552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1167982978166771700,
+		"in_reply_to_status_id_str": "1167982978166771718",
+		"in_reply_to_user_id": 3806030601,
+		"in_reply_to_user_id_str": "3806030601",
+		"in_reply_to_screen_name": "cupnarwhal",
+		"user": {
+			"id": 3806030601,
+			"id_str": "3806030601",
+			"name": "一角鯨歌",
+			"screen_name": "cupnarwhal",
+			"location": "海洋",
+			"description": "幻想龍一樣在空中飛翔，海洋就是我的天空，但願能唱出穿越時空的歌聲。\n\n\n感謝夜邊贈頭像:)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 830,
+			"friends_count": 200,
+			"listed_count": 13,
+			"created_at": "Mon Sep 28 17:50:24 +0000 2015",
+			"favourites_count": 22051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079810999715168256/kXtEsr2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079810999715168256/kXtEsr2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3806030601/1520003974",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "831不同地區圖解\n共14張圖，請續看下推 https://t.co/BK3OekQzNA"
+	},
+	{
+		"created_at": "Sun Sep 01 04:43:23 +0000 2019",
+		"id": 1167982978166771700,
+		"id_str": "1168021510155431937",
+		"full_text": "831圖解\n共14張圖，請續看下推 https://t.co/8w5J2nPJNY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1167982876731687000,
+					"id_str": "1167982876731686912",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWCPPdUwAARPpm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWCPPdUwAARPpm.jpg",
+					"url": "https://t.co/8w5J2nPJNY",
+					"display_url": "pic.twitter.com/8w5J2nPJNY",
+					"expanded_url": "https://twitter.com/cupnarwhal/status/1167982978166771718/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167982876731687000,
+					"id_str": "1167982876731686912",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWCPPdUwAARPpm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWCPPdUwAARPpm.jpg",
+					"url": "https://t.co/8w5J2nPJNY",
+					"display_url": "pic.twitter.com/8w5J2nPJNY",
+					"expanded_url": "https://twitter.com/cupnarwhal/status/1167982978166771718/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1167982903449419800,
+					"id_str": "1167982903449419776",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWCQy_VAAA7e_e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWCQy_VAAA7e_e.jpg",
+					"url": "https://t.co/8w5J2nPJNY",
+					"display_url": "pic.twitter.com/8w5J2nPJNY",
+					"expanded_url": "https://twitter.com/cupnarwhal/status/1167982978166771718/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1167982931911929900,
+					"id_str": "1167982931911929856",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWCSdBUcAATP8k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWCSdBUcAATP8k.jpg",
+					"url": "https://t.co/8w5J2nPJNY",
+					"display_url": "pic.twitter.com/8w5J2nPJNY",
+					"expanded_url": "https://twitter.com/cupnarwhal/status/1167982978166771718/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1167982954687058000,
+					"id_str": "1167982954687057921",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWCTx3VUAEGIAU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWCTx3VUAEGIAU.jpg",
+					"url": "https://t.co/8w5J2nPJNY",
+					"display_url": "pic.twitter.com/8w5J2nPJNY",
+					"expanded_url": "https://twitter.com/cupnarwhal/status/1167982978166771718/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3806030601,
+			"id_str": "3806030601",
+			"name": "一角鯨歌",
+			"screen_name": "cupnarwhal",
+			"location": "海洋",
+			"description": "幻想龍一樣在空中飛翔，海洋就是我的天空，但願能唱出穿越時空的歌聲。\n\n\n感謝夜邊贈頭像:)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 830,
+			"friends_count": 200,
+			"listed_count": 13,
+			"created_at": "Mon Sep 28 17:50:24 +0000 2015",
+			"favourites_count": 22051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079810999715168256/kXtEsr2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079810999715168256/kXtEsr2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3806030601/1520003974",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "831圖解\n共14張圖，請續看下推 https://t.co/8w5J2nPJNY"
+	},
+	{
+		"created_at": "Sun Sep 01 04:41:27 +0000 2019",
+		"id": 1168016207343079400,
+		"id_str": "1168021022861418496",
+		"full_text": "生命誠可貴，自由價更高。\n但無左生命就無辦法再追求自由，亦睇唔到香港自由既一日。\n#StandWithHongKong #FreeHongKong #PoliceBrutality #hkpolicebrutality #DemocracyForHK #HumanitarianCrisis #TerroristAttactByHKPolice #antiELAB #chinazi #chinazism #China #Britain https://t.co/w7sTLiHlar",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StandWithHongKong",
+					"indices": [
+						41,
+						59
+					]
+				},
+				{
+					"text": "FreeHongKong",
+					"indices": [
+						60,
+						73
+					]
+				},
+				{
+					"text": "PoliceBrutality",
+					"indices": [
+						74,
+						90
+					]
+				},
+				{
+					"text": "hkpolicebrutality",
+					"indices": [
+						91,
+						109
+					]
+				},
+				{
+					"text": "DemocracyForHK",
+					"indices": [
+						110,
+						125
+					]
+				},
+				{
+					"text": "HumanitarianCrisis",
+					"indices": [
+						126,
+						145
+					]
+				},
+				{
+					"text": "TerroristAttactByHKPolice",
+					"indices": [
+						146,
+						172
+					]
+				},
+				{
+					"text": "antiELAB",
+					"indices": [
+						173,
+						182
+					]
+				},
+				{
+					"text": "chinazi",
+					"indices": [
+						183,
+						191
+					]
+				},
+				{
+					"text": "chinazism",
+					"indices": [
+						192,
+						202
+					]
+				},
+				{
+					"text": "China",
+					"indices": [
+						203,
+						209
+					]
+				},
+				{
+					"text": "Britain",
+					"indices": [
+						210,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w7sTLiHlar",
+					"expanded_url": "https://twitter.com/ellan_ou/status/1168014280962142208",
+					"display_url": "twitter.com/ellan_ou/statu…",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 994760447881429000,
+			"id_str": "994760447881428992",
+			"name": "Kelvin",
+			"screen_name": "KelvinC31195196",
+			"location": "香港",
+			"description": "HongKonger fighting for freedom.\nFree Hong Kong. Revolution Now. 光復香港 時代革命",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75,
+			"friends_count": 158,
+			"listed_count": 0,
+			"created_at": "Fri May 11 02:05:47 +0000 2018",
+			"favourites_count": 394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163735493294428160/lgJ7SJw3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163735493294428160/lgJ7SJw3_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1168014280962142200,
+		"quoted_status_id_str": "1168014280962142208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/w7sTLiHlar",
+			"expanded": "https://twitter.com/ellan_ou/status/1168014280962142208",
+			"display": "twitter.com/ellan_ou/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 01 04:14:39 +0000 2019",
+			"id": 1168014280962142200,
+			"id_str": "1168014280962142208",
+			"full_text": "我地必須承認見到香港咁既畫面，好多人都會頂唔順。邊個覺得太辛苦，休息，暫時 cutoff 唔好再睇住。有需要的話，尋求專業輔導。下面留言開放圍爐，互相扶持專區。有咩想發洩同講出黎如果安全講左會好啲，無任歡迎。作戰有時，作息亦有時。如果起唔番身，同伴就少左一個。記住。",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 978215128842715100,
+				"id_str": "978215128842715136",
+				"name": "Ellan Ou",
+				"screen_name": "ellan_ou",
+				"location": "香港",
+				"description": "A normal writer in Hong Kong | 又名塔巴 | 早撈湯丸 | 文字生成器",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2559,
+				"friends_count": 1401,
+				"listed_count": 13,
+				"created_at": "Mon Mar 26 10:20:35 +0000 2018",
+				"favourites_count": 1992,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1545,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/978215811184656385/hP0_QI-P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/978215811184656385/hP0_QI-P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/978215128842715136/1522122291",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 136,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "zh"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "生命誠可貴，自由價更高。\n但無左生命就無辦法再追求自由，亦睇唔到香港自由既一日。\n#StandWithHongKong #FreeHongKong #PoliceBrutality #hkpolicebrutality #DemocracyForHK #HumanitarianCrisis #TerroristAttactByHKPolice #antiELAB #chinazi #chinazism #China #Britain https://t.co/w7sTLiHlar"
+	},
+	{
+		"created_at": "Sun Sep 01 04:39:35 +0000 2019",
+		"id": 1168017938151964700,
+		"id_str": "1168020555204710401",
+		"full_text": "手足們留言、轉推時記得加tag\n一個好啦，貴精不貴多\n#StandWithHongKong https://t.co/dLOViMeREB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StandWithHongKong",
+					"indices": [
+						27,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1168017907734810600,
+					"id_str": "1168017907734810625",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWiGUHUEAEqf_f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWiGUHUEAEqf_f.jpg",
+					"url": "https://t.co/dLOViMeREB",
+					"display_url": "pic.twitter.com/dLOViMeREB",
+					"expanded_url": "https://twitter.com/nalcyon/status/1168017938151964672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168017907734810600,
+					"id_str": "1168017907734810625",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWiGUHUEAEqf_f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWiGUHUEAEqf_f.jpg",
+					"url": "https://t.co/dLOViMeREB",
+					"display_url": "pic.twitter.com/dLOViMeREB",
+					"expanded_url": "https://twitter.com/nalcyon/status/1168017938151964672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1168017916052164600,
+					"id_str": "1168017916052164615",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWiGzGU0Ac7GlX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWiGzGU0Ac7GlX.jpg",
+					"url": "https://t.co/dLOViMeREB",
+					"display_url": "pic.twitter.com/dLOViMeREB",
+					"expanded_url": "https://twitter.com/nalcyon/status/1168017938151964672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1168017922670780400,
+					"id_str": "1168017922670780416",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWiHLwU4AAM5nT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWiHLwU4AAM5nT.jpg",
+					"url": "https://t.co/dLOViMeREB",
+					"display_url": "pic.twitter.com/dLOViMeREB",
+					"expanded_url": "https://twitter.com/nalcyon/status/1168017938151964672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1168017931327824000,
+					"id_str": "1168017931327823872",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWiHsAU4AAG_qC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWiHsAU4AAG_qC.jpg",
+					"url": "https://t.co/dLOViMeREB",
+					"display_url": "pic.twitter.com/dLOViMeREB",
+					"expanded_url": "https://twitter.com/nalcyon/status/1168017938151964672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 748536835308032000,
+			"id_str": "748536835308032000",
+			"name": "Nalcyon ☂️ Stand with HK",
+			"screen_name": "nalcyon",
+			"location": "香港",
+			"description": "香港人HKer | Canto / ENG | Artist | APH",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1172,
+			"friends_count": 297,
+			"listed_count": 7,
+			"created_at": "Thu Jun 30 15:21:03 +0000 2016",
+			"favourites_count": 2919,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167765414094356481/aUq7Hxs1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167765414094356481/aUq7Hxs1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748536835308032000/1567263407",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "手足們留言、轉推時記得加tag\n一個好啦，貴精不貴多\n#StandWithHongKong https://t.co/dLOViMeREB"
+	},
+	{
+		"created_at": "Sun Sep 01 04:39:32 +0000 2019",
+		"id": 1168017979742638000,
+		"id_str": "1168020541850234880",
+		"full_text": "#StandWithHongKong https://t.co/ikBTpOa7Tk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StandWithHongKong",
+					"indices": [
+						0,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1168017942069403600,
+					"id_str": "1168017942069403648",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWiIUBUYAA-3b3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWiIUBUYAA-3b3.jpg",
+					"url": "https://t.co/ikBTpOa7Tk",
+					"display_url": "pic.twitter.com/ikBTpOa7Tk",
+					"expanded_url": "https://twitter.com/nalcyon/status/1168017979742638081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168017942069403600,
+					"id_str": "1168017942069403648",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWiIUBUYAA-3b3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWiIUBUYAA-3b3.jpg",
+					"url": "https://t.co/ikBTpOa7Tk",
+					"display_url": "pic.twitter.com/ikBTpOa7Tk",
+					"expanded_url": "https://twitter.com/nalcyon/status/1168017979742638081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1168017950852300800,
+					"id_str": "1168017950852300802",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWiI0vUwAIgfJO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWiI0vUwAIgfJO.jpg",
+					"url": "https://t.co/ikBTpOa7Tk",
+					"display_url": "pic.twitter.com/ikBTpOa7Tk",
+					"expanded_url": "https://twitter.com/nalcyon/status/1168017979742638081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1168017959656181800,
+					"id_str": "1168017959656181761",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWiJViVUAED-41.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWiJViVUAED-41.jpg",
+					"url": "https://t.co/ikBTpOa7Tk",
+					"display_url": "pic.twitter.com/ikBTpOa7Tk",
+					"expanded_url": "https://twitter.com/nalcyon/status/1168017979742638081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1168017969231777800,
+					"id_str": "1168017969231777793",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWiJ5NVUAEtdZ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWiJ5NVUAEtdZ4.jpg",
+					"url": "https://t.co/ikBTpOa7Tk",
+					"display_url": "pic.twitter.com/ikBTpOa7Tk",
+					"expanded_url": "https://twitter.com/nalcyon/status/1168017979742638081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1168017938151964700,
+		"in_reply_to_status_id_str": "1168017938151964672",
+		"in_reply_to_user_id": 748536835308032000,
+		"in_reply_to_user_id_str": "748536835308032000",
+		"in_reply_to_screen_name": "nalcyon",
+		"user": {
+			"id": 748536835308032000,
+			"id_str": "748536835308032000",
+			"name": "Nalcyon ☂️ Stand with HK",
+			"screen_name": "nalcyon",
+			"location": "香港",
+			"description": "香港人HKer | Canto / ENG | Artist | APH",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1172,
+			"friends_count": 297,
+			"listed_count": 7,
+			"created_at": "Thu Jun 30 15:21:03 +0000 2016",
+			"favourites_count": 2919,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167765414094356481/aUq7Hxs1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167765414094356481/aUq7Hxs1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748536835308032000/1567263407",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#StandWithHongKong https://t.co/ikBTpOa7Tk"
+	},
+	{
+		"created_at": "Sun Sep 01 04:39:28 +0000 2019",
+		"id": 1168017993046999000,
+		"id_str": "1168020526628929536",
+		"full_text": "Credit\n#StandWithHongKong https://t.co/uUhtfU4MQz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StandWithHongKong",
+					"indices": [
+						7,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1168017983534272500,
+					"id_str": "1168017983534272521",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWiKufUEAkqXjv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWiKufUEAkqXjv.jpg",
+					"url": "https://t.co/uUhtfU4MQz",
+					"display_url": "pic.twitter.com/uUhtfU4MQz",
+					"expanded_url": "https://twitter.com/nalcyon/status/1168017993046999040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 494,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 872,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 930,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168017983534272500,
+					"id_str": "1168017983534272521",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWiKufUEAkqXjv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDWiKufUEAkqXjv.jpg",
+					"url": "https://t.co/uUhtfU4MQz",
+					"display_url": "pic.twitter.com/uUhtfU4MQz",
+					"expanded_url": "https://twitter.com/nalcyon/status/1168017993046999040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 494,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 872,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 930,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1168017979742638000,
+		"in_reply_to_status_id_str": "1168017979742638081",
+		"in_reply_to_user_id": 748536835308032000,
+		"in_reply_to_user_id_str": "748536835308032000",
+		"in_reply_to_screen_name": "nalcyon",
+		"user": {
+			"id": 748536835308032000,
+			"id_str": "748536835308032000",
+			"name": "Nalcyon ☂️ Stand with HK",
+			"screen_name": "nalcyon",
+			"location": "香港",
+			"description": "香港人HKer | Canto / ENG | Artist | APH",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1172,
+			"friends_count": 297,
+			"listed_count": 7,
+			"created_at": "Thu Jun 30 15:21:03 +0000 2016",
+			"favourites_count": 2919,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167765414094356481/aUq7Hxs1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167765414094356481/aUq7Hxs1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748536835308032000/1567263407",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Credit\n#StandWithHongKong https://t.co/uUhtfU4MQz"
+	},
+	{
+		"created_at": "Sun Sep 01 04:39:09 +0000 2019",
+		"id": 1168014280962142200,
+		"id_str": "1168020443728678912",
+		"full_text": "我地必須承認見到香港咁既畫面，好多人都會頂唔順。邊個覺得太辛苦，休息，暫時 cutoff 唔好再睇住。有需要的話，尋求專業輔導。下面留言開放圍爐，互相扶持專區。有咩想發洩同講出黎如果安全講左會好啲，無任歡迎。作戰有時，作息亦有時。如果起唔番身，同伴就少左一個。記住。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 978215128842715100,
+			"id_str": "978215128842715136",
+			"name": "Ellan Ou",
+			"screen_name": "ellan_ou",
+			"location": "香港",
+			"description": "A normal writer in Hong Kong | 又名塔巴 | 早撈湯丸 | 文字生成器",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2559,
+			"friends_count": 1401,
+			"listed_count": 13,
+			"created_at": "Mon Mar 26 10:20:35 +0000 2018",
+			"favourites_count": 1992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978215811184656385/hP0_QI-P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978215811184656385/hP0_QI-P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978215128842715136/1522122291",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 136,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "我地必須承認見到香港咁既畫面，好多人都會頂唔順。邊個覺得太辛苦，休息，暫時 cutoff 唔好再睇住。有需要的話，尋求專業輔導。下面留言開放圍爐，互相扶持專區。有咩想發洩同講出黎如果安全講左會好啲，無任歡迎。作戰有時，作息亦有時。如果起唔番身，同伴就少左一個。記住。"
+	},
+	{
+		"created_at": "Sun Sep 01 04:37:31 +0000 2019",
+		"id": 1168017970804621300,
+		"id_str": "1168020035698249729",
+		"full_text": "About DDoS attack on LIHKG  (2019-08-31)\nEnglish: https://t.co/HIT3BQYhFp\n\n有關 LIHKG 受到攻擊事宜\n中文: https://t.co/jUFvRvjjq9\n\n#LIHKG #DDoS https://t.co/G2YpUw1jAH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIHKG",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "DDoS",
+					"indices": [
+						127,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HIT3BQYhFp",
+					"expanded_url": "https://lih.kg/dMLOjT",
+					"display_url": "lih.kg/dMLOjT",
+					"indices": [
+						50,
+						73
+					]
+				},
+				{
+					"url": "https://t.co/jUFvRvjjq9",
+					"expanded_url": "https://lih.kg/1525319",
+					"display_url": "lih.kg/1525319",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1168017966627049500,
+					"id_str": "1168017966627049473",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWiJvgUUAEbPNG.png",
+					"media_url_https": "https://pbs.twimg.com/media/EDWiJvgUUAEbPNG.png",
+					"url": "https://t.co/G2YpUw1jAH",
+					"display_url": "pic.twitter.com/G2YpUw1jAH",
+					"expanded_url": "https://twitter.com/lihkg_forum/status/1168017970804621312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168017966627049500,
+					"id_str": "1168017966627049473",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EDWiJvgUUAEbPNG.png",
+					"media_url_https": "https://pbs.twimg.com/media/EDWiJvgUUAEbPNG.png",
+					"url": "https://t.co/G2YpUw1jAH",
+					"display_url": "pic.twitter.com/G2YpUw1jAH",
+					"expanded_url": "https://twitter.com/lihkg_forum/status/1168017970804621312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143446245429502000,
+			"id_str": "1143446245429501952",
+			"name": "LIHKG 討論區",
+			"screen_name": "lihkg_forum",
+			"location": "",
+			"description": "集合城中熱門話題、時事、娛樂、創意、日常生活討論 以自由討論為宗旨，喺哩到你可以暢所欲言！  \niOS: https://t.co/KiAvwA99hZ \nAndroid: https://t.co/gjYCsqyzDy",
+			"url": "https://t.co/bahQa77UMP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bahQa77UMP",
+							"expanded_url": "https://lihkg.com",
+							"display_url": "lihkg.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KiAvwA99hZ",
+							"expanded_url": "https://lih.kg/ios",
+							"display_url": "lih.kg/ios",
+							"indices": [
+								53,
+								76
+							]
+						},
+						{
+							"url": "https://t.co/gjYCsqyzDy",
+							"expanded_url": "https://lih.kg/android",
+							"display_url": "lih.kg/android",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 69416,
+			"friends_count": 0,
+			"listed_count": 115,
+			"created_at": "Tue Jun 25 09:10:03 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1143449168540684288/Zt4UL1oH_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143449168540684288/Zt4UL1oH_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143446245429501952/1561454561",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 104,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "About DDoS attack on LIHKG  (2019-08-31)\nEnglish: https://t.co/HIT3BQYhFp\n\n有關 LIHKG 受到攻擊事宜\n中文: https://t.co/jUFvRvjjq9\n\n#LIHKG #DDoS https://t.co/G2YpUw1jAH"
+	},
+	{
 		"created_at": "Sun Sep 01 04:34:57 +0000 2019",
 		"id": 1168019164599992300,
 		"id_str": "1168019389217722369",
