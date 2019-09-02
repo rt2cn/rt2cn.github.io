@@ -1,6 +1,757 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 02 03:15:53 +0000 2019",
+		"id": 1168360679494914000,
+		"id_str": "1168361879003156480",
+		"full_text": "On the Queen's campus in #HongKong, the statue of Dr. Sun Yat-sen, the Founding Father of the Republic, and alumnus of Queen's, has been donned protective gear to fight Imperial China. #HongKongProtests #孫中山 https://t.co/HqmGfyFlqR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HongKong",
+					"indices": [
+						25,
+						34
+					]
+				},
+				{
+					"text": "HongKongProtests",
+					"indices": [
+						185,
+						202
+					]
+				},
+				{
+					"text": "孫中山",
+					"indices": [
+						203,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1168360672373002200,
+					"id_str": "1168360672373002241",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EDbZ115UUAEo-9a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDbZ115UUAEo-9a.jpg",
+					"url": "https://t.co/HqmGfyFlqR",
+					"display_url": "pic.twitter.com/HqmGfyFlqR",
+					"expanded_url": "https://twitter.com/ray_slowbeat/status/1168360679494914048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168360672373002200,
+					"id_str": "1168360672373002241",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EDbZ115UUAEo-9a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDbZ115UUAEo-9a.jpg",
+					"url": "https://t.co/HqmGfyFlqR",
+					"display_url": "pic.twitter.com/HqmGfyFlqR",
+					"expanded_url": "https://twitter.com/ray_slowbeat/status/1168360679494914048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21945983,
+			"id_str": "21945983",
+			"name": "Ray Chan",
+			"screen_name": "ray_slowbeat",
+			"location": "Hong Kong ",
+			"description": "Hong Kong Parliamentarian (2012–) Chair, People Power (2016–)  The first openly gay lawmaker in the Chinese-speaking world, re-elected with 45,993 votes.",
+			"url": "https://t.co/TjQfkkS1h3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TjQfkkS1h3",
+							"expanded_url": "http://www.peoplepowerhk.com/english",
+							"display_url": "peoplepowerhk.com/english",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12418,
+			"friends_count": 697,
+			"listed_count": 142,
+			"created_at": "Thu Feb 26 00:31:37 +0000 2009",
+			"favourites_count": 9714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136749611001843712/rW9nQWsZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136749611001843712/rW9nQWsZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21945983/1496854167",
+			"profile_link_color": "EF6C00",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01cb3bd54f92388e",
+			"url": "https://api.twitter.com/1.1/geo/id/01cb3bd54f92388e.json",
+			"place_type": "admin",
+			"name": "灣仔",
+			"full_name": "灣仔, 香港",
+			"country_code": "HK",
+			"country": "香港",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							114.163389,
+							22.252055
+						],
+						[
+							114.2069673,
+							22.252055
+						],
+						[
+							114.2069673,
+							22.2912933
+						],
+						[
+							114.163389,
+							22.2912933
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On the Queen's campus in #HongKong, the statue of Dr. Sun Yat-sen, the Founding Father of the Republic, and alumnus of Queen's, has been donned protective gear to fight Imperial China. #HongKongProtests #孫中山 https://t.co/HqmGfyFlqR"
+	},
+	{
+		"created_at": "Mon Sep 02 03:15:26 +0000 2019",
+		"id": 1168358752702984200,
+		"id_str": "1168361766725836800",
+		"full_text": "Today, Hong Kong police surrounded a female student and body search without female police in Tai Wai MTR. @Learn2LeadAIPM @CPC_College @QldPolice @vicpdcanada @DC_Police @AlhambraPolice @SuomenPoliisi @fedpolCH @hkpoliceforce #HongKongPolice #TerroristAttackByHKPolice #SOSHK https://t.co/C3PauyRNjm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HongKongPolice",
+					"indices": [
+						226,
+						241
+					]
+				},
+				{
+					"text": "TerroristAttackByHKPolice",
+					"indices": [
+						242,
+						268
+					]
+				},
+				{
+					"text": "SOSHK",
+					"indices": [
+						269,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Learn2LeadAIPM",
+					"name": "AIPM",
+					"id": 2174866110,
+					"id_str": "2174866110",
+					"indices": [
+						106,
+						121
+					]
+				},
+				{
+					"screen_name": "CPC_College",
+					"name": "Canadian Police College",
+					"id": 362629829,
+					"id_str": "362629829",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"screen_name": "QldPolice",
+					"name": "Queensland Police",
+					"id": 59338142,
+					"id_str": "59338142",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"screen_name": "vicpdcanada",
+					"name": "Victoria Police",
+					"id": 80139117,
+					"id_str": "80139117",
+					"indices": [
+						146,
+						158
+					]
+				},
+				{
+					"screen_name": "DC_Police",
+					"name": "DevonCornwall Police",
+					"id": 82324228,
+					"id_str": "82324228",
+					"indices": [
+						159,
+						169
+					]
+				},
+				{
+					"screen_name": "AlhambraPolice",
+					"name": "Alhambra Police",
+					"id": 605851234,
+					"id_str": "605851234",
+					"indices": [
+						170,
+						185
+					]
+				},
+				{
+					"screen_name": "SuomenPoliisi",
+					"name": "Suomen poliisi",
+					"id": 252486342,
+					"id_str": "252486342",
+					"indices": [
+						186,
+						200
+					]
+				},
+				{
+					"screen_name": "fedpolCH",
+					"name": "fedpol",
+					"id": 733318991230476300,
+					"id_str": "733318991230476289",
+					"indices": [
+						201,
+						210
+					]
+				},
+				{
+					"screen_name": "hkpoliceforce",
+					"name": "Hong Kong Police Force",
+					"id": 1057237461007396900,
+					"id_str": "1057237461007396864",
+					"indices": [
+						211,
+						225
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1168358742234026000,
+					"id_str": "1168358742234025984",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EDbYFfkU0AAY9wu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDbYFfkU0AAY9wu.jpg",
+					"url": "https://t.co/C3PauyRNjm",
+					"display_url": "pic.twitter.com/C3PauyRNjm",
+					"expanded_url": "https://twitter.com/SandyKum4/status/1168358752702984193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168358742234026000,
+					"id_str": "1168358742234025984",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EDbYFfkU0AAY9wu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDbYFfkU0AAY9wu.jpg",
+					"url": "https://t.co/C3PauyRNjm",
+					"display_url": "pic.twitter.com/C3PauyRNjm",
+					"expanded_url": "https://twitter.com/SandyKum4/status/1168358752702984193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1168358749842505700,
+					"id_str": "1168358749842505728",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EDbYF76VAAAdJoV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDbYF76VAAAdJoV.jpg",
+					"url": "https://t.co/C3PauyRNjm",
+					"display_url": "pic.twitter.com/C3PauyRNjm",
+					"expanded_url": "https://twitter.com/SandyKum4/status/1168358752702984193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1154356260617146400,
+			"id_str": "1154356260617146371",
+			"name": "Sandy Kum",
+			"screen_name": "SandyKum4",
+			"location": "香港",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 736,
+			"friends_count": 641,
+			"listed_count": 1,
+			"created_at": "Thu Jul 25 11:42:34 +0000 2019",
+			"favourites_count": 3366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161639706691424256/fpAIrswI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161639706691424256/fpAIrswI_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today, Hong Kong police surrounded a female student and body search without female police in Tai Wai MTR. @Learn2LeadAIPM @CPC_College @QldPolice @vicpdcanada @DC_Police @AlhambraPolice @SuomenPoliisi @fedpolCH @hkpoliceforce #HongKongPolice #TerroristAttackByHKPolice #SOSHK https://t.co/C3PauyRNjm"
+	},
+	{
+		"created_at": "Mon Sep 02 03:14:27 +0000 2019",
+		"id": 1168350683596243000,
+		"id_str": "1168361517869359104",
+		"full_text": "香港中大学生自行组织的开学礼。9月2日是开学的日子，由于校方取消了开学礼，于是学生会组织了这次自发活动。#香港 https://t.co/3h06ijlFOn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "香港",
+					"indices": [
+						52,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1168350556127146000,
+					"id_str": "1168350556127145984",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1168350556127145984/pu/img/lQCvIzHR3LEkO_gZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1168350556127145984/pu/img/lQCvIzHR3LEkO_gZ.jpg",
+					"url": "https://t.co/3h06ijlFOn",
+					"display_url": "pic.twitter.com/3h06ijlFOn",
+					"expanded_url": "https://twitter.com/VOAChinese/status/1168350683596242944/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168350556127146000,
+					"id_str": "1168350556127145984",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1168350556127145984/pu/img/lQCvIzHR3LEkO_gZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1168350556127145984/pu/img/lQCvIzHR3LEkO_gZ.jpg",
+					"url": "https://t.co/3h06ijlFOn",
+					"display_url": "pic.twitter.com/3h06ijlFOn",
+					"expanded_url": "https://twitter.com/VOAChinese/status/1168350683596242944/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25092,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1168350556127145984/pu/vid/480x270/5kyd9Ov4PEbw82SQ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1168350556127145984/pu/pl/BflzpuTSHA2Refwh.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1168350556127145984/pu/vid/640x360/lZJAYfaA_UJflUdS.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1168350556127145984/pu/vid/1280x720/A8_wROdUY5Nxj9B1.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8149482,
+			"id_str": "8149482",
+			"name": "美国之音中文网",
+			"screen_name": "VOAChinese",
+			"location": "通晓美中大事 锁定美国之音",
+			"description": "美国之音中文官方推特",
+			"url": "https://t.co/q0iatGvJ2n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q0iatGvJ2n",
+							"expanded_url": "http://www.voachinese.com",
+							"display_url": "voachinese.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 864575,
+			"friends_count": 159,
+			"listed_count": 3577,
+			"created_at": "Mon Aug 13 01:36:54 +0000 2007",
+			"favourites_count": 918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 192635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7396DA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151229232506441733/oL1DDxF3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151229232506441733/oL1DDxF3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8149482/1564603170",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "D71111",
+			"profile_sidebar_fill_color": "FFDCDC",
+			"profile_text_color": "0A1550",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 154,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "香港中大学生自行组织的开学礼。9月2日是开学的日子，由于校方取消了开学礼，于是学生会组织了这次自发活动。#香港 https://t.co/3h06ijlFOn"
+	},
+	{
 		"created_at": "Mon Sep 02 00:21:25 +0000 2019",
 		"id": 1168303835841847300,
 		"id_str": "1168317972756213760",
