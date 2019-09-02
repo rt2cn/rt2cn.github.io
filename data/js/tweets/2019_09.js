@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 02 00:21:25 +0000 2019",
+		"id": 1168303835841847300,
+		"id_str": "1168317972756213760",
+		"full_text": "This is so sad https://t.co/dWkQ5DGiUD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1168202452119642000,
+					"id_str": "1168202452119642112",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1168202452119642112/pu/img/w1irC6qX68CytZH7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1168202452119642112/pu/img/w1irC6qX68CytZH7.jpg",
+					"url": "https://t.co/dWkQ5DGiUD",
+					"display_url": "pic.twitter.com/dWkQ5DGiUD",
+					"expanded_url": "https://twitter.com/yuen_cecil/status/1168202475712569344/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1168202475712569300,
+					"source_status_id_str": "1168202475712569344",
+					"source_user_id": 1167083254823800800,
+					"source_user_id_str": "1167083254823800833"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168202452119642000,
+					"id_str": "1168202452119642112",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1168202452119642112/pu/img/w1irC6qX68CytZH7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1168202452119642112/pu/img/w1irC6qX68CytZH7.jpg",
+					"url": "https://t.co/dWkQ5DGiUD",
+					"display_url": "pic.twitter.com/dWkQ5DGiUD",
+					"expanded_url": "https://twitter.com/yuen_cecil/status/1168202475712569344/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1168202475712569300,
+					"source_status_id_str": "1168202475712569344",
+					"source_user_id": 1167083254823800800,
+					"source_user_id_str": "1167083254823800833",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3333,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1168202452119642112/pu/vid/720x720/h3dt35mcG87Wv1lA.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1168202452119642112/pu/pl/R-IMOk1Y9v0CHiYq.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1168202452119642112/pu/vid/480x480/NUktc3OnNGKfm9U1.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1168202452119642112/pu/vid/320x320/vq1xnZsjEqwX6yrL.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1167083254823800800,
+							"id_str": "1167083254823800833",
+							"name": "Cecil Yuen",
+							"screen_name": "yuen_cecil",
+							"location": "香港",
+							"description": "#HongKongers never walk alone #followbackhongkong",
+							"url": "https://t.co/4h0a7giz5d",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/4h0a7giz5d",
+											"expanded_url": "https://cthr.ctgoodjobs.hk/Blog/connet",
+											"display_url": "cthr.ctgoodjobs.hk/Blog/connet",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 254,
+							"friends_count": 461,
+							"listed_count": 0,
+							"created_at": "Thu Aug 29 14:35:18 +0000 2019",
+							"favourites_count": 66,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 26,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1167084453782405122/TC5YGneb_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167084453782405122/TC5YGneb_normal.jpg",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1152774186793746400,
+			"id_str": "1152774186793746432",
+			"name": "donttreadonHK",
+			"screen_name": "DonttreadonH",
+			"location": "",
+			"description": "Don't tread on Hong Kong",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1343,
+			"friends_count": 454,
+			"listed_count": 10,
+			"created_at": "Sun Jul 21 02:55:58 +0000 2019",
+			"favourites_count": 6671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1153005114703003648/dRBFnN-f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1153005114703003648/dRBFnN-f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1152774186793746432/1566609404",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is so sad https://t.co/dWkQ5DGiUD"
+	},
+	{
 		"created_at": "Sun Sep 01 16:08:47 +0000 2019",
 		"id": 1168171904449929200,
 		"id_str": "1168193997929635841",
