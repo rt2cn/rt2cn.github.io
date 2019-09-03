@@ -1,6 +1,1693 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 03 02:33:55 +0000 2019",
+		"id": 1168583294230966300,
+		"id_str": "1168713705447706626",
+		"full_text": "今天林鄭月娥的錄音被路透社曝光，進一步證實了各界的判斷：中共不許林鄭月娥辭職。中共就是個黑社會運作模式組織，上了賊船就下不來。上周香港政府有一個奇怪的聲明：特首林鄭月娥的觀點不代表特區政府。中共一方面需要林鄭月娥背鍋，另一方面不再信任林鄭月娥。值得關注的是：目前誰在指揮香港警察？",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2865179814,
+			"id_str": "2865179814",
+			"name": "LIFETIME 視界",
+			"screen_name": "LifetimeUSCN",
+			"location": "United States",
+			"description": "Independent #China issues and #US -China relations researcher. Any media is welcome to use the comments here unconditionally.",
+			"url": "https://t.co/0w8VjW3FaQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0w8VjW3FaQ",
+							"expanded_url": "https://www.facebook.com/lifetimeuscn/",
+							"display_url": "facebook.com/lifetimeuscn/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147196,
+			"friends_count": 245,
+			"listed_count": 953,
+			"created_at": "Sun Oct 19 15:02:14 +0000 2014",
+			"favourites_count": 22281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1150450353382412291/OKwhOUYP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150450353382412291/OKwhOUYP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2865179814/1567266645",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 290,
+		"favorite_count": 846,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "今天林鄭月娥的錄音被路透社曝光，進一步證實了各界的判斷：中共不許林鄭月娥辭職。中共就是個黑社會運作模式組織，上了賊船就下不來。上周香港政府有一個奇怪的聲明：特首林鄭月娥的觀點不代表特區政府。中共一方面需要林鄭月娥背鍋，另一方面不再信任林鄭月娥。值得關注的是：目前誰在指揮香港警察？"
+	},
+	{
+		"created_at": "Tue Sep 03 02:33:46 +0000 2019",
+		"id": 1168586085099659300,
+		"id_str": "1168713666188984320",
+		"full_text": "香港警方今天再次逮捕了浸會大學學生會會長方仲賢。警方逮捕的理由非常荒唐：在街上攬住方仲賢之後，發現有不屬於他的物品，以「盜竊罪」名義逮捕。事實上，方仲賢撿到一個錢包，早上出門之前已與失主取得聯繫，正要交給失主。警方顯然出於政治迫害逮捕方仲賢，方母已向媒體透露他兒子拾金不昧的過程。 https://t.co/MnevpBL9VG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1168586062949576700,
+					"id_str": "1168586062949576704",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EDem1TOU8AA-4-D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDem1TOU8AA-4-D.jpg",
+					"url": "https://t.co/MnevpBL9VG",
+					"display_url": "pic.twitter.com/MnevpBL9VG",
+					"expanded_url": "https://twitter.com/LifetimeUSCN/status/1168586085099659265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168586062949576700,
+					"id_str": "1168586062949576704",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EDem1TOU8AA-4-D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDem1TOU8AA-4-D.jpg",
+					"url": "https://t.co/MnevpBL9VG",
+					"display_url": "pic.twitter.com/MnevpBL9VG",
+					"expanded_url": "https://twitter.com/LifetimeUSCN/status/1168586085099659265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2865179814,
+			"id_str": "2865179814",
+			"name": "LIFETIME 視界",
+			"screen_name": "LifetimeUSCN",
+			"location": "United States",
+			"description": "Independent #China issues and #US -China relations researcher. Any media is welcome to use the comments here unconditionally.",
+			"url": "https://t.co/0w8VjW3FaQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0w8VjW3FaQ",
+							"expanded_url": "https://www.facebook.com/lifetimeuscn/",
+							"display_url": "facebook.com/lifetimeuscn/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147196,
+			"friends_count": 245,
+			"listed_count": 953,
+			"created_at": "Sun Oct 19 15:02:14 +0000 2014",
+			"favourites_count": 22281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1150450353382412291/OKwhOUYP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150450353382412291/OKwhOUYP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2865179814/1567266645",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 284,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "香港警方今天再次逮捕了浸會大學學生會會長方仲賢。警方逮捕的理由非常荒唐：在街上攬住方仲賢之後，發現有不屬於他的物品，以「盜竊罪」名義逮捕。事實上，方仲賢撿到一個錢包，早上出門之前已與失主取得聯繫，正要交給失主。警方顯然出於政治迫害逮捕方仲賢，方母已向媒體透露他兒子拾金不昧的過程。 https://t.co/MnevpBL9VG"
+	},
+	{
+		"created_at": "Tue Sep 03 02:32:18 +0000 2019",
+		"id": 1168708457429688300,
+		"id_str": "1168713296893095936",
+		"full_text": "路透社獨家得到香港特首林鄭玉娥和一批商人會面時的錄音。這是洗白自己？推責？還是安撫香港商人？但可以肯定的是，她受控於中央。路透社獨家披露林鄭月娥錄音：中央沒有計劃派入解放軍  https://t.co/AovPVnRL7z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AovPVnRL7z",
+					"expanded_url": "https://stimme-de.de/2019/09/03/4504/",
+					"display_url": "stimme-de.de/2019/09/03/450…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1076090121248739300,
+			"id_str": "1076090121248739333",
+			"name": "Die Stimme Deutschlands 德國之音🎗️",
+			"screen_name": "SDeutschlands",
+			"location": "Berlin, Germany",
+			"description": "一個有態度的在綫媒體，由一群志願者運作。https://t.co/dS0B8OJXYF",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dS0B8OJXYF",
+							"expanded_url": "https://stimme-de.de",
+							"display_url": "stimme-de.de",
+							"indices": [
+								20,
+								43
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16714,
+			"friends_count": 172,
+			"listed_count": 110,
+			"created_at": "Fri Dec 21 12:20:52 +0000 2018",
+			"favourites_count": 1586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154175884821245953/c7u4YeJa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154175884821245953/c7u4YeJa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1076090121248739333/1565729482",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "路透社獨家得到香港特首林鄭玉娥和一批商人會面時的錄音。這是洗白自己？推責？還是安撫香港商人？但可以肯定的是，她受控於中央。路透社獨家披露林鄭月娥錄音：中央沒有計劃派入解放軍  https://t.co/AovPVnRL7z"
+	},
+	{
+		"created_at": "Tue Sep 03 02:30:04 +0000 2019",
+		"id": 1168521464901001200,
+		"id_str": "1168712736693469186",
+		"full_text": "谷歌公布了一些技术细节，表示至少在过去两年间，某些社群的iPhone用户数据可能被窃取。科技网站TechCrunch称，攻击主要针对维吾尔人。https://t.co/QzBVlSptK8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QzBVlSptK8",
+					"expanded_url": "https://p.dw.com/p/3Osty",
+					"display_url": "p.dw.com/p/3Osty",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.socialoomph.com\" rel=\"nofollow\">SocialOomph</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 143810986,
+			"id_str": "143810986",
+			"name": "DW 中文- 德国之声",
+			"screen_name": "dw_chinese",
+			"location": "德国 波恩",
+			"description": "德国之声中文官方推特：德国国际广播电台中文资讯服务，来自德国，介绍德国，聚焦华语区时政、经济、社会新闻，为您提供多媒体信息服务、背景报道、观点评论。欢迎积极参与互动!http://t.co/oMbOaq3Zcw",
+			"url": "http://t.co/Z16eWjXA2b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Z16eWjXA2b",
+							"expanded_url": "http://www.dw.com/chinese",
+							"display_url": "dw.com/chinese",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/oMbOaq3Zcw",
+							"expanded_url": "http://bit.ly/dwlegalnotice",
+							"display_url": "bit.ly/dwlegalnotice",
+							"indices": [
+								83,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 195251,
+			"friends_count": 7,
+			"listed_count": 1288,
+			"created_at": "Fri May 14 13:16:33 +0000 2010",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 44876,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F4F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905053498173214721/3PZLD_5D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905053498173214721/3PZLD_5D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/143810986/1535356877",
+			"profile_link_color": "0099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "谷歌公布了一些技术细节，表示至少在过去两年间，某些社群的iPhone用户数据可能被窃取。科技网站TechCrunch称，攻击主要针对维吾尔人。https://t.co/QzBVlSptK8"
+	},
+	{
+		"created_at": "Tue Sep 03 02:29:52 +0000 2019",
+		"id": 1168642254438916000,
+		"id_str": "1168712686869340161",
+		"full_text": "立陶宛外交部表示，一些反对这场集会的示威者8月23日当天接近了支持香港民主的示威队伍，而中国使馆工作人员则\"牵涉组织非法活动\"。https://t.co/Ww9p86WBxK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ww9p86WBxK",
+					"expanded_url": "https://p.dw.com/p/3OtKS",
+					"display_url": "p.dw.com/p/3OtKS",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.socialoomph.com\" rel=\"nofollow\">SocialOomph</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 143810986,
+			"id_str": "143810986",
+			"name": "DW 中文- 德国之声",
+			"screen_name": "dw_chinese",
+			"location": "德国 波恩",
+			"description": "德国之声中文官方推特：德国国际广播电台中文资讯服务，来自德国，介绍德国，聚焦华语区时政、经济、社会新闻，为您提供多媒体信息服务、背景报道、观点评论。欢迎积极参与互动!http://t.co/oMbOaq3Zcw",
+			"url": "http://t.co/Z16eWjXA2b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Z16eWjXA2b",
+							"expanded_url": "http://www.dw.com/chinese",
+							"display_url": "dw.com/chinese",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/oMbOaq3Zcw",
+							"expanded_url": "http://bit.ly/dwlegalnotice",
+							"display_url": "bit.ly/dwlegalnotice",
+							"indices": [
+								83,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 195251,
+			"friends_count": 7,
+			"listed_count": 1288,
+			"created_at": "Fri May 14 13:16:33 +0000 2010",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 44876,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F4F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905053498173214721/3PZLD_5D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905053498173214721/3PZLD_5D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/143810986/1535356877",
+			"profile_link_color": "0099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 334,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "立陶宛外交部表示，一些反对这场集会的示威者8月23日当天接近了支持香港民主的示威队伍，而中国使馆工作人员则\"牵涉组织非法活动\"。https://t.co/Ww9p86WBxK"
+	},
+	{
+		"created_at": "Tue Sep 03 02:23:23 +0000 2019",
+		"id": 1168385663743357000,
+		"id_str": "1168711055587127296",
+		"full_text": "羅冠聰是香港最年輕的立法會議員，23歲高票當選，香港立法會議員薪酬加津貼400多萬一年，論收入，五毛發帖一輩子賺不到的錢，還有臉叫人廢青🙄。後被人大釋法褫奪議員資格，今年初就公開宣佈耶魯收了他入學，還是全額獎學金，八月去開學。我看中國是嫉妒瘋了，亂造謠言。 https://t.co/509MhgiJzv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1168385655245688800,
+					"id_str": "1168385655245688838",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EDbwkCWU0AYGvmc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDbwkCWU0AYGvmc.jpg",
+					"url": "https://t.co/509MhgiJzv",
+					"display_url": "pic.twitter.com/509MhgiJzv",
+					"expanded_url": "https://twitter.com/sanzhao41/status/1168385663743356929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 581,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 992,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 329,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168385655245688800,
+					"id_str": "1168385655245688838",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EDbwkCWU0AYGvmc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDbwkCWU0AYGvmc.jpg",
+					"url": "https://t.co/509MhgiJzv",
+					"display_url": "pic.twitter.com/509MhgiJzv",
+					"expanded_url": "https://twitter.com/sanzhao41/status/1168385663743356929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 581,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 992,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 329,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1162532347276738600,
+			"id_str": "1162532347276738562",
+			"name": "三爪1",
+			"screen_name": "sanzhao41",
+			"location": "Hong Kong",
+			"description": "和理優HKer。三爪大號被限制，小號",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7190,
+			"friends_count": 2137,
+			"listed_count": 45,
+			"created_at": "Sat Aug 17 01:11:36 +0000 2019",
+			"favourites_count": 4806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162533505131151360/OtVtN5hH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162533505131151360/OtVtN5hH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1162532347276738562/1566004562",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 235,
+		"favorite_count": 736,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "羅冠聰是香港最年輕的立法會議員，23歲高票當選，香港立法會議員薪酬加津貼400多萬一年，論收入，五毛發帖一輩子賺不到的錢，還有臉叫人廢青🙄。後被人大釋法褫奪議員資格，今年初就公開宣佈耶魯收了他入學，還是全額獎學金，八月去開學。我看中國是嫉妒瘋了，亂造謠言。 https://t.co/509MhgiJzv"
+	},
+	{
+		"created_at": "Tue Sep 03 02:20:34 +0000 2019",
+		"id": 1168577143128805400,
+		"id_str": "1168710343310360578",
+		"full_text": "HKBU SU president Keith Fong has just been arrested for the second time in four weeks - this time for alleged theft\n\nStudent media reports that Fong was trying to return a wallet that a BU student had left behind at a class boycott rally earlier in the day https://t.co/2wv5EqjX33 https://t.co/VADlVZi1DI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2wv5EqjX33",
+					"expanded_url": "https://www.facebook.com/279926822076021/posts/2428857563849592?sfns=mo",
+					"display_url": "facebook.com/27992682207602…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1168577134949912600,
+					"id_str": "1168577134949912576",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EDeetn1VUAAaG0w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDeetn1VUAAaG0w.jpg",
+					"url": "https://t.co/VADlVZi1DI",
+					"display_url": "pic.twitter.com/VADlVZi1DI",
+					"expanded_url": "https://twitter.com/aaronMCN/status/1168577143128805386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 484,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168577134949912600,
+					"id_str": "1168577134949912576",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EDeetn1VUAAaG0w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDeetn1VUAAaG0w.jpg",
+					"url": "https://t.co/VADlVZi1DI",
+					"display_url": "pic.twitter.com/VADlVZi1DI",
+					"expanded_url": "https://twitter.com/aaronMCN/status/1168577143128805386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 484,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492256905,
+			"id_str": "492256905",
+			"name": "Aaron Mc Nicholas",
+			"screen_name": "aaronMCN",
+			"location": "Hong Kong",
+			"description": "Reporter @business. Previously with @Storyful, @IrelandAMVMTV. Irish in Hong Kong, fascinated by local politics. amcnicholas2@bloomberg.net 麥固崙",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15169,
+			"friends_count": 1910,
+			"listed_count": 333,
+			"created_at": "Tue Feb 14 14:27:19 +0000 2012",
+			"favourites_count": 1408,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "460D14",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/545320650894618624/qQ1UAMNJ_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/545320650894618624/qQ1UAMNJ_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492256905/1560351472",
+			"profile_link_color": "B5903F",
+			"profile_sidebar_border_color": "4A131B",
+			"profile_sidebar_fill_color": "4A131B",
+			"profile_text_color": "B36E32",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 101,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HKBU SU president Keith Fong has just been arrested for the second time in four weeks - this time for alleged theft\n\nStudent media reports that Fong was trying to return a wallet that a BU student had left behind at a class boycott rally earlier in the day https://t.co/2wv5EqjX33 https://t.co/VADlVZi1DI"
+	},
+	{
+		"created_at": "Tue Sep 03 02:17:17 +0000 2019",
+		"id": 1168502439957299200,
+		"id_str": "1168709518446010370",
+		"full_text": "漫畫家畫依幅維尼好靚~不過變態辣椒都畫得好好睇\n\nhttps://t.co/4vNrQqS8B5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4vNrQqS8B5",
+					"expanded_url": "https://www.deviantart.com/cluedog/art/Xi-Jinping-the-Pooh-802804329",
+					"display_url": "deviantart.com/cluedog/art/Xi…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 962962087210135600,
+			"id_str": "962962087210135554",
+			"name": "123",
+			"screen_name": "sabacheung",
+			"location": "",
+			"description": "Avatar illust by me，Come from Hong Kong🌸，CCP 50cents🚫/CCP Fenqing🚫,Artist,Fanart/Political Art，Retweet、畫畫tweet多\n*此帳號發表的作品不會用於商業用途，僅純粹興趣畫畫及分享",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1456,
+			"friends_count": 1412,
+			"listed_count": 4,
+			"created_at": "Mon Feb 12 08:10:27 +0000 2018",
+			"favourites_count": 10835,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168449533967130624/FpqVaKcB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168449533967130624/FpqVaKcB_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "漫畫家畫依幅維尼好靚~不過變態辣椒都畫得好好睇\n\nhttps://t.co/4vNrQqS8B5"
+	},
+	{
+		"created_at": "Tue Sep 03 02:15:33 +0000 2019",
+		"id": 1168703004070961200,
+		"id_str": "1168709084251602946",
+		"full_text": "依件事我都keep住同自己講要堅強d \n現實同電影唔一樣 唔會有英雄出現 要靠自己 我地對抗緊唔係一個香港政府咁簡單 但我地並唔係一個人 要保持警覺 https://t.co/XjqxstLQEX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XjqxstLQEX",
+					"expanded_url": "https://twitter.com/summersurfi/status/1168588193731448832",
+					"display_url": "twitter.com/summersurfi/st…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1163449447117754400,
+			"id_str": "1163449447117754369",
+			"name": "Tony Kwok",
+			"screen_name": "TonyKwo32720673",
+			"location": "",
+			"description": "Hongkong",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 145,
+			"friends_count": 279,
+			"listed_count": 1,
+			"created_at": "Mon Aug 19 13:55:49 +0000 2019",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167497628516417536/YVFzO3_j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167497628516417536/YVFzO3_j_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1168588193731448800,
+		"quoted_status_id_str": "1168588193731448832",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XjqxstLQEX",
+			"expanded": "https://twitter.com/summersurfi/status/1168588193731448832",
+			"display": "twitter.com/summersurfi/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 02 18:15:11 +0000 2019",
+			"id": 1168588193731448800,
+			"id_str": "1168588193731448832",
+			"full_text": "每晚夜深就會喊\n為左今日發生嘅事喊\n再諗返琴日、前日、一直到69開始\n感覺愈來愈無力\n又喊\n\n冇人知幾時完 \n冇人知會點完\n但我好想見到煲底相見嗰一日\n大家可以盡情崩潰大喊大笑嘅一日\n我想堅持到嗰一日為止\n希望你都一樣\n\n唔開心就做港豬休息下\n唔好離開我地\n我地已經失去左好多人\n唔好再走 求求你",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				148
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1028344265586303000,
+				"id_str": "1028344265586302976",
+				"name": "Summer",
+				"screen_name": "summersurfi",
+				"location": "Hong Kong",
+				"description": "Desperate HK citizen - STAND WITH HONG KONG UNTIL DAWN #FREEHONGKONG",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1503,
+				"friends_count": 728,
+				"listed_count": 3,
+				"created_at": "Sat Aug 11 18:15:53 +0000 2018",
+				"favourites_count": 632,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 269,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1164505464287088640/KsGJyg64_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164505464287088640/KsGJyg64_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1028344265586302976/1567226624",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "zh"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "依件事我都keep住同自己講要堅強d \n現實同電影唔一樣 唔會有英雄出現 要靠自己 我地對抗緊唔係一個香港政府咁簡單 但我地並唔係一個人 要保持警覺 https://t.co/XjqxstLQEX"
+	},
+	{
+		"created_at": "Tue Sep 03 02:12:46 +0000 2019",
+		"id": 1168686477867409400,
+		"id_str": "1168708383907700736",
+		"full_text": "昨天胡锡进在香港电台访谈节目中，谈到“香港警察太克制”了。被主持人追问怎么叫“太克制”？胡锡进说“这么久了没有流血、没有真正的流血、警察没有打死人，这够克制了吧？”，原来中共舆论一再说香港警察太克制的意思是在埋怨香港警察没杀人。胡锡进和中共党媒的参照系是天安门大屠杀。😱 https://t.co/EFi8NODUki",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1168686474323267600,
+					"id_str": "1168686474323267590",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EDgCKAvXkAYWA4f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDgCKAvXkAYWA4f.jpg",
+					"url": "https://t.co/EFi8NODUki",
+					"display_url": "pic.twitter.com/EFi8NODUki",
+					"expanded_url": "https://twitter.com/LifetimeUSCN/status/1168686477867409409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 623,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 623,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168686474323267600,
+					"id_str": "1168686474323267590",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EDgCKAvXkAYWA4f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDgCKAvXkAYWA4f.jpg",
+					"url": "https://t.co/EFi8NODUki",
+					"display_url": "pic.twitter.com/EFi8NODUki",
+					"expanded_url": "https://twitter.com/LifetimeUSCN/status/1168686477867409409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 623,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 623,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2865179814,
+			"id_str": "2865179814",
+			"name": "LIFETIME 視界",
+			"screen_name": "LifetimeUSCN",
+			"location": "United States",
+			"description": "Independent #China issues and #US -China relations researcher. Any media is welcome to use the comments here unconditionally.",
+			"url": "https://t.co/0w8VjW3FaQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0w8VjW3FaQ",
+							"expanded_url": "https://www.facebook.com/lifetimeuscn/",
+							"display_url": "facebook.com/lifetimeuscn/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147196,
+			"friends_count": 245,
+			"listed_count": 953,
+			"created_at": "Sun Oct 19 15:02:14 +0000 2014",
+			"favourites_count": 22281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1150450353382412291/OKwhOUYP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150450353382412291/OKwhOUYP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2865179814/1567266645",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 133,
+		"favorite_count": 324,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "昨天胡锡进在香港电台访谈节目中，谈到“香港警察太克制”了。被主持人追问怎么叫“太克制”？胡锡进说“这么久了没有流血、没有真正的流血、警察没有打死人，这够克制了吧？”，原来中共舆论一再说香港警察太克制的意思是在埋怨香港警察没杀人。胡锡进和中共党媒的参照系是天安门大屠杀。😱 https://t.co/EFi8NODUki"
+	},
+	{
+		"created_at": "Tue Sep 03 02:11:25 +0000 2019",
+		"id": 1168704935141265400,
+		"id_str": "1168708040444514305",
+		"full_text": "仍然一句，始作俑者，其無後乎。你林鄭搞到香港咁撚亂，而家不死不降不走，做三不特首。美國英國領事館你林鄭唔敢去，你講一句“撤回”，同全香港人道歉“我柒鳥”，然後一程車去港灣道瑞士領事館，你驚阿爺好似套Miles 22咁喺中途隊冧你？ https://t.co/GTh3ylkSyK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GTh3ylkSyK",
+					"expanded_url": "https://twitter.com/nickname002002/status/1168698996283432960",
+					"display_url": "twitter.com/nickname002002…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3098432988,
+			"id_str": "3098432988",
+			"name": "複雜物堆",
+			"screen_name": "complexmatter",
+			"location": "香港",
+			"description": "方丈，非常方丈。🙂",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5586,
+			"friends_count": 565,
+			"listed_count": 43,
+			"created_at": "Fri Mar 20 00:20:25 +0000 2015",
+			"favourites_count": 8785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/995985390900137984/lVgAdbb8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/995985390900137984/lVgAdbb8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3098432988/1545104937",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1168698996283433000,
+		"quoted_status_id_str": "1168698996283432960",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GTh3ylkSyK",
+			"expanded": "https://twitter.com/nickname002002/status/1168698996283432960",
+			"display": "twitter.com/nickname002002…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 03 01:35:28 +0000 2019",
+			"id": 1168698996283433000,
+			"id_str": "1168698996283432960",
+			"full_text": "沒有辭不了的職…先宣佈撤回再撤銷控罪…第二日夾硬開記招辭職…就睇下你個心做唔做啫…你是死皮賴臉戀棧權力的…唔好講你是香港人同中央的磨心啦 https://t.co/tkTJJSTnwB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				68
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tkTJJSTnwB",
+						"expanded_url": "https://twitter.com/sanzhao41/status/1168696553294290944",
+						"display_url": "twitter.com/sanzhao41/stat…",
+						"indices": [
+							69,
+							92
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 831057985,
+				"id_str": "831057985",
+				"name": "暱名",
+				"screen_name": "nickname002002",
+				"location": "hk",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1975,
+				"friends_count": 244,
+				"listed_count": 18,
+				"created_at": "Tue Sep 18 13:23:17 +0000 2012",
+				"favourites_count": 2227,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9973,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1160961421040951297/U5E1uuV8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160961421040951297/U5E1uuV8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/831057985/1564706401",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1168696553294291000,
+			"quoted_status_id_str": "1168696553294290944",
+			"quoted_status_permalink": {
+				"url": "https://t.co/tkTJJSTnwB",
+				"expanded": "https://twitter.com/sanzhao41/status/1168696553294290944",
+				"display": "twitter.com/sanzhao41/stat…"
+			},
+			"retweet_count": 2,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "zh"
+		},
+		"retweet_count": 4,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "仍然一句，始作俑者，其無後乎。你林鄭搞到香港咁撚亂，而家不死不降不走，做三不特首。美國英國領事館你林鄭唔敢去，你講一句“撤回”，同全香港人道歉“我柒鳥”，然後一程車去港灣道瑞士領事館，你驚阿爺好似套Miles 22咁喺中途隊冧你？ https://t.co/GTh3ylkSyK"
+	},
+	{
+		"created_at": "Tue Sep 03 02:10:14 +0000 2019",
+		"id": 1168391682372636700,
+		"id_str": "1168707744750288896",
+		"full_text": "如果你問我，俾記者影到喺金鍾銅鑼灣嗰知陀槍掟燃燒彈嘅「示威者」係咪一定係警察，我唔敢百分百肯定。但呢個扮示威者嘅黑警真係有陀槍。 https://t.co/pftdPNrqor",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pftdPNrqor",
+					"expanded_url": "https://ift.tt/2lu5BDm",
+					"display_url": "ift.tt/2lu5BDm",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 865187683034816500,
+			"id_str": "865187683034816512",
+			"name": "林勉一",
+			"screen_name": "lamminyat",
+			"location": "Hong Kong",
+			"description": "Braw Lam，香港文字工廠工人",
+			"url": "https://t.co/ufYRTp6kDc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ufYRTp6kDc",
+							"expanded_url": "https://www.facebook.com/newcolonyhk/",
+							"display_url": "facebook.com/newcolonyhk/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 223,
+			"friends_count": 91,
+			"listed_count": 3,
+			"created_at": "Thu May 18 12:49:52 +0000 2017",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865189416947470337/p3ELHzZO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865189416947470337/p3ELHzZO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/865187683034816512/1495112483",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "如果你問我，俾記者影到喺金鍾銅鑼灣嗰知陀槍掟燃燒彈嘅「示威者」係咪一定係警察，我唔敢百分百肯定。但呢個扮示威者嘅黑警真係有陀槍。 https://t.co/pftdPNrqor"
+	},
+	{
 		"created_at": "Tue Sep 03 02:07:28 +0000 2019",
 		"id": 1168706294322086000,
 		"id_str": "1168707049418633217",
