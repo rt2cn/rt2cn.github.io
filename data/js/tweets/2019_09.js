@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 03 00:57:59 +0000 2019",
+		"id": 1168688283410321400,
+		"id_str": "1168689561809096706",
+		"full_text": "@Imearthling 嗱，用國際標準睇 雨傘革命 贏/輸：\n①政府阻止唔到街頭戰，贏；\n②政府推的政改假普選被否決，贏；\n③中共想暴力化雨革不成功，贏；\n④全世界第一次線上組織公民抗命，人類史上第一次，贏；\n⑤全城討論政治，全城公民教育，贏；\n⑥從街頭陣地撤退，輸。\n\n我哋贏到七彩，而且⑥, we are back, right?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Imearthling",
+					"name": "Earthling",
+					"id": 1146216567526441000,
+					"id_str": "1146216567526440960",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1168684809880662000,
+		"in_reply_to_status_id_str": "1168684809880662021",
+		"in_reply_to_user_id": 1146216567526441000,
+		"in_reply_to_user_id_str": "1146216567526440960",
+		"in_reply_to_screen_name": "Imearthling",
+		"user": {
+			"id": 137192398,
+			"id_str": "137192398",
+			"name": "I rebel 我反抗 ergo sum 故我在🌈🗽🌊🌲🐼Ⓐ🔭😈☔",
+			"screen_name": "LynxEvil",
+			"location": "Hong Kong, Earth, Milky Way",
+			"description": "爭取【住民自決+UBI】的香港人HKer、Atheist、Liberal、經濟學人，華人稱 洋奴漢奸、黃納稱 姨黑左瘋、民社稱 資本主義納粹走狗。 喜歡批評愚蠢的思想、嘲諷自命偉光正的耶撚、儒撚、道德撚、正義撚。 (RT/Follow≠Agree)推動 大規模公民抗命計劃： #一億人同一天上街散步",
+			"url": "https://t.co/S2V8KAhUVZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S2V8KAhUVZ",
+							"expanded_url": "https://lynxevil.blogspot.com/2019/02/",
+							"display_url": "lynxevil.blogspot.com/2019/02/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5952,
+			"friends_count": 4693,
+			"listed_count": 65,
+			"created_at": "Mon Apr 26 02:33:55 +0000 2010",
+			"favourites_count": 62068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1153134175278358529/efBQ7WEU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1153134175278358529/efBQ7WEU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/137192398/1530868480",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "@Imearthling 嗱，用國際標準睇 雨傘革命 贏/輸：\n①政府阻止唔到街頭戰，贏；\n②政府推的政改假普選被否決，贏；\n③中共想暴力化雨革不成功，贏；\n④全世界第一次線上組織公民抗命，人類史上第一次，贏；\n⑤全城討論政治，全城公民教育，贏；\n⑥從街頭陣地撤退，輸。\n\n我哋贏到七彩，而且⑥, we are back, right?"
+	},
+	{
+		"created_at": "Tue Sep 03 00:56:27 +0000 2019",
+		"id": 1168563841594118100,
+		"id_str": "1168689174804869120",
+		"full_text": "港人值得庆幸的一点是美国正在修理中国，大举星条旗是完全有理由的。但是港人必须不断向国会两党和国际社会施压，一旦川普把香港卖了，跟你包握手言和，港人的末日可能就不远了。当然，如果能够拉拢更多国家一起落井下石，那么香港就会达到最舒服的阶段。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1168548200547881000,
+		"in_reply_to_status_id_str": "1168548200547880961",
+		"in_reply_to_user_id": 35219547,
+		"in_reply_to_user_id_str": "35219547",
+		"in_reply_to_screen_name": "hnjhj",
+		"user": {
+			"id": 35219547,
+			"id_str": "35219547",
+			"name": "Jian Alan Huang",
+			"screen_name": "hnjhj",
+			"location": "Shanghai, Hong Kong, Sydney",
+			"description": "An atheistic, skeptic, liberalist. A software engineer and researcher. I seek, I think, I speak.",
+			"url": "https://t.co/8dc82SjorG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8dc82SjorG",
+							"expanded_url": "http://blog.hnjhj.com",
+							"display_url": "blog.hnjhj.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35396,
+			"friends_count": 504,
+			"listed_count": 334,
+			"created_at": "Sat Apr 25 14:15:32 +0000 2009",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35219547/1348406013",
+			"profile_link_color": "22497E",
+			"profile_sidebar_border_color": "AFAFAF",
+			"profile_sidebar_fill_color": "E7E7E7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0073b76548e5984f",
+			"url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+			"place_type": "city",
+			"name": "Sydney",
+			"full_name": "Sydney, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							150.520928608,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-33.578140996
+						],
+						[
+							150.520928608,
+							-33.578140996
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "港人值得庆幸的一点是美国正在修理中国，大举星条旗是完全有理由的。但是港人必须不断向国会两党和国际社会施压，一旦川普把香港卖了，跟你包握手言和，港人的末日可能就不远了。当然，如果能够拉拢更多国家一起落井下石，那么香港就会达到最舒服的阶段。"
+	},
+	{
+		"created_at": "Tue Sep 03 00:56:16 +0000 2019",
+		"id": 1168548200547881000,
+		"id_str": "1168689131133837313",
+		"full_text": "这篇谈话很显然是故意放风出来，表明港府和中央关系已经岌岌可危。林郑曝料可能有几个原因：\n- 有意撇清责任，后果已经严重到无法承担\n- 权衡之下背锅的代价已经高过被党内整肃\n- 正常途径辞职不行那就得逼中共主动换人\n- 即使揽炒也不能放过包子",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1168543020041433000,
+		"in_reply_to_status_id_str": "1168543020041433088",
+		"in_reply_to_user_id": 35219547,
+		"in_reply_to_user_id_str": "35219547",
+		"in_reply_to_screen_name": "hnjhj",
+		"user": {
+			"id": 35219547,
+			"id_str": "35219547",
+			"name": "Jian Alan Huang",
+			"screen_name": "hnjhj",
+			"location": "Shanghai, Hong Kong, Sydney",
+			"description": "An atheistic, skeptic, liberalist. A software engineer and researcher. I seek, I think, I speak.",
+			"url": "https://t.co/8dc82SjorG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8dc82SjorG",
+							"expanded_url": "http://blog.hnjhj.com",
+							"display_url": "blog.hnjhj.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35396,
+			"friends_count": 504,
+			"listed_count": 334,
+			"created_at": "Sat Apr 25 14:15:32 +0000 2009",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35219547/1348406013",
+			"profile_link_color": "22497E",
+			"profile_sidebar_border_color": "AFAFAF",
+			"profile_sidebar_fill_color": "E7E7E7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0073b76548e5984f",
+			"url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+			"place_type": "city",
+			"name": "Sydney",
+			"full_name": "Sydney, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							150.520928608,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-33.578140996
+						],
+						[
+							150.520928608,
+							-33.578140996
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 186,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "这篇谈话很显然是故意放风出来，表明港府和中央关系已经岌岌可危。林郑曝料可能有几个原因：\n- 有意撇清责任，后果已经严重到无法承担\n- 权衡之下背锅的代价已经高过被党内整肃\n- 正常途径辞职不行那就得逼中共主动换人\n- 即使揽炒也不能放过包子"
+	},
+	{
 		"created_at": "Mon Sep 02 14:08:05 +0000 2019",
 		"id": 1167979460139683800,
 		"id_str": "1168526009693614081",
