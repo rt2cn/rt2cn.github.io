@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 03 12:07:26 +0000 2019",
+		"id": 1168448840187306000,
+		"id_str": "1168858033910362113",
+		"full_text": "街邊見到小學生（約小四小五）：\nA：你有冇去遊行呀？\nB：冇呀 但去左集會。\nA： 有分別咩？\nB： 有呀，集會安全d. 起同一個地方集會。唔洗畀人打\nA： 你想做警察嗎？做警察可以打人。可以用棍係咁打。打死人。\nB：唔想做呀。我唔打人。我要讀大學。\nA： 我媽媽讀浸會大學。\nB：間大學教游水的？（😂).",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 963944694,
+			"id_str": "963944694",
+			"name": "Sampson",
+			"screen_name": "MGxDyunsl",
+			"location": "",
+			"description": "Keep rolling",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104,
+			"friends_count": 144,
+			"listed_count": 1,
+			"created_at": "Thu Nov 22 09:38:11 +0000 2012",
+			"favourites_count": 96,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 56,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969465889090252801/LVzXLfzW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969465889090252801/LVzXLfzW_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 338,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "街邊見到小學生（約小四小五）：\nA：你有冇去遊行呀？\nB：冇呀 但去左集會。\nA： 有分別咩？\nB： 有呀，集會安全d. 起同一個地方集會。唔洗畀人打\nA： 你想做警察嗎？做警察可以打人。可以用棍係咁打。打死人。\nB：唔想做呀。我唔打人。我要讀大學。\nA： 我媽媽讀浸會大學。\nB：間大學教游水的？（😂)."
+	},
+	{
+		"created_at": "Tue Sep 03 12:04:10 +0000 2019",
+		"id": 1168712551682596900,
+		"id_str": "1168857213957484544",
+		"full_text": "特首这个的确是三煞位，老鼠钻风箱。老懵懂和梁书记都得到了上面的垂青（虽然梁书记很勉强）做了副主席，曾荫权得到了香港人的同情和谅解，林郑月娥的结局可能是两头不到岸，香港人永远会记得她造成的这些血债，而CCP也恨她。性格决定命运。政治人物尤其是。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 88889865,
+			"id_str": "88889865",
+			"name": "linyujing",
+			"screen_name": "linyujing",
+			"location": "Melbourne, Victoria",
+			"description": "IT男。 I never argue, I just explain why I'm right. 不准搬我推文到墙内，可以发墙内的我自己会发豆瓣，不打招呼就搬我推文冚家铲。国内还在用的网站大概只有豆瓣了：https://t.co/RoffgUUXHx",
+			"url": "https://t.co/HzCHOU1okd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HzCHOU1okd",
+							"expanded_url": "https://thestandnews.com/author/%E6%9E%97%E6%84%88%E9%9D%9C/",
+							"display_url": "thestandnews.com/author/%E6%9E%…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RoffgUUXHx",
+							"expanded_url": "https://www.douban.com/people/magic828/",
+							"display_url": "douban.com/people/magic82…",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15023,
+			"friends_count": 2086,
+			"listed_count": 155,
+			"created_at": "Tue Nov 10 09:21:57 +0000 2009",
+			"favourites_count": 2552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804231987976372224/QE9LD6nH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804231987976372224/QE9LD6nH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/88889865/1404274338",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "特首这个的确是三煞位，老鼠钻风箱。老懵懂和梁书记都得到了上面的垂青（虽然梁书记很勉强）做了副主席，曾荫权得到了香港人的同情和谅解，林郑月娥的结局可能是两头不到岸，香港人永远会记得她造成的这些血债，而CCP也恨她。性格决定命运。政治人物尤其是。"
+	},
+	{
 		"created_at": "Tue Sep 03 09:29:05 +0000 2019",
 		"id": 1168481399021564000,
 		"id_str": "1168818182750113792",
