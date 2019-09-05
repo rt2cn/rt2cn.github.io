@@ -1,6 +1,1008 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 05 02:07:00 +0000 2019",
+		"id": 1169230843824312300,
+		"id_str": "1169431704781635584",
+		"full_text": "過去三個月香港人經歷了\n1️⃣兩次港鐵恐襲\n2️⃣兩人被斬\n3️⃣超過1000人被捕\n4️⃣超過100人被檢控\n此時此刻才「撤回」？\n分明製造「大條道理」\n「我都撤回啦！打X你～唔好問點解！」\n#以退為進 \n#FreeHongKong https://t.co/uv0pZonSez",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "以退為進",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "FreeHongKong",
+					"indices": [
+						104,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1169230801101185000,
+					"id_str": "1169230801101185024",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1169230801101185024/pu/img/5uUdoqGpkt0YpD81.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1169230801101185024/pu/img/5uUdoqGpkt0YpD81.jpg",
+					"url": "https://t.co/uv0pZonSez",
+					"display_url": "pic.twitter.com/uv0pZonSez",
+					"expanded_url": "https://twitter.com/hkerblog/status/1169230843824312322/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169230801101185000,
+					"id_str": "1169230801101185024",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1169230801101185024/pu/img/5uUdoqGpkt0YpD81.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1169230801101185024/pu/img/5uUdoqGpkt0YpD81.jpg",
+					"url": "https://t.co/uv0pZonSez",
+					"display_url": "pic.twitter.com/uv0pZonSez",
+					"expanded_url": "https://twitter.com/hkerblog/status/1169230843824312322/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 88560,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1169230801101185024/pu/vid/1280x720/d6yLgNn75bOotKEJ.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1169230801101185024/pu/vid/480x270/5Upk5jkSh81VLI1n.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1169230801101185024/pu/vid/640x360/K3NUBfleBwIoPffy.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1169230801101185024/pu/pl/HDsIBMNSHscD2baF.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 386917429,
+			"id_str": "386917429",
+			"name": "香港人",
+			"screen_name": "hkerblog",
+			"location": "香港",
+			"description": "speaking my mind",
+			"url": "https://t.co/AnyTQofX78",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AnyTQofX78",
+							"expanded_url": "https://instagram.com/hkerblog",
+							"display_url": "instagram.com/hkerblog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14976,
+			"friends_count": 32,
+			"listed_count": 125,
+			"created_at": "Sat Oct 08 04:29:11 +0000 2011",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157999579788263424/BkfUmqx-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157999579788263424/BkfUmqx-_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "35fd5bacecc4c6e5",
+			"url": "https://api.twitter.com/1.1/geo/id/35fd5bacecc4c6e5.json",
+			"place_type": "country",
+			"name": "香港",
+			"full_name": "香港",
+			"country_code": "HK",
+			"country": "香港",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							113.81813,
+							22.1465116
+						],
+						[
+							114.502196,
+							22.1465116
+						],
+						[
+							114.502196,
+							22.614177
+						],
+						[
+							113.81813,
+							22.614177
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 226,
+		"favorite_count": 466,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "過去三個月香港人經歷了\n1️⃣兩次港鐵恐襲\n2️⃣兩人被斬\n3️⃣超過1000人被捕\n4️⃣超過100人被檢控\n此時此刻才「撤回」？\n分明製造「大條道理」\n「我都撤回啦！打X你～唔好問點解！」\n#以退為進 \n#FreeHongKong https://t.co/uv0pZonSez"
+	},
+	{
+		"created_at": "Thu Sep 05 02:05:45 +0000 2019",
+		"id": 1169427591012307000,
+		"id_str": "1169431391504912385",
+		"full_text": "我們要繼續保有民主很簡單，票投給對的人，生生世世呼吸自由空氣\n但說難也是很難，因為有很多人藐視選票跟人權價值，即使看了香港的例子，他們仍會自以為理性的說我只要發大財，自由人權不重要！\n\n為什麼這些人當初要投胎當人我也很納悶？這種生活當頭豬不是剛剛好？完全符合他們期待？ https://t.co/hv7ni7P0tf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1169427544149389300,
+					"id_str": "1169427544149389312",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EDqkJ8-U8AAdg3-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDqkJ8-U8AAdg3-.jpg",
+					"url": "https://t.co/hv7ni7P0tf",
+					"display_url": "pic.twitter.com/hv7ni7P0tf",
+					"expanded_url": "https://twitter.com/gowKE4HReZ7ZBc5/status/1169427591012306946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169427544149389300,
+					"id_str": "1169427544149389312",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EDqkJ8-U8AAdg3-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDqkJ8-U8AAdg3-.jpg",
+					"url": "https://t.co/hv7ni7P0tf",
+					"display_url": "pic.twitter.com/hv7ni7P0tf",
+					"expanded_url": "https://twitter.com/gowKE4HReZ7ZBc5/status/1169427591012306946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1169427555956379600,
+					"id_str": "1169427555956379649",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EDqkKo9VUAE7Yki.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDqkKo9VUAE7Yki.jpg",
+					"url": "https://t.co/hv7ni7P0tf",
+					"display_url": "pic.twitter.com/hv7ni7P0tf",
+					"expanded_url": "https://twitter.com/gowKE4HReZ7ZBc5/status/1169427591012306946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1169427572083445800,
+					"id_str": "1169427572083445760",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EDqkLlCU0AAIguA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDqkLlCU0AAIguA.jpg",
+					"url": "https://t.co/hv7ni7P0tf",
+					"display_url": "pic.twitter.com/hv7ni7P0tf",
+					"expanded_url": "https://twitter.com/gowKE4HReZ7ZBc5/status/1169427591012306946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 885553072289701900,
+			"id_str": "885553072289701889",
+			"name": "程樂樂",
+			"screen_name": "gowKE4HReZ7ZBc5",
+			"location": "台灣",
+			"description": "從生到死到底有多遠？\n呼呼之間\n\n從迷到悟到底有多遠？\n一念之間\n\n從愛到恨到底有多遠？\n無常之間\n\n從心到心到底有多遠？\n天地之間",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13193,
+			"friends_count": 88,
+			"listed_count": 66,
+			"created_at": "Thu Jul 13 17:34:40 +0000 2017",
+			"favourites_count": 150840,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167774942722551808/mnosBrUP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167774942722551808/mnosBrUP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/885553072289701889/1537379666",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "我們要繼續保有民主很簡單，票投給對的人，生生世世呼吸自由空氣\n但說難也是很難，因為有很多人藐視選票跟人權價值，即使看了香港的例子，他們仍會自以為理性的說我只要發大財，自由人權不重要！\n\n為什麼這些人當初要投胎當人我也很納悶？這種生活當頭豬不是剛剛好？完全符合他們期待？ https://t.co/hv7ni7P0tf"
+	},
+	{
+		"created_at": "Thu Sep 05 01:54:06 +0000 2019",
+		"id": 1169267779607961600,
+		"id_str": "1169428459321548802",
+		"full_text": "林郑撤回修例，如果不是又玩花样的话，相当于承认自己推动修例是个错误。示威者因为抗议特首犯错而上街，既然承认错误，那么理所应当不追究抗议者的责任，至少应该立刻叫停暴力抓捕示威者的行动。另外三项诉求理应同时接受，不然无法从逻辑上自圆其说，只能说明特首并不诚心撤回修例，而是在玩弄政治。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1169236157130870800,
+		"in_reply_to_status_id_str": "1169236157130870784",
+		"in_reply_to_user_id": 35219547,
+		"in_reply_to_user_id_str": "35219547",
+		"in_reply_to_screen_name": "hnjhj",
+		"user": {
+			"id": 35219547,
+			"id_str": "35219547",
+			"name": "Jian Alan Huang",
+			"screen_name": "hnjhj",
+			"location": "Shanghai, Hong Kong, Sydney",
+			"description": "An atheistic, skeptic, liberalist. A software engineer and researcher. I seek, I think, I speak.",
+			"url": "https://t.co/8dc82SjorG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8dc82SjorG",
+							"expanded_url": "http://blog.hnjhj.com",
+							"display_url": "blog.hnjhj.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35463,
+			"friends_count": 506,
+			"listed_count": 334,
+			"created_at": "Sat Apr 25 14:15:32 +0000 2009",
+			"favourites_count": 225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35219547/1348406013",
+			"profile_link_color": "22497E",
+			"profile_sidebar_border_color": "AFAFAF",
+			"profile_sidebar_fill_color": "E7E7E7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0073b76548e5984f",
+			"url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+			"place_type": "city",
+			"name": "Sydney",
+			"full_name": "Sydney, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							150.520928608,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-33.578140996
+						],
+						[
+							150.520928608,
+							-33.578140996
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "林郑撤回修例，如果不是又玩花样的话，相当于承认自己推动修例是个错误。示威者因为抗议特首犯错而上街，既然承认错误，那么理所应当不追究抗议者的责任，至少应该立刻叫停暴力抓捕示威者的行动。另外三项诉求理应同时接受，不然无法从逻辑上自圆其说，只能说明特首并不诚心撤回修例，而是在玩弄政治。"
+	},
+	{
+		"created_at": "Thu Sep 05 01:54:02 +0000 2019",
+		"id": 1169236157130870800,
+		"id_str": "1169428445039906822",
+		"full_text": "林郑确实不简单，玩政治的好手。对付北京她没有硬顶也没有一味顺从，而是通过一些小手段跟北京周旋。对付香港民众，每次都在无足轻重的问题上以最小的让步做最大的文章，原则问题寸步不让。策略上则拉拢警察打压示威者，拉拢建制派打压民主派，拉拢和理非打压勇武派。翻手为云覆手为雨，手段非常老练。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35219547,
+			"id_str": "35219547",
+			"name": "Jian Alan Huang",
+			"screen_name": "hnjhj",
+			"location": "Shanghai, Hong Kong, Sydney",
+			"description": "An atheistic, skeptic, liberalist. A software engineer and researcher. I seek, I think, I speak.",
+			"url": "https://t.co/8dc82SjorG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8dc82SjorG",
+							"expanded_url": "http://blog.hnjhj.com",
+							"display_url": "blog.hnjhj.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35463,
+			"friends_count": 506,
+			"listed_count": 334,
+			"created_at": "Sat Apr 25 14:15:32 +0000 2009",
+			"favourites_count": 225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35219547/1348406013",
+			"profile_link_color": "22497E",
+			"profile_sidebar_border_color": "AFAFAF",
+			"profile_sidebar_fill_color": "E7E7E7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0073b76548e5984f",
+			"url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+			"place_type": "city",
+			"name": "Sydney",
+			"full_name": "Sydney, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							150.520928608,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-33.578140996
+						],
+						[
+							150.520928608,
+							-33.578140996
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "林郑确实不简单，玩政治的好手。对付北京她没有硬顶也没有一味顺从，而是通过一些小手段跟北京周旋。对付香港民众，每次都在无足轻重的问题上以最小的让步做最大的文章，原则问题寸步不让。策略上则拉拢警察打压示威者，拉拢建制派打压民主派，拉拢和理非打压勇武派。翻手为云覆手为雨，手段非常老练。"
+	},
+	{
+		"created_at": "Thu Sep 05 01:53:49 +0000 2019",
+		"id": 1169228153174339600,
+		"id_str": "1169428388672671744",
+		"full_text": "官方宣布正式撤回条约，说明CCP已经打算进行冷处理，只要满足作为导火索的一个诉求再让其他四条不了了之，示威者内部就会出现分化，民间意愿可能转为见好就收，导致坚持抗争的人逐渐被边缘化，最后对剩余示威者秋后算账，这样不用大规模镇压也能平息整个事件，我猜测CCP的算盘就是这么打的",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1155617351284510700,
+			"id_str": "1155617351284510720",
+			"name": "Henry G 🇺🇸🇬🇧",
+			"screen_name": "hg4867",
+			"location": "Georgia, USA",
+			"description": "美籍亚裔/政治不正确/保守主义/偏爱二次元/负能量/香港独立支持/欧盟解体支持/大英不属于欧洲🇬🇧🇺🇸 I admire facts and logics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1540,
+			"friends_count": 1056,
+			"listed_count": 7,
+			"created_at": "Sun Jul 28 23:13:41 +0000 2019",
+			"favourites_count": 1624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1155635911738216448/i8gaLsXJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155635911738216448/i8gaLsXJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1155617351284510720/1564357983",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 260,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "官方宣布正式撤回条约，说明CCP已经打算进行冷处理，只要满足作为导火索的一个诉求再让其他四条不了了之，示威者内部就会出现分化，民间意愿可能转为见好就收，导致坚持抗争的人逐渐被边缘化，最后对剩余示威者秋后算账，这样不用大规模镇压也能平息整个事件，我猜测CCP的算盘就是这么打的"
+	},
+	{
+		"created_at": "Thu Sep 05 01:52:59 +0000 2019",
+		"id": 1168205066546770000,
+		"id_str": "1169428179792121857",
+		"full_text": "想收集下意見\n我見好多人話https://t.co/F9O1jBWmKf有用 \n個網都有唔少active user\n但係無論tg twitter都得丁水咁多人肯follow\n搞到我次次要人手forward十幾個group\n\n網站 https://t.co/F9O1jBWmKf\nTelegram: https://t.co/Ys1SsS3P3H\n\n#HKmap\n#FollowBackHongKong\n#LIHKG\n#FreeHK\n#SundayThoughts",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HKmap",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "FollowBackHongKong",
+					"indices": [
+						181,
+						200
+					]
+				},
+				{
+					"text": "LIHKG",
+					"indices": [
+						201,
+						207
+					]
+				},
+				{
+					"text": "FreeHK",
+					"indices": [
+						208,
+						215
+					]
+				},
+				{
+					"text": "SundayThoughts",
+					"indices": [
+						216,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F9O1jBWmKf",
+					"expanded_url": "http://hkmap.live",
+					"display_url": "hkmap.live",
+					"indices": [
+						13,
+						36
+					]
+				},
+				{
+					"url": "https://t.co/F9O1jBWmKf",
+					"expanded_url": "http://hkmap.live",
+					"display_url": "hkmap.live",
+					"indices": [
+						115,
+						138
+					]
+				},
+				{
+					"url": "https://t.co/Ys1SsS3P3H",
+					"expanded_url": "http://t.me/hkmaplive",
+					"display_url": "t.me/hkmaplive",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1166900806299177000,
+			"id_str": "1166900806299176962",
+			"name": "HKmap.live 即時地圖 (follow and retweet) HK Live Map",
+			"screen_name": "hkmaplive",
+			"location": "Hong Kong",
+			"description": "互動即時地圖 https://t.co/vYcrQuLAYS\nTelegram: https://t.co/1PVnIwYjm4\nInteractive live map for #antiELAB protests in Hong Kong\nView and Report deployment, hot zones, etc.",
+			"url": "https://t.co/vYcrQuLAYS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vYcrQuLAYS",
+							"expanded_url": "http://hkmap.live",
+							"display_url": "hkmap.live",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vYcrQuLAYS",
+							"expanded_url": "http://hkmap.live",
+							"display_url": "hkmap.live",
+							"indices": [
+								7,
+								30
+							]
+						},
+						{
+							"url": "https://t.co/1PVnIwYjm4",
+							"expanded_url": "http://t.me/hkmaplive",
+							"display_url": "t.me/hkmaplive",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 739,
+			"listed_count": 16,
+			"created_at": "Thu Aug 29 02:30:27 +0000 2019",
+			"favourites_count": 348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168214286109294592/6Fw8XD90_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168214286109294592/6Fw8XD90_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1166900806299176962/1567051079",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 123,
+		"favorite_count": 146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "想收集下意見\n我見好多人話https://t.co/F9O1jBWmKf有用 \n個網都有唔少active user\n但係無論tg twitter都得丁水咁多人肯follow\n搞到我次次要人手forward十幾個group\n\n網站 https://t.co/F9O1jBWmKf\nTelegram: https://t.co/Ys1SsS3P3H\n\n#HKmap\n#FollowBackHongKong\n#LIHKG\n#FreeHK\n#SundayThoughts"
+	},
+	{
 		"created_at": "Thu Sep 05 01:07:12 +0000 2019",
 		"id": 1169402868022923300,
 		"id_str": "1169416655744765952",
