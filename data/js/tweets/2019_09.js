@@ -1,6 +1,1268 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 06 16:21:30 +0000 2019",
+		"id": 1169905731211915300,
+		"id_str": "1170009138279145473",
+		"full_text": "2019年9月6日\n有言在先，如果有日我自殺，我可以好肯定同大家講一定係被自殺，即使話搵到遺書都係被迫寫。\n\nP.S 認真的，大家都應該咁寫明，以防被自殺時外界當成自殺。 https://t.co/SwNorMX6fC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1169905696600518700,
+					"id_str": "1169905696600518656",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/EDxXCFqUcAA9y2_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDxXCFqUcAA9y2_.jpg",
+					"url": "https://t.co/SwNorMX6fC",
+					"display_url": "pic.twitter.com/SwNorMX6fC",
+					"expanded_url": "https://twitter.com/czkeychung/status/1169905731211915265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1087,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1087,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169905696600518700,
+					"id_str": "1169905696600518656",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/EDxXCFqUcAA9y2_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDxXCFqUcAA9y2_.jpg",
+					"url": "https://t.co/SwNorMX6fC",
+					"display_url": "pic.twitter.com/SwNorMX6fC",
+					"expanded_url": "https://twitter.com/czkeychung/status/1169905731211915265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1087,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1087,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 140129370,
+			"id_str": "140129370",
+			"name": "Czkey Chung",
+			"screen_name": "czkeychung",
+			"location": "Hong Kong",
+			"description": "DaiTen Z/ 大天Z @ Hong Kong Wrestling Federation (HKWF), HK Wrestler. 1 x AWGC Junior Heavyweight Champion. A Pentaxian from Hong Kong focus on Black&White",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169,
+			"friends_count": 402,
+			"listed_count": 0,
+			"created_at": "Tue May 04 17:29:46 +0000 2010",
+			"favourites_count": 649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/495643601167056896/ZwT79OZW_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/495643601167056896/ZwT79OZW_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/140129370/1561655235",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "2019年9月6日\n有言在先，如果有日我自殺，我可以好肯定同大家講一定係被自殺，即使話搵到遺書都係被迫寫。\n\nP.S 認真的，大家都應該咁寫明，以防被自殺時外界當成自殺。 https://t.co/SwNorMX6fC"
+	},
+	{
+		"created_at": "Fri Sep 06 16:17:18 +0000 2019",
+		"id": 1170005440048111600,
+		"id_str": "1170008081150988289",
+		"full_text": "0004 旺角 \n逾百防暴佈陣 速龍在後\nhttps://t.co/cg3DWHe6Sh telegram: https://t.co/tHAePdYf9n #LIHKG #831HK #831突發 #HKmap #StandWithHongKong #antiELAB #chinazism #HongKongProtests #HongKong #HK https://t.co/VSgivdUR2w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIHKG",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "831HK",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "831突發",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "HKmap",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "StandWithHongKong",
+					"indices": [
+						107,
+						125
+					]
+				},
+				{
+					"text": "antiELAB",
+					"indices": [
+						126,
+						135
+					]
+				},
+				{
+					"text": "chinazism",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "HongKongProtests",
+					"indices": [
+						147,
+						164
+					]
+				},
+				{
+					"text": "HongKong",
+					"indices": [
+						165,
+						174
+					]
+				},
+				{
+					"text": "HK",
+					"indices": [
+						175,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cg3DWHe6Sh",
+					"expanded_url": "https://ift.tt/2MWPudW",
+					"display_url": "ift.tt/2MWPudW",
+					"indices": [
+						21,
+						44
+					]
+				},
+				{
+					"url": "https://t.co/tHAePdYf9n",
+					"expanded_url": "https://ift.tt/3119uPX",
+					"display_url": "ift.tt/3119uPX",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1170005438865268700,
+					"id_str": "1170005438865268736",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EDyxv2jW4AA-thv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDyxv2jW4AA-thv.jpg",
+					"url": "https://t.co/VSgivdUR2w",
+					"display_url": "pic.twitter.com/VSgivdUR2w",
+					"expanded_url": "https://twitter.com/hkmaplive/status/1170005440048111616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 985,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 985,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 654,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170005438865268700,
+					"id_str": "1170005438865268736",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EDyxv2jW4AA-thv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDyxv2jW4AA-thv.jpg",
+					"url": "https://t.co/VSgivdUR2w",
+					"display_url": "pic.twitter.com/VSgivdUR2w",
+					"expanded_url": "https://twitter.com/hkmaplive/status/1170005440048111616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 985,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 985,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 654,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1166900806299177000,
+			"id_str": "1166900806299176962",
+			"name": "HKmap.live 即時地圖 (follow and retweet) HK Live Map",
+			"screen_name": "hkmaplive",
+			"location": "Hong Kong",
+			"description": "互動即時地圖 https://t.co/vYcrQuLAYS\nTelegram: https://t.co/1PVnIwYjm4\nInteractive live map for #antiELAB protests in Hong Kong\nView and Report deployment, hot zones, etc.",
+			"url": "https://t.co/vYcrQuLAYS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vYcrQuLAYS",
+							"expanded_url": "http://hkmap.live",
+							"display_url": "hkmap.live",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vYcrQuLAYS",
+							"expanded_url": "http://hkmap.live",
+							"display_url": "hkmap.live",
+							"indices": [
+								7,
+								30
+							]
+						},
+						{
+							"url": "https://t.co/1PVnIwYjm4",
+							"expanded_url": "http://t.me/hkmaplive",
+							"display_url": "t.me/hkmaplive",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1718,
+			"friends_count": 744,
+			"listed_count": 17,
+			"created_at": "Thu Aug 29 02:30:27 +0000 2019",
+			"favourites_count": 361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168214286109294592/6Fw8XD90_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168214286109294592/6Fw8XD90_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1166900806299176962/1567051079",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "0004 旺角 \n逾百防暴佈陣 速龍在後\nhttps://t.co/cg3DWHe6Sh telegram: https://t.co/tHAePdYf9n #LIHKG #831HK #831突發 #HKmap #StandWithHongKong #antiELAB #chinazism #HongKongProtests #HongKong #HK https://t.co/VSgivdUR2w"
+	},
+	{
+		"created_at": "Fri Sep 06 16:16:35 +0000 2019",
+		"id": 1170007703483142100,
+		"id_str": "1170007899869011968",
+		"full_text": "An amazing art work describing all the courageous Hong Kong protestors.\n\n《兄弟爬山》\n“Our Ventage”\n\nCredit:\nig: @harcourtromanticist\nhttps://t.co/ASWCKt5OOD\n\n#HongKongProtesters #StandWithHongKong #FightForFreedom https://t.co/bslJVHz9lr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HongKongProtesters",
+					"indices": [
+						153,
+						172
+					]
+				},
+				{
+					"text": "StandWithHongKong",
+					"indices": [
+						173,
+						191
+					]
+				},
+				{
+					"text": "FightForFreedom",
+					"indices": [
+						192,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ASWCKt5OOD",
+					"expanded_url": "https://instagram.com/p/B2EQ1FPnDh1/",
+					"display_url": "instagram.com/p/B2EQ1FPnDh1/",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1170007695169998800,
+					"id_str": "1170007695169998848",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EDyzzL8U0AAK7gK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDyzzL8U0AAK7gK.jpg",
+					"url": "https://t.co/bslJVHz9lr",
+					"display_url": "pic.twitter.com/bslJVHz9lr",
+					"expanded_url": "https://twitter.com/antyslash/status/1170007703483142144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170007695169998800,
+					"id_str": "1170007695169998848",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EDyzzL8U0AAK7gK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDyzzL8U0AAK7gK.jpg",
+					"url": "https://t.co/bslJVHz9lr",
+					"display_url": "pic.twitter.com/bslJVHz9lr",
+					"expanded_url": "https://twitter.com/antyslash/status/1170007703483142144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3092125800,
+			"id_str": "3092125800",
+			"name": "Anty",
+			"screen_name": "antyslash",
+			"location": "Hong Kong",
+			"description": "五大訴求，缺一不可\n光復香港，時代革命\nPlease stand with Hong Kong and fight for freedom together!\n#HongKongProtests\n#StandWithHongKong\n#FollowBackHongKong",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 592,
+			"friends_count": 568,
+			"listed_count": 1,
+			"created_at": "Tue Mar 17 04:18:41 +0000 2015",
+			"favourites_count": 579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167477030218125314/GELC4per_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167477030218125314/GELC4per_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3092125800/1566901354",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An amazing art work describing all the courageous Hong Kong protestors.\n\n《兄弟爬山》\n“Our Ventage”\n\nCredit:\nig: @harcourtromanticist\nhttps://t.co/ASWCKt5OOD\n\n#HongKongProtesters #StandWithHongKong #FightForFreedom https://t.co/bslJVHz9lr"
+	},
+	{
+		"created_at": "Fri Sep 06 16:10:49 +0000 2019",
+		"id": 1170001963406094300,
+		"id_str": "1170006446802657280",
+		"full_text": "香港迅速大陆化真是令人沮丧，被自杀、抢尸体、找录像带正逐渐成为常态。港人正在经历大陆十年维稳走过的路，而且还是速成班。 https://t.co/kRHWCwT7J6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kRHWCwT7J6",
+					"expanded_url": "https://twitter.com/virginia0724/status/1169996941792436224",
+					"display_url": "twitter.com/virginia0724/s…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35219547,
+			"id_str": "35219547",
+			"name": "Jian Alan Huang",
+			"screen_name": "hnjhj",
+			"location": "Shanghai, Hong Kong, Sydney",
+			"description": "An atheistic, skeptic, liberalist. A software engineer and researcher. I seek, I think, I speak.",
+			"url": "https://t.co/8dc82SjorG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8dc82SjorG",
+							"expanded_url": "http://blog.hnjhj.com",
+							"display_url": "blog.hnjhj.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35488,
+			"friends_count": 508,
+			"listed_count": 333,
+			"created_at": "Sat Apr 25 14:15:32 +0000 2009",
+			"favourites_count": 227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35219547/1348406013",
+			"profile_link_color": "22497E",
+			"profile_sidebar_border_color": "AFAFAF",
+			"profile_sidebar_fill_color": "E7E7E7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0073b76548e5984f",
+			"url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+			"place_type": "city",
+			"name": "Sydney",
+			"full_name": "Sydney, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							150.520928608,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-33.578140996
+						],
+						[
+							150.520928608,
+							-33.578140996
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1169996941792436200,
+		"quoted_status_id_str": "1169996941792436224",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kRHWCwT7J6",
+			"expanded": "https://twitter.com/virginia0724/status/1169996941792436224",
+			"display": "twitter.com/virginia0724/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 06 15:33:03 +0000 2019",
+			"id": 1169996941792436200,
+			"id_str": "1169996941792436224",
+			"full_text": "2019年9月6日 不自殺聲明\n如果有天我自殺了，那一定是被自殺，並非出自本人意願。\n即使尋獲任何遺書，都是偽造/被迫寫。 https://t.co/FY65Wwuc8X",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				61
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FY65Wwuc8X",
+						"expanded_url": "https://twitter.com/lynxevil/status/1169974338147123200",
+						"display_url": "twitter.com/lynxevil/statu…",
+						"indices": [
+							62,
+							85
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2465738197,
+				"id_str": "2465738197",
+				"name": "Virginia🇭🇰",
+				"screen_name": "virginia0724",
+				"location": "Hong Kong",
+				"description": "HKer #staystrong #standwithhongkong Cantonese, can speak a little bit English. My homeland have been destroied and my heart was broken💔",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1216,
+				"friends_count": 1065,
+				"listed_count": 7,
+				"created_at": "Sun Apr 27 07:02:16 +0000 2014",
+				"favourites_count": 1728,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2348,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1166022931656269824/2jk7C7Kr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166022931656269824/2jk7C7Kr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2465738197/1566836506",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1169974338147123200,
+			"quoted_status_id_str": "1169974338147123200",
+			"quoted_status_permalink": {
+				"url": "https://t.co/FY65Wwuc8X",
+				"expanded": "https://twitter.com/lynxevil/status/1169974338147123200",
+				"display": "twitter.com/lynxevil/statu…"
+			},
+			"retweet_count": 4,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "zh"
+		},
+		"retweet_count": 25,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "香港迅速大陆化真是令人沮丧，被自杀、抢尸体、找录像带正逐渐成为常态。港人正在经历大陆十年维稳走过的路，而且还是速成班。 https://t.co/kRHWCwT7J6"
+	},
+	{
+		"created_at": "Fri Sep 06 16:10:42 +0000 2019",
+		"id": 1169954516608811000,
+		"id_str": "1170006418390507520",
+		"full_text": "最近香港人上推特围炉抱团取暖的场面，像极了09年大封杀时大陆网络难民涌入推特时的情景。当年也是找组织、互相关注转发控诉。人口构成、意识形态也类似，以自由主义阵营的年轻人为主，包括大批作家记者维权活动人士。这也构成了今天推特简体中文用户群的雏形。谁会想到这两拨人如今在这里胜利会师了。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35219547,
+			"id_str": "35219547",
+			"name": "Jian Alan Huang",
+			"screen_name": "hnjhj",
+			"location": "Shanghai, Hong Kong, Sydney",
+			"description": "An atheistic, skeptic, liberalist. A software engineer and researcher. I seek, I think, I speak.",
+			"url": "https://t.co/8dc82SjorG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8dc82SjorG",
+							"expanded_url": "http://blog.hnjhj.com",
+							"display_url": "blog.hnjhj.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35488,
+			"friends_count": 508,
+			"listed_count": 333,
+			"created_at": "Sat Apr 25 14:15:32 +0000 2009",
+			"favourites_count": 227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35219547/1348406013",
+			"profile_link_color": "22497E",
+			"profile_sidebar_border_color": "AFAFAF",
+			"profile_sidebar_fill_color": "E7E7E7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0073b76548e5984f",
+			"url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+			"place_type": "city",
+			"name": "Sydney",
+			"full_name": "Sydney, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							150.520928608,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-33.578140996
+						],
+						[
+							150.520928608,
+							-33.578140996
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 182,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "最近香港人上推特围炉抱团取暖的场面，像极了09年大封杀时大陆网络难民涌入推特时的情景。当年也是找组织、互相关注转发控诉。人口构成、意识形态也类似，以自由主义阵营的年轻人为主，包括大批作家记者维权活动人士。这也构成了今天推特简体中文用户群的雏形。谁会想到这两拨人如今在这里胜利会师了。"
+	},
+	{
+		"created_at": "Fri Sep 06 16:10:33 +0000 2019",
+		"id": 1169807432509321200,
+		"id_str": "1170006379903574017",
+		"full_text": "何韵诗 @hoccgoomusic 与巴丢草 @badiucao 同样身兼艺术家和民主活动人士的双重身份，随着 #香港“反送中”运动向海外扩散，二人在澳大利亚展开公开对话，用创作来传达各自的政治立场。他们在接受ABC中文专访时讲述了举办这场对话活动的原因。阅读全文: https://t.co/l2wexe6FeZ https://t.co/4lUk1cqeVM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "香港",
+					"indices": [
+						56,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hoccgoomusic",
+					"name": "Denise Ho (HOCC)",
+					"id": 22910230,
+					"id_str": "22910230",
+					"indices": [
+						4,
+						17
+					]
+				},
+				{
+					"screen_name": "badiucao",
+					"name": "巴丢草  Badiucao",
+					"id": 267695291,
+					"id_str": "267695291",
+					"indices": [
+						23,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/l2wexe6FeZ",
+					"expanded_url": "http://ab.co/2m1qi9R",
+					"display_url": "ab.co/2m1qi9R",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1169786904859959300,
+					"id_str": "1169786904859959301",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EDvr462U8AAYRC1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDvr462U8AAYRC1.jpg",
+					"url": "https://t.co/4lUk1cqeVM",
+					"display_url": "pic.twitter.com/4lUk1cqeVM",
+					"expanded_url": "https://twitter.com/ABCChinese/status/1169807432509321216/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1616,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169786904859959300,
+					"id_str": "1169786904859959301",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EDvr462U8AAYRC1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDvr462U8AAYRC1.jpg",
+					"url": "https://t.co/4lUk1cqeVM",
+					"display_url": "pic.twitter.com/4lUk1cqeVM",
+					"expanded_url": "https://twitter.com/ABCChinese/status/1169807432509321216/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1616,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 248440,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1169786904859959301/pl/sVMH182G2nfqxVhH.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1169786904859959301/vid/480x270/_rjOFSJSvY1z9gfh.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1169786904859959301/vid/1280x720/aJywmyz2mwF6SJpo.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1169786904859959301/vid/640x360/2EQ22h7krNz1U-Co.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "何韵诗和巴丢草接受ABC中文专访",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "http://ab.co/2m1qi9R"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 222793635,
+			"id_str": "222793635",
+			"name": "ABC中文",
+			"screen_name": "ABCChinese",
+			"location": "Australia",
+			"description": "澳大利亚广播公司（ABC）中文官方推特",
+			"url": "https://t.co/Z3fjxXDPrT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z3fjxXDPrT",
+							"expanded_url": "http://www.abc.net.au/chinese",
+							"display_url": "abc.net.au/chinese",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26451,
+			"friends_count": 111,
+			"listed_count": 310,
+			"created_at": "Sat Dec 04 13:33:59 +0000 2010",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986873689906950144/r3HL-PjQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986873689906950144/r3HL-PjQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/222793635/1550709627",
+			"profile_link_color": "0066CC",
+			"profile_sidebar_border_color": "6BD0FF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 209,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "何韵诗 @hoccgoomusic 与巴丢草 @badiucao 同样身兼艺术家和民主活动人士的双重身份，随着 #香港“反送中”运动向海外扩散，二人在澳大利亚展开公开对话，用创作来传达各自的政治立场。他们在接受ABC中文专访时讲述了举办这场对话活动的原因。阅读全文: https://t.co/l2wexe6FeZ https://t.co/4lUk1cqeVM"
+	},
+	{
 		"created_at": "Thu Sep 05 02:07:00 +0000 2019",
 		"id": 1169230843824312300,
 		"id_str": "1169431704781635584",
