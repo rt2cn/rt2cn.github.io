@@ -1,6 +1,457 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 07 07:07:29 +0000 2019",
+		"id": 1170210244863000600,
+		"id_str": "1170232102316625925",
+		"full_text": "https://t.co/uaIRM2okmU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uaIRM2okmU",
+					"expanded_url": "https://drive.google.com/file/d/1ilVC6WbWKOVsYdvUkbrjktwID1pvuwYy/view?fbclid=IwAR1Ny9IXLXmhG-BoXiTEa6yzhRYY1xTQDKJX4gWB0fA4ldoh1wv3YStubxo",
+					"display_url": "drive.google.com/file/d/1ilVC6W…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1170210242472202200,
+		"in_reply_to_status_id_str": "1170210242472202240",
+		"in_reply_to_user_id": 326625501,
+		"in_reply_to_user_id_str": "326625501",
+		"in_reply_to_screen_name": "rachel_cheung1",
+		"user": {
+			"id": 326625501,
+			"id_str": "326625501",
+			"name": "Rachel Cheung",
+			"screen_name": "rachel_cheung1",
+			"location": "Hong Kong",
+			"description": "Culture reporter from Hong Kong @SCMPLifestyle, now temporarily based in Shanghai. Former editor @Varsitycuhk",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8567,
+			"friends_count": 665,
+			"listed_count": 171,
+			"created_at": "Thu Jun 30 06:38:11 +0000 2011",
+			"favourites_count": 2601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156933213534601217/noG61CR3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156933213534601217/noG61CR3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/326625501/1458643274",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/uaIRM2okmU"
+	},
+	{
+		"created_at": "Sat Sep 07 07:07:27 +0000 2019",
+		"id": 1170210242472202200,
+		"id_str": "1170232091700846595",
+		"full_text": "If the bill is withdrawn, out of 1138 students, 600 say they will continue protesting by paralysing the government and 431 say they will escalate in force. The number drops to 452 and 306, if the govt also establishes commission of inquiry. https://t.co/8OuKsFjxcV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170210236562464800,
+					"id_str": "1170210236562464769",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/ED1sApbU4AEqMX6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED1sApbU4AEqMX6.jpg",
+					"url": "https://t.co/8OuKsFjxcV",
+					"display_url": "pic.twitter.com/8OuKsFjxcV",
+					"expanded_url": "https://twitter.com/rachel_cheung1/status/1170210242472202240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 593,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 593,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170210236562464800,
+					"id_str": "1170210236562464769",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/ED1sApbU4AEqMX6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED1sApbU4AEqMX6.jpg",
+					"url": "https://t.co/8OuKsFjxcV",
+					"display_url": "pic.twitter.com/8OuKsFjxcV",
+					"expanded_url": "https://twitter.com/rachel_cheung1/status/1170210242472202240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 593,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 593,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170210236575010800,
+					"id_str": "1170210236575010816",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/ED1sApeUUAAruIy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED1sApeUUAAruIy.jpg",
+					"url": "https://t.co/8OuKsFjxcV",
+					"display_url": "pic.twitter.com/8OuKsFjxcV",
+					"expanded_url": "https://twitter.com/rachel_cheung1/status/1170210242472202240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 593,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 593,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1170210233181819000,
+		"in_reply_to_status_id_str": "1170210233181818880",
+		"in_reply_to_user_id": 326625501,
+		"in_reply_to_user_id_str": "326625501",
+		"in_reply_to_screen_name": "rachel_cheung1",
+		"user": {
+			"id": 326625501,
+			"id_str": "326625501",
+			"name": "Rachel Cheung",
+			"screen_name": "rachel_cheung1",
+			"location": "Hong Kong",
+			"description": "Culture reporter from Hong Kong @SCMPLifestyle, now temporarily based in Shanghai. Former editor @Varsitycuhk",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8567,
+			"friends_count": 665,
+			"listed_count": 171,
+			"created_at": "Thu Jun 30 06:38:11 +0000 2011",
+			"favourites_count": 2601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156933213534601217/noG61CR3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156933213534601217/noG61CR3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/326625501/1458643274",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If the bill is withdrawn, out of 1138 students, 600 say they will continue protesting by paralysing the government and 431 say they will escalate in force. The number drops to 452 and 306, if the govt also establishes commission of inquiry. https://t.co/8OuKsFjxcV"
+	},
+	{
+		"created_at": "Sat Sep 07 07:07:21 +0000 2019",
+		"id": 1170210233181819000,
+		"id_str": "1170232066925039616",
+		"full_text": "Most care about academic results, which is the biggest reason why students will not go on strike in the long term. https://t.co/HpbcvdWNmJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170210227024584700,
+					"id_str": "1170210227024584704",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/ED1sAF5UYAAc7vS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED1sAF5UYAAc7vS.jpg",
+					"url": "https://t.co/HpbcvdWNmJ",
+					"display_url": "pic.twitter.com/HpbcvdWNmJ",
+					"expanded_url": "https://twitter.com/rachel_cheung1/status/1170210233181818880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 520,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 520,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170210227024584700,
+					"id_str": "1170210227024584704",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/ED1sAF5UYAAc7vS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED1sAF5UYAAc7vS.jpg",
+					"url": "https://t.co/HpbcvdWNmJ",
+					"display_url": "pic.twitter.com/HpbcvdWNmJ",
+					"expanded_url": "https://twitter.com/rachel_cheung1/status/1170210233181818880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 520,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 520,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1170210224260538400,
+		"in_reply_to_status_id_str": "1170210224260538368",
+		"in_reply_to_user_id": 326625501,
+		"in_reply_to_user_id_str": "326625501",
+		"in_reply_to_screen_name": "rachel_cheung1",
+		"user": {
+			"id": 326625501,
+			"id_str": "326625501",
+			"name": "Rachel Cheung",
+			"screen_name": "rachel_cheung1",
+			"location": "Hong Kong",
+			"description": "Culture reporter from Hong Kong @SCMPLifestyle, now temporarily based in Shanghai. Former editor @Varsitycuhk",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8567,
+			"friends_count": 665,
+			"listed_count": 171,
+			"created_at": "Thu Jun 30 06:38:11 +0000 2011",
+			"favourites_count": 2601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156933213534601217/noG61CR3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156933213534601217/noG61CR3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/326625501/1458643274",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Most care about academic results, which is the biggest reason why students will not go on strike in the long term. https://t.co/HpbcvdWNmJ"
+	},
+	{
 		"created_at": "Sat Sep 07 02:20:36 +0000 2019",
 		"id": 1170114887701467100,
 		"id_str": "1170159904910237696",
