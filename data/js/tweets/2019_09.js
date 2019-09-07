@@ -1,6 +1,175 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 07 13:51:36 +0000 2019",
+		"id": 1170333448541634600,
+		"id_str": "1170333799869296640",
+		"full_text": "其實大家回憶吓五年前暗角七警事件\n你仲信唔信黑警唔會係無鏡頭嘅情況之下執行私刑？\n\n#新屋嶺 https://t.co/kxpGvrO5yX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "新屋嶺",
+					"indices": [
+						42,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170333442396999700,
+					"id_str": "1170333442396999680",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/ED3cEK7VUAA5bVJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED3cEK7VUAA5bVJ.jpg",
+					"url": "https://t.co/kxpGvrO5yX",
+					"display_url": "pic.twitter.com/kxpGvrO5yX",
+					"expanded_url": "https://twitter.com/freehomekong/status/1170333448541634560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170333442396999700,
+					"id_str": "1170333442396999680",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/ED3cEK7VUAA5bVJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED3cEK7VUAA5bVJ.jpg",
+					"url": "https://t.co/kxpGvrO5yX",
+					"display_url": "pic.twitter.com/kxpGvrO5yX",
+					"expanded_url": "https://twitter.com/freehomekong/status/1170333448541634560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1165482168102969300,
+			"id_str": "1165482168102969344",
+			"name": "香広仁 (908 美領)",
+			"screen_name": "freehomekong",
+			"location": "Hong Kong",
+			"description": "一個愛香港的真・香港人 / A real Hong Konger who loves Hong Kong / 眾志成城 守護我城 / Liberate Hong Kong, The Revolution Of Our Times. #StandWithHongKong #FollowBackHongKong",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1192,
+			"friends_count": 936,
+			"listed_count": 2,
+			"created_at": "Sun Aug 25 04:33:03 +0000 2019",
+			"favourites_count": 1248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1165482864521072640/tPYwOPSu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1165482864521072640/tPYwOPSu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1165482168102969344/1566742644",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "其實大家回憶吓五年前暗角七警事件\n你仲信唔信黑警唔會係無鏡頭嘅情況之下執行私刑？\n\n#新屋嶺 https://t.co/kxpGvrO5yX"
+	},
+	{
 		"created_at": "Sat Sep 07 07:38:41 +0000 2019",
 		"id": 1170212891435208700,
 		"id_str": "1170239952321503233",
