@@ -1,6 +1,1095 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 07 01:20:09 +0000 2019",
+		"id": 1170094758481424400,
+		"id_str": "1170144691075145733",
+		"full_text": "呢幾日啲手足都同我講，佢地好辛苦，好難受，想放棄，晚晚都要靠安眠藥令自己訓得幾耐就幾耐，每次聽到都好驚，好驚第日新聞出現係佢地。我唔知點做，但我覺得我唯一係擔當樂觀既角色去安慰佢地。所以無論發生咩事，應承我撐落去，我地呢場運動係鬥長命！\n#follobackforfolloback \n#5DemandsNot1Less https://t.co/h5eS0hMuX7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "follobackforfolloback",
+					"indices": [
+						119,
+						141
+					]
+				},
+				{
+					"text": "5DemandsNot1Less",
+					"indices": [
+						143,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170094752009601000,
+					"id_str": "1170094752009601025",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/ED0C-j8UwAEEtgr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED0C-j8UwAEEtgr.jpg",
+					"url": "https://t.co/h5eS0hMuX7",
+					"display_url": "pic.twitter.com/h5eS0hMuX7",
+					"expanded_url": "https://twitter.com/Hannnnnah_hk/status/1170094758481424384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170094752009601000,
+					"id_str": "1170094752009601025",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/ED0C-j8UwAEEtgr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED0C-j8UwAEEtgr.jpg",
+					"url": "https://t.co/h5eS0hMuX7",
+					"display_url": "pic.twitter.com/h5eS0hMuX7",
+					"expanded_url": "https://twitter.com/Hannnnnah_hk/status/1170094758481424384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1164968497073385500,
+			"id_str": "1164968497073385472",
+			"name": "/ ハンナ 雪雪 🇭🇰 /",
+			"screen_name": "Hannnnnah_hk",
+			"location": "Hong Kong",
+			"description": "💛 Fight for freedom Stand with Hong Kong",
+			"url": "https://t.co/YjfN2NKeqP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YjfN2NKeqP",
+							"expanded_url": "https://instagram.com/",
+							"display_url": "instagram.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130,
+			"friends_count": 254,
+			"listed_count": 0,
+			"created_at": "Fri Aug 23 18:32:23 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169727790775599104/1ywaL2S3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169727790775599104/1ywaL2S3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1164968497073385472/1566585737",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "zh",
+		"text": "呢幾日啲手足都同我講，佢地好辛苦，好難受，想放棄，晚晚都要靠安眠藥令自己訓得幾耐就幾耐，每次聽到都好驚，好驚第日新聞出現係佢地。我唔知點做，但我覺得我唯一係擔當樂觀既角色去安慰佢地。所以無論發生咩事，應承我撐落去，我地呢場運動係鬥長命！\n#follobackforfolloback \n#5DemandsNot1Less https://t.co/h5eS0hMuX7"
+	},
+	{
+		"created_at": "Sat Sep 07 01:19:27 +0000 2019",
+		"id": 1170130093001150500,
+		"id_str": "1170144514977275904",
+		"full_text": "HKers demand to publish the 31/8 cctv footage from Prince Edward Station where HK police brutally attacked protesters &amp; residents.\nProtesters are missing from that night. Public worried they might b beaten to death by police.\n831太子站港警嗜人监控无法公布原因\n#FreedomHK #antiELAB https://t.co/ZZNgY7Uszs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FreedomHK",
+					"indices": [
+						249,
+						259
+					]
+				},
+				{
+					"text": "antiELAB",
+					"indices": [
+						260,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170130074978275300,
+					"id_str": "1170130074978275328",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/ED0jGoQU0AAf4qa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED0jGoQU0AAf4qa.jpg",
+					"url": "https://t.co/ZZNgY7Uszs",
+					"display_url": "pic.twitter.com/ZZNgY7Uszs",
+					"expanded_url": "https://twitter.com/badiucao/status/1170130093001150464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1560,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 518,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 914,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170130074978275300,
+					"id_str": "1170130074978275328",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/ED0jGoQU0AAf4qa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED0jGoQU0AAf4qa.jpg",
+					"url": "https://t.co/ZZNgY7Uszs",
+					"display_url": "pic.twitter.com/ZZNgY7Uszs",
+					"expanded_url": "https://twitter.com/badiucao/status/1170130093001150464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1560,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 518,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 914,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 267695291,
+			"id_str": "267695291",
+			"name": "巴丢草  Badiucao",
+			"screen_name": "badiucao",
+			"location": "",
+			"description": "Chinese Artist hated by Chinese Gov/ Cartoonist for @CDT @HongKongFP/ FreeSpeech & Humanrights / Check out my ArtShop for support me . 他说：人都是王八蛋",
+			"url": "https://t.co/BpqMNRuD3o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BpqMNRuD3o",
+							"expanded_url": "https://www.badiucao.com/artshop",
+							"display_url": "badiucao.com/artshop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44629,
+			"friends_count": 8634,
+			"listed_count": 424,
+			"created_at": "Thu Mar 17 11:22:49 +0000 2011",
+			"favourites_count": 18852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 116895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/267695291/1565220501",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 127,
+		"favorite_count": 173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HKers demand to publish the 31/8 cctv footage from Prince Edward Station where HK police brutally attacked protesters &amp; residents.\nProtesters are missing from that night. Public worried they might b beaten to death by police.\n831太子站港警嗜人监控无法公布原因\n#FreedomHK #antiELAB https://t.co/ZZNgY7Uszs"
+	},
+	{
+		"created_at": "Sat Sep 07 01:17:37 +0000 2019",
+		"id": 1170137831387193300,
+		"id_str": "1170144054778257408",
+		"full_text": "真的很深度的采访 ：）\n異見藝術家巴丟草：創作時把自己代入香港示威者角色，我不再想到恐懼｜逃犯條例｜深度｜端傳媒 Initium Media https://t.co/grNVSXnSle via @initiumnews;",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "initiumnews",
+					"name": "端傳媒 Initium Media",
+					"id": 3232393554,
+					"id_str": "3232393554",
+					"indices": [
+						99,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/grNVSXnSle",
+					"expanded_url": "https://theinitium.com/article/20190903-culture-badiucao-australia-hk/",
+					"display_url": "theinitium.com/article/201909…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 267695291,
+			"id_str": "267695291",
+			"name": "巴丢草  Badiucao",
+			"screen_name": "badiucao",
+			"location": "",
+			"description": "Chinese Artist hated by Chinese Gov/ Cartoonist for @CDT @HongKongFP/ FreeSpeech & Humanrights / Check out my ArtShop for support me . 他说：人都是王八蛋",
+			"url": "https://t.co/BpqMNRuD3o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BpqMNRuD3o",
+							"expanded_url": "https://www.badiucao.com/artshop",
+							"display_url": "badiucao.com/artshop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44629,
+			"friends_count": 8634,
+			"listed_count": 424,
+			"created_at": "Thu Mar 17 11:22:49 +0000 2011",
+			"favourites_count": 18852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 116895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/267695291/1565220501",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "真的很深度的采访 ：）\n異見藝術家巴丟草：創作時把自己代入香港示威者角色，我不再想到恐懼｜逃犯條例｜深度｜端傳媒 Initium Media https://t.co/grNVSXnSle via @initiumnews;"
+	},
+	{
+		"created_at": "Sat Sep 07 01:17:14 +0000 2019",
+		"id": 1170138376449618000,
+		"id_str": "1170143959068368899",
+		"full_text": "趁光线还好拍了一下昨晚写的赤纳粹。我也忘记是谁提出这个词的了，太精辟，英译也十分信达雅。#ChiNazi https://t.co/PHeT66ORVa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ChiNazi",
+					"indices": [
+						44,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170138370615365600,
+					"id_str": "1170138370615365632",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/ED0qpf6VUAA01RI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED0qpf6VUAA01RI.jpg",
+					"url": "https://t.co/PHeT66ORVa",
+					"display_url": "pic.twitter.com/PHeT66ORVa",
+					"expanded_url": "https://twitter.com/HuaiyinTheGhost/status/1170138376449617920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170138370615365600,
+					"id_str": "1170138370615365632",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/ED0qpf6VUAA01RI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED0qpf6VUAA01RI.jpg",
+					"url": "https://t.co/PHeT66ORVa",
+					"display_url": "pic.twitter.com/PHeT66ORVa",
+					"expanded_url": "https://twitter.com/HuaiyinTheGhost/status/1170138376449617920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1163496881449656300,
+			"id_str": "1163496881449656320",
+			"name": "怀吟",
+			"screen_name": "HuaiyinTheGhost",
+			"location": "",
+			"description": "是你有个胸毛怪的辱华推主。死了祖国亲妈的废青。/ 安全起见，看上去来路不明的锁推关注者会被直接拉黑。",
+			"url": "https://t.co/BmVwcc10sc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmVwcc10sc",
+							"expanded_url": "https://huaiyinandabyss.wordpress.com/",
+							"display_url": "huaiyinandabyss.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 243,
+			"friends_count": 100,
+			"listed_count": 0,
+			"created_at": "Mon Aug 19 17:04:16 +0000 2019",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164432221786144770/eYknrsgg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164432221786144770/eYknrsgg_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "趁光线还好拍了一下昨晚写的赤纳粹。我也忘记是谁提出这个词的了，太精辟，英译也十分信达雅。#ChiNazi https://t.co/PHeT66ORVa"
+	},
+	{
+		"created_at": "Sat Sep 07 01:16:57 +0000 2019",
+		"id": 1170084198583021600,
+		"id_str": "1170143885437394944",
+		"full_text": "#Eye4HK at the @Cymru match tonight 🏴󠁧󠁢󠁷󠁬󠁳󠁿♥️🇭🇰✊ #StandWithHongKong https://t.co/qqSZlaF3Lv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Eye4HK",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "StandWithHongKong",
+					"indices": [
+						49,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Cymru",
+					"name": "Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+					"id": 2382411091,
+					"id_str": "2382411091",
+					"indices": [
+						15,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170084168530874400,
+					"id_str": "1170084168530874368",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EDz5WhaXUAAMG3w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDz5WhaXUAAMG3w.jpg",
+					"url": "https://t.co/qqSZlaF3Lv",
+					"display_url": "pic.twitter.com/qqSZlaF3Lv",
+					"expanded_url": "https://twitter.com/DaviesCymru68/status/1170084198583021568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170084168530874400,
+					"id_str": "1170084168530874368",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EDz5WhaXUAAMG3w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDz5WhaXUAAMG3w.jpg",
+					"url": "https://t.co/qqSZlaF3Lv",
+					"display_url": "pic.twitter.com/qqSZlaF3Lv",
+					"expanded_url": "https://twitter.com/DaviesCymru68/status/1170084198583021568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170084185542996000,
+					"id_str": "1170084185542995973",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EDz5XgyXsAUdYNv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDz5XgyXsAUdYNv.jpg",
+					"url": "https://t.co/qqSZlaF3Lv",
+					"display_url": "pic.twitter.com/qqSZlaF3Lv",
+					"expanded_url": "https://twitter.com/DaviesCymru68/status/1170084198583021568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1149,
+							"h": 1780,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 775,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 780755120183095300,
+			"id_str": "780755120183095297",
+			"name": "ILD🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+			"screen_name": "DaviesCymru68",
+			"location": "Cymru Rydd 🏴󠁧󠁢󠁷󠁬󠁳󠁿🇪🇺",
+			"description": "Patriot and Partisan ✊🏴󠁧󠁢󠁷󠁬󠁳󠁿 Supporter of a fully inclusive Gweriniaeth Annibynnol Cymru - #IndyWales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 #FollowbackHongKong 🇭🇰",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1541,
+			"friends_count": 1983,
+			"listed_count": 1,
+			"created_at": "Tue Sep 27 13:05:01 +0000 2016",
+			"favourites_count": 6433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1716,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158781665835212800/dwreJEay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158781665835212800/dwreJEay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/780755120183095297/1533401627",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Eye4HK at the @Cymru match tonight 🏴󠁧󠁢󠁷󠁬󠁳󠁿♥️🇭🇰✊ #StandWithHongKong https://t.co/qqSZlaF3Lv"
+	},
+	{
+		"created_at": "Sat Sep 07 01:16:32 +0000 2019",
+		"id": 1170037620321075200,
+		"id_str": "1170143782895083520",
+		"full_text": "速龍原本追緊某位，見追唔到就轉身求其拉另一個，佢又無犯法，無反抗只係企係度，仍被速龍暴力按落地😡\n來源tg@HKAntiBlack\n#SOSHK https://t.co/w91X6b8lrZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOSHK",
+					"indices": [
+						66,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170037588029108200,
+					"id_str": "1170037588029108225",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170037588029108225/pu/img/gPzF7FTHjkNrrdpn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170037588029108225/pu/img/gPzF7FTHjkNrrdpn.jpg",
+					"url": "https://t.co/w91X6b8lrZ",
+					"display_url": "pic.twitter.com/w91X6b8lrZ",
+					"expanded_url": "https://twitter.com/Ry94563837/status/1170037620321075200/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170037588029108200,
+					"id_str": "1170037588029108225",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170037588029108225/pu/img/gPzF7FTHjkNrrdpn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170037588029108225/pu/img/gPzF7FTHjkNrrdpn.jpg",
+					"url": "https://t.co/w91X6b8lrZ",
+					"display_url": "pic.twitter.com/w91X6b8lrZ",
+					"expanded_url": "https://twitter.com/Ry94563837/status/1170037620321075200/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 21500,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1170037588029108225/pu/pl/5bloBBRjcnuq772J.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170037588029108225/pu/vid/320x180/gw8yLefrBboGoZDH.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1161991408904917000,
+			"id_str": "1161991408904916995",
+			"name": "HongKong Pig",
+			"screen_name": "Ry94563837",
+			"location": "Hong Kong",
+			"description": "While there is life there is hope.🇭🇰",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1104,
+			"friends_count": 220,
+			"listed_count": 3,
+			"created_at": "Thu Aug 15 13:21:55 +0000 2019",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167410760353374208/EPVKLIGp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167410760353374208/EPVKLIGp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1161991408904916995/1566660323",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "速龍原本追緊某位，見追唔到就轉身求其拉另一個，佢又無犯法，無反抗只係企係度，仍被速龍暴力按落地😡\n來源tg@HKAntiBlack\n#SOSHK https://t.co/w91X6b8lrZ"
+	},
+	{
 		"created_at": "Fri Sep 06 17:29:55 +0000 2019",
 		"id": 1170022313498038300,
 		"id_str": "1170026353447624705",
