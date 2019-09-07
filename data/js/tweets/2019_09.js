@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 07 02:20:36 +0000 2019",
+		"id": 1170114887701467100,
+		"id_str": "1170159904910237696",
+		"full_text": "9月6日港人再聚集8.31事件發生地 - 太子地鐵站，要求港府公佈事件真相，並公開閉路電視視頻。有一位女士在接受外媒採訪時，指她的朋友為事件當事人，她朋友的父母試圖向警方要人，但是徒勞無果，其後這對父母遭軟禁。 https://t.co/qyofZdLp68",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qyofZdLp68",
+					"expanded_url": "https://stimme-de.de/2019/09/06/4759/",
+					"display_url": "stimme-de.de/2019/09/06/475…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1076090121248739300,
+			"id_str": "1076090121248739333",
+			"name": "Die Stimme Deutschlands 德國之音🎗️",
+			"screen_name": "SDeutschlands",
+			"location": "Berlin, Germany",
+			"description": "一個有態度的在綫媒體，由一群志願者運作。https://t.co/dS0B8OJXYF",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dS0B8OJXYF",
+							"expanded_url": "https://stimme-de.de",
+							"display_url": "stimme-de.de",
+							"indices": [
+								20,
+								43
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17107,
+			"friends_count": 178,
+			"listed_count": 109,
+			"created_at": "Fri Dec 21 12:20:52 +0000 2018",
+			"favourites_count": 1619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154175884821245953/c7u4YeJa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154175884821245953/c7u4YeJa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1076090121248739333/1565729482",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "9月6日港人再聚集8.31事件發生地 - 太子地鐵站，要求港府公佈事件真相，並公開閉路電視視頻。有一位女士在接受外媒採訪時，指她的朋友為事件當事人，她朋友的父母試圖向警方要人，但是徒勞無果，其後這對父母遭軟禁。 https://t.co/qyofZdLp68"
+	},
+	{
 		"created_at": "Sat Sep 07 01:20:09 +0000 2019",
 		"id": 1170094758481424400,
 		"id_str": "1170144691075145733",
