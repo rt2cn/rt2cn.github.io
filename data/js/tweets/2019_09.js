@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 07 16:09:34 +0000 2019",
+		"id": 1170297372921888800,
+		"id_str": "1170368523207622657",
+		"full_text": "這是正式錄用的皇軍嗎？\n#hkpolicebrutality #hkpoliceisterrorist #HKPoliceState #FreeHK https://t.co/nbnETGetzO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hkpolicebrutality",
+					"indices": [
+						12,
+						30
+					]
+				},
+				{
+					"text": "hkpoliceisterrorist",
+					"indices": [
+						31,
+						51
+					]
+				},
+				{
+					"text": "HKPoliceState",
+					"indices": [
+						52,
+						66
+					]
+				},
+				{
+					"text": "FreeHK",
+					"indices": [
+						67,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170297367393734700,
+					"id_str": "1170297367393734658",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/ED27QVEUEAIk2xY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED27QVEUEAIk2xY.jpg",
+					"url": "https://t.co/nbnETGetzO",
+					"display_url": "pic.twitter.com/nbnETGetzO",
+					"expanded_url": "https://twitter.com/loki_tham/status/1170297372921888771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170297367393734700,
+					"id_str": "1170297367393734658",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/ED27QVEUEAIk2xY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED27QVEUEAIk2xY.jpg",
+					"url": "https://t.co/nbnETGetzO",
+					"display_url": "pic.twitter.com/nbnETGetzO",
+					"expanded_url": "https://twitter.com/loki_tham/status/1170297372921888771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 219247575,
+			"id_str": "219247575",
+			"name": "貓老大",
+			"screen_name": "loki_tham",
+			"location": "",
+			"description": "左膠會害人，智將則想殺港人，牠們都是敵人",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 433,
+			"friends_count": 448,
+			"listed_count": 12,
+			"created_at": "Wed Nov 24 10:08:19 +0000 2010",
+			"favourites_count": 3436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9997,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1908852961/IMGP1220_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1908852961/IMGP1220_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/219247575/1513408288",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "這是正式錄用的皇軍嗎？\n#hkpolicebrutality #hkpoliceisterrorist #HKPoliceState #FreeHK https://t.co/nbnETGetzO"
+	},
+	{
 		"created_at": "Sat Sep 07 16:04:34 +0000 2019",
 		"id": 1170365861942583300,
 		"id_str": "1170367262173384705",
