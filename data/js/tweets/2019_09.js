@@ -1,6 +1,744 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 08 04:50:10 +0000 2019",
+		"id": 1170283556670566400,
+		"id_str": "1170559933370253312",
+		"full_text": "“Today’s young people fight for Hong Kong, but problems are still not solved. Thousands of years later, it will be your offsprings taking to the streets.” https://t.co/NO2KjBBGBl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170283436931608600,
+					"id_str": "1170283436931608576",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/ED2uleDU8AAGJf0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED2uleDU8AAGJf0.jpg",
+					"url": "https://t.co/NO2KjBBGBl",
+					"display_url": "pic.twitter.com/NO2KjBBGBl",
+					"expanded_url": "https://twitter.com/WilliamYang120/status/1170283556670566400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170283436931608600,
+					"id_str": "1170283436931608576",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/ED2uleDU8AAGJf0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED2uleDU8AAGJf0.jpg",
+					"url": "https://t.co/NO2KjBBGBl",
+					"display_url": "pic.twitter.com/NO2KjBBGBl",
+					"expanded_url": "https://twitter.com/WilliamYang120/status/1170283556670566400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170283436939993000,
+					"id_str": "1170283436939993089",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/ED2uleFU4AEPeBx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED2uleFU4AEPeBx.jpg",
+					"url": "https://t.co/NO2KjBBGBl",
+					"display_url": "pic.twitter.com/NO2KjBBGBl",
+					"expanded_url": "https://twitter.com/WilliamYang120/status/1170283556670566400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1170281556339875800,
+		"in_reply_to_status_id_str": "1170281556339875840",
+		"in_reply_to_user_id": 365216346,
+		"in_reply_to_user_id_str": "365216346",
+		"in_reply_to_screen_name": "WilliamYang120",
+		"user": {
+			"id": 365216346,
+			"id_str": "365216346",
+			"name": "William Yang",
+			"screen_name": "WilliamYang120",
+			"location": "Taipei, Taiwan",
+			"description": "East Asia Correspondent for @dwnews. Words also in @BuzzFeedNews, @Guardian, @RNZ and @qz. @TUKleincollege alum. hao-wei.yang@dw.com / william.yang@buzzfeed.com",
+			"url": "https://t.co/fJHMDVU4t9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fJHMDVU4t9",
+							"expanded_url": "https://williamyang.contently.com/",
+							"display_url": "williamyang.contently.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7657,
+			"friends_count": 3776,
+			"listed_count": 338,
+			"created_at": "Wed Aug 31 01:49:04 +0000 2011",
+			"favourites_count": 17320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127864499103457282/7aWTvhGy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127864499103457282/7aWTvhGy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/365216346/1399600388",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Today’s young people fight for Hong Kong, but problems are still not solved. Thousands of years later, it will be your offsprings taking to the streets.” https://t.co/NO2KjBBGBl"
+	},
+	{
+		"created_at": "Sun Sep 08 04:47:46 +0000 2019",
+		"id": 1170383511129165800,
+		"id_str": "1170559329205989376",
+		"full_text": "The #HongKong Journalists Association issued a statement condemning @hkpoliceforce for attacking frontline reporters who followed police orders with pepper spray.\n\nHKJA says the officer was malicious as he could be heard blaming reporters for filming. It will launch a complaint. https://t.co/xMWIR9H3OR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HongKong",
+					"indices": [
+						4,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hkpoliceforce",
+					"name": "Hong Kong Police Force",
+					"id": 1057237461007396900,
+					"id_str": "1057237461007396864",
+					"indices": [
+						68,
+						82
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170383499250917400,
+					"id_str": "1170383499250917376",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ED4Jl3PUYAAJQJq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED4Jl3PUYAAJQJq.jpg",
+					"url": "https://t.co/xMWIR9H3OR",
+					"display_url": "pic.twitter.com/xMWIR9H3OR",
+					"expanded_url": "https://twitter.com/EricCheungwc/status/1170383511129165825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 971,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1055,
+							"h": 1304,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170383499250917400,
+					"id_str": "1170383499250917376",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ED4Jl3PUYAAJQJq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED4Jl3PUYAAJQJq.jpg",
+					"url": "https://t.co/xMWIR9H3OR",
+					"display_url": "pic.twitter.com/xMWIR9H3OR",
+					"expanded_url": "https://twitter.com/EricCheungwc/status/1170383511129165825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 971,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1055,
+							"h": 1304,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1678851919,
+			"id_str": "1678851919",
+			"name": "Eric Cheung",
+			"screen_name": "EricCheungwc",
+			"location": "Hong Kong",
+			"description": "Freelance journalist for @CNNi, @SCMPNews in #HongKong | Bylines @guardian, @ABC, @HongKongFP, etc | @JMSCHKU alum",
+			"url": "https://t.co/3lzE7HAmRd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3lzE7HAmRd",
+							"expanded_url": "http://ericcheungwc.wordpress.com/",
+							"display_url": "ericcheungwc.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5410,
+			"friends_count": 603,
+			"listed_count": 173,
+			"created_at": "Sat Aug 17 18:04:32 +0000 2013",
+			"favourites_count": 815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087911072885960704/Pp_Uabnb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087911072885960704/Pp_Uabnb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1678851919/1499354663",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #HongKong Journalists Association issued a statement condemning @hkpoliceforce for attacking frontline reporters who followed police orders with pepper spray.\n\nHKJA says the officer was malicious as he could be heard blaming reporters for filming. It will launch a complaint. https://t.co/xMWIR9H3OR"
+	},
+	{
+		"created_at": "Sun Sep 08 04:46:13 +0000 2019",
+		"id": 1170417654454075400,
+		"id_str": "1170558936497491968",
+		"full_text": "\"I'd rather speak up and die, than remain silent and live.\" (寧鳴而死，不默而生, banner on the right)\n\nThis is my School. I am proud to be part of it. Add oil, Hong Kong &lt;3 https://t.co/JEsOZWAJqA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170417642961686500,
+					"id_str": "1170417642961686528",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/ED4opSeU0AAwdQT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED4opSeU0AAwdQT.jpg",
+					"url": "https://t.co/JEsOZWAJqA",
+					"display_url": "pic.twitter.com/JEsOZWAJqA",
+					"expanded_url": "https://twitter.com/lokmantsui/status/1170417654454075392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170417642961686500,
+					"id_str": "1170417642961686528",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/ED4opSeU0AAwdQT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED4opSeU0AAwdQT.jpg",
+					"url": "https://t.co/JEsOZWAJqA",
+					"display_url": "pic.twitter.com/JEsOZWAJqA",
+					"expanded_url": "https://twitter.com/lokmantsui/status/1170417654454075392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2420657924,
+			"id_str": "2420657924",
+			"name": "lokman tsui",
+			"screen_name": "lokmantsui",
+			"location": "internet",
+			"description": "researcher, activist. care about free expression. prof at school of journalism and communication, cuhk. 寧鳴而死，不默而生",
+			"url": "http://t.co/xs8xuzPlNH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/xs8xuzPlNH",
+							"expanded_url": "http://www.lokman.org",
+							"display_url": "lokman.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2676,
+			"friends_count": 870,
+			"listed_count": 114,
+			"created_at": "Mon Mar 31 14:56:03 +0000 2014",
+			"favourites_count": 3669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994502025420328960/wvARw9Gt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994502025420328960/wvARw9Gt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2420657924/1567885075",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 133,
+		"favorite_count": 318,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"I'd rather speak up and die, than remain silent and live.\" (寧鳴而死，不默而生, banner on the right)\n\nThis is my School. I am proud to be part of it. Add oil, Hong Kong &lt;3 https://t.co/JEsOZWAJqA"
+	},
+	{
+		"created_at": "Sun Sep 08 04:38:43 +0000 2019",
+		"id": 1170511723935092700,
+		"id_str": "1170557052705476608",
+		"full_text": "There’s this simple, beautiful poster for St.Paul’s Co-Educational College’s human chain on Mon. Students and alum are joining hands with St.Joseph’s College and potentially Raimondi College, which means the chain might pass by sensitive area such as the Govt House. https://t.co/LGl7Bmy8Bm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170511710597181400,
+					"id_str": "1170511710597181440",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/ED5-MvuUcAA-erM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED5-MvuUcAA-erM.jpg",
+					"url": "https://t.co/LGl7Bmy8Bm",
+					"display_url": "pic.twitter.com/LGl7Bmy8Bm",
+					"expanded_url": "https://twitter.com/rachel_cheung1/status/1170511723935092736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1131,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170511710597181400,
+					"id_str": "1170511710597181440",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/ED5-MvuUcAA-erM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED5-MvuUcAA-erM.jpg",
+					"url": "https://t.co/LGl7Bmy8Bm",
+					"display_url": "pic.twitter.com/LGl7Bmy8Bm",
+					"expanded_url": "https://twitter.com/rachel_cheung1/status/1170511723935092736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1131,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 326625501,
+			"id_str": "326625501",
+			"name": "Rachel Cheung",
+			"screen_name": "rachel_cheung1",
+			"location": "Hong Kong",
+			"description": "Culture reporter from Hong Kong @SCMPLifestyle, now temporarily based in Shanghai. Former editor @Varsitycuhk",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8680,
+			"friends_count": 666,
+			"listed_count": 171,
+			"created_at": "Thu Jun 30 06:38:11 +0000 2011",
+			"favourites_count": 2635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156933213534601217/noG61CR3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156933213534601217/noG61CR3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/326625501/1458643274",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There’s this simple, beautiful poster for St.Paul’s Co-Educational College’s human chain on Mon. Students and alum are joining hands with St.Joseph’s College and potentially Raimondi College, which means the chain might pass by sensitive area such as the Govt House. https://t.co/LGl7Bmy8Bm"
+	},
+	{
 		"created_at": "Sun Sep 08 04:31:52 +0000 2019",
 		"id": 1170321875907440600,
 		"id_str": "1170555327496032258",
