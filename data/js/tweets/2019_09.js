@@ -1,6 +1,1878 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 08 04:31:52 +0000 2019",
+		"id": 1170321875907440600,
+		"id_str": "1170555327496032258",
+		"full_text": "吳奕軍專欄：和中國天網密切相關的「智慧燈柱」　誰信\n\n技術層面，智慧城市的發展需要智慧燈柱，然而在現實層面更需要「政治智慧」。反送中所衍生的智慧燈柱疑慮，加深智慧城市如何保護公民隱私的敏感性與挑戰性，對信任度的摧毀，短期難以復原。 https://t.co/mwqL6YOXE7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mwqL6YOXE7",
+					"expanded_url": "https://www.upmedia.mg/news_info.php?SerialNo=70749",
+					"display_url": "upmedia.mg/news_info.php?…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8719142,
+			"id_str": "8719142",
+			"name": "吳奕軍 JasonWu",
+			"screen_name": "jasonbosox",
+			"location": "Taipei, Taiwan",
+			"description": "專欄作家｜廣播評論｜鉅石智庫@GoldenRockTW｜《審時定勢》作者 https://t.co/4Zv3srJRdj｜Columnist & Consultant.",
+			"url": "https://t.co/IEpi36nctU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IEpi36nctU",
+							"expanded_url": "http://about.me/jasonbosox",
+							"display_url": "about.me/jasonbosox",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4Zv3srJRdj",
+							"expanded_url": "http://bit.ly/2CvzY0Y",
+							"display_url": "bit.ly/2CvzY0Y",
+							"indices": [
+								37,
+								60
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1413,
+			"friends_count": 799,
+			"listed_count": 352,
+			"created_at": "Fri Sep 07 08:33:50 +0000 2007",
+			"favourites_count": 7124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123422566079614976/bAqLrTGJ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123422566079614976/bAqLrTGJ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8719142/1556680695",
+			"profile_link_color": "120A80",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "FA0814",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "吳奕軍專欄：和中國天網密切相關的「智慧燈柱」　誰信\n\n技術層面，智慧城市的發展需要智慧燈柱，然而在現實層面更需要「政治智慧」。反送中所衍生的智慧燈柱疑慮，加深智慧城市如何保護公民隱私的敏感性與挑戰性，對信任度的摧毀，短期難以復原。 https://t.co/mwqL6YOXE7"
+	},
+	{
+		"created_at": "Sun Sep 08 04:30:38 +0000 2019",
+		"id": 1170487705546834000,
+		"id_str": "1170555015037108224",
+		"full_text": "香港人對黑警的民怨多麼深！ https://t.co/15RBRiFW59",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/15RBRiFW59",
+					"expanded_url": "https://twitter.com/stephenmcdonell/status/1170280015176577024",
+					"display_url": "twitter.com/stephenmcdonel…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8719142,
+			"id_str": "8719142",
+			"name": "吳奕軍 JasonWu",
+			"screen_name": "jasonbosox",
+			"location": "Taipei, Taiwan",
+			"description": "專欄作家｜廣播評論｜鉅石智庫@GoldenRockTW｜《審時定勢》作者 https://t.co/4Zv3srJRdj｜Columnist & Consultant.",
+			"url": "https://t.co/IEpi36nctU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IEpi36nctU",
+							"expanded_url": "http://about.me/jasonbosox",
+							"display_url": "about.me/jasonbosox",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4Zv3srJRdj",
+							"expanded_url": "http://bit.ly/2CvzY0Y",
+							"display_url": "bit.ly/2CvzY0Y",
+							"indices": [
+								37,
+								60
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1413,
+			"friends_count": 799,
+			"listed_count": 352,
+			"created_at": "Fri Sep 07 08:33:50 +0000 2007",
+			"favourites_count": 7124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123422566079614976/bAqLrTGJ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123422566079614976/bAqLrTGJ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8719142/1556680695",
+			"profile_link_color": "120A80",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "FA0814",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00180402799fed03",
+			"url": "https://api.twitter.com/1.1/geo/id/00180402799fed03.json",
+			"place_type": "city",
+			"name": "台北市",
+			"full_name": "台北市, 台灣",
+			"country_code": "TW",
+			"country": "台灣",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							121.457132,
+							24.960508
+						],
+						[
+							121.66582,
+							24.960508
+						],
+						[
+							121.66582,
+							25.211004
+						],
+						[
+							121.457132,
+							25.211004
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1170280015176577000,
+		"quoted_status_id_str": "1170280015176577024",
+		"quoted_status_permalink": {
+			"url": "https://t.co/15RBRiFW59",
+			"expanded": "https://twitter.com/stephenmcdonell/status/1170280015176577024",
+			"display": "twitter.com/stephenmcdonel…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 07 10:17:53 +0000 2019",
+			"id": 1170280015176577000,
+			"id_str": "1170280015176577024",
+			"full_text": "#HongKong Police preparing to leave Tung Chung and getting jeered all the way from locals gathering to heckle them. #antiELAB #China https://t.co/FrhTBmKDVo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				132
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HongKong",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "antiELAB",
+						"indices": [
+							116,
+							125
+						]
+					},
+					{
+						"text": "China",
+						"indices": [
+							126,
+							132
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1170279838227153000,
+						"id_str": "1170279838227152901",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170279838227152901/pu/img/Dl83jiqzzugVc3Wj.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170279838227152901/pu/img/Dl83jiqzzugVc3Wj.jpg",
+						"url": "https://t.co/FrhTBmKDVo",
+						"display_url": "pic.twitter.com/FrhTBmKDVo",
+						"expanded_url": "https://twitter.com/StephenMcDonell/status/1170280015176577024/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1170279838227153000,
+						"id_str": "1170279838227152901",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170279838227152901/pu/img/Dl83jiqzzugVc3Wj.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170279838227152901/pu/img/Dl83jiqzzugVc3Wj.jpg",
+						"url": "https://t.co/FrhTBmKDVo",
+						"display_url": "pic.twitter.com/FrhTBmKDVo",
+						"expanded_url": "https://twitter.com/StephenMcDonell/status/1170280015176577024/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 52663,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1170279838227152901/pu/vid/1280x720/R_u_QPe3oXz_Sz4o.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1170279838227152901/pu/vid/640x360/1JSoPAKRHp6Zy440.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1170279838227152901/pu/pl/t_Pnikkz4Q_lEDM3.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1170279838227152901/pu/vid/480x270/nkx4o0x64cOZHwlM.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1170270235808526300,
+			"in_reply_to_status_id_str": "1170270235808526336",
+			"in_reply_to_user_id": 243983947,
+			"in_reply_to_user_id_str": "243983947",
+			"in_reply_to_screen_name": "StephenMcDonell",
+			"user": {
+				"id": 243983947,
+				"id_str": "243983947",
+				"name": "Stephen McDonell",
+				"screen_name": "StephenMcDonell",
+				"location": "Beijing",
+				"description": "China Correspondent, British Broadcasting Corporation, after 9 years as ABC Beijing Bureau Chief. Abusive, rude language gets you blocked.",
+				"url": "https://t.co/7NEgoMwJy3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7NEgoMwJy3",
+								"expanded_url": "http://www.bbc.com/news",
+								"display_url": "bbc.com/news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25424,
+				"friends_count": 680,
+				"listed_count": 647,
+				"created_at": "Fri Jan 28 07:06:57 +0000 2011",
+				"favourites_count": 11998,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 37831,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/571199047197675520/tsOV7wz2_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/571199047197675520/tsOV7wz2_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/243983947/1425020960",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 96,
+			"favorite_count": 138,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "香港人對黑警的民怨多麼深！ https://t.co/15RBRiFW59"
+	},
+	{
+		"created_at": "Sun Sep 08 04:29:27 +0000 2019",
+		"id": 1170421795817549800,
+		"id_str": "1170554720722796545",
+		"full_text": "#HongKong Press Photographers Association issued statement condemning #police for pepper spraying reporters when no protesters were present in the vicinity. A photo provided by a member shows the police aiming at a journalist.8 were hit and two sprayed directly in the face https://t.co/HQs9v1ADMj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HongKong",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "police",
+					"indices": [
+						70,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170421769720627200,
+					"id_str": "1170421769720627200",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/ED4sZf2VAAAVCEX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED4sZf2VAAAVCEX.jpg",
+					"url": "https://t.co/HQs9v1ADMj",
+					"display_url": "pic.twitter.com/HQs9v1ADMj",
+					"expanded_url": "https://twitter.com/rachel_cheung1/status/1170421795817549824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170421769720627200,
+					"id_str": "1170421769720627200",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/ED4sZf2VAAAVCEX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED4sZf2VAAAVCEX.jpg",
+					"url": "https://t.co/HQs9v1ADMj",
+					"display_url": "pic.twitter.com/HQs9v1ADMj",
+					"expanded_url": "https://twitter.com/rachel_cheung1/status/1170421795817549824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 326625501,
+			"id_str": "326625501",
+			"name": "Rachel Cheung",
+			"screen_name": "rachel_cheung1",
+			"location": "Hong Kong",
+			"description": "Culture reporter from Hong Kong @SCMPLifestyle, now temporarily based in Shanghai. Former editor @Varsitycuhk",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8674,
+			"friends_count": 666,
+			"listed_count": 171,
+			"created_at": "Thu Jun 30 06:38:11 +0000 2011",
+			"favourites_count": 2635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156933213534601217/noG61CR3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156933213534601217/noG61CR3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/326625501/1458643274",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 234,
+		"favorite_count": 259,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#HongKong Press Photographers Association issued statement condemning #police for pepper spraying reporters when no protesters were present in the vicinity. A photo provided by a member shows the police aiming at a journalist.8 were hit and two sprayed directly in the face https://t.co/HQs9v1ADMj"
+	},
+	{
+		"created_at": "Sun Sep 08 04:27:23 +0000 2019",
+		"id": 1170148248893313000,
+		"id_str": "1170554197764431872",
+		"full_text": "给新上推特的 #香港朋友 的国际媒体记者列表：\nhttps://t.co/CVO55xS2AG\n推特与其他社交媒体的不同在于超强的政治性和新闻性。\n这里有更多的实名记者和媒体在观察，请从这个列表follow媒体人，把你们在香港抗争现场的第一手资料和她们分享。\n让世界听到香港声音！\n#FreedomHongKong #antiELABhk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "香港朋友",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "FreedomHongKong",
+					"indices": [
+						141,
+						157
+					]
+				},
+				{
+					"text": "antiELABhk",
+					"indices": [
+						158,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CVO55xS2AG",
+					"expanded_url": "https://twitter.com/badiucao/lists/journalists-on-china-news",
+					"display_url": "twitter.com/badiucao/lists…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 267695291,
+			"id_str": "267695291",
+			"name": "巴丢草  Badiucao",
+			"screen_name": "badiucao",
+			"location": "",
+			"description": "Chinese Artist hated by Chinese Gov/ Cartoonist for @CDT @HongKongFP/ FreeSpeech & Humanrights / Check out my ArtShop for support me . 他说：人都是王八蛋",
+			"url": "https://t.co/BpqMNRuD3o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BpqMNRuD3o",
+							"expanded_url": "https://www.badiucao.com/artshop",
+							"display_url": "badiucao.com/artshop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45235,
+			"friends_count": 8688,
+			"listed_count": 426,
+			"created_at": "Thu Mar 17 11:22:49 +0000 2011",
+			"favourites_count": 18921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 117102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/267695291/1565220501",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "给新上推特的 #香港朋友 的国际媒体记者列表：\nhttps://t.co/CVO55xS2AG\n推特与其他社交媒体的不同在于超强的政治性和新闻性。\n这里有更多的实名记者和媒体在观察，请从这个列表follow媒体人，把你们在香港抗争现场的第一手资料和她们分享。\n让世界听到香港声音！\n#FreedomHongKong #antiELABhk"
+	},
+	{
+		"created_at": "Sun Sep 08 04:26:28 +0000 2019",
+		"id": 1170497467466449000,
+		"id_str": "1170553967941750789",
+		"full_text": "#Graphic \nThis is the reference for my drawing i used from Hong Kong last night, a police state.\nDon’t look away from the blood\nDo something to stop this! https://t.co/rOkHskjPJX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Graphic",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170497405596266500,
+					"id_str": "1170497405596266498",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/ED5xMFcU8AIAu9w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED5xMFcU8AIAu9w.jpg",
+					"url": "https://t.co/rOkHskjPJX",
+					"display_url": "pic.twitter.com/rOkHskjPJX",
+					"expanded_url": "https://twitter.com/badiucao/status/1170497467466448896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 855,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170497405596266500,
+					"id_str": "1170497405596266498",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/ED5xMFcU8AIAu9w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED5xMFcU8AIAu9w.jpg",
+					"url": "https://t.co/rOkHskjPJX",
+					"display_url": "pic.twitter.com/rOkHskjPJX",
+					"expanded_url": "https://twitter.com/badiucao/status/1170497467466448896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 855,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170497405638209500,
+					"id_str": "1170497405638209536",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/ED5xMFmU8AAHRx_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED5xMFmU8AAHRx_.jpg",
+					"url": "https://t.co/rOkHskjPJX",
+					"display_url": "pic.twitter.com/rOkHskjPJX",
+					"expanded_url": "https://twitter.com/badiucao/status/1170497467466448896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1170492929145573400,
+		"in_reply_to_status_id_str": "1170492929145573376",
+		"in_reply_to_user_id": 267695291,
+		"in_reply_to_user_id_str": "267695291",
+		"in_reply_to_screen_name": "badiucao",
+		"user": {
+			"id": 267695291,
+			"id_str": "267695291",
+			"name": "巴丢草  Badiucao",
+			"screen_name": "badiucao",
+			"location": "",
+			"description": "Chinese Artist hated by Chinese Gov/ Cartoonist for @CDT @HongKongFP/ FreeSpeech & Humanrights / Check out my ArtShop for support me . 他说：人都是王八蛋",
+			"url": "https://t.co/BpqMNRuD3o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BpqMNRuD3o",
+							"expanded_url": "https://www.badiucao.com/artshop",
+							"display_url": "badiucao.com/artshop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45235,
+			"friends_count": 8688,
+			"listed_count": 426,
+			"created_at": "Thu Mar 17 11:22:49 +0000 2011",
+			"favourites_count": 18921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 117102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/267695291/1565220501",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Graphic \nThis is the reference for my drawing i used from Hong Kong last night, a police state.\nDon’t look away from the blood\nDo something to stop this! https://t.co/rOkHskjPJX"
+	},
+	{
+		"created_at": "Sun Sep 08 04:23:29 +0000 2019",
+		"id": 1170552194766000000,
+		"id_str": "1170553219136872448",
+		"full_text": "908 香港人權及民主法案集會：（活動已發不反對通知書）\n\n集會\n地點：中環遮打花園\n時間：13:30 - 22:00\n現場將收集香港人權與民主宣言聯署至14:30﹐隨後出發向美領遞交。\n\n遊行\n集合地點：中環遮打花園金鐘道出口\n集合時間：14:30 - 17:30\n遊行路線：經花園道往美國領事館遞交請願信。 https://t.co/P2QNXIUpSF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170552188550054000,
+					"id_str": "1170552188550053888",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/ED6jA32VAAAjKR_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED6jA32VAAAjKR_.jpg",
+					"url": "https://t.co/P2QNXIUpSF",
+					"display_url": "pic.twitter.com/P2QNXIUpSF",
+					"expanded_url": "https://twitter.com/liuyun2018/status/1170552194766000128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 906,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 906,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170552188550054000,
+					"id_str": "1170552188550053888",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/ED6jA32VAAAjKR_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED6jA32VAAAjKR_.jpg",
+					"url": "https://t.co/P2QNXIUpSF",
+					"display_url": "pic.twitter.com/P2QNXIUpSF",
+					"expanded_url": "https://twitter.com/liuyun2018/status/1170552194766000128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 906,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 906,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 100198190,
+			"id_str": "100198190",
+			"name": "流雲",
+			"screen_name": "liuyun2018",
+			"location": "香港",
+			"description": "香港人",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33633,
+			"friends_count": 951,
+			"listed_count": 284,
+			"created_at": "Tue Dec 29 11:00:31 +0000 2009",
+			"favourites_count": 3435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160846492556333056/JBte1vB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160846492556333056/JBte1vB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/100198190/1562314108",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "908 香港人權及民主法案集會：（活動已發不反對通知書）\n\n集會\n地點：中環遮打花園\n時間：13:30 - 22:00\n現場將收集香港人權與民主宣言聯署至14:30﹐隨後出發向美領遞交。\n\n遊行\n集合地點：中環遮打花園金鐘道出口\n集合時間：14:30 - 17:30\n遊行路線：經花園道往美國領事館遞交請願信。 https://t.co/P2QNXIUpSF"
+	},
+	{
+		"created_at": "Sun Sep 08 04:23:14 +0000 2019",
+		"id": 1170122178513256400,
+		"id_str": "1170553153273651201",
+		"full_text": "“No more ‘you’ and ‘me’, WE defend HongKong together”\n\nThis photo(it’s real!) is so terribly powerful, if only in an unexpected way. \n#HongKongProtesters \n#FreeHongKong \n#5DemandsNotOneLess https://t.co/qcTB8L4Ynm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HongKongProtesters",
+					"indices": [
+						134,
+						153
+					]
+				},
+				{
+					"text": "FreeHongKong",
+					"indices": [
+						155,
+						168
+					]
+				},
+				{
+					"text": "5DemandsNotOneLess",
+					"indices": [
+						170,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170122172276314000,
+					"id_str": "1170122172276314112",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/ED0b6oZWkAAl9fj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED0b6oZWkAAl9fj.jpg",
+					"url": "https://t.co/qcTB8L4Ynm",
+					"display_url": "pic.twitter.com/qcTB8L4Ynm",
+					"expanded_url": "https://twitter.com/soiamnowhere/status/1170122178513256448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170122172276314000,
+					"id_str": "1170122172276314112",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/ED0b6oZWkAAl9fj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED0b6oZWkAAl9fj.jpg",
+					"url": "https://t.co/qcTB8L4Ynm",
+					"display_url": "pic.twitter.com/qcTB8L4Ynm",
+					"expanded_url": "https://twitter.com/soiamnowhere/status/1170122178513256448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 945998659816251400,
+			"id_str": "945998659816251392",
+			"name": "NoWhere",
+			"screen_name": "soiamnowhere",
+			"location": "Hong Kong",
+			"description": "once upon a time",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 466,
+			"friends_count": 638,
+			"listed_count": 1,
+			"created_at": "Wed Dec 27 12:43:51 +0000 2017",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169667853345284097/Aa-8Unzf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169667853345284097/Aa-8Unzf_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“No more ‘you’ and ‘me’, WE defend HongKong together”\n\nThis photo(it’s real!) is so terribly powerful, if only in an unexpected way. \n#HongKongProtesters \n#FreeHongKong \n#5DemandsNotOneLess https://t.co/qcTB8L4Ynm"
+	},
+	{
+		"created_at": "Sun Sep 08 04:22:51 +0000 2019",
+		"id": 1169789119775424500,
+		"id_str": "1170553056947253248",
+		"full_text": "https://t.co/40dTxpBcpp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1169789114352169000,
+					"id_str": "1169789114352168960",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EDvtAG8UcAACcQH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDvtAG8UcAACcQH.jpg",
+					"url": "https://t.co/40dTxpBcpp",
+					"display_url": "pic.twitter.com/40dTxpBcpp",
+					"expanded_url": "https://twitter.com/hkgkobato/status/1169789119775424517/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 916,
+							"h": 1220,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169789114352169000,
+					"id_str": "1169789114352168960",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EDvtAG8UcAACcQH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDvtAG8UcAACcQH.jpg",
+					"url": "https://t.co/40dTxpBcpp",
+					"display_url": "pic.twitter.com/40dTxpBcpp",
+					"expanded_url": "https://twitter.com/hkgkobato/status/1169789119775424517/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 916,
+							"h": 1220,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159956506,
+			"id_str": "159956506",
+			"name": "Kobato🎗",
+			"screen_name": "hkgkobato",
+			"location": "Hong Kong",
+			"description": "🇭🇰 | 🎨web design | 👾game | 🔔My account will give priority to the political topic of HK for the time being.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 528,
+			"listed_count": 17,
+			"created_at": "Sat Jun 26 19:49:26 +0000 2010",
+			"favourites_count": 3026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000811400314/a8eef42cf5422e7dbffc81de60f870a6_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000811400314/a8eef42cf5422e7dbffc81de60f870a6_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159956506/1441132623",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/40dTxpBcpp"
+	},
+	{
+		"created_at": "Sun Sep 08 04:21:07 +0000 2019",
+		"id": 1170214961005523000,
+		"id_str": "1170552620664152064",
+		"full_text": "尖沙咀連儂牆兩個女撕紙手破壞文宣，掉到一地都係垃圾，好無公德心\n仆街 #賤人 #尖沙咀\n香港仆街逐個捉\n#StandWithHongKong https://t.co/KuJPcw3YKb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "賤人",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "尖沙咀",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "StandWithHongKong",
+					"indices": [
+						52,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170214854453424000,
+					"id_str": "1170214854453424128",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170214854453424128/pu/img/wfJvEV0uMw5iNAHJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170214854453424128/pu/img/wfJvEV0uMw5iNAHJ.jpg",
+					"url": "https://t.co/KuJPcw3YKb",
+					"display_url": "pic.twitter.com/KuJPcw3YKb",
+					"expanded_url": "https://twitter.com/Ry94563837/status/1170214961005522945/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 362,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 362,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 362,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170214854453424000,
+					"id_str": "1170214854453424128",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170214854453424128/pu/img/wfJvEV0uMw5iNAHJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170214854453424128/pu/img/wfJvEV0uMw5iNAHJ.jpg",
+					"url": "https://t.co/KuJPcw3YKb",
+					"display_url": "pic.twitter.com/KuJPcw3YKb",
+					"expanded_url": "https://twitter.com/Ry94563837/status/1170214961005522945/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 362,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 362,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 362,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							181,
+							320
+						],
+						"duration_millis": 16000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170214854453424128/pu/vid/362x640/JYyA4DcZouZJ_2mO.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1170214854453424128/pu/pl/mmWH1ycMMPWOP_0C.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170214854453424128/pu/vid/320x564/kQ7ww72HcE0lR_Am.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1161991408904917000,
+			"id_str": "1161991408904916995",
+			"name": "HongKong Pig",
+			"screen_name": "Ry94563837",
+			"location": "Hong Kong",
+			"description": "While there is life there is hope.🇭🇰",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1326,
+			"friends_count": 220,
+			"listed_count": 6,
+			"created_at": "Thu Aug 15 13:21:55 +0000 2019",
+			"favourites_count": 584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167410760353374208/EPVKLIGp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167410760353374208/EPVKLIGp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1161991408904916995/1566660323",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 258,
+		"favorite_count": 378,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "尖沙咀連儂牆兩個女撕紙手破壞文宣，掉到一地都係垃圾，好無公德心\n仆街 #賤人 #尖沙咀\n香港仆街逐個捉\n#StandWithHongKong https://t.co/KuJPcw3YKb"
+	},
+	{
+		"created_at": "Sun Sep 08 04:15:20 +0000 2019",
+		"id": 1170533679573028900,
+		"id_str": "1170551166276636672",
+		"full_text": "有網民整理了香港最近發生的事情，附設有中英文及新聞。有時間可以回顧，並瞭解一路走過來時各樣的轉變。\n\nChronological history of HK Democracy Movement 2019 \n(With English Version)\n\nhttps://t.co/bELGwDgcg1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bELGwDgcg1",
+					"expanded_url": "https://hkrev.info/",
+					"display_url": "hkrev.info",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11302532,
+			"id_str": "11302532",
+			"name": "Charles Mok 莫乃光",
+			"screen_name": "charlesmok",
+			"location": "Hong Kong",
+			"description": "Hong Kong's IT Legislator, ICT entrepreneur, founder of Internet Society HK and Professional Commons -- uphold rule of law, democracy, and Internet freedom.",
+			"url": "http://t.co/4Z5wUFdH4L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/4Z5wUFdH4L",
+							"expanded_url": "http://www.charlesmok.hk",
+							"display_url": "charlesmok.hk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20373,
+			"friends_count": 2578,
+			"listed_count": 447,
+			"created_at": "Tue Dec 18 17:37:03 +0000 2007",
+			"favourites_count": 45,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/922391551996600320/CCXBgpBx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/922391551996600320/CCXBgpBx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11302532/1529419799",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "011a1d1e753ec5a8",
+			"url": "https://api.twitter.com/1.1/geo/id/011a1d1e753ec5a8.json",
+			"place_type": "admin",
+			"name": "中西區",
+			"full_name": "中西區, 香港",
+			"country_code": "HK",
+			"country": "香港",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							114.1099112,
+							22.2520847
+						],
+						[
+							114.169855,
+							22.2520847
+						],
+						[
+							114.169855,
+							22.3016546
+						],
+						[
+							114.1099112,
+							22.3016546
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "有網民整理了香港最近發生的事情，附設有中英文及新聞。有時間可以回顧，並瞭解一路走過來時各樣的轉變。\n\nChronological history of HK Democracy Movement 2019 \n(With English Version)\n\nhttps://t.co/bELGwDgcg1"
+	},
+	{
 		"created_at": "Sun Sep 08 03:04:21 +0000 2019",
 		"id": 1170521489335959600,
 		"id_str": "1170533302035472386",
