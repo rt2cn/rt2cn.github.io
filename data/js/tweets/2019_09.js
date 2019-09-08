@@ -1,6 +1,1022 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 08 15:04:18 +0000 2019",
+		"id": 1170687440681459700,
+		"id_str": "1170714485692104706",
+		"full_text": "自封的立场包括写在Bio里的狗屁都不是，关键在于他的行为以及最重要的，行为带来的影响。一位挂着彩虹旗的LGBT先锋支持迫害同性恋的政权；一群女权斗士争先献媚一个至今糟蹋女性的宗教；一个把民主自由贴在脸上的国家屏蔽互联网。你还不敢质疑，因为他们都披着同一件不可侵犯的外衣，叫做政治正确。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 165407871,
+			"id_str": "165407871",
+			"name": "𝒜𝒾𝓇 🌟 空空在时间循环",
+			"screen_name": "Solitude_Sola",
+			"location": "Your Side",
+			"description": "一个孤单的人格，一种快乐的意识。- - -  守序邪恶==真名宿敌",
+			"url": "https://t.co/Tt1Rhr1RLZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tt1Rhr1RLZ",
+							"expanded_url": "http://t.me/Solitude_Sola",
+							"display_url": "t.me/Solitude_Sola",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9913,
+			"friends_count": 469,
+			"listed_count": 88,
+			"created_at": "Sun Jul 11 13:41:45 +0000 2010",
+			"favourites_count": 2824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/895002571848335360/axtxrJ2e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/895002571848335360/axtxrJ2e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165407871/1563373583",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "自封的立场包括写在Bio里的狗屁都不是，关键在于他的行为以及最重要的，行为带来的影响。一位挂着彩虹旗的LGBT先锋支持迫害同性恋的政权；一群女权斗士争先献媚一个至今糟蹋女性的宗教；一个把民主自由贴在脸上的国家屏蔽互联网。你还不敢质疑，因为他们都披着同一件不可侵犯的外衣，叫做政治正确。"
+	},
+	{
+		"created_at": "Sun Sep 08 14:40:07 +0000 2019",
+		"id": 1170696852183732200,
+		"id_str": "1170708397529812998",
+		"full_text": "Causeway Bay , Hongkong. \nHkpolice attack the tourists !\nCitizens send him to hospital,  no police help. #PoliceState\n#HongKongProtests\n#tourist https://t.co/pWwW3xPCLk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PoliceState",
+					"indices": [
+						105,
+						117
+					]
+				},
+				{
+					"text": "HongKongProtests",
+					"indices": [
+						118,
+						135
+					]
+				},
+				{
+					"text": "tourist",
+					"indices": [
+						136,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170696842213908500,
+					"id_str": "1170696842213908482",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/ED8mk0vU4AITVvc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED8mk0vU4AITVvc.jpg",
+					"url": "https://t.co/pWwW3xPCLk",
+					"display_url": "pic.twitter.com/pWwW3xPCLk",
+					"expanded_url": "https://twitter.com/Jim97147570/status/1170696852183732224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 638,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 638,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170696842213908500,
+					"id_str": "1170696842213908482",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/ED8mk0vU4AITVvc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED8mk0vU4AITVvc.jpg",
+					"url": "https://t.co/pWwW3xPCLk",
+					"display_url": "pic.twitter.com/pWwW3xPCLk",
+					"expanded_url": "https://twitter.com/Jim97147570/status/1170696852183732224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 638,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 638,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170696847393902600,
+					"id_str": "1170696847393902592",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/ED8mlICVUAAPVUM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED8mlICVUAAPVUM.jpg",
+					"url": "https://t.co/pWwW3xPCLk",
+					"display_url": "pic.twitter.com/pWwW3xPCLk",
+					"expanded_url": "https://twitter.com/Jim97147570/status/1170696852183732224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1136782920834662400,
+			"id_str": "1136782920834662400",
+			"name": "Jim",
+			"screen_name": "Jim97147570",
+			"location": "",
+			"description": "光復香港 時代革命🇭🇰\n\n#HongKongProtesters \n#FreeHongKong #LiberateHK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1907,
+			"friends_count": 772,
+			"listed_count": 12,
+			"created_at": "Thu Jun 06 23:52:23 +0000 2019",
+			"favourites_count": 3791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1166002129351237632/YSIJahnr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166002129351237632/YSIJahnr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1136782920834662400/1559886932",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 142,
+		"favorite_count": 124,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Causeway Bay , Hongkong. \nHkpolice attack the tourists !\nCitizens send him to hospital,  no police help. #PoliceState\n#HongKongProtests\n#tourist https://t.co/pWwW3xPCLk"
+	},
+	{
+		"created_at": "Sun Sep 08 14:39:11 +0000 2019",
+		"id": 1170612222181048300,
+		"id_str": "1170708162233524225",
+		"full_text": "一天過去。\n\n從醫院與警署回來，行得走得，能重投工作，能正常社交，只是對不知怎的變為靠把口搵食的人來説，口齒能力略降。飲食有些少難與痛，但飲食好閒。還有門牙與牙肉還有痛感。無厘頭左膊頭肌肉酸痛，發現被鋪極混亂應該是冷氣瑟縮扭動致傷，無關果欄。\n\n街頭昨晚如常有事，今晚又有事了。 https://t.co/8WtnCRwsvl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170612208968978400,
+					"id_str": "1170612208968978437",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/ED7ZmhVU0AUhRB7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED7ZmhVU0AUhRB7.jpg",
+					"url": "https://t.co/8WtnCRwsvl",
+					"display_url": "pic.twitter.com/8WtnCRwsvl",
+					"expanded_url": "https://twitter.com/Yu_Hong_Chan/status/1170612222181048320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170612208968978400,
+					"id_str": "1170612208968978437",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/ED7ZmhVU0AUhRB7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED7ZmhVU0AUhRB7.jpg",
+					"url": "https://t.co/8WtnCRwsvl",
+					"display_url": "pic.twitter.com/8WtnCRwsvl",
+					"expanded_url": "https://twitter.com/Yu_Hong_Chan/status/1170612222181048320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44851982,
+			"id_str": "44851982",
+			"name": "陳裕匡 Nickleby Chan Yu Hong",
+			"screen_name": "Yu_Hong_Chan",
+			"location": "Hong Kong",
+			"description": "Comedian｜Reporter｜Live-Broadcastor｜Entrepreneur｜Editor｜Writer｜Sports Maniac｜Lifelong Learner｜ Edit Biography",
+			"url": "https://t.co/fpqrQ3PEGV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fpqrQ3PEGV",
+							"expanded_url": "https://www.facebook.com/pg/yuhongchanpage/",
+							"display_url": "facebook.com/pg/yuhongchanp…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2249,
+			"friends_count": 375,
+			"listed_count": 15,
+			"created_at": "Fri Jun 05 08:40:01 +0000 2009",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1165922759131590656/8Z-mrfyZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1165922759131590656/8Z-mrfyZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44851982/1566812934",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 248,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "一天過去。\n\n從醫院與警署回來，行得走得，能重投工作，能正常社交，只是對不知怎的變為靠把口搵食的人來説，口齒能力略降。飲食有些少難與痛，但飲食好閒。還有門牙與牙肉還有痛感。無厘頭左膊頭肌肉酸痛，發現被鋪極混亂應該是冷氣瑟縮扭動致傷，無關果欄。\n\n街頭昨晚如常有事，今晚又有事了。 https://t.co/8WtnCRwsvl"
+	},
+	{
+		"created_at": "Sun Sep 08 14:38:53 +0000 2019",
+		"id": 1170676780627153000,
+		"id_str": "1170708089344933889",
+		"full_text": "才22年能把溫和的香港人逼得同歸於盡的國家，國際社會再不警惕就太晚了。 https://t.co/S45jJH5E1b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S45jJH5E1b",
+					"expanded_url": "https://twitter.com/bbcchinese/status/1170615508430925824",
+					"display_url": "twitter.com/bbcchinese/sta…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1162532347276738600,
+			"id_str": "1162532347276738562",
+			"name": "三爪1",
+			"screen_name": "sanzhao41",
+			"location": "Hong Kong",
+			"description": "和理優HKer。三爪大號被限制，小號",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8348,
+			"friends_count": 2480,
+			"listed_count": 51,
+			"created_at": "Sat Aug 17 01:11:36 +0000 2019",
+			"favourites_count": 6572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2363,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162533505131151360/OtVtN5hH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162533505131151360/OtVtN5hH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1162532347276738562/1566004562",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1170615508430925800,
+		"quoted_status_id_str": "1170615508430925824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/S45jJH5E1b",
+			"expanded": "https://twitter.com/bbcchinese/status/1170615508430925824",
+			"display": "twitter.com/bbcchinese/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 08 08:31:00 +0000 2019",
+			"id": 1170615508430925800,
+			"id_str": "1170615508430925824",
+			"full_text": "分析认为，如果美国打香港牌，取消《香港关系法》，或改变香港的独立关税区地位，一来会令香港反对大陆的声音壮大，二来香港经济受到损害时，大陆个人或企业将更难透过香港把资金带到境外，北京最终将承受这种代价。\nhttps://t.co/CiW49tQgSY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				124
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CiW49tQgSY",
+						"expanded_url": "https://bbc.in/34qrVzH",
+						"display_url": "bbc.in/34qrVzH",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 791197,
+				"id_str": "791197",
+				"name": "BBC News 中文",
+				"screen_name": "bbcchinese",
+				"location": "W1A 1AA, U.K.",
+				"description": "This is the official Twitter account for https://t.co/WIuH5wauhH, the BBC's Chinese language news service. 这是BBC News 中文的正式推特帐户。",
+				"url": "http://t.co/Gkq7tmfV5I",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Gkq7tmfV5I",
+								"expanded_url": "http://bbcchinese.com",
+								"display_url": "bbcchinese.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/WIuH5wauhH",
+								"expanded_url": "http://BBCChinese.com",
+								"display_url": "BBCChinese.com",
+								"indices": [
+									41,
+									64
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1517827,
+				"friends_count": 232,
+				"listed_count": 6009,
+				"created_at": "Fri Feb 23 17:46:38 +0000 2007",
+				"favourites_count": 78,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 129545,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/791197/1538550757",
+				"profile_link_color": "BB1919",
+				"profile_sidebar_border_color": "003399",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 167,
+			"favorite_count": 449,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "zh"
+		},
+		"retweet_count": 41,
+		"favorite_count": 136,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "才22年能把溫和的香港人逼得同歸於盡的國家，國際社會再不警惕就太晚了。 https://t.co/S45jJH5E1b"
+	},
+	{
+		"created_at": "Sun Sep 08 14:36:03 +0000 2019",
+		"id": 1170626406969237500,
+		"id_str": "1170707374299942915",
+		"full_text": "偌大一個國家、及傀儡港府，不去追責施暴示威者和平民的港警，卻對一個有理想的年輕人反复拘捕，將罪惡遷怒於這些有擔當的公民身上。國際社會必須譴責及採取行動。   黃之鋒在香港國際機場再被拘捕 https://t.co/IBc5WTU0hp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IBc5WTU0hp",
+					"expanded_url": "https://stimme-de.de/2019/09/08/4865/",
+					"display_url": "stimme-de.de/2019/09/08/486…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1076090121248739300,
+			"id_str": "1076090121248739333",
+			"name": "Die Stimme Deutschlands 德國之音🎗️",
+			"screen_name": "SDeutschlands",
+			"location": "Berlin, Germany",
+			"description": "一個有態度的在綫媒體，由一群志願者運作。https://t.co/dS0B8OJXYF",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dS0B8OJXYF",
+							"expanded_url": "https://stimme-de.de",
+							"display_url": "stimme-de.de",
+							"indices": [
+								20,
+								43
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17227,
+			"friends_count": 179,
+			"listed_count": 109,
+			"created_at": "Fri Dec 21 12:20:52 +0000 2018",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154175884821245953/c7u4YeJa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154175884821245953/c7u4YeJa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1076090121248739333/1565729482",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 218,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "偌大一個國家、及傀儡港府，不去追責施暴示威者和平民的港警，卻對一個有理想的年輕人反复拘捕，將罪惡遷怒於這些有擔當的公民身上。國際社會必須譴責及採取行動。   黃之鋒在香港國際機場再被拘捕 https://t.co/IBc5WTU0hp"
+	},
+	{
+		"created_at": "Sun Sep 08 14:35:22 +0000 2019",
+		"id": 1170703611581489200,
+		"id_str": "1170707201612107779",
+		"full_text": "建议国内的维权人士、强拆户、讨薪农民工、乐伽泛亚e租宝p2p受害者们，与其在国内上访无门，不如趁当前局势组团到香港，在旺角中环拉个横幅拿个大喇叭出镜率一定非常高。既可以向港人言传身教，又可以获得国际媒体国内高层一致关注，这比去美国拦领导人座驾成功率高得多。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35219547,
+			"id_str": "35219547",
+			"name": "Jian Alan Huang",
+			"screen_name": "hnjhj",
+			"location": "Shanghai, Hong Kong, Sydney",
+			"description": "An atheistic, skeptic, liberalist. A software engineer and researcher. I seek, I think, I speak.",
+			"url": "https://t.co/8dc82SjorG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8dc82SjorG",
+							"expanded_url": "http://blog.hnjhj.com",
+							"display_url": "blog.hnjhj.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35581,
+			"friends_count": 507,
+			"listed_count": 334,
+			"created_at": "Sat Apr 25 14:15:32 +0000 2009",
+			"favourites_count": 234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35219547/1348406013",
+			"profile_link_color": "22497E",
+			"profile_sidebar_border_color": "AFAFAF",
+			"profile_sidebar_fill_color": "E7E7E7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0073b76548e5984f",
+			"url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+			"place_type": "city",
+			"name": "Sydney",
+			"full_name": "Sydney, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							150.520928608,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-33.578140996
+						],
+						[
+							150.520928608,
+							-33.578140996
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "建议国内的维权人士、强拆户、讨薪农民工、乐伽泛亚e租宝p2p受害者们，与其在国内上访无门，不如趁当前局势组团到香港，在旺角中环拉个横幅拿个大喇叭出镜率一定非常高。既可以向港人言传身教，又可以获得国际媒体国内高层一致关注，这比去美国拦领导人座驾成功率高得多。"
+	},
+	{
+		"created_at": "Sun Sep 08 14:34:17 +0000 2019",
+		"id": 1170701980630581200,
+		"id_str": "1170706928558845954",
+		"full_text": "還是想不厭其煩重申一下，一隻有150年英國傳統、歷經各大小事件而樹立其聲譽的警察部隊，支殖不過22年就能劣化變這款形，何況是支那民國土法煉鋼&amp;並未經過轉型正義徹底滌清、至今仍然殘留黨國遺影的ROC警察？如果不想要ROC警察劣化回幾年前的死人德性，明年票要怎麼投，相信擁有正常心智的人都知道的",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1170699806206877700,
+		"in_reply_to_status_id_str": "1170699806206877696",
+		"in_reply_to_user_id": 2874772837,
+		"in_reply_to_user_id_str": "2874772837",
+		"in_reply_to_screen_name": "RogerHPNg",
+		"user": {
+			"id": 2874772837,
+			"id_str": "2874772837",
+			"name": "Roger H.P. Ng 🇳🇫🇯🇵🇺🇸🇵🇱#台灣人戰鬥#PrayforKyoAni",
+			"screen_name": "RogerHPNg",
+			"location": "Taiwan",
+			"description": "台灣人 \n\n主要關注包含但不限於以下領域：\n#台灣公共事務 \n#歷史\n#國際關係 \n#國際經濟 \n#各國軍事安保動態 \n#台灣以外被支共壓迫各民族消息 \n#ACGN\n\n兼差雷丘bot",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4269,
+			"friends_count": 4926,
+			"listed_count": 36,
+			"created_at": "Fri Oct 24 07:15:07 +0000 2014",
+			"favourites_count": 365568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088111236049297408/i70vBV6r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088111236049297408/i70vBV6r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2874772837/1547433351",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "還是想不厭其煩重申一下，一隻有150年英國傳統、歷經各大小事件而樹立其聲譽的警察部隊，支殖不過22年就能劣化變這款形，何況是支那民國土法煉鋼&amp;並未經過轉型正義徹底滌清、至今仍然殘留黨國遺影的ROC警察？如果不想要ROC警察劣化回幾年前的死人德性，明年票要怎麼投，相信擁有正常心智的人都知道的"
+	},
+	{
 		"created_at": "Sun Sep 08 10:56:58 +0000 2019",
 		"id": 1170641192343593000,
 		"id_str": "1170652241855991808",
