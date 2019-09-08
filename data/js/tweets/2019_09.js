@@ -1,6 +1,1274 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 08 10:56:58 +0000 2019",
+		"id": 1170641192343593000,
+		"id_str": "1170652241855991808",
+		"full_text": "The rally to Consulate of US in HK, was rudely cut short by #HKPolice, who ordered an immediate disperse long before the approved time while the rail station was closed by the #HKPolice, leaving the citizens under the danger of #HKPoliceBrutality  \n#PassHKHumanRightsDemocracyAct https://t.co/PoKVc7vtOO https://t.co/oRfIpAYOQY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			303
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HKPolice",
+					"indices": [
+						60,
+						69
+					]
+				},
+				{
+					"text": "HKPolice",
+					"indices": [
+						176,
+						185
+					]
+				},
+				{
+					"text": "HKPoliceBrutality",
+					"indices": [
+						228,
+						246
+					]
+				},
+				{
+					"text": "PassHKHumanRightsDemocracyAct",
+					"indices": [
+						249,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PoKVc7vtOO",
+					"expanded_url": "https://twitter.com/SummerInSmokeHK/status/1170620026639941632",
+					"display_url": "twitter.com/SummerInSmokeH…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1170641165693026300,
+					"id_str": "1170641165693026304",
+					"indices": [
+						304,
+						327
+					],
+					"media_url": "http://pbs.twimg.com/media/ED7z8BiVAAAzStB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED7z8BiVAAAzStB.jpg",
+					"url": "https://t.co/oRfIpAYOQY",
+					"display_url": "pic.twitter.com/oRfIpAYOQY",
+					"expanded_url": "https://twitter.com/SummerInSmokeHK/status/1170641192343592960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 721,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170641165693026300,
+					"id_str": "1170641165693026304",
+					"indices": [
+						304,
+						327
+					],
+					"media_url": "http://pbs.twimg.com/media/ED7z8BiVAAAzStB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED7z8BiVAAAzStB.jpg",
+					"url": "https://t.co/oRfIpAYOQY",
+					"display_url": "pic.twitter.com/oRfIpAYOQY",
+					"expanded_url": "https://twitter.com/SummerInSmokeHK/status/1170641192343592960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 721,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1168531122600300500,
+			"id_str": "1168531122600300544",
+			"name": "Summer In Smoke",
+			"screen_name": "SummerInSmokeHK",
+			"location": "",
+			"description": "Just like Winter On Fire, Hong Kong's 2019 Summer is in smoke. We translate, summarise, and caption materials we gathered on the situation in HK.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 17,
+			"listed_count": 2,
+			"created_at": "Mon Sep 02 14:28:46 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168536441434955777/5xFC0Szx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168536441434955777/5xFC0Szx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1168531122600300544/1567605987",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1170620026639941600,
+		"quoted_status_id_str": "1170620026639941632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PoKVc7vtOO",
+			"expanded": "https://twitter.com/SummerInSmokeHK/status/1170620026639941632",
+			"display": "twitter.com/SummerInSmokeH…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 08 08:48:58 +0000 2019",
+			"id": 1170620026639941600,
+			"id_str": "1170620026639941632",
+			"full_text": "Citizens of #HongKong were gathering peacefully (usually the case when no #HKPolice appear) at Central HK this afternoon, some carrying the American Flag, to urge for the passing of the HK Human Rights and Democracy Act by US Congress.\n\n#PassHKHumanRightsDemocracyAct\n#StandWithHK https://t.co/zmspvMriXw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HongKong",
+						"indices": [
+							12,
+							21
+						]
+					},
+					{
+						"text": "HKPolice",
+						"indices": [
+							74,
+							83
+						]
+					},
+					{
+						"text": "PassHKHumanRightsDemocracyAct",
+						"indices": [
+							237,
+							267
+						]
+					},
+					{
+						"text": "StandWithHK",
+						"indices": [
+							268,
+							280
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1170620018754650000,
+						"id_str": "1170620018754650114",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/ED7gtHDVAAIxsS4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ED7gtHDVAAIxsS4.jpg",
+						"url": "https://t.co/zmspvMriXw",
+						"display_url": "pic.twitter.com/zmspvMriXw",
+						"expanded_url": "https://twitter.com/SummerInSmokeHK/status/1170620026639941632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 715,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 670,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1170620018754650000,
+						"id_str": "1170620018754650114",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/ED7gtHDVAAIxsS4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ED7gtHDVAAIxsS4.jpg",
+						"url": "https://t.co/zmspvMriXw",
+						"display_url": "pic.twitter.com/zmspvMriXw",
+						"expanded_url": "https://twitter.com/SummerInSmokeHK/status/1170620026639941632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 715,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 670,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1168531122600300500,
+				"id_str": "1168531122600300544",
+				"name": "Summer In Smoke",
+				"screen_name": "SummerInSmokeHK",
+				"location": "",
+				"description": "Just like Winter On Fire, Hong Kong's 2019 Summer is in smoke. We translate, summarise, and caption materials we gathered on the situation in HK.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 271,
+				"friends_count": 17,
+				"listed_count": 2,
+				"created_at": "Mon Sep 02 14:28:46 +0000 2019",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 174,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1168536441434955777/5xFC0Szx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168536441434955777/5xFC0Szx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1168531122600300544/1567605987",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 83,
+			"favorite_count": 94,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 15,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The rally to Consulate of US in HK, was rudely cut short by #HKPolice, who ordered an immediate disperse long before the approved time while the rail station was closed by the #HKPolice, leaving the citizens under the danger of #HKPoliceBrutality  \n#PassHKHumanRightsDemocracyAct https://t.co/PoKVc7vtOO https://t.co/oRfIpAYOQY"
+	},
+	{
+		"created_at": "Sun Sep 08 10:55:49 +0000 2019",
+		"id": 1170651462226985000,
+		"id_str": "1170651951031361536",
+		"full_text": "突然在中環站內抓人，引起混亂馬上封站，又引起極大憤怒，在混亂與極度憤怒中他們馬上就打，砸，燒！接下來就是強烈譴責，譴責！接着手足們，永武派們千萬小心，小心！ https://t.co/jYXezNDi6W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170651406765711400,
+					"id_str": "1170651406765711360",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/ED79QIgU4AAM_n7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED79QIgU4AAM_n7.jpg",
+					"url": "https://t.co/jYXezNDi6W",
+					"display_url": "pic.twitter.com/jYXezNDi6W",
+					"expanded_url": "https://twitter.com/twaLoVkJaSH4cq3/status/1170651462226984960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170651406765711400,
+					"id_str": "1170651406765711360",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/ED79QIgU4AAM_n7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED79QIgU4AAM_n7.jpg",
+					"url": "https://t.co/jYXezNDi6W",
+					"display_url": "pic.twitter.com/jYXezNDi6W",
+					"expanded_url": "https://twitter.com/twaLoVkJaSH4cq3/status/1170651462226984960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170651431419859000,
+					"id_str": "1170651431419858944",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/ED79RkWVUAAtqzX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED79RkWVUAAtqzX.jpg",
+					"url": "https://t.co/jYXezNDi6W",
+					"display_url": "pic.twitter.com/jYXezNDi6W",
+					"expanded_url": "https://twitter.com/twaLoVkJaSH4cq3/status/1170651462226984960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 637,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 637,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170651443327426600,
+					"id_str": "1170651443327426560",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/ED79SQtUYAArW8C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED79SQtUYAArW8C.jpg",
+					"url": "https://t.co/jYXezNDi6W",
+					"display_url": "pic.twitter.com/jYXezNDi6W",
+					"expanded_url": "https://twitter.com/twaLoVkJaSH4cq3/status/1170651462226984960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170651453771223000,
+					"id_str": "1170651453771223040",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/ED79S3nUEAAVBQi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED79S3nUEAAVBQi.jpg",
+					"url": "https://t.co/jYXezNDi6W",
+					"display_url": "pic.twitter.com/jYXezNDi6W",
+					"expanded_url": "https://twitter.com/twaLoVkJaSH4cq3/status/1170651462226984960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1164527745788854300,
+			"id_str": "1164527745788854272",
+			"name": "香港挺郭后援會（2）",
+			"screen_name": "twaLoVkJaSH4cq3",
+			"location": "九龍城, 香港",
+			"description": "非常自豪全程參與挺郭文貴爆料革命和香港反送中運動！",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2401,
+			"friends_count": 472,
+			"listed_count": 4,
+			"created_at": "Thu Aug 22 13:20:45 +0000 2019",
+			"favourites_count": 414,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164539068216033280/8jHlgXgM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164539068216033280/8jHlgXgM_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "突然在中環站內抓人，引起混亂馬上封站，又引起極大憤怒，在混亂與極度憤怒中他們馬上就打，砸，燒！接下來就是強烈譴責，譴責！接着手足們，永武派們千萬小心，小心！ https://t.co/jYXezNDi6W"
+	},
+	{
+		"created_at": "Sun Sep 08 10:55:38 +0000 2019",
+		"id": 1170651830340046800,
+		"id_str": "1170651903237263360",
+		"full_text": "1850，紅磡党鐵站起碼30防暴狗。 #現場情況 https://t.co/cWp1mNSZwl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "現場情況",
+					"indices": [
+						19,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170651798987690000,
+					"id_str": "1170651798987689985",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/ED79m9pVUAE-SmX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED79m9pVUAE-SmX.jpg",
+					"url": "https://t.co/cWp1mNSZwl",
+					"display_url": "pic.twitter.com/cWp1mNSZwl",
+					"expanded_url": "https://twitter.com/angeline761027/status/1170651830340046848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170651798987690000,
+					"id_str": "1170651798987689985",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/ED79m9pVUAE-SmX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED79m9pVUAE-SmX.jpg",
+					"url": "https://t.co/cWp1mNSZwl",
+					"display_url": "pic.twitter.com/cWp1mNSZwl",
+					"expanded_url": "https://twitter.com/angeline761027/status/1170651830340046848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2848655539,
+			"id_str": "2848655539",
+			"name": "宣瑩",
+			"screen_name": "angeline761027",
+			"location": "用自己的角度 看著變化萬千的世界",
+			"description": "充滿好奇的冒險者 雖然冒失 但行囊卻是愛.勇氣與希望-勇於挑戰 永不言敗 🇹🇼 Taiwan 台灣人🍠⛰前が見えなくても必死に進め",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2006,
+			"friends_count": 367,
+			"listed_count": 10,
+			"created_at": "Thu Oct 09 09:49:00 +0000 2014",
+			"favourites_count": 28063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723447843764097024/sGd-VJCq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723447843764097024/sGd-VJCq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2848655539/1412956538",
+			"profile_link_color": "509694",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "1850，紅磡党鐵站起碼30防暴狗。 #現場情況 https://t.co/cWp1mNSZwl"
+	},
+	{
+		"created_at": "Sun Sep 08 10:55:15 +0000 2019",
+		"id": 1170646732545224700,
+		"id_str": "1170651808475353088",
+		"full_text": "#公眾安全情報 #各區情況整合 \n\n1835更新\n\n灣仔區 4️⃣\n⚠️民眾已經撤退至修頓球場一帶，皇后大道東、莊士敦道有設置路障。防暴曾於警察總部附近天橋上舉起紅旗。\n\n中西區 5️⃣\n🛑防暴於雪廠街一帶展開截查及拘捕行動。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "公眾安全情報",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "各區情況整合",
+					"indices": [
+						8,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2848655539,
+			"id_str": "2848655539",
+			"name": "宣瑩",
+			"screen_name": "angeline761027",
+			"location": "用自己的角度 看著變化萬千的世界",
+			"description": "充滿好奇的冒險者 雖然冒失 但行囊卻是愛.勇氣與希望-勇於挑戰 永不言敗 🇹🇼 Taiwan 台灣人🍠⛰前が見えなくても必死に進め",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2006,
+			"friends_count": 367,
+			"listed_count": 10,
+			"created_at": "Thu Oct 09 09:49:00 +0000 2014",
+			"favourites_count": 28063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723447843764097024/sGd-VJCq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723447843764097024/sGd-VJCq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2848655539/1412956538",
+			"profile_link_color": "509694",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "#公眾安全情報 #各區情況整合 \n\n1835更新\n\n灣仔區 4️⃣\n⚠️民眾已經撤退至修頓球場一帶，皇后大道東、莊士敦道有設置路障。防暴曾於警察總部附近天橋上舉起紅旗。\n\n中西區 5️⃣\n🛑防暴於雪廠街一帶展開截查及拘捕行動。"
+	},
+	{
+		"created_at": "Sun Sep 08 10:55:01 +0000 2019",
+		"id": 1170647728012923000,
+		"id_str": "1170651750996598784",
+		"full_text": "1837，銅記連儂天橋底已有防暴防線。 #現場情況 https://t.co/s0cfONKngd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "現場情況",
+					"indices": [
+						20,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170647719498530800,
+					"id_str": "1170647719498530816",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/ED755gXUwAAtfo9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED755gXUwAAtfo9.jpg",
+					"url": "https://t.co/s0cfONKngd",
+					"display_url": "pic.twitter.com/s0cfONKngd",
+					"expanded_url": "https://twitter.com/angeline761027/status/1170647728012922880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170647719498530800,
+					"id_str": "1170647719498530816",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/ED755gXUwAAtfo9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED755gXUwAAtfo9.jpg",
+					"url": "https://t.co/s0cfONKngd",
+					"display_url": "pic.twitter.com/s0cfONKngd",
+					"expanded_url": "https://twitter.com/angeline761027/status/1170647728012922880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2848655539,
+			"id_str": "2848655539",
+			"name": "宣瑩",
+			"screen_name": "angeline761027",
+			"location": "用自己的角度 看著變化萬千的世界",
+			"description": "充滿好奇的冒險者 雖然冒失 但行囊卻是愛.勇氣與希望-勇於挑戰 永不言敗 🇹🇼 Taiwan 台灣人🍠⛰前が見えなくても必死に進め",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2006,
+			"friends_count": 367,
+			"listed_count": 10,
+			"created_at": "Thu Oct 09 09:49:00 +0000 2014",
+			"favourites_count": 28063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723447843764097024/sGd-VJCq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723447843764097024/sGd-VJCq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2848655539/1412956538",
+			"profile_link_color": "509694",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "1837，銅記連儂天橋底已有防暴防線。 #現場情況 https://t.co/s0cfONKngd"
+	},
+	{
+		"created_at": "Sun Sep 08 10:54:58 +0000 2019",
+		"id": 1170647268732440600,
+		"id_str": "1170651736169680896",
+		"full_text": "1835，PP外有防暴落車。 #現場情況 https://t.co/0yulsETiaI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "現場情況",
+					"indices": [
+						15,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170647253477777400,
+					"id_str": "1170647253477777408",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/ED75eYTUYAAzDEE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED75eYTUYAAzDEE.jpg",
+					"url": "https://t.co/0yulsETiaI",
+					"display_url": "pic.twitter.com/0yulsETiaI",
+					"expanded_url": "https://twitter.com/angeline761027/status/1170647268732440576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170647253477777400,
+					"id_str": "1170647253477777408",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/ED75eYTUYAAzDEE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED75eYTUYAAzDEE.jpg",
+					"url": "https://t.co/0yulsETiaI",
+					"display_url": "pic.twitter.com/0yulsETiaI",
+					"expanded_url": "https://twitter.com/angeline761027/status/1170647268732440576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2848655539,
+			"id_str": "2848655539",
+			"name": "宣瑩",
+			"screen_name": "angeline761027",
+			"location": "用自己的角度 看著變化萬千的世界",
+			"description": "充滿好奇的冒險者 雖然冒失 但行囊卻是愛.勇氣與希望-勇於挑戰 永不言敗 🇹🇼 Taiwan 台灣人🍠⛰前が見えなくても必死に進め",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2006,
+			"friends_count": 367,
+			"listed_count": 10,
+			"created_at": "Thu Oct 09 09:49:00 +0000 2014",
+			"favourites_count": 28063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723447843764097024/sGd-VJCq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723447843764097024/sGd-VJCq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2848655539/1412956538",
+			"profile_link_color": "509694",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "1835，PP外有防暴落車。 #現場情況 https://t.co/0yulsETiaI"
+	},
+	{
 		"created_at": "Sun Sep 08 04:50:10 +0000 2019",
 		"id": 1170283556670566400,
 		"id_str": "1170559933370253312",
