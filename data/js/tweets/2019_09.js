@@ -1,6 +1,866 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 08 03:04:21 +0000 2019",
+		"id": 1170521489335959600,
+		"id_str": "1170533302035472386",
+		"full_text": "9.7 2350\nA young boywas beaten by a few cops at the back of his head. He was allegedly feeling dizzy for a few mins. A police-medic didnt  seem to help much after performing FA. Police and MTR staff put down the date after communication. #PoliceBrutalitiy https://t.co/7mjB7k4N6c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PoliceBrutalitiy",
+					"indices": [
+						238,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170521477453512700,
+					"id_str": "1170521477453512704",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/ED6HFQGVAAAc5Td.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED6HFQGVAAAc5Td.jpg",
+					"url": "https://t.co/7mjB7k4N6c",
+					"display_url": "pic.twitter.com/7mjB7k4N6c",
+					"expanded_url": "https://twitter.com/iamchuichui/status/1170521489335959552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 412,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 728,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170521477453512700,
+					"id_str": "1170521477453512704",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/ED6HFQGVAAAc5Td.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED6HFQGVAAAc5Td.jpg",
+					"url": "https://t.co/7mjB7k4N6c",
+					"display_url": "pic.twitter.com/7mjB7k4N6c",
+					"expanded_url": "https://twitter.com/iamchuichui/status/1170521489335959552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 412,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 728,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170521477449302000,
+					"id_str": "1170521477449302016",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/ED6HFQFUwAAVEKs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED6HFQFUwAAVEKs.jpg",
+					"url": "https://t.co/7mjB7k4N6c",
+					"display_url": "pic.twitter.com/7mjB7k4N6c",
+					"expanded_url": "https://twitter.com/iamchuichui/status/1170521489335959552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170521477453500400,
+					"id_str": "1170521477453500416",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/ED6HFQGU0AAOwCY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED6HFQGU0AAOwCY.jpg",
+					"url": "https://t.co/7mjB7k4N6c",
+					"display_url": "pic.twitter.com/7mjB7k4N6c",
+					"expanded_url": "https://twitter.com/iamchuichui/status/1170521489335959552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 468320185,
+			"id_str": "468320185",
+			"name": "Chuichui🇭🇰",
+			"screen_name": "iamchuichui",
+			"location": "Hong Kong",
+			"description": "\"We are here, not because we are law-breakers; we are here in our efforts to become law-makers\" Emmeline Pankhurst. #StandwithHK (see more https://t.co/WzqqzGYkAB)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WzqqzGYkAB",
+							"expanded_url": "https://hkrev.info",
+							"display_url": "hkrev.info",
+							"indices": [
+								139,
+								162
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 994,
+			"friends_count": 624,
+			"listed_count": 10,
+			"created_at": "Thu Jan 19 12:14:22 +0000 2012",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167785187955994624/aO1QMRCs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167785187955994624/aO1QMRCs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/468320185/1566589937",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "9.7 2350\nA young boywas beaten by a few cops at the back of his head. He was allegedly feeling dizzy for a few mins. A police-medic didnt  seem to help much after performing FA. Police and MTR staff put down the date after communication. #PoliceBrutalitiy https://t.co/7mjB7k4N6c"
+	},
+	{
+		"created_at": "Sun Sep 08 03:03:00 +0000 2019",
+		"id": 1170477360581435400,
+		"id_str": "1170532961520934913",
+		"full_text": "《願榮光歸香港》（英語：Glory to Hong Kong）是一首香港的粵語歌曲，由Thomas dgx yhl以及一群匿名香港網民（部分來自連登討論區）於2019年反對逃犯條例修訂草案運動期間創作。 https://t.co/b9n19sqNIp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b9n19sqNIp",
+					"expanded_url": "https://stimme-de.de/2019/09/07/4827/",
+					"display_url": "stimme-de.de/2019/09/07/482…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1076090121248739300,
+			"id_str": "1076090121248739333",
+			"name": "Die Stimme Deutschlands 德國之音🎗️",
+			"screen_name": "SDeutschlands",
+			"location": "Berlin, Germany",
+			"description": "一個有態度的在綫媒體，由一群志願者運作。https://t.co/dS0B8OJXYF",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dS0B8OJXYF",
+							"expanded_url": "https://stimme-de.de",
+							"display_url": "stimme-de.de",
+							"indices": [
+								20,
+								43
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17181,
+			"friends_count": 178,
+			"listed_count": 109,
+			"created_at": "Fri Dec 21 12:20:52 +0000 2018",
+			"favourites_count": 1620,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154175884821245953/c7u4YeJa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154175884821245953/c7u4YeJa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1076090121248739333/1565729482",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "《願榮光歸香港》（英語：Glory to Hong Kong）是一首香港的粵語歌曲，由Thomas dgx yhl以及一群匿名香港網民（部分來自連登討論區）於2019年反對逃犯條例修訂草案運動期間創作。 https://t.co/b9n19sqNIp"
+	},
+	{
+		"created_at": "Sun Sep 08 02:59:19 +0000 2019",
+		"id": 1170407767548428300,
+		"id_str": "1170532037922643969",
+		"full_text": "Banner outside School of Journalism and Communication at Chinese University of #HongKong: Rather die speaking out than live in silence. 願亂世中的新傳人都可以堅持初衷。 https://t.co/T6G5VNW8xY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HongKong",
+					"indices": [
+						79,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170407753942126600,
+					"id_str": "1170407753942126592",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/ED4fprAVUAArL32.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED4fprAVUAArL32.jpg",
+					"url": "https://t.co/T6G5VNW8xY",
+					"display_url": "pic.twitter.com/T6G5VNW8xY",
+					"expanded_url": "https://twitter.com/rachel_cheung1/status/1170407767548428288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170407753942126600,
+					"id_str": "1170407753942126592",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/ED4fprAVUAArL32.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED4fprAVUAArL32.jpg",
+					"url": "https://t.co/T6G5VNW8xY",
+					"display_url": "pic.twitter.com/T6G5VNW8xY",
+					"expanded_url": "https://twitter.com/rachel_cheung1/status/1170407767548428288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 326625501,
+			"id_str": "326625501",
+			"name": "Rachel Cheung",
+			"screen_name": "rachel_cheung1",
+			"location": "Hong Kong",
+			"description": "Culture reporter from Hong Kong @SCMPLifestyle, now temporarily based in Shanghai. Former editor @Varsitycuhk",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8664,
+			"friends_count": 666,
+			"listed_count": 170,
+			"created_at": "Thu Jun 30 06:38:11 +0000 2011",
+			"favourites_count": 2635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156933213534601217/noG61CR3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156933213534601217/noG61CR3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/326625501/1458643274",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "Banner outside School of Journalism and Communication at Chinese University of #HongKong: Rather die speaking out than live in silence. 願亂世中的新傳人都可以堅持初衷。 https://t.co/T6G5VNW8xY"
+	},
+	{
+		"created_at": "Sun Sep 08 02:58:54 +0000 2019",
+		"id": 1170528391331639300,
+		"id_str": "1170531930032488448",
+		"full_text": "當我們受暴力威脅時，有人鼓起勇氣用行動解救我們，我們還要抱怨他們的手段只是另一種暴力嗎？ https://t.co/l3KUVejzXr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170528383307923500,
+					"id_str": "1170528383307923456",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/ED6NXOaUwAAqJSB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED6NXOaUwAAqJSB.jpg",
+					"url": "https://t.co/l3KUVejzXr",
+					"display_url": "pic.twitter.com/l3KUVejzXr",
+					"expanded_url": "https://twitter.com/EricNgHknation/status/1170528391331639296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 311,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 311,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 311,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170528383307923500,
+					"id_str": "1170528383307923456",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/ED6NXOaUwAAqJSB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED6NXOaUwAAqJSB.jpg",
+					"url": "https://t.co/l3KUVejzXr",
+					"display_url": "pic.twitter.com/l3KUVejzXr",
+					"expanded_url": "https://twitter.com/EricNgHknation/status/1170528391331639296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 311,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 311,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 311,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1128228485321900000,
+			"id_str": "1128228485321900033",
+			"name": "Eric Ng",
+			"screen_name": "EricNgHknation",
+			"location": "Hong Kong",
+			"description": "硬核港獨派/香港民族決不低頭/民國粉，皇漢廢物，大中華膠，愛支病一律拉黑/Hong Kong localism /Full independence in HK/ We are Hong Kong Nation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 909,
+			"friends_count": 847,
+			"listed_count": 6,
+			"created_at": "Tue May 14 09:20:07 +0000 2019",
+			"favourites_count": 2573,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1476,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128228655853965313/UPw5ccMo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128228655853965313/UPw5ccMo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1128228485321900033/1565352219",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "當我們受暴力威脅時，有人鼓起勇氣用行動解救我們，我們還要抱怨他們的手段只是另一種暴力嗎？ https://t.co/l3KUVejzXr"
+	},
+	{
+		"created_at": "Sun Sep 08 02:58:34 +0000 2019",
+		"id": 1170518339359137800,
+		"id_str": "1170531846331019265",
+		"full_text": "有冇人同我一樣依兩日係咁loop\n真係好好聽\n好有國歌feel\n好想唱呀\n希望今日可以聽到有人一齊唱\n喺依啲時候有首咁嘅歌真係好令人鼓舞！\n我已經loop到識背\n\n你，今日背咗未？\n\n#StandwithHK\n#HongKongProtests https://t.co/C76zyKKq77",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StandwithHK",
+					"indices": [
+						92,
+						104
+					]
+				},
+				{
+					"text": "HongKongProtests",
+					"indices": [
+						105,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170518332899901400,
+					"id_str": "1170518332899901440",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/ED6EONuUwAA420n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED6EONuUwAA420n.jpg",
+					"url": "https://t.co/C76zyKKq77",
+					"display_url": "pic.twitter.com/C76zyKKq77",
+					"expanded_url": "https://twitter.com/cllchry/status/1170518339359137792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170518332899901400,
+					"id_str": "1170518332899901440",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/ED6EONuUwAA420n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED6EONuUwAA420n.jpg",
+					"url": "https://t.co/C76zyKKq77",
+					"display_url": "pic.twitter.com/C76zyKKq77",
+					"expanded_url": "https://twitter.com/cllchry/status/1170518339359137792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1315579135,
+			"id_str": "1315579135",
+			"name": "cherrrrrrrrrrhk",
+			"screen_name": "cllchry",
+			"location": "Hong Kong",
+			"description": "I am a Hongkonger // Toy Story Lover // Kirby Lover // and... Liberate Hong Kong, Revolution of Our Times",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 591,
+			"friends_count": 424,
+			"listed_count": 1,
+			"created_at": "Sat Mar 30 01:47:18 +0000 2013",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170407052482506752/-NHWCOYG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170407052482506752/-NHWCOYG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1315579135/1566282158",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "有冇人同我一樣依兩日係咁loop\n真係好好聽\n好有國歌feel\n好想唱呀\n希望今日可以聽到有人一齊唱\n喺依啲時候有首咁嘅歌真係好令人鼓舞！\n我已經loop到識背\n\n你，今日背咗未？\n\n#StandwithHK\n#HongKongProtests https://t.co/C76zyKKq77"
+	},
+	{
 		"created_at": "Sat Sep 07 16:09:34 +0000 2019",
 		"id": 1170297372921888800,
 		"id_str": "1170368523207622657",
