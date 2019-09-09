@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 09 12:56:04 +0000 2019",
+		"id": 1170939935744024600,
+		"id_str": "1171044601559277568",
+		"full_text": "【從中西區到元朗，他們一起手牽著手】全文：https://t.co/El9DWEfaow\n\n「根源是林鄭月娥，以及警察霸權。每次見到他們受傷回來，我都覺得很難過。」\n\n來自沙田區中學、就讀中四的黃同學今日與同學一齊參與「人鏈」，今天走出來，是希望透過行動說明「中學生都可以理政治。」 https://t.co/1yejNvWqNB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/El9DWEfaow",
+					"expanded_url": "https://buff.ly/2HWnVgx",
+					"display_url": "buff.ly/2HWnVgx",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1170939933835636700,
+					"id_str": "1170939933835636736",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EEADqnmXsAAdL_t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEADqnmXsAAdL_t.jpg",
+					"url": "https://t.co/1yejNvWqNB",
+					"display_url": "pic.twitter.com/1yejNvWqNB",
+					"expanded_url": "https://twitter.com/initiumnews/status/1170939935744024578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170939933835636700,
+					"id_str": "1170939933835636736",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EEADqnmXsAAdL_t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEADqnmXsAAdL_t.jpg",
+					"url": "https://t.co/1yejNvWqNB",
+					"display_url": "pic.twitter.com/1yejNvWqNB",
+					"expanded_url": "https://twitter.com/initiumnews/status/1170939935744024578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170939933726564400,
+					"id_str": "1170939933726564352",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EEADqnMXYAAkI6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEADqnMXYAAkI6J.jpg",
+					"url": "https://t.co/1yejNvWqNB",
+					"display_url": "pic.twitter.com/1yejNvWqNB",
+					"expanded_url": "https://twitter.com/initiumnews/status/1170939935744024578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170939934234030000,
+					"id_str": "1170939934234030080",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EEADqpFWsAAm1qz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEADqpFWsAAm1qz.jpg",
+					"url": "https://t.co/1yejNvWqNB",
+					"display_url": "pic.twitter.com/1yejNvWqNB",
+					"expanded_url": "https://twitter.com/initiumnews/status/1170939935744024578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170939934032695300,
+					"id_str": "1170939934032695296",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EEADqoVWkAAl2rD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEADqoVWkAAl2rD.jpg",
+					"url": "https://t.co/1yejNvWqNB",
+					"display_url": "pic.twitter.com/1yejNvWqNB",
+					"expanded_url": "https://twitter.com/initiumnews/status/1170939935744024578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3232393554,
+			"id_str": "3232393554",
+			"name": "端傳媒 Initium Media",
+			"screen_name": "initiumnews",
+			"location": "Hong Kong",
+			"description": "立足香港，放眼全球；探求本源，不偏不倚；深度調查，數據挖掘，華語媒體新開端。",
+			"url": "http://t.co/mHcE4gjNZ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/mHcE4gjNZ0",
+							"expanded_url": "http://theinitium.com",
+							"display_url": "theinitium.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 129311,
+			"friends_count": 423,
+			"listed_count": 920,
+			"created_at": "Mon Jun 01 10:16:14 +0000 2015",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/749869876836118528/2aTsW9Zq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/749869876836118528/2aTsW9Zq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3232393554/1567412794",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 113,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "【從中西區到元朗，他們一起手牽著手】全文：https://t.co/El9DWEfaow\n\n「根源是林鄭月娥，以及警察霸權。每次見到他們受傷回來，我都覺得很難過。」\n\n來自沙田區中學、就讀中四的黃同學今日與同學一齊參與「人鏈」，今天走出來，是希望透過行動說明「中學生都可以理政治。」 https://t.co/1yejNvWqNB"
+	},
+	{
 		"created_at": "Mon Sep 09 08:42:10 +0000 2019",
 		"id": 1170617058196738000,
 		"id_str": "1170980704605392896",
