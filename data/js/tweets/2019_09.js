@@ -1,6 +1,929 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 09 02:39:54 +0000 2019",
+		"id": 1170647570646855700,
+		"id_str": "1170889538799132672",
+		"full_text": "香港浸會大學內地小粉紅槍同學手機全過程！\n香港大學生什麼時候遇到過這樣野蠻的紅衛兵行徑！ https://t.co/YDz4Aj77xS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170647533376409600,
+					"id_str": "1170647533376409602",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170647533376409602/pu/img/pksBiHR6v_ocHW0r.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170647533376409602/pu/img/pksBiHR6v_ocHW0r.jpg",
+					"url": "https://t.co/YDz4Aj77xS",
+					"display_url": "pic.twitter.com/YDz4Aj77xS",
+					"expanded_url": "https://twitter.com/hjjohnson17/status/1170647570646855680/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170647533376409600,
+					"id_str": "1170647533376409602",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170647533376409602/pu/img/pksBiHR6v_ocHW0r.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170647533376409602/pu/img/pksBiHR6v_ocHW0r.jpg",
+					"url": "https://t.co/YDz4Aj77xS",
+					"display_url": "pic.twitter.com/YDz4Aj77xS",
+					"expanded_url": "https://twitter.com/hjjohnson17/status/1170647570646855680/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 10333,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170647533376409602/pu/vid/320x400/geRn_xwI0zU41w4a.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170647533376409602/pu/vid/384x480/Q4NFew9DdC0JrV2L.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1170647533376409602/pu/pl/S9JtEhz24UPp-wU9.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 861701479224139800,
+			"id_str": "861701479224139776",
+			"name": "子彈飛",
+			"screen_name": "hjjohnson17",
+			"location": "",
+			"description": "中國不能亂，一亂就民主了！\nFreedom, Democracy, Rule of Law.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28997,
+			"friends_count": 472,
+			"listed_count": 105,
+			"created_at": "Mon May 08 21:56:57 +0000 2017",
+			"favourites_count": 28843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138373684396273664/olV8uORZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138373684396273664/olV8uORZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/861701479224139776/1553384222",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 185,
+		"favorite_count": 313,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "香港浸會大學內地小粉紅槍同學手機全過程！\n香港大學生什麼時候遇到過這樣野蠻的紅衛兵行徑！ https://t.co/YDz4Aj77xS"
+	},
+	{
+		"created_at": "Mon Sep 09 02:35:51 +0000 2019",
+		"id": 1170810346589675500,
+		"id_str": "1170888518261981184",
+		"full_text": "今天在勃兰登堡门，大陆来的人齐唱中共国歌闹场后，香港朋友安静的放了一首《愿荣光归香港》，我看到几位香港朋友的眼里有泪光，那是与灵魂相通的爱，他们知道爱国得先爱人，他们知道人是应该有尊严的……如果有人再告诉我香港是中国的一部分，我想说：好啊，就让香港统一中国，国歌叫《愿荣光归香港》",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46327296,
+			"id_str": "46327296",
+			"name": "Suyutong 🎗️",
+			"screen_name": "Suyutong",
+			"location": "Germany",
+			"description": "记者，《环球时报》认证的“反华记者”；猫奴。#声援香港 #自由西藏新疆 ＃年轻人站起来再不颠覆就老了 无罪 #释放王全璋 ＃释放吴淦 #释放黄琦 #自由高智晟 #这是一个必须分清稗子和麦子的时代",
+			"url": "https://t.co/xctbBbunhT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xctbBbunhT",
+							"expanded_url": "http://www.freechina.news",
+							"display_url": "freechina.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 121511,
+			"friends_count": 1052,
+			"listed_count": 589,
+			"created_at": "Thu Jun 11 06:00:31 +0000 2009",
+			"favourites_count": 15028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106210378709639169/joFP7UrM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106210378709639169/joFP7UrM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46327296/1356656685",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "0A0A0A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 154,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "今天在勃兰登堡门，大陆来的人齐唱中共国歌闹场后，香港朋友安静的放了一首《愿荣光归香港》，我看到几位香港朋友的眼里有泪光，那是与灵魂相通的爱，他们知道爱国得先爱人，他们知道人是应该有尊严的……如果有人再告诉我香港是中国的一部分，我想说：好啊，就让香港统一中国，国歌叫《愿荣光归香港》"
+	},
+	{
+		"created_at": "Mon Sep 09 02:35:47 +0000 2019",
+		"id": 1170807002362241000,
+		"id_str": "1170888499773489152",
+		"full_text": "车祸后我的背伤并未痊愈，只是我不想缺位这场和香港抗议有关的国际声援现场。拍照、采访的每一个动作都是在背痛的基础上完成的，但与之相比，看着中国大陆人的丑态，这些带有优越感的人活得粗鄙、低贱而不自知。想到中国未来毫无希望，想到我的父母、亲人、有良知的一些朋友还在那里，心痛到无以复加。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46327296,
+			"id_str": "46327296",
+			"name": "Suyutong 🎗️",
+			"screen_name": "Suyutong",
+			"location": "Germany",
+			"description": "记者，《环球时报》认证的“反华记者”；猫奴。#声援香港 #自由西藏新疆 ＃年轻人站起来再不颠覆就老了 无罪 #释放王全璋 ＃释放吴淦 #释放黄琦 #自由高智晟 #这是一个必须分清稗子和麦子的时代",
+			"url": "https://t.co/xctbBbunhT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xctbBbunhT",
+							"expanded_url": "http://www.freechina.news",
+							"display_url": "freechina.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 121511,
+			"friends_count": 1052,
+			"listed_count": 589,
+			"created_at": "Thu Jun 11 06:00:31 +0000 2009",
+			"favourites_count": 15028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106210378709639169/joFP7UrM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106210378709639169/joFP7UrM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46327296/1356656685",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "0A0A0A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 306,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "车祸后我的背伤并未痊愈，只是我不想缺位这场和香港抗议有关的国际声援现场。拍照、采访的每一个动作都是在背痛的基础上完成的，但与之相比，看着中国大陆人的丑态，这些带有优越感的人活得粗鄙、低贱而不自知。想到中国未来毫无希望，想到我的父母、亲人、有良知的一些朋友还在那里，心痛到无以复加。"
+	},
+	{
+		"created_at": "Mon Sep 09 02:35:34 +0000 2019",
+		"id": 1170803247340249000,
+		"id_str": "1170888447432826884",
+		"full_text": "如果不是记者角色，首先是要冷静记录现场，我真的很想问问大陆来的人，他们知道1997年回归前的香港是四小龙吗？香港的水是向大陆买的，香港曾收留逃港的很多大陆人，香港坚持纪念六四……。他们何来的“没有大陆就没有香港的自信”！香港人正在争取的民主、自由、民众权利，哪一点不是大陆需要的，醒醒吧",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46327296,
+			"id_str": "46327296",
+			"name": "Suyutong 🎗️",
+			"screen_name": "Suyutong",
+			"location": "Germany",
+			"description": "记者，《环球时报》认证的“反华记者”；猫奴。#声援香港 #自由西藏新疆 ＃年轻人站起来再不颠覆就老了 无罪 #释放王全璋 ＃释放吴淦 #释放黄琦 #自由高智晟 #这是一个必须分清稗子和麦子的时代",
+			"url": "https://t.co/xctbBbunhT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xctbBbunhT",
+							"expanded_url": "http://www.freechina.news",
+							"display_url": "freechina.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 121511,
+			"friends_count": 1052,
+			"listed_count": 589,
+			"created_at": "Thu Jun 11 06:00:31 +0000 2009",
+			"favourites_count": 15028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106210378709639169/joFP7UrM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106210378709639169/joFP7UrM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46327296/1356656685",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "0A0A0A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "如果不是记者角色，首先是要冷静记录现场，我真的很想问问大陆来的人，他们知道1997年回归前的香港是四小龙吗？香港的水是向大陆买的，香港曾收留逃港的很多大陆人，香港坚持纪念六四……。他们何来的“没有大陆就没有香港的自信”！香港人正在争取的民主、自由、民众权利，哪一点不是大陆需要的，醒醒吧"
+	},
+	{
+		"created_at": "Mon Sep 09 02:35:26 +0000 2019",
+		"id": 1170792846997315600,
+		"id_str": "1170888412037099520",
+		"full_text": "作为一名记者，即使在德国拍摄声援香港抗议现场也还是会遭到“爱党人士”攻击。勃兰登堡门两次抗议和亚历山大广场的一次声援香港集会，被竖中指、被骂叛徒、被群起围攻....,它们似乎不知道这姿态极丑、也忘了德国是法治国家，这里不是中国，记者的职责是记录真相，而不是讴歌权力。 https://t.co/XLCzZDRybz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170792836842872800,
+					"id_str": "1170792836842872832",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ED994cmXYAA_Iye.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED994cmXYAA_Iye.jpg",
+					"url": "https://t.co/XLCzZDRybz",
+					"display_url": "pic.twitter.com/XLCzZDRybz",
+					"expanded_url": "https://twitter.com/Suyutong/status/1170792846997315586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 687,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 664,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170792836842872800,
+					"id_str": "1170792836842872832",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ED994cmXYAA_Iye.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED994cmXYAA_Iye.jpg",
+					"url": "https://t.co/XLCzZDRybz",
+					"display_url": "pic.twitter.com/XLCzZDRybz",
+					"expanded_url": "https://twitter.com/Suyutong/status/1170792846997315586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 687,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 664,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170792836830257200,
+					"id_str": "1170792836830257154",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ED994cjW4AI5CH8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED994cjW4AI5CH8.jpg",
+					"url": "https://t.co/XLCzZDRybz",
+					"display_url": "pic.twitter.com/XLCzZDRybz",
+					"expanded_url": "https://twitter.com/Suyutong/status/1170792846997315586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 893,
+							"h": 646,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 893,
+							"h": 646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170792836838711300,
+					"id_str": "1170792836838711297",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ED994clX4AEIPQ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED994clX4AEIPQ8.jpg",
+					"url": "https://t.co/XLCzZDRybz",
+					"display_url": "pic.twitter.com/XLCzZDRybz",
+					"expanded_url": "https://twitter.com/Suyutong/status/1170792846997315586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46327296,
+			"id_str": "46327296",
+			"name": "Suyutong 🎗️",
+			"screen_name": "Suyutong",
+			"location": "Germany",
+			"description": "记者，《环球时报》认证的“反华记者”；猫奴。#声援香港 #自由西藏新疆 ＃年轻人站起来再不颠覆就老了 无罪 #释放王全璋 ＃释放吴淦 #释放黄琦 #自由高智晟 #这是一个必须分清稗子和麦子的时代",
+			"url": "https://t.co/xctbBbunhT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xctbBbunhT",
+							"expanded_url": "http://www.freechina.news",
+							"display_url": "freechina.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 121511,
+			"friends_count": 1052,
+			"listed_count": 589,
+			"created_at": "Thu Jun 11 06:00:31 +0000 2009",
+			"favourites_count": 15028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106210378709639169/joFP7UrM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106210378709639169/joFP7UrM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46327296/1356656685",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "0A0A0A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 272,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "作为一名记者，即使在德国拍摄声援香港抗议现场也还是会遭到“爱党人士”攻击。勃兰登堡门两次抗议和亚历山大广场的一次声援香港集会，被竖中指、被骂叛徒、被群起围攻....,它们似乎不知道这姿态极丑、也忘了德国是法治国家，这里不是中国，记者的职责是记录真相，而不是讴歌权力。 https://t.co/XLCzZDRybz"
+	},
+	{
+		"created_at": "Mon Sep 09 02:35:02 +0000 2019",
+		"id": 1170788824751968300,
+		"id_str": "1170888312367845377",
+		"full_text": "香港人在勃兰登堡门举办和平集会，一帮中国游客在没有集会允许的情况下突然聚集唱起中共国歌。绿党创始人之一 Eva Quistorp 的身后就是这群在中国甘做“奴隶”，在海外又不遵守法制的奇怪物种。 https://t.co/LZp6jORnZt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170788544283074600,
+					"id_str": "1170788544283074560",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170788544283074560/pu/img/h6HIyVfHDNU_FefL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170788544283074560/pu/img/h6HIyVfHDNU_FefL.jpg",
+					"url": "https://t.co/LZp6jORnZt",
+					"display_url": "pic.twitter.com/LZp6jORnZt",
+					"expanded_url": "https://twitter.com/Suyutong/status/1170788824751968256/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170788544283074600,
+					"id_str": "1170788544283074560",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170788544283074560/pu/img/h6HIyVfHDNU_FefL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170788544283074560/pu/img/h6HIyVfHDNU_FefL.jpg",
+					"url": "https://t.co/LZp6jORnZt",
+					"display_url": "pic.twitter.com/LZp6jORnZt",
+					"expanded_url": "https://twitter.com/Suyutong/status/1170788824751968256/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30767,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170788544283074560/pu/vid/640x360/k3i78wUsZ8GYmafo.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170788544283074560/pu/vid/1280x720/h705dRGTRuQyt5uC.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170788544283074560/pu/vid/480x270/dhQvq7xxymGv4xzJ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1170788544283074560/pu/pl/JSE3UOZ55q5jeb9U.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1170761178110468000,
+		"in_reply_to_status_id_str": "1170761178110468096",
+		"in_reply_to_user_id": 46327296,
+		"in_reply_to_user_id_str": "46327296",
+		"in_reply_to_screen_name": "Suyutong",
+		"user": {
+			"id": 46327296,
+			"id_str": "46327296",
+			"name": "Suyutong 🎗️",
+			"screen_name": "Suyutong",
+			"location": "Germany",
+			"description": "记者，《环球时报》认证的“反华记者”；猫奴。#声援香港 #自由西藏新疆 ＃年轻人站起来再不颠覆就老了 无罪 #释放王全璋 ＃释放吴淦 #释放黄琦 #自由高智晟 #这是一个必须分清稗子和麦子的时代",
+			"url": "https://t.co/xctbBbunhT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xctbBbunhT",
+							"expanded_url": "http://www.freechina.news",
+							"display_url": "freechina.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 121511,
+			"friends_count": 1052,
+			"listed_count": 589,
+			"created_at": "Thu Jun 11 06:00:31 +0000 2009",
+			"favourites_count": 15028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106210378709639169/joFP7UrM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106210378709639169/joFP7UrM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46327296/1356656685",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "0A0A0A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 143,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "香港人在勃兰登堡门举办和平集会，一帮中国游客在没有集会允许的情况下突然聚集唱起中共国歌。绿党创始人之一 Eva Quistorp 的身后就是这群在中国甘做“奴隶”，在海外又不遵守法制的奇怪物种。 https://t.co/LZp6jORnZt"
+	},
+	{
 		"created_at": "Sun Sep 08 15:04:18 +0000 2019",
 		"id": 1170687440681459700,
 		"id_str": "1170714485692104706",
