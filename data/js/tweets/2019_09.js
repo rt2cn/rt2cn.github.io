@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 09 08:42:10 +0000 2019",
+		"id": 1170617058196738000,
+		"id_str": "1170980704605392896",
+		"full_text": "【9.8香港中环站】\n13岁的男孩毫无畏惧\n我一定会继续游行\n直到他们回应五大诉求 https://t.co/5bAtMqzot5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170616737055686700,
+					"id_str": "1170616737055686657",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170616737055686657/pu/img/oivfldp6lfYPRpa7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170616737055686657/pu/img/oivfldp6lfYPRpa7.jpg",
+					"url": "https://t.co/5bAtMqzot5",
+					"display_url": "pic.twitter.com/5bAtMqzot5",
+					"expanded_url": "https://twitter.com/sidIqjMEvdW5gHf/status/1170617058196738048/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170616737055686700,
+					"id_str": "1170616737055686657",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170616737055686657/pu/img/oivfldp6lfYPRpa7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170616737055686657/pu/img/oivfldp6lfYPRpa7.jpg",
+					"url": "https://t.co/5bAtMqzot5",
+					"display_url": "pic.twitter.com/5bAtMqzot5",
+					"expanded_url": "https://twitter.com/sidIqjMEvdW5gHf/status/1170617058196738048/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							80,
+							37
+						],
+						"duration_millis": 83113,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170616737055686657/pu/vid/1280x592/qYBarxxSfi1HfSWZ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1170616737055686657/pu/pl/dzkACrV3QSRU7Dll.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170616737055686657/pu/vid/778x360/mjEf1plCYFrgqmIU.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170616737055686657/pu/vid/582x270/Nm8BVIUmHCYtBELD.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1142313915587547100,
+			"id_str": "1142313915587547137",
+			"name": "小玥",
+			"screen_name": "sidIqjMEvdW5gHf",
+			"location": "",
+			"description": "为自由而战",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 483,
+			"friends_count": 58,
+			"listed_count": 4,
+			"created_at": "Sat Jun 22 06:10:35 +0000 2019",
+			"favourites_count": 391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149468498285887488/1KhVlf5Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149468498285887488/1KhVlf5Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1142313915587547137/1561319138",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 271,
+		"favorite_count": 507,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "【9.8香港中环站】\n13岁的男孩毫无畏惧\n我一定会继续游行\n直到他们回应五大诉求 https://t.co/5bAtMqzot5"
+	},
+	{
 		"created_at": "Mon Sep 09 04:00:38 +0000 2019",
 		"id": 1170881967417479200,
 		"id_str": "1170909852832546817",
