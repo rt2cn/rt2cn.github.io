@@ -1,6 +1,2770 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 09 04:00:38 +0000 2019",
+		"id": 1170881967417479200,
+		"id_str": "1170909852832546817",
+		"full_text": "Alumni chant slogans outside the Carmel Pak U sec. skl campus, while students respond from inside. Towards the end of vid, you can hear students singing ‘Glory to #HongKong’. The #antiELAB movement has truly united ppl from diff generations. #HongKongProtests https://t.co/7XUTm47vyd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HongKong",
+					"indices": [
+						163,
+						172
+					]
+				},
+				{
+					"text": "antiELAB",
+					"indices": [
+						179,
+						188
+					]
+				},
+				{
+					"text": "HongKongProtests",
+					"indices": [
+						242,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170881819966750700,
+					"id_str": "1170881819966750721",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170881819966750721/pu/img/IjhpzRKf_qL9unYM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170881819966750721/pu/img/IjhpzRKf_qL9unYM.jpg",
+					"url": "https://t.co/7XUTm47vyd",
+					"display_url": "pic.twitter.com/7XUTm47vyd",
+					"expanded_url": "https://twitter.com/frances_sit/status/1170881967417479171/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170881819966750700,
+					"id_str": "1170881819966750721",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170881819966750721/pu/img/IjhpzRKf_qL9unYM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170881819966750721/pu/img/IjhpzRKf_qL9unYM.jpg",
+					"url": "https://t.co/7XUTm47vyd",
+					"display_url": "pic.twitter.com/7XUTm47vyd",
+					"expanded_url": "https://twitter.com/frances_sit/status/1170881967417479171/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 91847,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1170881819966750721/pu/pl/5L0y8dUeckVTyAe9.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170881819966750721/pu/vid/1280x720/OPx0fCFc2jaF_j6y.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170881819966750721/pu/vid/640x360/5SYZCgb8cVH410Dg.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170881819966750721/pu/vid/480x270/PSVF0EihNwThLN6z.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1170871985481511000,
+		"in_reply_to_status_id_str": "1170871985481510912",
+		"in_reply_to_user_id": 49267884,
+		"in_reply_to_user_id_str": "49267884",
+		"in_reply_to_screen_name": "frances_sit",
+		"user": {
+			"id": 49267884,
+			"id_str": "49267884",
+			"name": "Frances Sit",
+			"screen_name": "frances_sit",
+			"location": "Hong Kong",
+			"description": "@rthk_enews journalist. Covers #HongKong politics and more. Views are my own; I usually RT when I am too lazy, so they're not endorsements",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2400,
+			"friends_count": 62,
+			"listed_count": 51,
+			"created_at": "Sun Jun 21 08:10:40 +0000 2009",
+			"favourites_count": 179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148631424255135746/BEQJmfPn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148631424255135746/BEQJmfPn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49267884/1567249246",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Alumni chant slogans outside the Carmel Pak U sec. skl campus, while students respond from inside. Towards the end of vid, you can hear students singing ‘Glory to #HongKong’. The #antiELAB movement has truly united ppl from diff generations. #HongKongProtests https://t.co/7XUTm47vyd"
+	},
+	{
+		"created_at": "Mon Sep 09 04:00:24 +0000 2019",
+		"id": 1170879010508722200,
+		"id_str": "1170909795785854976",
+		"full_text": "Hong Kong school students form human chains to protest the treatment of pro-democracy demonstrators by police and to demand the city's freedoms, unique in China, be protected\n\n📸 @AntAFP https://t.co/l42YNDo0Bc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AntAFP",
+					"name": "Anthony Wallace",
+					"id": 599616586,
+					"id_str": "599616586",
+					"indices": [
+						178,
+						185
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170879003646759000,
+					"id_str": "1170879003646758913",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_MQA9UEAEB2Iz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_MQA9UEAEB2Iz.jpg",
+					"url": "https://t.co/l42YNDo0Bc",
+					"display_url": "pic.twitter.com/l42YNDo0Bc",
+					"expanded_url": "https://twitter.com/AFP/status/1170879010508722176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170879003646759000,
+					"id_str": "1170879003646758913",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_MQA9UEAEB2Iz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_MQA9UEAEB2Iz.jpg",
+					"url": "https://t.co/l42YNDo0Bc",
+					"display_url": "pic.twitter.com/l42YNDo0Bc",
+					"expanded_url": "https://twitter.com/AFP/status/1170879010508722176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170879003646816300,
+					"id_str": "1170879003646816256",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_MQA9U8AA42AE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_MQA9U8AA42AE.jpg",
+					"url": "https://t.co/l42YNDo0Bc",
+					"display_url": "pic.twitter.com/l42YNDo0Bc",
+					"expanded_url": "https://twitter.com/AFP/status/1170879010508722176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170879003638452200,
+					"id_str": "1170879003638452224",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_MQA7VUAAwgJp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_MQA7VUAAwgJp.jpg",
+					"url": "https://t.co/l42YNDo0Bc",
+					"display_url": "pic.twitter.com/l42YNDo0Bc",
+					"expanded_url": "https://twitter.com/AFP/status/1170879010508722176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170879003642609700,
+					"id_str": "1170879003642609665",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_MQA8UwAEQaD_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_MQA8UwAEQaD_.jpg",
+					"url": "https://t.co/l42YNDo0Bc",
+					"display_url": "pic.twitter.com/l42YNDo0Bc",
+					"expanded_url": "https://twitter.com/AFP/status/1170879010508722176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 380648579,
+			"id_str": "380648579",
+			"name": "AFP news agency",
+			"screen_name": "AFP",
+			"location": "France",
+			"description": "Top news and features from AFP's reporters around the world. Elsewhere on Twitter: https://t.co/4pIm8k2HLC",
+			"url": "https://t.co/kqhCI1T6KT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kqhCI1T6KT",
+							"expanded_url": "http://www.afp.com/en",
+							"display_url": "afp.com/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4pIm8k2HLC",
+							"expanded_url": "http://u.afp.com/AFPTwitter",
+							"display_url": "u.afp.com/AFPTwitter",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1655081,
+			"friends_count": 666,
+			"listed_count": 20975,
+			"created_at": "Tue Sep 27 00:35:10 +0000 2011",
+			"favourites_count": 1827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 207106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/697343883630481408/c08JBfBB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/697343883630481408/c08JBfBB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/380648579/1567740332",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 157,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hong Kong school students form human chains to protest the treatment of pro-democracy demonstrators by police and to demand the city's freedoms, unique in China, be protected\n\n📸 @AntAFP https://t.co/l42YNDo0Bc"
+	},
+	{
+		"created_at": "Mon Sep 09 03:59:20 +0000 2019",
+		"id": 1170846693677359000,
+		"id_str": "1170909526880673794",
+		"full_text": "Live from Wan Chai - A human chain is slowly taking form around the main shopping district, with students shouting popular slogans and forming a chain. #antiELAB https://t.co/ML81nlNmxl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "antiELAB",
+					"indices": [
+						152,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170846383265308700,
+					"id_str": "1170846383265308672",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170846383265308672/pu/img/1LexDh86nyTRH-wh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170846383265308672/pu/img/1LexDh86nyTRH-wh.jpg",
+					"url": "https://t.co/ML81nlNmxl",
+					"display_url": "pic.twitter.com/ML81nlNmxl",
+					"expanded_url": "https://twitter.com/WilliamYang120/status/1170846693677359104/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170846383265308700,
+					"id_str": "1170846383265308672",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170846383265308672/pu/img/1LexDh86nyTRH-wh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170846383265308672/pu/img/1LexDh86nyTRH-wh.jpg",
+					"url": "https://t.co/ML81nlNmxl",
+					"display_url": "pic.twitter.com/ML81nlNmxl",
+					"expanded_url": "https://twitter.com/WilliamYang120/status/1170846693677359104/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27133,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170846383265308672/pu/vid/1280x720/DnB0JzIqknSHu9E5.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170846383265308672/pu/vid/640x360/DtwD-SzAezIxkmNc.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1170846383265308672/pu/pl/R_tDKG9z9yuFnsbY.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170846383265308672/pu/vid/480x270/2C2K1yj8BcKXJe41.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 365216346,
+			"id_str": "365216346",
+			"name": "William Yang",
+			"screen_name": "WilliamYang120",
+			"location": "Taipei, Taiwan",
+			"description": "East Asia Correspondent for @dwnews. Words also in @BuzzFeedNews, @Guardian, @RNZ and @qz. @TUKleincollege alum. hao-wei.yang@dw.com / william.yang@buzzfeed.com",
+			"url": "https://t.co/fJHMDVU4t9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fJHMDVU4t9",
+							"expanded_url": "https://williamyang.contently.com/",
+							"display_url": "williamyang.contently.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7795,
+			"friends_count": 3777,
+			"listed_count": 338,
+			"created_at": "Wed Aug 31 01:49:04 +0000 2011",
+			"favourites_count": 17337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6169,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127864499103457282/7aWTvhGy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127864499103457282/7aWTvhGy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/365216346/1399600388",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 251,
+		"favorite_count": 518,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Live from Wan Chai - A human chain is slowly taking form around the main shopping district, with students shouting popular slogans and forming a chain. #antiELAB https://t.co/ML81nlNmxl"
+	},
+	{
+		"created_at": "Mon Sep 09 03:58:42 +0000 2019",
+		"id": 1170892923358957600,
+		"id_str": "1170909368075923456",
+		"full_text": "“If we accepted the government’s conditions, our friends who’ve already died would not forgive us.” #HongKongProtests #5DemandsNot1Less \n\nCredit: @StandNewsHK https://t.co/FJ00Ce25cm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HongKongProtests",
+					"indices": [
+						100,
+						117
+					]
+				},
+				{
+					"text": "5DemandsNot1Less",
+					"indices": [
+						118,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StandNewsHK",
+					"name": "Stand News",
+					"id": 2940460374,
+					"id_str": "2940460374",
+					"indices": [
+						146,
+						158
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170892903478022100,
+					"id_str": "1170892903478022144",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_Y5F3VUAAHWsa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_Y5F3VUAAHWsa.jpg",
+					"url": "https://t.co/FJ00Ce25cm",
+					"display_url": "pic.twitter.com/FJ00Ce25cm",
+					"expanded_url": "https://twitter.com/wandererasc/status/1170892923358957568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170892903478022100,
+					"id_str": "1170892903478022144",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_Y5F3VUAAHWsa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_Y5F3VUAAHWsa.jpg",
+					"url": "https://t.co/FJ00Ce25cm",
+					"display_url": "pic.twitter.com/FJ00Ce25cm",
+					"expanded_url": "https://twitter.com/wandererasc/status/1170892923358957568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3116134362,
+			"id_str": "3116134362",
+			"name": "Wanderer",
+			"screen_name": "wandererasc",
+			"location": "Hong Kong",
+			"description": "Just an average folk from 🇭🇰852 who cares about human rights, freedom, and democracy. I like animals, mountains, oceans, and the universe. #FollowBackHongKong",
+			"url": "https://t.co/vWnXdE8SOO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vWnXdE8SOO",
+							"expanded_url": "https://tl.hkrev.info/en/",
+							"display_url": "tl.hkrev.info/en/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1451,
+			"friends_count": 2158,
+			"listed_count": 7,
+			"created_at": "Mon Mar 30 02:24:44 +0000 2015",
+			"favourites_count": 1453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146107269471326208/tYl7UptC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146107269471326208/tYl7UptC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116134362/1561713840",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“If we accepted the government’s conditions, our friends who’ve already died would not forgive us.” #HongKongProtests #5DemandsNot1Less \n\nCredit: @StandNewsHK https://t.co/FJ00Ce25cm"
+	},
+	{
+		"created_at": "Mon Sep 09 03:58:07 +0000 2019",
+		"id": 1170893707635118000,
+		"id_str": "1170909221296246784",
+		"full_text": "Not to be outdone, protesters have colored banners too:\n\n🖤Go Forward\n💙Back Away Slowly\n❤️Stop\n\n#HongKong #HongKongProtests https://t.co/O1qptbjn84 https://t.co/TIpJkVKgez",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HongKong",
+					"indices": [
+						95,
+						104
+					]
+				},
+				{
+					"text": "HongKongProtests",
+					"indices": [
+						105,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O1qptbjn84",
+					"expanded_url": "https://twitter.com/Woppa1Woppa/status/1170893174077718529",
+					"display_url": "twitter.com/Woppa1Woppa/st…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1170893699196149800,
+					"id_str": "1170893699196149761",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_ZnaJUYAE5Mmk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_ZnaJUYAE5Mmk.jpg",
+					"url": "https://t.co/TIpJkVKgez",
+					"display_url": "pic.twitter.com/TIpJkVKgez",
+					"expanded_url": "https://twitter.com/Woppa1Woppa/status/1170893707635118081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 796,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1520,
+							"h": 1008,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170893699196149800,
+					"id_str": "1170893699196149761",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_ZnaJUYAE5Mmk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_ZnaJUYAE5Mmk.jpg",
+					"url": "https://t.co/TIpJkVKgez",
+					"display_url": "pic.twitter.com/TIpJkVKgez",
+					"expanded_url": "https://twitter.com/Woppa1Woppa/status/1170893707635118081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 796,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1520,
+							"h": 1008,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4437659232,
+			"id_str": "4437659232",
+			"name": "woppa 🎗",
+			"screen_name": "Woppa1Woppa",
+			"location": "",
+			"description": "You took away her eye\nIt made us see more clearly\n\nHongKonger | Canadian | Citizen\n\n#HongKong #HongKongProtests",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3363,
+			"friends_count": 414,
+			"listed_count": 24,
+			"created_at": "Thu Dec 03 03:14:53 +0000 2015",
+			"favourites_count": 1172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1166413345785667584/elYiB0_u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166413345785667584/elYiB0_u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4437659232/1564380048",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1170893174077718500,
+		"quoted_status_id_str": "1170893174077718529",
+		"quoted_status_permalink": {
+			"url": "https://t.co/O1qptbjn84",
+			"expanded": "https://twitter.com/Woppa1Woppa/status/1170893174077718529",
+			"display": "twitter.com/Woppa1Woppa/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 09 02:54:21 +0000 2019",
+			"id": 1170893174077718500,
+			"id_str": "1170893174077718529",
+			"full_text": "Police often raise diff banners.  Here's what they mean\n\n💙Don't care if this is a peaceful rally, gtfo or u dead\n💛Can't wait to arrest u without reason\n❤️Gonna kick ur ass either way\n🖤Tear gas warning, usually hidden in cloud of tear gas\n🧡Time to shoot some medics\n\n#HongKong https://t.co/cpTKDFf4Tp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HongKong",
+						"indices": [
+							266,
+							275
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1170893165999452200,
+						"id_str": "1170893165999452161",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/ED_ZIX1UcAEZE-G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ED_ZIX1UcAEZE-G.jpg",
+						"url": "https://t.co/cpTKDFf4Tp",
+						"display_url": "pic.twitter.com/cpTKDFf4Tp",
+						"expanded_url": "https://twitter.com/Woppa1Woppa/status/1170893174077718529/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 870,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1476,
+								"h": 1070,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 493,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1170893165999452200,
+						"id_str": "1170893165999452161",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/ED_ZIX1UcAEZE-G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ED_ZIX1UcAEZE-G.jpg",
+						"url": "https://t.co/cpTKDFf4Tp",
+						"display_url": "pic.twitter.com/cpTKDFf4Tp",
+						"expanded_url": "https://twitter.com/Woppa1Woppa/status/1170893174077718529/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 870,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1476,
+								"h": 1070,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 493,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4437659232,
+				"id_str": "4437659232",
+				"name": "woppa 🎗",
+				"screen_name": "Woppa1Woppa",
+				"location": "",
+				"description": "You took away her eye\nIt made us see more clearly\n\nHongKonger | Canadian | Citizen\n\n#HongKong #HongKongProtests",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3363,
+				"friends_count": 414,
+				"listed_count": 24,
+				"created_at": "Thu Dec 03 03:14:53 +0000 2015",
+				"favourites_count": 1172,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1772,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1166413345785667584/elYiB0_u_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166413345785667584/elYiB0_u_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4437659232/1564380048",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not to be outdone, protesters have colored banners too:\n\n🖤Go Forward\n💙Back Away Slowly\n❤️Stop\n\n#HongKong #HongKongProtests https://t.co/O1qptbjn84 https://t.co/TIpJkVKgez"
+	},
+	{
+		"created_at": "Mon Sep 09 03:57:35 +0000 2019",
+		"id": 1170894222590791700,
+		"id_str": "1170909089083400193",
+		"full_text": "[Human chain of 19 schools in Kowloon district] After two students from DBS and Pui Ching Middle schools staring at each other for some while, a graduate gave them a teddy bear to hold their hands to save them from the embarrassment. How cute it is. https://t.co/IP1beY0Ytw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170894178164732000,
+					"id_str": "1170894178164731904",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_aDScU8AAbRJ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_aDScU8AAbRJ9.jpg",
+					"url": "https://t.co/IP1beY0Ytw",
+					"display_url": "pic.twitter.com/IP1beY0Ytw",
+					"expanded_url": "https://twitter.com/iamchuichui/status/1170894222590791680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170894178164732000,
+					"id_str": "1170894178164731904",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_aDScU8AAbRJ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_aDScU8AAbRJ9.jpg",
+					"url": "https://t.co/IP1beY0Ytw",
+					"display_url": "pic.twitter.com/IP1beY0Ytw",
+					"expanded_url": "https://twitter.com/iamchuichui/status/1170894222590791680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 468320185,
+			"id_str": "468320185",
+			"name": "Chuichui🇭🇰",
+			"screen_name": "iamchuichui",
+			"location": "Hong Kong",
+			"description": "\"We are here, not because we are law-breakers; we are here in our efforts to become law-makers\" Emmeline Pankhurst. #StandwithHK (see more https://t.co/WzqqzGYkAB)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WzqqzGYkAB",
+							"expanded_url": "https://hkrev.info",
+							"display_url": "hkrev.info",
+							"indices": [
+								139,
+								162
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1140,
+			"friends_count": 714,
+			"listed_count": 12,
+			"created_at": "Thu Jan 19 12:14:22 +0000 2012",
+			"favourites_count": 770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167785187955994624/aO1QMRCs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167785187955994624/aO1QMRCs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/468320185/1566589937",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Human chain of 19 schools in Kowloon district] After two students from DBS and Pui Ching Middle schools staring at each other for some while, a graduate gave them a teddy bear to hold their hands to save them from the embarrassment. How cute it is. https://t.co/IP1beY0Ytw"
+	},
+	{
+		"created_at": "Mon Sep 09 03:57:10 +0000 2019",
+		"id": 1170677040128901000,
+		"id_str": "1170908982996865024",
+		"full_text": "蘋果中環現場直播。一位講普通話女士拿著自製文宣，向警察宣傳中共腐敗，指中共為了保護自己的特權、財產，不會給予香港雙普選，所以處理香港一系列示威事件，不惜以武力血腥鎮壓。但這些出來示威的孩子們、市民們都是為了香港的未來出來，你們為什麼要為這個政權賣命？她的講話贏得在場人士一片掌聲。 https://t.co/Dte5pLy8RG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170676352225357800,
+					"id_str": "1170676352225357824",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170676352225357824/pu/img/fl7FTZ1YYO_hdUO9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170676352225357824/pu/img/fl7FTZ1YYO_hdUO9.jpg",
+					"url": "https://t.co/Dte5pLy8RG",
+					"display_url": "pic.twitter.com/Dte5pLy8RG",
+					"expanded_url": "https://twitter.com/suxinPL/status/1170677040128901120/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170676352225357800,
+					"id_str": "1170676352225357824",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170676352225357824/pu/img/fl7FTZ1YYO_hdUO9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170676352225357824/pu/img/fl7FTZ1YYO_hdUO9.jpg",
+					"url": "https://t.co/Dte5pLy8RG",
+					"display_url": "pic.twitter.com/Dte5pLy8RG",
+					"expanded_url": "https://twitter.com/suxinPL/status/1170677040128901120/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140013,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1170676352225357824/pu/pl/mVWISU8P50yBxVZn.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170676352225357824/pu/vid/480x270/jzb84LY-7CXj35LA.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170676352225357824/pu/vid/640x360/smsMtDBO4zb239r6.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170676352225357824/pu/vid/1280x720/bPpQO-NYWZMr7T4J.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 764908933446307800,
+			"id_str": "764908933446307840",
+			"name": "小札",
+			"screen_name": "suxinPL",
+			"location": "England, United Kingdom",
+			"description": "我們唯一的恐懼就是恐懼本身。關注郭文貴先生在郭媒體的賬號：https://t.co/8CoEecmbkA 小札郭媒體 https://t.co/zBn1nL1dDH 英國之聲 https://t.co/SgE5z1677m",
+			"url": "https://t.co/SgE5z1677m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SgE5z1677m",
+							"expanded_url": "https://www.youtube.com/channel/UCyE2TaO0F86iqOoB9p90lSA",
+							"display_url": "youtube.com/channel/UCyE2T…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8CoEecmbkA",
+							"expanded_url": "https://www.guo.media",
+							"display_url": "guo.media",
+							"indices": [
+								29,
+								52
+							]
+						},
+						{
+							"url": "https://t.co/zBn1nL1dDH",
+							"expanded_url": "https://guo.media/xiaozha",
+							"display_url": "guo.media/xiaozha",
+							"indices": [
+								59,
+								82
+							]
+						},
+						{
+							"url": "https://t.co/SgE5z1677m",
+							"expanded_url": "https://www.youtube.com/channel/UCyE2TaO0F86iqOoB9p90lSA",
+							"display_url": "youtube.com/channel/UCyE2T…",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 59803,
+			"friends_count": 446,
+			"listed_count": 207,
+			"created_at": "Sun Aug 14 19:37:55 +0000 2016",
+			"favourites_count": 51764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1165645065739558912/-hndL-cC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1165645065739558912/-hndL-cC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/764908933446307840/1567848566",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 801,
+		"favorite_count": 1552,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "蘋果中環現場直播。一位講普通話女士拿著自製文宣，向警察宣傳中共腐敗，指中共為了保護自己的特權、財產，不會給予香港雙普選，所以處理香港一系列示威事件，不惜以武力血腥鎮壓。但這些出來示威的孩子們、市民們都是為了香港的未來出來，你們為什麼要為這個政權賣命？她的講話贏得在場人士一片掌聲。 https://t.co/Dte5pLy8RG"
+	},
+	{
+		"created_at": "Mon Sep 09 03:55:40 +0000 2019",
+		"id": 1170894319730843600,
+		"id_str": "1170908604590936064",
+		"full_text": "今天早上，香港各地都有中學發起牽手組人鏈的活動支持反送中，也有已經畢業的校友回去共襄盛舉\n\n有個四五十歲的男子應該是鄧鏡波學校（男校）的校友，他略為激動的說，我們等妳們協恩中學（女校）的人走過來已經等了四十年\n\n😂 https://t.co/b4yRCgjGjJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170894311002501000,
+					"id_str": "1170894311002501120",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_aLBTUcAAcXZq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_aLBTUcAAcXZq.jpg",
+					"url": "https://t.co/b4yRCgjGjJ",
+					"display_url": "pic.twitter.com/b4yRCgjGjJ",
+					"expanded_url": "https://twitter.com/tropicalvoid/status/1170894319730843648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 748,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1203,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 424,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170894311002501000,
+					"id_str": "1170894311002501120",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_aLBTUcAAcXZq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_aLBTUcAAcXZq.jpg",
+					"url": "https://t.co/b4yRCgjGjJ",
+					"display_url": "pic.twitter.com/b4yRCgjGjJ",
+					"expanded_url": "https://twitter.com/tropicalvoid/status/1170894319730843648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 748,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1203,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 424,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170894310994088000,
+					"id_str": "1170894310994087938",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_aLBRUEAI2fkB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_aLBRUEAI2fkB.jpg",
+					"url": "https://t.co/b4yRCgjGjJ",
+					"display_url": "pic.twitter.com/b4yRCgjGjJ",
+					"expanded_url": "https://twitter.com/tropicalvoid/status/1170894319730843648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 394,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 696,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1293,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 900209100017078300,
+			"id_str": "900209100017078272",
+			"name": "Faiching➰廢青💉 𝕆𝕎𝕆",
+			"screen_name": "tropicalvoid",
+			"location": "fountain down the road",
+			"description": "perceived reality／non-existent attention span／inconsistent aesthetics／leftist／tw-indy / kumquat advocate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3816,
+			"friends_count": 322,
+			"listed_count": 34,
+			"created_at": "Wed Aug 23 04:12:29 +0000 2017",
+			"favourites_count": 65363,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107341345578860545/QUHzevBR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107341345578860545/QUHzevBR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/900209100017078272/1520636527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "zh",
+		"text": "今天早上，香港各地都有中學發起牽手組人鏈的活動支持反送中，也有已經畢業的校友回去共襄盛舉\n\n有個四五十歲的男子應該是鄧鏡波學校（男校）的校友，他略為激動的說，我們等妳們協恩中學（女校）的人走過來已經等了四十年\n\n😂 https://t.co/b4yRCgjGjJ"
+	},
+	{
+		"created_at": "Mon Sep 09 03:51:05 +0000 2019",
+		"id": 1170901124590686200,
+		"id_str": "1170907451157340160",
+		"full_text": "我雖弱言輕\n\n決不虛作無聲 https://t.co/JV6sJD9NSk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170901112473276400,
+					"id_str": "1170901112473276416",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_gW6wUUAAfrI3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_gW6wUUAAfrI3.jpg",
+					"url": "https://t.co/JV6sJD9NSk",
+					"display_url": "pic.twitter.com/JV6sJD9NSk",
+					"expanded_url": "https://twitter.com/Hk60740379Hk/status/1170901124590686208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170901112473276400,
+					"id_str": "1170901112473276416",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_gW6wUUAAfrI3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_gW6wUUAAfrI3.jpg",
+					"url": "https://t.co/JV6sJD9NSk",
+					"display_url": "pic.twitter.com/JV6sJD9NSk",
+					"expanded_url": "https://twitter.com/Hk60740379Hk/status/1170901124590686208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1135121659529064400,
+			"id_str": "1135121659529064449",
+			"name": "HK-妮珂（新號）",
+			"screen_name": "Hk60740379Hk",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21129,
+			"friends_count": 1097,
+			"listed_count": 135,
+			"created_at": "Sun Jun 02 09:51:07 +0000 2019",
+			"favourites_count": 7065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1155992179132682244/4ShpN4kk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155992179132682244/4ShpN4kk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1135121659529064449/1560645129",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "zh",
+		"text": "我雖弱言輕\n\n決不虛作無聲 https://t.co/JV6sJD9NSk"
+	},
+	{
+		"created_at": "Mon Sep 09 03:50:40 +0000 2019",
+		"id": 1170866714126557200,
+		"id_str": "1170907345607712768",
+		"full_text": "Human chain formed by secondary school students and alumnus in Causeway Bay\n\n#5DemandsNot1Less #DemocracyForHK #FreedomHK #StandwithHK https://t.co/mWecaudViK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "5DemandsNot1Less",
+					"indices": [
+						77,
+						94
+					]
+				},
+				{
+					"text": "DemocracyForHK",
+					"indices": [
+						95,
+						110
+					]
+				},
+				{
+					"text": "FreedomHK",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"text": "StandwithHK",
+					"indices": [
+						122,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170866634996797400,
+					"id_str": "1170866634996797440",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170866634996797440/pu/img/pP6VJL8wCp6tczzO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170866634996797440/pu/img/pP6VJL8wCp6tczzO.jpg",
+					"url": "https://t.co/mWecaudViK",
+					"display_url": "pic.twitter.com/mWecaudViK",
+					"expanded_url": "https://twitter.com/FreedomHKG/status/1170866714126557184/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170866634996797400,
+					"id_str": "1170866634996797440",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170866634996797440/pu/img/pP6VJL8wCp6tczzO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170866634996797440/pu/img/pP6VJL8wCp6tczzO.jpg",
+					"url": "https://t.co/mWecaudViK",
+					"display_url": "pic.twitter.com/mWecaudViK",
+					"expanded_url": "https://twitter.com/FreedomHKG/status/1170866714126557184/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							20,
+							11
+						],
+						"duration_millis": 84600,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170866634996797440/pu/vid/490x270/5qzfWzysTQPyFiwc.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170866634996797440/pu/vid/640x352/_ikE5K902R5Fcc37.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1170866634996797440/pu/pl/8IKkKyxGp19U5eUg.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1170865301195579400,
+		"in_reply_to_status_id_str": "1170865301195579393",
+		"in_reply_to_user_id": 1141725083099992000,
+		"in_reply_to_user_id_str": "1141725083099992064",
+		"in_reply_to_screen_name": "FreedomHKG",
+		"user": {
+			"id": 1141725083099992000,
+			"id_str": "1141725083099992064",
+			"name": "Freedom HK",
+			"screen_name": "FreedomHKG",
+			"location": "Hong Kong",
+			"description": "Hongkongers shall never surrender. Official platform for news and updates related to the #FreedomHK #antiELAB movement.\nFB: freedomhkgofficial\nIG: freedomhkg",
+			"url": "https://t.co/Hbj10DfDFN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hbj10DfDFN",
+							"expanded_url": "https://freedomHKG.net",
+							"display_url": "freedomHKG.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26431,
+			"friends_count": 251,
+			"listed_count": 141,
+			"created_at": "Thu Jun 20 15:10:46 +0000 2019",
+			"favourites_count": 3155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1143542491771068416/zUbzerfH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143542491771068416/zUbzerfH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1141725083099992064/1566275636",
+			"profile_link_color": "3D5165",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 165,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Human chain formed by secondary school students and alumnus in Causeway Bay\n\n#5DemandsNot1Less #DemocracyForHK #FreedomHK #StandwithHK https://t.co/mWecaudViK"
+	},
+	{
+		"created_at": "Mon Sep 09 03:48:29 +0000 2019",
+		"id": 1170902092027969500,
+		"id_str": "1170906799270219776",
+		"full_text": "陸生們：如想真正了解香港，請先拋開在大陸聽到的一切，暫時放下你的愛國情緒，看看這本《香港第一課》。#hongkong https://t.co/j3hIsySN7i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hongkong",
+					"indices": [
+						49,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j3hIsySN7i",
+					"expanded_url": "https://stimme-de.de/2019/09/09/4881/",
+					"display_url": "stimme-de.de/2019/09/09/488…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1146448007497474000,
+			"id_str": "1146448007497474048",
+			"name": "jo",
+			"screen_name": "jojosemilla",
+			"location": "",
+			"description": "Red pill or blue pill, there’s a choice. #StandWithHongKong #FollowBackHongKong",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 971,
+			"friends_count": 1039,
+			"listed_count": 1,
+			"created_at": "Wed Jul 03 15:57:59 +0000 2019",
+			"favourites_count": 1493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162550981214781441/2wPCz_Q__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162550981214781441/2wPCz_Q__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1146448007497474048/1566680729",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "陸生們：如想真正了解香港，請先拋開在大陸聽到的一切，暫時放下你的愛國情緒，看看這本《香港第一課》。#hongkong https://t.co/j3hIsySN7i"
+	},
+	{
+		"created_at": "Mon Sep 09 03:47:39 +0000 2019",
+		"id": 1170902152920875000,
+		"id_str": "1170906587462078465",
+		"full_text": "【一張圖，看清當年九龍騷亂獨立調查委員會的發展】全文：https://t.co/AeXSpNa8nV\n\n端傳媒翻查《報告書》發現港英政府在騷動翌日已主動宣布調查事件。\n\n調查委員會成立後，社會質疑，認為水災以至文化大革命更值得政府操心，但港府相信，如何吸取九龍內亂的教訓，還是來得更重要。\n\n圖：端傳媒設計部 https://t.co/8YmH3jJVDE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AeXSpNa8nV",
+					"expanded_url": "https://buff.ly/3180vMG",
+					"display_url": "buff.ly/3180vMG",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1170902150953808000,
+					"id_str": "1170902150953807872",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_hTXZXsAAewxo.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED_hTXZXsAAewxo.png",
+					"url": "https://t.co/8YmH3jJVDE",
+					"display_url": "pic.twitter.com/8YmH3jJVDE",
+					"expanded_url": "https://twitter.com/initiumnews/status/1170902152920875008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 721,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1798,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170902150953808000,
+					"id_str": "1170902150953807872",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_hTXZXsAAewxo.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED_hTXZXsAAewxo.png",
+					"url": "https://t.co/8YmH3jJVDE",
+					"display_url": "pic.twitter.com/8YmH3jJVDE",
+					"expanded_url": "https://twitter.com/initiumnews/status/1170902152920875008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 721,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1798,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3232393554,
+			"id_str": "3232393554",
+			"name": "端傳媒 Initium Media",
+			"screen_name": "initiumnews",
+			"location": "Hong Kong",
+			"description": "立足香港，放眼全球；探求本源，不偏不倚；深度調查，數據挖掘，華語媒體新開端。",
+			"url": "http://t.co/mHcE4gjNZ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/mHcE4gjNZ0",
+							"expanded_url": "http://theinitium.com",
+							"display_url": "theinitium.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 129263,
+			"friends_count": 423,
+			"listed_count": 921,
+			"created_at": "Mon Jun 01 10:16:14 +0000 2015",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/749869876836118528/2aTsW9Zq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/749869876836118528/2aTsW9Zq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3232393554/1567412794",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "【一張圖，看清當年九龍騷亂獨立調查委員會的發展】全文：https://t.co/AeXSpNa8nV\n\n端傳媒翻查《報告書》發現港英政府在騷動翌日已主動宣布調查事件。\n\n調查委員會成立後，社會質疑，認為水災以至文化大革命更值得政府操心，但港府相信，如何吸取九龍內亂的教訓，還是來得更重要。\n\n圖：端傳媒設計部 https://t.co/8YmH3jJVDE"
+	},
+	{
+		"created_at": "Mon Sep 09 03:43:41 +0000 2019",
+		"id": 1170905251404083200,
+		"id_str": "1170905591159672833",
+		"full_text": "7日晚大埔墟站，被🐶打至頭破頭少年，確認為大埔迦密柏雨中學中六生。迦密柏雨中學學生今早參與人鏈行動時，有不少人頭包繃帶，以表聲援及反對警暴。\n\n祝同學仔早日康復🙏平安！ https://t.co/hrfphtQGfR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170905245385277400,
+					"id_str": "1170905245385277440",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_kHfDUwAACJqM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_kHfDUwAACJqM.jpg",
+					"url": "https://t.co/hrfphtQGfR",
+					"display_url": "pic.twitter.com/hrfphtQGfR",
+					"expanded_url": "https://twitter.com/MaggieHo20/status/1170905251404083201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 823,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 795,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170905245385277400,
+					"id_str": "1170905245385277440",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_kHfDUwAACJqM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_kHfDUwAACJqM.jpg",
+					"url": "https://t.co/hrfphtQGfR",
+					"display_url": "pic.twitter.com/hrfphtQGfR",
+					"expanded_url": "https://twitter.com/MaggieHo20/status/1170905251404083201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 823,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 795,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170905245376868400,
+					"id_str": "1170905245376868353",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_kHfBUcAEXIl-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_kHfBUcAEXIl-.jpg",
+					"url": "https://t.co/hrfphtQGfR",
+					"display_url": "pic.twitter.com/hrfphtQGfR",
+					"expanded_url": "https://twitter.com/MaggieHo20/status/1170905251404083201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 596,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 617,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 857839894684516400,
+			"id_str": "857839894684516352",
+			"name": "Maggie",
+			"screen_name": "MaggieHo20",
+			"location": "香港",
+			"description": "五大訴求 缺一不可！齊上齊落！不分割！💪五毛，左膠，偽運，藍屍👕請繞道。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9743,
+			"friends_count": 93,
+			"listed_count": 52,
+			"created_at": "Fri Apr 28 06:12:23 +0000 2017",
+			"favourites_count": 69775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162706814804230144/Yuf5XhdC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162706814804230144/Yuf5XhdC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/857839894684516352/1493563057",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "7日晚大埔墟站，被🐶打至頭破頭少年，確認為大埔迦密柏雨中學中六生。迦密柏雨中學學生今早參與人鏈行動時，有不少人頭包繃帶，以表聲援及反對警暴。\n\n祝同學仔早日康復🙏平安！ https://t.co/hrfphtQGfR"
+	},
+	{
 		"created_at": "Mon Sep 09 02:39:54 +0000 2019",
 		"id": 1170647570646855700,
 		"id_str": "1170889538799132672",
