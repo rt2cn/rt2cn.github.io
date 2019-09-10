@@ -1,10 +1,2283 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 10 05:53:58 +0000 2019",
+		"id": 1171261283343061000,
+		"id_str": "1171300765316653056",
+		"full_text": "【短歌行】\n\n岁逢己亥，国运蒙霜。\n\n愁云蔽日，苦雨封疆。\n\n十亿臣民，缩脖引缰。\n\n如龟如鼠，如犬如羊。\n\n匍匐潜行，丧失脊梁。\n\n向南瞻首，奋起珠江。\n\n弹丸之地，呐喊煌煌。\n\n思之恨矣，国尽贼狂。\n\n恨之久矣，唤我儿郎。\n\n今以短歌，社稷扶框。\n\n觉之醒之，奏以国殇。 https://t.co/P49ro46CEj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171261266234466300,
+					"id_str": "1171261266234466304",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EEEn6oEUYAAOWEa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEEn6oEUYAAOWEa.jpg",
+					"url": "https://t.co/P49ro46CEj",
+					"display_url": "pic.twitter.com/P49ro46CEj",
+					"expanded_url": "https://twitter.com/wintersweet313/status/1171261283343060992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171261266234466300,
+					"id_str": "1171261266234466304",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EEEn6oEUYAAOWEa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEEn6oEUYAAOWEa.jpg",
+					"url": "https://t.co/P49ro46CEj",
+					"display_url": "pic.twitter.com/P49ro46CEj",
+					"expanded_url": "https://twitter.com/wintersweet313/status/1171261283343060992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131459771138170900,
+			"id_str": "1131459771138170881",
+			"name": "红树林间语",
+			"screen_name": "wintersweet313",
+			"location": "美国",
+			"description": "红树林间语，长虹雨后生。  海上迎朝日，月下颂芙蓉。  婉转莺啼翠，呢喃燕娉婷。  玉笛飞白露，人在小楼东。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1026,
+			"friends_count": 188,
+			"listed_count": 8,
+			"created_at": "Thu May 23 07:20:05 +0000 2019",
+			"favourites_count": 1768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1143397230100930561/FaKQ3p1R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143397230100930561/FaKQ3p1R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131459771138170881/1559441476",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "【短歌行】\n\n岁逢己亥，国运蒙霜。\n\n愁云蔽日，苦雨封疆。\n\n十亿臣民，缩脖引缰。\n\n如龟如鼠，如犬如羊。\n\n匍匐潜行，丧失脊梁。\n\n向南瞻首，奋起珠江。\n\n弹丸之地，呐喊煌煌。\n\n思之恨矣，国尽贼狂。\n\n恨之久矣，唤我儿郎。\n\n今以短歌，社稷扶框。\n\n觉之醒之，奏以国殇。 https://t.co/P49ro46CEj"
+	},
+	{
+		"created_at": "Tue Sep 10 05:50:15 +0000 2019",
+		"id": 1171010297332551700,
+		"id_str": "1171299826606268417",
+		"full_text": "@hoccgoomusic 5/感謝能夠認同這面旗幟的朋友，我最大的願望是看到它飄揚在香港的天空。我期待大家能夠將連儂墻旗幟帶到將來的遊行和抗議中，向世界展示，並拍下照片或者錄影，使用 #LennonWallFlag 的標簽放到網路，讓更多人看到香港的精神。谢谢！\n下载设计链接/QR：https://t.co/On79WyJfxY https://t.co/7mvGe59Dly",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LennonWallFlag",
+					"indices": [
+						93,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hoccgoomusic",
+					"name": "Denise Ho (HOCC)",
+					"id": 22910230,
+					"id_str": "22910230",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/On79WyJfxY",
+					"expanded_url": "https://drive.google.com/open?id=12ElHjLueeTHafE8uGQojJuM41HY7dKYP",
+					"display_url": "drive.google.com/open?id=12ElHj…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1171010266630254600,
+					"id_str": "1171010266630254592",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EEBDohrU8AACYTA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEBDohrU8AACYTA.jpg",
+					"url": "https://t.co/7mvGe59Dly",
+					"display_url": "pic.twitter.com/7mvGe59Dly",
+					"expanded_url": "https://twitter.com/badiucao/status/1171010297332551686/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171010266630254600,
+					"id_str": "1171010266630254592",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EEBDohrU8AACYTA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEBDohrU8AACYTA.jpg",
+					"url": "https://t.co/7mvGe59Dly",
+					"display_url": "pic.twitter.com/7mvGe59Dly",
+					"expanded_url": "https://twitter.com/badiucao/status/1171010297332551686/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171010266638602200,
+					"id_str": "1171010266638602246",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EEBDohtUUAYhKRm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEBDohtUUAYhKRm.jpg",
+					"url": "https://t.co/7mvGe59Dly",
+					"display_url": "pic.twitter.com/7mvGe59Dly",
+					"expanded_url": "https://twitter.com/badiucao/status/1171010297332551686/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 478,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 843,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1171009509868748800,
+		"in_reply_to_status_id_str": "1171009509868748800",
+		"in_reply_to_user_id": 267695291,
+		"in_reply_to_user_id_str": "267695291",
+		"in_reply_to_screen_name": "badiucao",
+		"user": {
+			"id": 267695291,
+			"id_str": "267695291",
+			"name": "巴丢草  Badiucao",
+			"screen_name": "badiucao",
+			"location": "",
+			"description": "Chinese Artist hated by Chinese Gov/ Cartoonist for @CDT @HongKongFP/ FreeSpeech & Humanrights / Check out my ArtShop for support me . 他说：人都是王八蛋",
+			"url": "https://t.co/BpqMNRuD3o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BpqMNRuD3o",
+							"expanded_url": "https://www.badiucao.com/artshop",
+							"display_url": "badiucao.com/artshop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45476,
+			"friends_count": 8713,
+			"listed_count": 427,
+			"created_at": "Thu Mar 17 11:22:49 +0000 2011",
+			"favourites_count": 19172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 117574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/267695291/1568004378",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "@hoccgoomusic 5/感謝能夠認同這面旗幟的朋友，我最大的願望是看到它飄揚在香港的天空。我期待大家能夠將連儂墻旗幟帶到將來的遊行和抗議中，向世界展示，並拍下照片或者錄影，使用 #LennonWallFlag 的標簽放到網路，讓更多人看到香港的精神。谢谢！\n下载设计链接/QR：https://t.co/On79WyJfxY https://t.co/7mvGe59Dly"
+	},
+	{
+		"created_at": "Tue Sep 10 05:50:03 +0000 2019",
+		"id": 1171009509868748800,
+		"id_str": "1171299777163776000",
+		"full_text": "@hoccgoomusic 4/黑紫荊旗是反送中代表旗幟，它叛逆，有力，是反抗之旗，是沈痛勇武符號。\n成功的運動應該有對於未來的希望，而這種希望會帶給香港更多世界的認同關註。連儂墻旗是鮮艷，跳躍和自由。美總能吸引更多人關註和想象\n我希望連儂墻旗和黑旗壹起，成為“勇武”與“和理非非”的紐帶，更成為接連世界和香港的符號 https://t.co/HN6eJK6K5t",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hoccgoomusic",
+					"name": "Denise Ho (HOCC)",
+					"id": 22910230,
+					"id_str": "22910230",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171009482228256800,
+					"id_str": "1171009482228256773",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EEBC63jUUAUQVXS.png",
+					"media_url_https": "https://pbs.twimg.com/media/EEBC63jUUAUQVXS.png",
+					"url": "https://t.co/HN6eJK6K5t",
+					"display_url": "pic.twitter.com/HN6eJK6K5t",
+					"expanded_url": "https://twitter.com/badiucao/status/1171009509868748800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 854,
+							"h": 854,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 854,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171009482228256800,
+					"id_str": "1171009482228256773",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EEBC63jUUAUQVXS.png",
+					"media_url_https": "https://pbs.twimg.com/media/EEBC63jUUAUQVXS.png",
+					"url": "https://t.co/HN6eJK6K5t",
+					"display_url": "pic.twitter.com/HN6eJK6K5t",
+					"expanded_url": "https://twitter.com/badiucao/status/1171009509868748800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 854,
+							"h": 854,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 854,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1171009482232492000,
+					"id_str": "1171009482232492034",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EEBC63kU8AIbF7y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEBC63kU8AIbF7y.jpg",
+					"url": "https://t.co/HN6eJK6K5t",
+					"display_url": "pic.twitter.com/HN6eJK6K5t",
+					"expanded_url": "https://twitter.com/badiucao/status/1171009509868748800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1171008628653883400,
+		"in_reply_to_status_id_str": "1171008628653883392",
+		"in_reply_to_user_id": 267695291,
+		"in_reply_to_user_id_str": "267695291",
+		"in_reply_to_screen_name": "badiucao",
+		"user": {
+			"id": 267695291,
+			"id_str": "267695291",
+			"name": "巴丢草  Badiucao",
+			"screen_name": "badiucao",
+			"location": "",
+			"description": "Chinese Artist hated by Chinese Gov/ Cartoonist for @CDT @HongKongFP/ FreeSpeech & Humanrights / Check out my ArtShop for support me . 他说：人都是王八蛋",
+			"url": "https://t.co/BpqMNRuD3o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BpqMNRuD3o",
+							"expanded_url": "https://www.badiucao.com/artshop",
+							"display_url": "badiucao.com/artshop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45476,
+			"friends_count": 8713,
+			"listed_count": 427,
+			"created_at": "Thu Mar 17 11:22:49 +0000 2011",
+			"favourites_count": 19172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 117574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/267695291/1568004378",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "@hoccgoomusic 4/黑紫荊旗是反送中代表旗幟，它叛逆，有力，是反抗之旗，是沈痛勇武符號。\n成功的運動應該有對於未來的希望，而這種希望會帶給香港更多世界的認同關註。連儂墻旗是鮮艷，跳躍和自由。美總能吸引更多人關註和想象\n我希望連儂墻旗和黑旗壹起，成為“勇武”與“和理非非”的紐帶，更成為接連世界和香港的符號 https://t.co/HN6eJK6K5t"
+	},
+	{
+		"created_at": "Tue Sep 10 05:49:50 +0000 2019",
+		"id": 1171008628653883400,
+		"id_str": "1171299721920634880",
+		"full_text": "@hoccgoomusic 3/ 這面旗幟並沒有刻意添加香港舊有符號，如洋紫荊花，HK或者 “香港” 等字體。我期待它能被香港以外的，同樣向往自由的人們接受和喜愛。已有符號雖然容易辨別，也可能阻止更廣泛範圍的認同。完全抽象色塊更接近普世價值的理解。連儂墻旗，正系要說香港的自由是世界的自由，香港的價值也是世界的價值。 https://t.co/uIBnndNvfq",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hoccgoomusic",
+					"name": "Denise Ho (HOCC)",
+					"id": 22910230,
+					"id_str": "22910230",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171008614850416600,
+					"id_str": "1171008614850416641",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EEBCIYUU0AEkj3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEBCIYUU0AEkj3a.jpg",
+					"url": "https://t.co/uIBnndNvfq",
+					"display_url": "pic.twitter.com/uIBnndNvfq",
+					"expanded_url": "https://twitter.com/badiucao/status/1171008628653883392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171008614850416600,
+					"id_str": "1171008614850416641",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EEBCIYUU0AEkj3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEBCIYUU0AEkj3a.jpg",
+					"url": "https://t.co/uIBnndNvfq",
+					"display_url": "pic.twitter.com/uIBnndNvfq",
+					"expanded_url": "https://twitter.com/badiucao/status/1171008628653883392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1171008145826570200,
+		"in_reply_to_status_id_str": "1171008145826570240",
+		"in_reply_to_user_id": 267695291,
+		"in_reply_to_user_id_str": "267695291",
+		"in_reply_to_screen_name": "badiucao",
+		"user": {
+			"id": 267695291,
+			"id_str": "267695291",
+			"name": "巴丢草  Badiucao",
+			"screen_name": "badiucao",
+			"location": "",
+			"description": "Chinese Artist hated by Chinese Gov/ Cartoonist for @CDT @HongKongFP/ FreeSpeech & Humanrights / Check out my ArtShop for support me . 他说：人都是王八蛋",
+			"url": "https://t.co/BpqMNRuD3o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BpqMNRuD3o",
+							"expanded_url": "https://www.badiucao.com/artshop",
+							"display_url": "badiucao.com/artshop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45476,
+			"friends_count": 8713,
+			"listed_count": 427,
+			"created_at": "Thu Mar 17 11:22:49 +0000 2011",
+			"favourites_count": 19172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 117574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/267695291/1568004378",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "@hoccgoomusic 3/ 這面旗幟並沒有刻意添加香港舊有符號，如洋紫荊花，HK或者 “香港” 等字體。我期待它能被香港以外的，同樣向往自由的人們接受和喜愛。已有符號雖然容易辨別，也可能阻止更廣泛範圍的認同。完全抽象色塊更接近普世價值的理解。連儂墻旗，正系要說香港的自由是世界的自由，香港的價值也是世界的價值。 https://t.co/uIBnndNvfq"
+	},
+	{
+		"created_at": "Tue Sep 10 05:49:36 +0000 2019",
+		"id": 1171008145826570200,
+		"id_str": "1171299666358657024",
+		"full_text": "@hoccgoomusic 2/ 連儂墻旗正受到了彩色方塊便簽紙的啟發。它由96塊隨機擺放的彩色方塊組成。數字96象征對於97年\"回歸\"大陸的拒絕。繽紛的色彩則呼應連儂墻的視覺經驗。每壹塊不同色彩都代表獨立的個體擁有自己發聲的權力，而每壹個不同的聲音又組成了五彩多元的香港。 https://t.co/D3FwqnyiYf",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hoccgoomusic",
+					"name": "Denise Ho (HOCC)",
+					"id": 22910230,
+					"id_str": "22910230",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171008069863522300,
+					"id_str": "1171008069863522304",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EEBBoqFUwAA-nEn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEBBoqFUwAA-nEn.jpg",
+					"url": "https://t.co/D3FwqnyiYf",
+					"display_url": "pic.twitter.com/D3FwqnyiYf",
+					"expanded_url": "https://twitter.com/badiucao/status/1171008145826570240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171008069863522300,
+					"id_str": "1171008069863522304",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EEBBoqFUwAA-nEn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEBBoqFUwAA-nEn.jpg",
+					"url": "https://t.co/D3FwqnyiYf",
+					"display_url": "pic.twitter.com/D3FwqnyiYf",
+					"expanded_url": "https://twitter.com/badiucao/status/1171008145826570240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171008069871915000,
+					"id_str": "1171008069871915008",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EEBBoqHU0AAJpUf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEBBoqHU0AAJpUf.jpg",
+					"url": "https://t.co/D3FwqnyiYf",
+					"display_url": "pic.twitter.com/D3FwqnyiYf",
+					"expanded_url": "https://twitter.com/badiucao/status/1171008145826570240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171008069871911000,
+					"id_str": "1171008069871910912",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EEBBoqHUwAA9POl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEBBoqHUwAA9POl.jpg",
+					"url": "https://t.co/D3FwqnyiYf",
+					"display_url": "pic.twitter.com/D3FwqnyiYf",
+					"expanded_url": "https://twitter.com/badiucao/status/1171008145826570240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171008069867729000,
+					"id_str": "1171008069867728896",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EEBBoqGU8AAzOdf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEBBoqGU8AAzOdf.jpg",
+					"url": "https://t.co/D3FwqnyiYf",
+					"display_url": "pic.twitter.com/D3FwqnyiYf",
+					"expanded_url": "https://twitter.com/badiucao/status/1171008145826570240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1171007023565009000,
+		"in_reply_to_status_id_str": "1171007023565008896",
+		"in_reply_to_user_id": 267695291,
+		"in_reply_to_user_id_str": "267695291",
+		"in_reply_to_screen_name": "badiucao",
+		"user": {
+			"id": 267695291,
+			"id_str": "267695291",
+			"name": "巴丢草  Badiucao",
+			"screen_name": "badiucao",
+			"location": "",
+			"description": "Chinese Artist hated by Chinese Gov/ Cartoonist for @CDT @HongKongFP/ FreeSpeech & Humanrights / Check out my ArtShop for support me . 他说：人都是王八蛋",
+			"url": "https://t.co/BpqMNRuD3o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BpqMNRuD3o",
+							"expanded_url": "https://www.badiucao.com/artshop",
+							"display_url": "badiucao.com/artshop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45476,
+			"friends_count": 8713,
+			"listed_count": 427,
+			"created_at": "Thu Mar 17 11:22:49 +0000 2011",
+			"favourites_count": 19172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 117574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/267695291/1568004378",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "@hoccgoomusic 2/ 連儂墻旗正受到了彩色方塊便簽紙的啟發。它由96塊隨機擺放的彩色方塊組成。數字96象征對於97年\"回歸\"大陸的拒絕。繽紛的色彩則呼應連儂墻的視覺經驗。每壹塊不同色彩都代表獨立的個體擁有自己發聲的權力，而每壹個不同的聲音又組成了五彩多元的香港。 https://t.co/D3FwqnyiYf"
+	},
+	{
+		"created_at": "Tue Sep 10 05:49:31 +0000 2019",
+		"id": 1171007023565009000,
+		"id_str": "1171299643302584320",
+		"full_text": "1/#LennonWallFlag  #連儂墻旗\n支持香港自由的朋友，妳們好：\n我希望和妳壹起揮動這面旗！希望它成為香港自由和抗爭新象征。\n特別感謝何韻詩 @hoccgoomusic 支持，在墨爾本Be Water 藝術與抗爭對談後，我將旗送給她作為禮物，帶回香港。\n下载：https://t.co/On79WyJfxY\n或扫QR https://t.co/ZBw9vUz5rK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LennonWallFlag",
+					"indices": [
+						2,
+						17
+					]
+				},
+				{
+					"text": "連儂墻旗",
+					"indices": [
+						19,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hoccgoomusic",
+					"name": "Denise Ho (HOCC)",
+					"id": 22910230,
+					"id_str": "22910230",
+					"indices": [
+						78,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/On79WyJfxY",
+					"expanded_url": "https://drive.google.com/open?id=12ElHjLueeTHafE8uGQojJuM41HY7dKYP",
+					"display_url": "drive.google.com/open?id=12ElHj…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1171006985904377900,
+					"id_str": "1171006985904377856",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EEBApkBU0AAI6OO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEBApkBU0AAI6OO.jpg",
+					"url": "https://t.co/ZBw9vUz5rK",
+					"display_url": "pic.twitter.com/ZBw9vUz5rK",
+					"expanded_url": "https://twitter.com/badiucao/status/1171007023565008896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1126,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1126,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171006985904377900,
+					"id_str": "1171006985904377856",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EEBApkBU0AAI6OO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEBApkBU0AAI6OO.jpg",
+					"url": "https://t.co/ZBw9vUz5rK",
+					"display_url": "pic.twitter.com/ZBw9vUz5rK",
+					"expanded_url": "https://twitter.com/badiucao/status/1171007023565008896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1126,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1126,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171006985946316800,
+					"id_str": "1171006985946316805",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EEBApkLUwAUmBw1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEBApkLUwAUmBw1.jpg",
+					"url": "https://t.co/ZBw9vUz5rK",
+					"display_url": "pic.twitter.com/ZBw9vUz5rK",
+					"expanded_url": "https://twitter.com/badiucao/status/1171007023565008896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1451,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171006985904349200,
+					"id_str": "1171006985904349184",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EEBApkBUYAAIEw8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEBApkBUYAAIEw8.jpg",
+					"url": "https://t.co/ZBw9vUz5rK",
+					"display_url": "pic.twitter.com/ZBw9vUz5rK",
+					"expanded_url": "https://twitter.com/badiucao/status/1171007023565008896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171006985912766500,
+					"id_str": "1171006985912766464",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EEBApkDU0AAUrDk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEBApkDU0AAUrDk.jpg",
+					"url": "https://t.co/ZBw9vUz5rK",
+					"display_url": "pic.twitter.com/ZBw9vUz5rK",
+					"expanded_url": "https://twitter.com/badiucao/status/1171007023565008896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 267695291,
+			"id_str": "267695291",
+			"name": "巴丢草  Badiucao",
+			"screen_name": "badiucao",
+			"location": "",
+			"description": "Chinese Artist hated by Chinese Gov/ Cartoonist for @CDT @HongKongFP/ FreeSpeech & Humanrights / Check out my ArtShop for support me . 他说：人都是王八蛋",
+			"url": "https://t.co/BpqMNRuD3o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BpqMNRuD3o",
+							"expanded_url": "https://www.badiucao.com/artshop",
+							"display_url": "badiucao.com/artshop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45476,
+			"friends_count": 8713,
+			"listed_count": 427,
+			"created_at": "Thu Mar 17 11:22:49 +0000 2011",
+			"favourites_count": 19172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 117574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/267695291/1568004378",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 187,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "1/#LennonWallFlag  #連儂墻旗\n支持香港自由的朋友，妳們好：\n我希望和妳壹起揮動這面旗！希望它成為香港自由和抗爭新象征。\n特別感謝何韻詩 @hoccgoomusic 支持，在墨爾本Be Water 藝術與抗爭對談後，我將旗送給她作為禮物，帶回香港。\n下载：https://t.co/On79WyJfxY\n或扫QR https://t.co/ZBw9vUz5rK"
+	},
+	{
+		"created_at": "Tue Sep 10 05:49:12 +0000 2019",
+		"id": 1171292464323317800,
+		"id_str": "1171299565791862784",
+		"full_text": "Hi World，\nWill you fly the #LennonWallFlag for Hong Kong‘s freedom？\n\n你好世界，\n请为了香港挥舞 #连侬墙旗 \n\nfree download the design via the link：https://t.co/76nclqRpJf https://t.co/XjfSSCVq9D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LennonWallFlag",
+					"indices": [
+						27,
+						42
+					]
+				},
+				{
+					"text": "连侬墙旗",
+					"indices": [
+						83,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/76nclqRpJf",
+					"expanded_url": "https://drive.google.com/drive/folders/12ElHjLueeTHafE8uGQojJuM41HY7dKYP",
+					"display_url": "drive.google.com/drive/folders/…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1171292357012021200,
+					"id_str": "1171292357012021249",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1171292357012021249/pu/img/-6gSp2sLWWP8ll5l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1171292357012021249/pu/img/-6gSp2sLWWP8ll5l.jpg",
+					"url": "https://t.co/XjfSSCVq9D",
+					"display_url": "pic.twitter.com/XjfSSCVq9D",
+					"expanded_url": "https://twitter.com/badiucao/status/1171292464323317761/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171292357012021200,
+					"id_str": "1171292357012021249",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1171292357012021249/pu/img/-6gSp2sLWWP8ll5l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1171292357012021249/pu/img/-6gSp2sLWWP8ll5l.jpg",
+					"url": "https://t.co/XjfSSCVq9D",
+					"display_url": "pic.twitter.com/XjfSSCVq9D",
+					"expanded_url": "https://twitter.com/badiucao/status/1171292464323317761/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 17180,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1171292357012021249/pu/pl/6uOKcYJYzVhjSuMB.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1171292357012021249/pu/vid/480x270/gHhofe4yw9alxUVN.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1171292357012021249/pu/vid/1280x720/xVbuHykwylP3OvLE.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1171292357012021249/pu/vid/640x360/cnpqWFjVwWXZnGx4.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 267695291,
+			"id_str": "267695291",
+			"name": "巴丢草  Badiucao",
+			"screen_name": "badiucao",
+			"location": "",
+			"description": "Chinese Artist hated by Chinese Gov/ Cartoonist for @CDT @HongKongFP/ FreeSpeech & Humanrights / Check out my ArtShop for support me . 他说：人都是王八蛋",
+			"url": "https://t.co/BpqMNRuD3o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BpqMNRuD3o",
+							"expanded_url": "https://www.badiucao.com/artshop",
+							"display_url": "badiucao.com/artshop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45476,
+			"friends_count": 8713,
+			"listed_count": 427,
+			"created_at": "Thu Mar 17 11:22:49 +0000 2011",
+			"favourites_count": 19172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 117574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/267695291/1568004378",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "Hi World，\nWill you fly the #LennonWallFlag for Hong Kong‘s freedom？\n\n你好世界，\n请为了香港挥舞 #连侬墙旗 \n\nfree download the design via the link：https://t.co/76nclqRpJf https://t.co/XjfSSCVq9D"
+	},
+	{
+		"created_at": "Tue Sep 10 05:43:21 +0000 2019",
+		"id": 1171298090374111200,
+		"id_str": "1171298090374111233",
+		"full_text": "Hong Kong Protests: The most striking illustrations from the movement so far https://t.co/EwYOTXFQCy #HongKongProtests #FreeHKG #FreedomHongKong #StandWithHK #StandWithHongKong #HKPoliceBrutality #antiELAB #5DemandsNot1less https://t.co/xMBwRU4yTg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HongKongProtests",
+					"indices": [
+						101,
+						118
+					]
+				},
+				{
+					"text": "FreeHKG",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"text": "FreedomHongKong",
+					"indices": [
+						128,
+						144
+					]
+				},
+				{
+					"text": "StandWithHK",
+					"indices": [
+						145,
+						157
+					]
+				},
+				{
+					"text": "StandWithHongKong",
+					"indices": [
+						158,
+						176
+					]
+				},
+				{
+					"text": "HKPoliceBrutality",
+					"indices": [
+						177,
+						195
+					]
+				},
+				{
+					"text": "antiELAB",
+					"indices": [
+						196,
+						205
+					]
+				},
+				{
+					"text": "5DemandsNot1less",
+					"indices": [
+						206,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EwYOTXFQCy",
+					"expanded_url": "http://www.digitalartsonline.co.uk/features/illustration/hong-kong-protests-most-striking-illustrations-from-movement-so-far/",
+					"display_url": "digitalartsonline.co.uk/features/illus…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1171298059625648000,
+					"id_str": "1171298059625648129",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/EEFJYSIXUAEyyud.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEFJYSIXUAEyyud.jpg",
+					"url": "https://t.co/xMBwRU4yTg",
+					"display_url": "pic.twitter.com/xMBwRU4yTg",
+					"expanded_url": "https://twitter.com/RT2CN/status/1171298090374111233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171298059625648000,
+					"id_str": "1171298059625648129",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/EEFJYSIXUAEyyud.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEFJYSIXUAEyyud.jpg",
+					"url": "https://t.co/xMBwRU4yTg",
+					"display_url": "pic.twitter.com/xMBwRU4yTg",
+					"expanded_url": "https://twitter.com/RT2CN/status/1171298090374111233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171298060175061000,
+					"id_str": "1171298060175060993",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/EEFJYULWsAEgthY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEFJYULWsAEgthY.jpg",
+					"url": "https://t.co/xMBwRU4yTg",
+					"display_url": "pic.twitter.com/xMBwRU4yTg",
+					"expanded_url": "https://twitter.com/RT2CN/status/1171298090374111233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 905,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 905,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1171298053111844900,
+		"in_reply_to_status_id_str": "1171298053111844865",
+		"in_reply_to_user_id": 770449590827057200,
+		"in_reply_to_user_id_str": "770449590827057155",
+		"in_reply_to_screen_name": "RT2CN",
+		"user": {
+			"id": 770449590827057200,
+			"id_str": "770449590827057155",
+			"name": "RT2CN",
+			"screen_name": "RT2CN",
+			"location": "",
+			"description": "ReTweets to China. #HongKongProtests #FreeHKG #FreedomHongKong #StandWithHK #StandWithHongKong #HKPoliceBrutality #antiELAB #5DemandsNot1less",
+			"url": "https://t.co/3D5ALDLwNY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3D5ALDLwNY",
+							"expanded_url": "https://rt2cn.github.io",
+							"display_url": "rt2cn.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Tue Aug 30 02:34:31 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/775195623221972992/NKQHH0xT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/775195623221972992/NKQHH0xT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770449590827057155/1567872428",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hong Kong Protests: The most striking illustrations from the movement so far https://t.co/EwYOTXFQCy #HongKongProtests #FreeHKG #FreedomHongKong #StandWithHK #StandWithHongKong #HKPoliceBrutality #antiELAB #5DemandsNot1less https://t.co/xMBwRU4yTg"
+	},
+	{
+		"created_at": "Tue Sep 10 05:43:12 +0000 2019",
+		"id": 1171298053111844900,
+		"id_str": "1171298053111844865",
+		"full_text": "Hong Kong Protests: The most striking illustrations from the movement so far https://t.co/EwYOTXFQCy #HongKongProtests #FreeHKG #FreedomHongKong #StandWithHK #StandWithHongKong #HKPoliceBrutality #antiELAB #5DemandsNot1less https://t.co/E2IWKrdyLo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HongKongProtests",
+					"indices": [
+						101,
+						118
+					]
+				},
+				{
+					"text": "FreeHKG",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"text": "FreedomHongKong",
+					"indices": [
+						128,
+						144
+					]
+				},
+				{
+					"text": "StandWithHK",
+					"indices": [
+						145,
+						157
+					]
+				},
+				{
+					"text": "StandWithHongKong",
+					"indices": [
+						158,
+						176
+					]
+				},
+				{
+					"text": "HKPoliceBrutality",
+					"indices": [
+						177,
+						195
+					]
+				},
+				{
+					"text": "antiELAB",
+					"indices": [
+						196,
+						205
+					]
+				},
+				{
+					"text": "5DemandsNot1less",
+					"indices": [
+						206,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EwYOTXFQCy",
+					"expanded_url": "http://www.digitalartsonline.co.uk/features/illustration/hong-kong-protests-most-striking-illustrations-from-movement-so-far/",
+					"display_url": "digitalartsonline.co.uk/features/illus…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1171297975982862300,
+					"id_str": "1171297975982862338",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/EEFJTaiXsAIQSRQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEFJTaiXsAIQSRQ.jpg",
+					"url": "https://t.co/E2IWKrdyLo",
+					"display_url": "pic.twitter.com/E2IWKrdyLo",
+					"expanded_url": "https://twitter.com/RT2CN/status/1171298053111844865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 446,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171297975982862300,
+					"id_str": "1171297975982862338",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/EEFJTaiXsAIQSRQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEFJTaiXsAIQSRQ.jpg",
+					"url": "https://t.co/E2IWKrdyLo",
+					"display_url": "pic.twitter.com/E2IWKrdyLo",
+					"expanded_url": "https://twitter.com/RT2CN/status/1171298053111844865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 446,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171297976880439300,
+					"id_str": "1171297976880439296",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/EEFJTd4XoAA3uQH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEFJTd4XoAA3uQH.jpg",
+					"url": "https://t.co/E2IWKrdyLo",
+					"display_url": "pic.twitter.com/E2IWKrdyLo",
+					"expanded_url": "https://twitter.com/RT2CN/status/1171298053111844865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171297977756979200,
+					"id_str": "1171297977756979200",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/EEFJThJWkAAqGrr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEFJThJWkAAqGrr.jpg",
+					"url": "https://t.co/E2IWKrdyLo",
+					"display_url": "pic.twitter.com/E2IWKrdyLo",
+					"expanded_url": "https://twitter.com/RT2CN/status/1171298053111844865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171297977765441500,
+					"id_str": "1171297977765441536",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/EEFJThLXsAAIkBe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEFJThLXsAAIkBe.jpg",
+					"url": "https://t.co/E2IWKrdyLo",
+					"display_url": "pic.twitter.com/E2IWKrdyLo",
+					"expanded_url": "https://twitter.com/RT2CN/status/1171298053111844865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 877,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 877,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1171297969792004000,
+		"in_reply_to_status_id_str": "1171297969792004097",
+		"in_reply_to_user_id": 770449590827057200,
+		"in_reply_to_user_id_str": "770449590827057155",
+		"in_reply_to_screen_name": "RT2CN",
+		"user": {
+			"id": 770449590827057200,
+			"id_str": "770449590827057155",
+			"name": "RT2CN",
+			"screen_name": "RT2CN",
+			"location": "",
+			"description": "ReTweets to China. #HongKongProtests #FreeHKG #FreedomHongKong #StandWithHK #StandWithHongKong #HKPoliceBrutality #antiELAB #5DemandsNot1less",
+			"url": "https://t.co/3D5ALDLwNY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3D5ALDLwNY",
+							"expanded_url": "https://rt2cn.github.io",
+							"display_url": "rt2cn.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Tue Aug 30 02:34:31 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/775195623221972992/NKQHH0xT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/775195623221972992/NKQHH0xT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770449590827057155/1567872428",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hong Kong Protests: The most striking illustrations from the movement so far https://t.co/EwYOTXFQCy #HongKongProtests #FreeHKG #FreedomHongKong #StandWithHK #StandWithHongKong #HKPoliceBrutality #antiELAB #5DemandsNot1less https://t.co/E2IWKrdyLo"
+	},
+	{
 		"created_at": "Tue Sep 10 04:21:08 +0000 2019",
 		"id": 1170875984532263000,
 		"id_str": "1171277403030773760",
-		"full_text": "Sharing from a girl - daily dose of absurdity of the police\n👮🏻‍♂️: Show me the pocket of your pants\n👩🏻: There’s no pocket in my pants\n👮🏻‍♂️: Why???\n👩🏻: Cuz there’s no pocket in my pants... *trying to let them see her pants*\n👮🏻‍♂️: WHY IS THERE NO POCKET IN YOUR PANTS???\n#HongKongProtests https://t.co/grZs4HFXiT",
+		"full_text": "Sharing from a girl - daily dose of absurdity of the police\n👮🏻♂️: Show me the pocket of your pants\n👩🏻: There’s no pocket in my pants\n👮🏻♂️: Why???\n👩🏻: Cuz there’s no pocket in my pants... *trying to let them see her pants*\n👮🏻♂️: WHY IS THERE NO POCKET IN YOUR PANTS???\n#HongKongProtests https://t.co/grZs4HFXiT",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -203,7 +2476,7 @@ Grailbird.data.tweets_2019_09 =
 		"retweeted": true,
 		"possibly_sensitive": true,
 		"lang": "en",
-		"text": "Sharing from a girl - daily dose of absurdity of the police\n👮🏻‍♂️: Show me the pocket of your pants\n👩🏻: There’s no pocket in my pants\n👮🏻‍♂️: Why???\n👩🏻: Cuz there’s no pocket in my pants... *trying to let them see her pants*\n👮🏻‍♂️: WHY IS THERE NO POCKET IN YOUR PANTS???\n#HongKongProtests https://t.co/grZs4HFXiT"
+		"text": "Sharing from a girl - daily dose of absurdity of the police\n👮🏻♂️: Show me the pocket of your pants\n👩🏻: There’s no pocket in my pants\n👮🏻♂️: Why???\n👩🏻: Cuz there’s no pocket in my pants... *trying to let them see her pants*\n👮🏻♂️: WHY IS THERE NO POCKET IN YOUR PANTS???\n#HongKongProtests https://t.co/grZs4HFXiT"
 	},
 	{
 		"created_at": "Mon Sep 09 12:56:04 +0000 2019",
