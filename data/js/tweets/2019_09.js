@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 10 14:33:55 +0000 2019",
+		"id": 1171328230948790300,
+		"id_str": "1171431613583937540",
+		"full_text": "德國時間黃之鋒9月9日晚間到達柏林，並參加了“圖片報”100（Bild 100）紀念慶典，期間與德國外長馬斯（Heiko Maas）見面交流並發表演講“香港是新冷戰下的柏林” 。\n\n https://t.co/f7VNv3GeOW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f7VNv3GeOW",
+					"expanded_url": "https://stimme-de.de/2019/09/10/4923/",
+					"display_url": "stimme-de.de/2019/09/10/492…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1076090121248739300,
+			"id_str": "1076090121248739333",
+			"name": "Die Stimme Deutschlands 德國之音🎗️",
+			"screen_name": "SDeutschlands",
+			"location": "Berlin, Germany",
+			"description": "一個有態度的在綫媒體，由一群志願者運作。https://t.co/dS0B8OJXYF",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dS0B8OJXYF",
+							"expanded_url": "https://stimme-de.de",
+							"display_url": "stimme-de.de",
+							"indices": [
+								20,
+								43
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17463,
+			"friends_count": 180,
+			"listed_count": 111,
+			"created_at": "Fri Dec 21 12:20:52 +0000 2018",
+			"favourites_count": 1635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2369,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154175884821245953/c7u4YeJa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154175884821245953/c7u4YeJa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1076090121248739333/1565729482",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 234,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "德國時間黃之鋒9月9日晚間到達柏林，並參加了“圖片報”100（Bild 100）紀念慶典，期間與德國外長馬斯（Heiko Maas）見面交流並發表演講“香港是新冷戰下的柏林” 。\n\n https://t.co/f7VNv3GeOW"
+	},
+	{
 		"created_at": "Tue Sep 10 05:53:58 +0000 2019",
 		"id": 1171261283343061000,
 		"id_str": "1171300765316653056",
