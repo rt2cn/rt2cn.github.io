@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 10 04:21:08 +0000 2019",
+		"id": 1170875984532263000,
+		"id_str": "1171277403030773760",
+		"full_text": "Sharing from a girl - daily dose of absurdity of the police\n👮🏻‍♂️: Show me the pocket of your pants\n👩🏻: There’s no pocket in my pants\n👮🏻‍♂️: Why???\n👩🏻: Cuz there’s no pocket in my pants... *trying to let them see her pants*\n👮🏻‍♂️: WHY IS THERE NO POCKET IN YOUR PANTS???\n#HongKongProtests https://t.co/grZs4HFXiT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			288
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HongKongProtests",
+					"indices": [
+						271,
+						288
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170875979138400300,
+					"id_str": "1170875979138400256",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_Jf9yVAAA0EJF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_Jf9yVAAA0EJF.jpg",
+					"url": "https://t.co/grZs4HFXiT",
+					"display_url": "pic.twitter.com/grZs4HFXiT",
+					"expanded_url": "https://twitter.com/hongkongching1/status/1170875984532262912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170875979138400300,
+					"id_str": "1170875979138400256",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_Jf9yVAAA0EJF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_Jf9yVAAA0EJF.jpg",
+					"url": "https://t.co/grZs4HFXiT",
+					"display_url": "pic.twitter.com/grZs4HFXiT",
+					"expanded_url": "https://twitter.com/hongkongching1/status/1170875984532262912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170875979180281900,
+					"id_str": "1170875979180281863",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/media/ED_Jf98UEAcuM4x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED_Jf98UEAcuM4x.jpg",
+					"url": "https://t.co/grZs4HFXiT",
+					"display_url": "pic.twitter.com/grZs4HFXiT",
+					"expanded_url": "https://twitter.com/hongkongching1/status/1170875984532262912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 607,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1108,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1071,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1162750100495487000,
+			"id_str": "1162750100495486978",
+			"name": "chingsquirrel",
+			"screen_name": "hongkongching1",
+			"location": "Hong Kong",
+			"description": "Hongkonger forever | Translation major | Cat | Calligraphy | Dm me your favourite memes lol | 好多廢話",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1277,
+			"friends_count": 1054,
+			"listed_count": 8,
+			"created_at": "Sat Aug 17 15:36:52 +0000 2019",
+			"favourites_count": 1474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167421969697886208/9yVvt0T9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167421969697886208/9yVvt0T9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1162750100495486978/1567881657",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 255,
+		"favorite_count": 355,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Sharing from a girl - daily dose of absurdity of the police\n👮🏻‍♂️: Show me the pocket of your pants\n👩🏻: There’s no pocket in my pants\n👮🏻‍♂️: Why???\n👩🏻: Cuz there’s no pocket in my pants... *trying to let them see her pants*\n👮🏻‍♂️: WHY IS THERE NO POCKET IN YOUR PANTS???\n#HongKongProtests https://t.co/grZs4HFXiT"
+	},
+	{
 		"created_at": "Mon Sep 09 12:56:04 +0000 2019",
 		"id": 1170939935744024600,
 		"id_str": "1171044601559277568",
