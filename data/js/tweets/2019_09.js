@@ -1,6 +1,514 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 11 14:53:33 +0000 2019",
+		"id": 1171786302527856600,
+		"id_str": "1171798944176844800",
+		"full_text": "\"Glory to Hong Kong\" orchestral version\nhttps://t.co/5s022BTR9s https://t.co/fGpV5lTr9j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5s022BTR9s",
+					"expanded_url": "https://www.youtube.com/watch?v=oUIDL4SB60g",
+					"display_url": "youtube.com/watch?v=oUIDL4…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1171786127365329000,
+					"id_str": "1171786127365328896",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1171786127365328896/pu/img/7YJ3T_R8qZFRIfQ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1171786127365328896/pu/img/7YJ3T_R8qZFRIfQ-.jpg",
+					"url": "https://t.co/fGpV5lTr9j",
+					"display_url": "pic.twitter.com/fGpV5lTr9j",
+					"expanded_url": "https://twitter.com/anti_elab/status/1171786302527856640/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1688,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 290,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171786127365329000,
+					"id_str": "1171786127365328896",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1171786127365328896/pu/img/7YJ3T_R8qZFRIfQ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1171786127365328896/pu/img/7YJ3T_R8qZFRIfQ-.jpg",
+					"url": "https://t.co/fGpV5lTr9j",
+					"display_url": "pic.twitter.com/fGpV5lTr9j",
+					"expanded_url": "https://twitter.com/anti_elab/status/1171786302527856640/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1688,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 290,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							211,
+							90
+						],
+						"duration_millis": 129920,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1171786127365328896/pu/vid/632x270/oepvz-yjAHhGIu5d.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1171786127365328896/pu/vid/844x360/Gj8Rs6nTHkOYQ3SP.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1171786127365328896/pu/pl/DiqRRt5rOk8l7ly_.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1171786127365328896/pu/vid/1688x720/EBeLlkeIrASMgNd8.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1138468715090124800,
+			"id_str": "1138468715090124800",
+			"name": "antiELAB",
+			"screen_name": "anti_elab",
+			"location": "Hong Kong",
+			"description": "Live updates on anti-extradition bill related #HongKongProtests. \n📌List of upcoming protests: https://t.co/JY2kbbGZPn",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JY2kbbGZPn",
+							"expanded_url": "http://bit.ly/HKersCampaignSchedule",
+							"display_url": "bit.ly/HKersCampaignS…",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20820,
+			"friends_count": 348,
+			"listed_count": 209,
+			"created_at": "Tue Jun 11 15:31:08 +0000 2019",
+			"favourites_count": 555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139909828229423104/9yX39AT5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139909828229423104/9yX39AT5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1138468715090124800/1568121771",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 197,
+		"favorite_count": 340,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Glory to Hong Kong\" orchestral version\nhttps://t.co/5s022BTR9s https://t.co/fGpV5lTr9j"
+	},
+	{
+		"created_at": "Wed Sep 11 14:53:23 +0000 2019",
+		"id": 1171793143513014300,
+		"id_str": "1171798900849696768",
+		"full_text": "Scenes from Wong Tai Sin last night (9/10) when thousands turned out to sing 'Glory to Hong Kong' together. #HK's new national anthem is really bringing people from all walks of life together to express their love for the city and their willingness to defend it. https://t.co/swGSC7AreN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HK",
+					"indices": [
+						108,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171792592364699600,
+					"id_str": "1171792592364699649",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EEMLJ4JVAAEPCud.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEMLJ4JVAAEPCud.jpg",
+					"url": "https://t.co/swGSC7AreN",
+					"display_url": "pic.twitter.com/swGSC7AreN",
+					"expanded_url": "https://twitter.com/KongTsungGan/status/1171793143513014273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1126,
+							"h": 748,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1126,
+							"h": 748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171792592364699600,
+					"id_str": "1171792592364699649",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EEMLJ4JVAAEPCud.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEMLJ4JVAAEPCud.jpg",
+					"url": "https://t.co/swGSC7AreN",
+					"display_url": "pic.twitter.com/swGSC7AreN",
+					"expanded_url": "https://twitter.com/KongTsungGan/status/1171793143513014273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1126,
+							"h": 748,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1126,
+							"h": 748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171792592431804400,
+					"id_str": "1171792592431804417",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EEMLJ4ZU8AEmZf5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEMLJ4ZU8AEmZf5.jpg",
+					"url": "https://t.co/swGSC7AreN",
+					"display_url": "pic.twitter.com/swGSC7AreN",
+					"expanded_url": "https://twitter.com/KongTsungGan/status/1171793143513014273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1126,
+							"h": 748,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1126,
+							"h": 748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171792592436002800,
+					"id_str": "1171792592436002817",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EEMLJ4aVAAElsul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEMLJ4aVAAElsul.jpg",
+					"url": "https://t.co/swGSC7AreN",
+					"display_url": "pic.twitter.com/swGSC7AreN",
+					"expanded_url": "https://twitter.com/KongTsungGan/status/1171793143513014273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1126,
+							"h": 748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1126,
+							"h": 748,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171792592452743200,
+					"id_str": "1171792592452743168",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EEMLJ4eUcAAO2uQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEMLJ4eUcAAO2uQ.jpg",
+					"url": "https://t.co/swGSC7AreN",
+					"display_url": "pic.twitter.com/swGSC7AreN",
+					"expanded_url": "https://twitter.com/KongTsungGan/status/1171793143513014273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1126,
+							"h": 748,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1126,
+							"h": 748,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1171790426006675500,
+		"in_reply_to_status_id_str": "1171790426006675456",
+		"in_reply_to_user_id": 3069292650,
+		"in_reply_to_user_id_str": "3069292650",
+		"in_reply_to_screen_name": "KongTsungGan",
+		"user": {
+			"id": 3069292650,
+			"id_str": "3069292650",
+			"name": "Kong Tsung-gan / 江松澗",
+			"screen_name": "KongTsungGan",
+			"location": "",
+			"description": "Author of 'Umbrella: A Political Tale from Hong Kong' https://t.co/RK75IQ4zbi & 'As long as there is resistance, there is hope' https://t.co/IeQyy2lyjC",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RK75IQ4zbi",
+							"expanded_url": "http://goo.gl/To2Wce",
+							"display_url": "goo.gl/To2Wce",
+							"indices": [
+								54,
+								77
+							]
+						},
+						{
+							"url": "https://t.co/IeQyy2lyjC",
+							"expanded_url": "http://goo.gl/wwNS3T",
+							"display_url": "goo.gl/wwNS3T",
+							"indices": [
+								128,
+								151
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11106,
+			"friends_count": 1001,
+			"listed_count": 288,
+			"created_at": "Mon Mar 09 07:53:51 +0000 2015",
+			"favourites_count": 4046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171275248865406976/-5jiA6r2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171275248865406976/-5jiA6r2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3069292650/1425889010",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 99,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Scenes from Wong Tai Sin last night (9/10) when thousands turned out to sing 'Glory to Hong Kong' together. #HK's new national anthem is really bringing people from all walks of life together to express their love for the city and their willingness to defend it. https://t.co/swGSC7AreN"
+	},
+	{
 		"created_at": "Wed Sep 11 02:26:01 +0000 2019",
 		"id": 1171605777305522200,
 		"id_str": "1171610821346115585",
