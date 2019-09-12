@@ -1,6 +1,1097 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 12 14:32:32 +0000 2019",
+		"id": 1171967274263011300,
+		"id_str": "1172156040881823744",
+		"full_text": "休想滅聲 https://t.co/rj4a8XCYVR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171967267543715800,
+					"id_str": "1171967267543715840",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOqBT5UEAAve7A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOqBT5UEAAve7A.jpg",
+					"url": "https://t.co/rj4a8XCYVR",
+					"display_url": "pic.twitter.com/rj4a8XCYVR",
+					"expanded_url": "https://twitter.com/Denis23646088/status/1171967274263011328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1162,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1162,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171967267543715800,
+					"id_str": "1171967267543715840",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOqBT5UEAAve7A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOqBT5UEAAve7A.jpg",
+					"url": "https://t.co/rj4a8XCYVR",
+					"display_url": "pic.twitter.com/rj4a8XCYVR",
+					"expanded_url": "https://twitter.com/Denis23646088/status/1171967274263011328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1162,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1162,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1171455375549165600,
+			"id_str": "1171455375549165569",
+			"name": "ᴅᴇɴɪs ᴄʜᴀɴ",
+			"screen_name": "Denis23646088",
+			"location": "Central & Western District",
+			"description": "🇭🇰 Quitters never win and winners never quit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197,
+			"friends_count": 245,
+			"listed_count": 0,
+			"created_at": "Tue Sep 10 16:08:29 +0000 2019",
+			"favourites_count": 198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171960135066849281/Dsr0_8al_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171960135066849281/Dsr0_8al_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1171455375549165569/1568251928",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 136,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "休想滅聲 https://t.co/rj4a8XCYVR"
+	},
+	{
+		"created_at": "Thu Sep 12 14:32:13 +0000 2019",
+		"id": 1172148179275415600,
+		"id_str": "1172155960699305984",
+		"full_text": "今晚（9月12日）8時許，元朗西鐵站突然出現數十名手持五星旗的撐警人士出現，現場隨即有人反擊，大叫「黑社會」，撐警部隊最終被噓走。\n\n隨後西鐵站附近的天橋，發現有五星旗被放在垃圾桶。\n\n#freeHK #StandwithHK #5DemandsNot1Less https://t.co/w5V5g8K26U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "freeHK",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "StandwithHK",
+					"indices": [
+						101,
+						113
+					]
+				},
+				{
+					"text": "5DemandsNot1Less",
+					"indices": [
+						114,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172147837062152200,
+					"id_str": "1172147837062152194",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EEROP1xVAAI_jfk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEROP1xVAAI_jfk.jpg",
+					"url": "https://t.co/w5V5g8K26U",
+					"display_url": "pic.twitter.com/w5V5g8K26U",
+					"expanded_url": "https://twitter.com/TqnHnpz8rrMoZQj/status/1172148179275415557/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172147837062152200,
+					"id_str": "1172147837062152194",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EEROP1xVAAI_jfk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEROP1xVAAI_jfk.jpg",
+					"url": "https://t.co/w5V5g8K26U",
+					"display_url": "pic.twitter.com/w5V5g8K26U",
+					"expanded_url": "https://twitter.com/TqnHnpz8rrMoZQj/status/1172148179275415557/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1172147848860692500,
+					"id_str": "1172147848860692481",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EEROQhuUcAEBXUf.png",
+					"media_url_https": "https://pbs.twimg.com/media/EEROQhuUcAEBXUf.png",
+					"url": "https://t.co/w5V5g8K26U",
+					"display_url": "pic.twitter.com/w5V5g8K26U",
+					"expanded_url": "https://twitter.com/TqnHnpz8rrMoZQj/status/1172148179275415557/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 405,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 405,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1172147862227972000,
+					"id_str": "1172147862227972097",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EERORThU8AET4eu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EERORThU8AET4eu.jpg",
+					"url": "https://t.co/w5V5g8K26U",
+					"display_url": "pic.twitter.com/w5V5g8K26U",
+					"expanded_url": "https://twitter.com/TqnHnpz8rrMoZQj/status/1172148179275415557/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1084505052339789800,
+			"id_str": "1084505052339789824",
+			"name": "大水炮",
+			"screen_name": "TqnHnpz8rrMoZQj",
+			"location": "香港",
+			"description": "村上春樹：「在高大堅硬的牆和雞蛋之間，無論高牆是多麼正確，雞蛋是多麼錯誤，我永遠站在雞蛋那邊。」 在邪惡與正義面前，必須黑白分明，並無中立可言",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 114,
+			"friends_count": 334,
+			"listed_count": 1,
+			"created_at": "Sun Jan 13 17:38:48 +0000 2019",
+			"favourites_count": 1432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160610235452538880/45Ub_xm3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160610235452538880/45Ub_xm3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1084505052339789824/1564770917",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "zh",
+		"text": "今晚（9月12日）8時許，元朗西鐵站突然出現數十名手持五星旗的撐警人士出現，現場隨即有人反擊，大叫「黑社會」，撐警部隊最終被噓走。\n\n隨後西鐵站附近的天橋，發現有五星旗被放在垃圾桶。\n\n#freeHK #StandwithHK #5DemandsNot1Less https://t.co/w5V5g8K26U"
+	},
+	{
+		"created_at": "Thu Sep 12 14:30:25 +0000 2019",
+		"id": 1172131960765894700,
+		"id_str": "1172155508523974657",
+		"full_text": "【何韵诗在台北呼吁9/29港台大游行】\n香港歌手何韵诗和台湾独立音乐人在台北召开记者会，呼吁参加“撑港、反极权—9/29港台大游行”。何韵诗说，香港人申请9月15日游行再被港警禁止，眼看香港人已经要失去上街表达诉求的权利，台湾人一定要非常珍惜还有的自由。 https://t.co/jdCwebCUkD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172129527574610000,
+					"id_str": "1172129527574609923",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172129527574609923/pu/img/NWpCGpuQDw3J_rJq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172129527574609923/pu/img/NWpCGpuQDw3J_rJq.jpg",
+					"url": "https://t.co/jdCwebCUkD",
+					"display_url": "pic.twitter.com/jdCwebCUkD",
+					"expanded_url": "https://twitter.com/RFA_Chinese/status/1172131960765894657/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172129527574610000,
+					"id_str": "1172129527574609923",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172129527574609923/pu/img/NWpCGpuQDw3J_rJq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172129527574609923/pu/img/NWpCGpuQDw3J_rJq.jpg",
+					"url": "https://t.co/jdCwebCUkD",
+					"display_url": "pic.twitter.com/jdCwebCUkD",
+					"expanded_url": "https://twitter.com/RFA_Chinese/status/1172131960765894657/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 129563,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1172129527574609923/pu/pl/j38hQpzcm9r1B3QW.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1172129527574609923/pu/vid/480x360/gNsWG-Om_YH6L3YM.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1172129527574609923/pu/vid/360x270/50it-vwF5y5QapfY.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1172129527574609923/pu/vid/960x720/P8dv3yYMjElQJiaK.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17595489,
+			"id_str": "17595489",
+			"name": "自由亚洲电台",
+			"screen_name": "RFA_Chinese",
+			"location": "Washington, DC",
+			"description": "提供准确及时的新闻资讯以及评论，为多元意见及声音提供平台。RT≠Endorsement",
+			"url": "http://t.co/9V2ltjaU0O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/9V2ltjaU0O",
+							"expanded_url": "http://www.rfa.org/mandarin",
+							"display_url": "rfa.org/mandarin",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 427580,
+			"friends_count": 1440,
+			"listed_count": 1924,
+			"created_at": "Mon Nov 24 16:59:35 +0000 2008",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 102970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104053480455634944/_5U6heYQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104053480455634944/_5U6heYQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17595489/1559317228",
+			"profile_link_color": "228C22",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 106,
+		"favorite_count": 299,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "【何韵诗在台北呼吁9/29港台大游行】\n香港歌手何韵诗和台湾独立音乐人在台北召开记者会，呼吁参加“撑港、反极权—9/29港台大游行”。何韵诗说，香港人申请9月15日游行再被港警禁止，眼看香港人已经要失去上街表达诉求的权利，台湾人一定要非常珍惜还有的自由。 https://t.co/jdCwebCUkD"
+	},
+	{
+		"created_at": "Thu Sep 12 14:27:04 +0000 2019",
+		"id": 1171990625832464400,
+		"id_str": "1172154664768458754",
+		"full_text": "香港學生妹實在太正，悄皮可愛又勇敢，嬸嬸忍唔住畫返個❤Hong Kong school girls are cute yet strong &amp; brave. I need to draw one. #hongkongprotest https://t.co/vhJdd8YWjT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hongkongprotest",
+					"indices": [
+						103,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171990600863760400,
+					"id_str": "1171990600863760384",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EEO_PfSUwAA4wLB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEO_PfSUwAA4wLB.jpg",
+					"url": "https://t.co/vhJdd8YWjT",
+					"display_url": "pic.twitter.com/vhJdd8YWjT",
+					"expanded_url": "https://twitter.com/smalltunghk/status/1171990625832464384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 707,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 707,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171990600863760400,
+					"id_str": "1171990600863760384",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EEO_PfSUwAA4wLB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEO_PfSUwAA4wLB.jpg",
+					"url": "https://t.co/vhJdd8YWjT",
+					"display_url": "pic.twitter.com/vhJdd8YWjT",
+					"expanded_url": "https://twitter.com/smalltunghk/status/1171990625832464384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 707,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 707,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1100245707443777500,
+			"id_str": "1100245707443777536",
+			"name": "smalltung",
+			"screen_name": "smalltunghk",
+			"location": "Hong Kong",
+			"description": "為百合漫画奉獻。Hail yuri. #LIHKG",
+			"url": "https://t.co/7f4zj4SE3M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7f4zj4SE3M",
+							"expanded_url": "http://www.smalltung.com",
+							"display_url": "smalltung.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 302,
+			"listed_count": 1,
+			"created_at": "Tue Feb 26 04:06:33 +0000 2019",
+			"favourites_count": 593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100246924794478593/kAm11Pm4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100246924794478593/kAm11Pm4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1100245707443777536/1566530808",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 200,
+		"favorite_count": 485,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "香港學生妹實在太正，悄皮可愛又勇敢，嬸嬸忍唔住畫返個❤Hong Kong school girls are cute yet strong &amp; brave. I need to draw one. #hongkongprotest https://t.co/vhJdd8YWjT"
+	},
+	{
+		"created_at": "Thu Sep 12 14:23:24 +0000 2019",
+		"id": 1171784164229517300,
+		"id_str": "1172153744752041984",
+		"full_text": "Special mid-autumn edition: ‘Liberate Hong Kong; revolution of our times' origami lantern. Hope to see you holding one this Friday! Download pdf versions here: \nChinese: https://t.co/vNjxtipCeJ \nEnglish: https://t.co/YDGujC4eRL https://t.co/C5qfgXaE2y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vNjxtipCeJ",
+					"expanded_url": "https://t.me/WeConnect_913_ThePeak/893",
+					"display_url": "t.me/WeConnect_913_…",
+					"indices": [
+						170,
+						193
+					]
+				},
+				{
+					"url": "https://t.co/YDGujC4eRL",
+					"expanded_url": "https://t.me/WeConnect_913_ThePeak/894",
+					"display_url": "t.me/WeConnect_913_…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1171784158646898700,
+					"id_str": "1171784158646898689",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EEMDe-GUEAERuI0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEMDe-GUEAERuI0.jpg",
+					"url": "https://t.co/C5qfgXaE2y",
+					"display_url": "pic.twitter.com/C5qfgXaE2y",
+					"expanded_url": "https://twitter.com/missy_lao/status/1171784164229517313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 719,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171784158646898700,
+					"id_str": "1171784158646898689",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EEMDe-GUEAERuI0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEMDe-GUEAERuI0.jpg",
+					"url": "https://t.co/C5qfgXaE2y",
+					"display_url": "pic.twitter.com/C5qfgXaE2y",
+					"expanded_url": "https://twitter.com/missy_lao/status/1171784164229517313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 719,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171784158663721000,
+					"id_str": "1171784158663720961",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EEMDe-KUwAE_ilN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEMDe-KUwAE_ilN.jpg",
+					"url": "https://t.co/C5qfgXaE2y",
+					"display_url": "pic.twitter.com/C5qfgXaE2y",
+					"expanded_url": "https://twitter.com/missy_lao/status/1171784164229517313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1062,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1062,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171784158651175000,
+					"id_str": "1171784158651174912",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EEMDe-HVUAAEpG_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEMDe-HVUAAEpG_.jpg",
+					"url": "https://t.co/C5qfgXaE2y",
+					"display_url": "pic.twitter.com/C5qfgXaE2y",
+					"expanded_url": "https://twitter.com/missy_lao/status/1171784164229517313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 719,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171784158676308000,
+					"id_str": "1171784158676307968",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EEMDe-NU0AACurW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEMDe-NU0AACurW.jpg",
+					"url": "https://t.co/C5qfgXaE2y",
+					"display_url": "pic.twitter.com/C5qfgXaE2y",
+					"expanded_url": "https://twitter.com/missy_lao/status/1171784164229517313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 719,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 674,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 252884794,
+			"id_str": "252884794",
+			"name": "Missy Lao",
+			"screen_name": "missy_lao",
+			"location": "Hong Kong 🇭🇰 🏳️‍🌈",
+			"description": "Hong Kong lawyer. @HongKongPLG member. Alicia Florrick fan. I begin my day by checking Twitter - whether I get up or not. Currently following #antiELAB protests",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4586,
+			"friends_count": 737,
+			"listed_count": 116,
+			"created_at": "Wed Feb 16 03:21:12 +0000 2011",
+			"favourites_count": 13215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/529857063883509760/A2m96PQ1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/529857063883509760/A2m96PQ1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/252884794/1415161949",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Special mid-autumn edition: ‘Liberate Hong Kong; revolution of our times' origami lantern. Hope to see you holding one this Friday! Download pdf versions here: \nChinese: https://t.co/vNjxtipCeJ \nEnglish: https://t.co/YDGujC4eRL https://t.co/C5qfgXaE2y"
+	},
+	{
 		"created_at": "Thu Sep 12 06:44:17 +0000 2019",
 		"id": 1171972172249612300,
 		"id_str": "1172038202905022465",
