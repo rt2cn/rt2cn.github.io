@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 13 12:41:53 +0000 2019",
+		"id": 1172422245865508900,
+		"id_str": "1172490582809370628",
+		"full_text": "應景一天。\n\n中秋快樂\n光復香港\n\n#antiELAB\n#Chinese4HK https://t.co/reZBLd86jD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "antiELAB",
+					"indices": [
+						18,
+						27
+					]
+				},
+				{
+					"text": "Chinese4HK",
+					"indices": [
+						28,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172422231063793700,
+					"id_str": "1172422231063793664",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EEVHzrFUEAAElot.png",
+					"media_url_https": "https://pbs.twimg.com/media/EEVHzrFUEAAElot.png",
+					"url": "https://t.co/reZBLd86jD",
+					"display_url": "pic.twitter.com/reZBLd86jD",
+					"expanded_url": "https://twitter.com/midwaydude/status/1172422245865508864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 678,
+							"h": 532,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 678,
+							"h": 532,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 678,
+							"h": 532,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172422231063793700,
+					"id_str": "1172422231063793664",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EEVHzrFUEAAElot.png",
+					"media_url_https": "https://pbs.twimg.com/media/EEVHzrFUEAAElot.png",
+					"url": "https://t.co/reZBLd86jD",
+					"display_url": "pic.twitter.com/reZBLd86jD",
+					"expanded_url": "https://twitter.com/midwaydude/status/1172422245865508864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 678,
+							"h": 532,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 678,
+							"h": 532,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 678,
+							"h": 532,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2845909596,
+			"id_str": "2845909596",
+			"name": "中流青年",
+			"screen_name": "midwaydude",
+			"location": "",
+			"description": "時政有害信息博主",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16092,
+			"friends_count": 352,
+			"listed_count": 97,
+			"created_at": "Wed Oct 08 03:41:56 +0000 2014",
+			"favourites_count": 1931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091264435279167491/8bbOUydv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091264435279167491/8bbOUydv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2845909596/1568102272",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "應景一天。\n\n中秋快樂\n光復香港\n\n#antiELAB\n#Chinese4HK https://t.co/reZBLd86jD"
+	},
+	{
 		"created_at": "Fri Sep 13 10:46:11 +0000 2019",
 		"id": 1172427402183446500,
 		"id_str": "1172461464289992706",
