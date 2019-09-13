@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 13 10:46:11 +0000 2019",
+		"id": 1172427402183446500,
+		"id_str": "1172461464289992706",
+		"full_text": "恭喜大家。在我们的努力下。”十里不换肩” 五个字已经是中国的敏感词了。 #今天你反共了吗 https://t.co/l46M769dsB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "今天你反共了吗",
+					"indices": [
+						36,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172427397104189400,
+					"id_str": "1172427397104189440",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/EEVMgYFUwAADaJu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEVMgYFUwAADaJu.jpg",
+					"url": "https://t.co/l46M769dsB",
+					"display_url": "pic.twitter.com/l46M769dsB",
+					"expanded_url": "https://twitter.com/IntyPython/status/1172427402183446528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 564,
+							"h": 364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 564,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 564,
+							"h": 364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172427397104189400,
+					"id_str": "1172427397104189440",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/EEVMgYFUwAADaJu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEVMgYFUwAADaJu.jpg",
+					"url": "https://t.co/l46M769dsB",
+					"display_url": "pic.twitter.com/l46M769dsB",
+					"expanded_url": "https://twitter.com/IntyPython/status/1172427402183446528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 564,
+							"h": 364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 564,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 564,
+							"h": 364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1027764083565711400,
+			"id_str": "1027764083565711360",
+			"name": "Inty",
+			"screen_name": "IntyPython",
+			"location": "",
+			"description": "Freedom is not free",
+			"url": "https://t.co/jGfBsTFXS9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jGfBsTFXS9",
+							"expanded_url": "https://www.youtube.com/channel/UCA3-DEkClR3G1DG1cq8YbeQ",
+							"display_url": "youtube.com/channel/UCA3-D…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37196,
+			"friends_count": 208,
+			"listed_count": 137,
+			"created_at": "Fri Aug 10 03:50:27 +0000 2018",
+			"favourites_count": 325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1143763370534813696/SUgTABBz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143763370534813696/SUgTABBz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1027764083565711360/1561588799",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 135,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "恭喜大家。在我们的努力下。”十里不换肩” 五个字已经是中国的敏感词了。 #今天你反共了吗 https://t.co/l46M769dsB"
+	},
+	{
 		"created_at": "Fri Sep 13 08:27:35 +0000 2019",
 		"id": 1172344510413594600,
 		"id_str": "1172426586575867904",
