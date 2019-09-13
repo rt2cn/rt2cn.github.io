@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 13 06:36:45 +0000 2019",
+		"id": 1172398693200216000,
+		"id_str": "1172398693200216064",
+		"full_text": "胸懷香港，信念伴隨，無論何時、無論何地、何種形式，反送中，撐香港。 香港人加油，自由萬歲！ #HongKongProtests #FreeHKG #FreedomHongKong #StandWithHK #StandWithHongKong #HKPoliceBrutality #antiELAB #5DemandsNot1less https://t.co/xb9v85ppnJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HongKongProtests",
+					"indices": [
+						46,
+						63
+					]
+				},
+				{
+					"text": "FreeHKG",
+					"indices": [
+						64,
+						72
+					]
+				},
+				{
+					"text": "FreedomHongKong",
+					"indices": [
+						73,
+						89
+					]
+				},
+				{
+					"text": "StandWithHK",
+					"indices": [
+						90,
+						102
+					]
+				},
+				{
+					"text": "StandWithHongKong",
+					"indices": [
+						103,
+						121
+					]
+				},
+				{
+					"text": "HKPoliceBrutality",
+					"indices": [
+						122,
+						140
+					]
+				},
+				{
+					"text": "antiELAB",
+					"indices": [
+						141,
+						150
+					]
+				},
+				{
+					"text": "5DemandsNot1less",
+					"indices": [
+						151,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172398571104002000,
+					"id_str": "1172398571104002049",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EEUySe3UYAEuYgK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEUySe3UYAEuYgK.jpg",
+					"url": "https://t.co/xb9v85ppnJ",
+					"display_url": "pic.twitter.com/xb9v85ppnJ",
+					"expanded_url": "https://twitter.com/RT2CN/status/1172398693200216064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172398571104002000,
+					"id_str": "1172398571104002049",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EEUySe3UYAEuYgK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEUySe3UYAEuYgK.jpg",
+					"url": "https://t.co/xb9v85ppnJ",
+					"display_url": "pic.twitter.com/xb9v85ppnJ",
+					"expanded_url": "https://twitter.com/RT2CN/status/1172398693200216064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770449590827057200,
+			"id_str": "770449590827057155",
+			"name": "RT2CN",
+			"screen_name": "RT2CN",
+			"location": "",
+			"description": "ReTweets to China. #HongKongProtests #FreeHKG #FreedomHongKong #StandWithHK #StandWithHongKong #HKPoliceBrutality #antiELAB #5DemandsNot1less",
+			"url": "https://t.co/3D5ALDLwNY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3D5ALDLwNY",
+							"expanded_url": "https://rt2cn.github.io",
+							"display_url": "rt2cn.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Tue Aug 30 02:34:31 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/775195623221972992/NKQHH0xT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/775195623221972992/NKQHH0xT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770449590827057155/1567872428",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "胸懷香港，信念伴隨，無論何時、無論何地、何種形式，反送中，撐香港。 香港人加油，自由萬歲！ #HongKongProtests #FreeHKG #FreedomHongKong #StandWithHK #StandWithHongKong #HKPoliceBrutality #antiELAB #5DemandsNot1less https://t.co/xb9v85ppnJ"
+	},
+	{
 		"created_at": "Thu Sep 12 14:32:32 +0000 2019",
 		"id": 1171967274263011300,
 		"id_str": "1172156040881823744",
@@ -1035,7 +1266,7 @@ Grailbird.data.tweets_2019_09 =
 			"id_str": "252884794",
 			"name": "Missy Lao",
 			"screen_name": "missy_lao",
-			"location": "Hong Kong 🇭🇰 🏳️‍🌈",
+			"location": "Hong Kong 🇭🇰 🏳️🌈",
 			"description": "Hong Kong lawyer. @HongKongPLG member. Alicia Florrick fan. I begin my day by checking Twitter - whether I get up or not. Currently following #antiELAB protests",
 			"url": null,
 			"entities": {
