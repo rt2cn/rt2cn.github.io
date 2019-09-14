@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 14 04:02:39 +0000 2019",
+		"id": 1172514696282263600,
+		"id_str": "1172722303429464064",
+		"full_text": "在同一個滿月下，不管是香港、新疆、西藏還是台灣人，都為了守護自己的生活，面對相同的敵人。\n　\n在這個團圓的節日，但很多人卻連團圓的權利都沒有。\n　\n這一天，我們面對同一個月亮。命運不同，但是我們都有同樣一份追求民主自由的心。 https://t.co/R7m0m61Q6k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172514690829676500,
+					"id_str": "1172514690829676545",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EEWb5ijUcAEGON-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEWb5ijUcAEGON-.jpg",
+					"url": "https://t.co/R7m0m61Q6k",
+					"display_url": "pic.twitter.com/R7m0m61Q6k",
+					"expanded_url": "https://twitter.com/watchoutTW/status/1172514696282263554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 925,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1136,
+							"h": 925,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 554,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172514690829676500,
+					"id_str": "1172514690829676545",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EEWb5ijUcAEGON-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEWb5ijUcAEGON-.jpg",
+					"url": "https://t.co/R7m0m61Q6k",
+					"display_url": "pic.twitter.com/R7m0m61Q6k",
+					"expanded_url": "https://twitter.com/watchoutTW/status/1172514696282263554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 925,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1136,
+							"h": 925,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 554,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2452767864,
+			"id_str": "2452767864",
+			"name": "沃草 Watchout",
+			"screen_name": "watchoutTW",
+			"location": "",
+			"description": "沃草致力於降低公民參與政治的門檻，相信透過公民參與，讓台灣可以更好。 We have a simple belief, that Taiwan can be better. The force for progress comes from citizens who care and participate.",
+			"url": "https://t.co/4Z2faiVaao",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4Z2faiVaao",
+							"expanded_url": "https://watchout.tw/?lang=en",
+							"display_url": "watchout.tw/?lang=en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8947,
+			"friends_count": 8,
+			"listed_count": 72,
+			"created_at": "Sat Apr 19 08:11:12 +0000 2014",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/979644691799945216/lHfJOgcG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/979644691799945216/lHfJOgcG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2452767864/1523242684",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 149,
+		"favorite_count": 495,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "在同一個滿月下，不管是香港、新疆、西藏還是台灣人，都為了守護自己的生活，面對相同的敵人。\n　\n在這個團圓的節日，但很多人卻連團圓的權利都沒有。\n　\n這一天，我們面對同一個月亮。命運不同，但是我們都有同樣一份追求民主自由的心。 https://t.co/R7m0m61Q6k"
+	},
+	{
 		"created_at": "Fri Sep 13 15:04:53 +0000 2019",
 		"id": 1172509518418235400,
 		"id_str": "1172526569967030274",
