@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 14 07:00:09 +0000 2019",
+		"id": 1172706622394617900,
+		"id_str": "1172766971039027200",
+		"full_text": "#FreeHongKong #FreeChina 😂😂 https://t.co/h9ZMZJ9cYY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FreeHongKong",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "FreeChina",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172706614052130800,
+					"id_str": "1172706614052130817",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EEZKc8RUEAEUXyT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEZKc8RUEAEUXyT.jpg",
+					"url": "https://t.co/h9ZMZJ9cYY",
+					"display_url": "pic.twitter.com/h9ZMZJ9cYY",
+					"expanded_url": "https://twitter.com/nickname002002/status/1172706622394617856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 642,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 685,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 364,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172706614052130800,
+					"id_str": "1172706614052130817",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EEZKc8RUEAEUXyT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEZKc8RUEAEUXyT.jpg",
+					"url": "https://t.co/h9ZMZJ9cYY",
+					"display_url": "pic.twitter.com/h9ZMZJ9cYY",
+					"expanded_url": "https://twitter.com/nickname002002/status/1172706622394617856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 642,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 685,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 364,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 831057985,
+			"id_str": "831057985",
+			"name": "暱名",
+			"screen_name": "nickname002002",
+			"location": "hk",
+			"description": "專屌專制政府，尤其中港\n\n#黎明嚟到要光復這香港\n#同行兒女為正義時代革命",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2215,
+			"friends_count": 276,
+			"listed_count": 20,
+			"created_at": "Tue Sep 18 13:23:17 +0000 2012",
+			"favourites_count": 2429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171962678195060737/kWeKnqNK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171962678195060737/kWeKnqNK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/831057985/1567829471",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 186,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#FreeHongKong #FreeChina 😂😂 https://t.co/h9ZMZJ9cYY"
+	},
+	{
 		"created_at": "Sat Sep 14 04:02:39 +0000 2019",
 		"id": 1172514696282263600,
 		"id_str": "1172722303429464064",
