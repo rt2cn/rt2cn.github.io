@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 14 13:52:23 +0000 2019",
+		"id": 1172753080506441700,
+		"id_str": "1172870711226093570",
+		"full_text": "See生活：為咗體現香港人齊上齊落嘅精神，最後一批喺噚晚登上獅子山頂嘅市民，要到今朝八點半，先至起程落山。\n\n至於條直幡，直到今朝九點半，仍然高掛喺獅子山山頂。 https://t.co/5h1vUvcLLr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172753074294624300,
+					"id_str": "1172753074294624256",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EEZ0tSKUEAAbaf8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEZ0tSKUEAAbaf8.jpg",
+					"url": "https://t.co/5h1vUvcLLr",
+					"display_url": "pic.twitter.com/5h1vUvcLLr",
+					"expanded_url": "https://twitter.com/liuyun2018/status/1172753080506441730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172753074294624300,
+					"id_str": "1172753074294624256",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EEZ0tSKUEAAbaf8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEZ0tSKUEAAbaf8.jpg",
+					"url": "https://t.co/5h1vUvcLLr",
+					"display_url": "pic.twitter.com/5h1vUvcLLr",
+					"expanded_url": "https://twitter.com/liuyun2018/status/1172753080506441730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 100198190,
+			"id_str": "100198190",
+			"name": "流雲",
+			"screen_name": "liuyun2018",
+			"location": "香港",
+			"description": "香港人",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33914,
+			"friends_count": 992,
+			"listed_count": 284,
+			"created_at": "Tue Dec 29 11:00:31 +0000 2009",
+			"favourites_count": 3442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160846492556333056/JBte1vB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160846492556333056/JBte1vB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/100198190/1562314108",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "See生活：為咗體現香港人齊上齊落嘅精神，最後一批喺噚晚登上獅子山頂嘅市民，要到今朝八點半，先至起程落山。\n\n至於條直幡，直到今朝九點半，仍然高掛喺獅子山山頂。 https://t.co/5h1vUvcLLr"
+	},
+	{
 		"created_at": "Sat Sep 14 07:00:09 +0000 2019",
 		"id": 1172706622394617900,
 		"id_str": "1172766971039027200",
