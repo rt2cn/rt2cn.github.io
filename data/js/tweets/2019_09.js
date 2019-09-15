@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 15 14:43:26 +0000 2019",
+		"id": 1173163681896521700,
+		"id_str": "1173245948597854208",
+		"full_text": "五大訴求直幡👍🏻\n\n原文: 五大山頭 出現 五大訴求\nhttps://t.co/w1miDVIATt\n\n●來源：Pan-Pan\n#五大訴求 #缺一不可 #直幡  #LIHKG https://t.co/WMrVMeYr5l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "五大訴求",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "缺一不可",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "直幡",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "LIHKG",
+					"indices": [
+						81,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w1miDVIATt",
+					"expanded_url": "https://lih.kg/1570494",
+					"display_url": "lih.kg/1570494",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1173163670995492900,
+					"id_str": "1173163670995492864",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EEfqJKEUYAAkixR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEfqJKEUYAAkixR.jpg",
+					"url": "https://t.co/WMrVMeYr5l",
+					"display_url": "pic.twitter.com/WMrVMeYr5l",
+					"expanded_url": "https://twitter.com/lihkg_forum/status/1173163681896521728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1173163670995492900,
+					"id_str": "1173163670995492864",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EEfqJKEUYAAkixR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEfqJKEUYAAkixR.jpg",
+					"url": "https://t.co/WMrVMeYr5l",
+					"display_url": "pic.twitter.com/WMrVMeYr5l",
+					"expanded_url": "https://twitter.com/lihkg_forum/status/1173163681896521728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143446245429502000,
+			"id_str": "1143446245429501952",
+			"name": "LIHKG 討論區",
+			"screen_name": "lihkg_forum",
+			"location": "",
+			"description": "集合城中熱門話題、時事、娛樂、創意、日常生活討論 以自由討論為宗旨，喺哩到你可以暢所欲言！  \niOS: https://t.co/KiAvwA99hZ \nAndroid: https://t.co/gjYCsqyzDy",
+			"url": "https://t.co/bahQa77UMP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bahQa77UMP",
+							"expanded_url": "https://lihkg.com",
+							"display_url": "lihkg.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KiAvwA99hZ",
+							"expanded_url": "https://lih.kg/ios",
+							"display_url": "lih.kg/ios",
+							"indices": [
+								53,
+								76
+							]
+						},
+						{
+							"url": "https://t.co/gjYCsqyzDy",
+							"expanded_url": "https://lih.kg/android",
+							"display_url": "lih.kg/android",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 86593,
+			"friends_count": 0,
+			"listed_count": 133,
+			"created_at": "Tue Jun 25 09:10:03 +0000 2019",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1143449168540684288/Zt4UL1oH_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143449168540684288/Zt4UL1oH_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143446245429501952/1561454561",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 155,
+		"favorite_count": 327,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "五大訴求直幡👍🏻\n\n原文: 五大山頭 出現 五大訴求\nhttps://t.co/w1miDVIATt\n\n●來源：Pan-Pan\n#五大訴求 #缺一不可 #直幡  #LIHKG https://t.co/WMrVMeYr5l"
+	},
+	{
 		"created_at": "Sat Sep 14 13:52:23 +0000 2019",
 		"id": 1172753080506441700,
 		"id_str": "1172870711226093570",
