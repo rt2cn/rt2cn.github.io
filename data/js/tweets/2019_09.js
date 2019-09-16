@@ -1,6 +1,1013 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 16 13:28:31 +0000 2019",
+		"id": 1173252214577479700,
+		"id_str": "1173589482140053505",
+		"full_text": "(Recap but so true!)\n\nFrom 'Asia's finest' to 'black dogs': Hong Kong police under pressure\n\nhttps://t.co/KsixJ4EQZB https://t.co/PJ25eRKVHN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KsixJ4EQZB",
+					"expanded_url": "https://www.reuters.com/article/us-hongkong-extradition-police-analysis/from-asias-finest-to-black-dogs-hong-kong-police-under-pressure-idUSKCN1UC12A",
+					"display_url": "reuters.com/article/us-hon…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1173252206998343700,
+					"id_str": "1173252206998343680",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EEg6qoYUUAA8PqX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEg6qoYUUAA8PqX.jpg",
+					"url": "https://t.co/PJ25eRKVHN",
+					"display_url": "pic.twitter.com/PJ25eRKVHN",
+					"expanded_url": "https://twitter.com/lam_chau_bar/status/1173252214577479686/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 307,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 542,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1557,
+							"h": 703,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1173252206998343700,
+					"id_str": "1173252206998343680",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EEg6qoYUUAA8PqX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEg6qoYUUAA8PqX.jpg",
+					"url": "https://t.co/PJ25eRKVHN",
+					"display_url": "pic.twitter.com/PJ25eRKVHN",
+					"expanded_url": "https://twitter.com/lam_chau_bar/status/1173252214577479686/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 307,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 542,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1557,
+							"h": 703,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1160574075523125200,
+			"id_str": "1160574075523125248",
+			"name": "🇭🇰Be the Light of the World🇺🇸",
+			"screen_name": "lam_chau_bar",
+			"location": "Hong Kong",
+			"description": "✝️A male Christian in #HongKong. Work in Christianity. Want to connect with foreigner! #Germany🇩🇪 #MAGA #KAG #Trump2020 🇺🇸 #UK🇬🇧 Please #PrayforHongKong.",
+			"url": "https://t.co/Pe1pUdn9WN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Pe1pUdn9WN",
+							"expanded_url": "https://www.youtube.com/watch?v=CsjiZD2E6h0",
+							"display_url": "youtube.com/watch?v=CsjiZD…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6884,
+			"friends_count": 5373,
+			"listed_count": 16,
+			"created_at": "Sun Aug 11 15:29:56 +0000 2019",
+			"favourites_count": 2340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162678482452697089/BJhxsX1F_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162678482452697089/BJhxsX1F_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1160574075523125248/1566039301",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 225,
+		"favorite_count": 321,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(Recap but so true!)\n\nFrom 'Asia's finest' to 'black dogs': Hong Kong police under pressure\n\nhttps://t.co/KsixJ4EQZB https://t.co/PJ25eRKVHN"
+	},
+	{
+		"created_at": "Mon Sep 16 13:25:48 +0000 2019",
+		"id": 1172160510789161000,
+		"id_str": "1173588798984335361",
+		"full_text": "\"Hope lies in the people, change begins with resistance.\" This new banner is flying between the Humanities Building for journalism students and Cheng Ming Building \nfor fine art students. Photo from 中大藝術系反送中關注組 https://t.co/vEshRuUXrC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172160496037851100,
+					"id_str": "1172160496037851136",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EERZwsIU8AAeGBK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EERZwsIU8AAeGBK.jpg",
+					"url": "https://t.co/vEshRuUXrC",
+					"display_url": "pic.twitter.com/vEshRuUXrC",
+					"expanded_url": "https://twitter.com/rachel_cheung1/status/1172160510789160960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172160496037851100,
+					"id_str": "1172160496037851136",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EERZwsIU8AAeGBK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EERZwsIU8AAeGBK.jpg",
+					"url": "https://t.co/vEshRuUXrC",
+					"display_url": "pic.twitter.com/vEshRuUXrC",
+					"expanded_url": "https://twitter.com/rachel_cheung1/status/1172160510789160960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1170407767548428300,
+		"in_reply_to_status_id_str": "1170407767548428288",
+		"in_reply_to_user_id": 326625501,
+		"in_reply_to_user_id_str": "326625501",
+		"in_reply_to_screen_name": "rachel_cheung1",
+		"user": {
+			"id": 326625501,
+			"id_str": "326625501",
+			"name": "Rachel Cheung",
+			"screen_name": "rachel_cheung1",
+			"location": "Hong Kong",
+			"description": "Culture reporter from Hong Kong @SCMPLifestyle. Former editor @Varsitycuhk",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9286,
+			"friends_count": 676,
+			"listed_count": 181,
+			"created_at": "Thu Jun 30 06:38:11 +0000 2011",
+			"favourites_count": 2961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156933213534601217/noG61CR3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156933213534601217/noG61CR3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/326625501/1458643274",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Hope lies in the people, change begins with resistance.\" This new banner is flying between the Humanities Building for journalism students and Cheng Ming Building \nfor fine art students. Photo from 中大藝術系反送中關注組 https://t.co/vEshRuUXrC"
+	},
+	{
+		"created_at": "Mon Sep 16 13:25:34 +0000 2019",
+		"id": 1173234838037500000,
+		"id_str": "1173588739219755008",
+		"full_text": "不要小看金義聖的義舉。反送中爆發三個月以來，有一個好萊塢影星敢公開支持香港民眾爭取民主自由嗎？支持反送中，就意味著被中共趕出中國電影市場，標榜最自由民主的好萊塢集團被中共馴服。😰 https://t.co/WvqkhNCVeB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WvqkhNCVeB",
+					"expanded_url": "https://twitter.com/lifetimeuscn/status/1173217408091402240",
+					"display_url": "twitter.com/lifetimeuscn/s…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2865179814,
+			"id_str": "2865179814",
+			"name": "LIFETIME 視界",
+			"screen_name": "LifetimeUSCN",
+			"location": "United States",
+			"description": "Independent #China issues and #US -China relations researcher.",
+			"url": "https://t.co/0w8VjW3FaQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0w8VjW3FaQ",
+							"expanded_url": "https://www.facebook.com/lifetimeuscn/",
+							"display_url": "facebook.com/lifetimeuscn/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148689,
+			"friends_count": 247,
+			"listed_count": 964,
+			"created_at": "Sun Oct 19 15:02:14 +0000 2014",
+			"favourites_count": 22599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15944,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1150450353382412291/OKwhOUYP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150450353382412291/OKwhOUYP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2865179814/1568219534",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1173217408091402200,
+		"quoted_status_id_str": "1173217408091402240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WvqkhNCVeB",
+			"expanded": "https://twitter.com/lifetimeuscn/status/1173217408091402240",
+			"display": "twitter.com/lifetimeuscn/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 15 12:50:02 +0000 2019",
+			"id": 1173217408091402200,
+			"id_str": "1173217408091402240",
+			"full_text": "今天韓國第一個公開聲援香港反送中運動的影星金義聖參與反送中遊行。金義聖在韓國電影《屍殺列車》中飾演「自私大叔」，他稱希望了解港人訴求，並將香港情況帶回給韓國人知道。 https://t.co/yfm6m7VP2V",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				82
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1173217403511148500,
+						"id_str": "1173217403511148545",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/EEgbAzSWkAEH1ma.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EEgbAzSWkAEH1ma.jpg",
+						"url": "https://t.co/yfm6m7VP2V",
+						"display_url": "pic.twitter.com/yfm6m7VP2V",
+						"expanded_url": "https://twitter.com/LifetimeUSCN/status/1173217408091402240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 900,
+								"h": 900,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1173217403511148500,
+						"id_str": "1173217403511148545",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/EEgbAzSWkAEH1ma.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EEgbAzSWkAEH1ma.jpg",
+						"url": "https://t.co/yfm6m7VP2V",
+						"display_url": "pic.twitter.com/yfm6m7VP2V",
+						"expanded_url": "https://twitter.com/LifetimeUSCN/status/1173217408091402240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 900,
+								"h": 900,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1173217403511234600,
+						"id_str": "1173217403511234561",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/EEgbAzSX4AErjrq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EEgbAzSX4AErjrq.jpg",
+						"url": "https://t.co/yfm6m7VP2V",
+						"display_url": "pic.twitter.com/yfm6m7VP2V",
+						"expanded_url": "https://twitter.com/LifetimeUSCN/status/1173217408091402240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2865179814,
+				"id_str": "2865179814",
+				"name": "LIFETIME 視界",
+				"screen_name": "LifetimeUSCN",
+				"location": "United States",
+				"description": "Independent #China issues and #US -China relations researcher.",
+				"url": "https://t.co/0w8VjW3FaQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0w8VjW3FaQ",
+								"expanded_url": "https://www.facebook.com/lifetimeuscn/",
+								"display_url": "facebook.com/lifetimeuscn/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 148689,
+				"friends_count": 247,
+				"listed_count": 964,
+				"created_at": "Sun Oct 19 15:02:14 +0000 2014",
+				"favourites_count": 22599,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15944,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1150450353382412291/OKwhOUYP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150450353382412291/OKwhOUYP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2865179814/1568219534",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 305,
+			"favorite_count": 1060,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "zh"
+		},
+		"retweet_count": 713,
+		"favorite_count": 2028,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "不要小看金義聖的義舉。反送中爆發三個月以來，有一個好萊塢影星敢公開支持香港民眾爭取民主自由嗎？支持反送中，就意味著被中共趕出中國電影市場，標榜最自由民主的好萊塢集團被中共馴服。😰 https://t.co/WvqkhNCVeB"
+	},
+	{
+		"created_at": "Mon Sep 16 13:18:48 +0000 2019",
+		"id": 1173414712823828500,
+		"id_str": "1173587038140096513",
+		"full_text": "想起何韻詩說，華人社群里對音樂的理解常認為不過是「娛樂」，最常聽到一個說法：「你是唱歌的就不要搞政治了」。她認為，這是非常錯誤的理解，音樂、藝術、繪畫、電影是最基本人生的追求。在雨傘運動時，很多人說音樂沒用、藝術沒用，五年後，她很高興看到音樂、藝術重新在全民抗爭中找到位置。 https://t.co/Al6TBAaajQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Al6TBAaajQ",
+					"expanded_url": "https://twitter.com/maryhui/status/1173412793158008832",
+					"display_url": "twitter.com/maryhui/status…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1162532347276738600,
+			"id_str": "1162532347276738562",
+			"name": "三爪1",
+			"screen_name": "sanzhao41",
+			"location": "Hong Kong",
+			"description": "和理優HKer。三爪大號被限制，小號",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8959,
+			"friends_count": 2801,
+			"listed_count": 52,
+			"created_at": "Sat Aug 17 01:11:36 +0000 2019",
+			"favourites_count": 8989,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172721059176435712/y6Nwcb3o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172721059176435712/y6Nwcb3o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1162532347276738562/1566004562",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1173412793158008800,
+		"quoted_status_id_str": "1173412793158008832",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Al6TBAaajQ",
+			"expanded": "https://twitter.com/maryhui/status/1173412793158008832",
+			"display": "twitter.com/maryhui/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 16 01:46:25 +0000 2019",
+			"id": 1173412793158008800,
+			"id_str": "1173412793158008832",
+			"full_text": "A large crowd, including @BrianLeungKP &amp; @joshuawongcf, gathered in Times Square in New York City Sunday evening to sing the protest anthem \"Glory to Hong Kong.\" (Music starts ~6'15 in original link) https://t.co/nLBSvYUK4l https://t.co/6PlKFAxFVC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				227
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BrianLeungKP",
+						"name": "Brian Leung Kai-Ping",
+						"id": 814432960677965800,
+						"id_str": "814432960677965825",
+						"indices": [
+							25,
+							38
+						]
+					},
+					{
+						"screen_name": "joshuawongcf",
+						"name": "Joshua Wong 黃之鋒",
+						"id": 18798768,
+						"id_str": "18798768",
+						"indices": [
+							45,
+							58
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/nLBSvYUK4l",
+						"expanded_url": "https://www.youtube.com/watch?v=NQAUtA6VWOg&feature=share",
+						"display_url": "youtube.com/watch?v=NQAUtA…",
+						"indices": [
+							204,
+							227
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1173412658969624600,
+						"id_str": "1173412658969624577",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1173412658969624577/pu/img/lU2grXgKUoOvME1c.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1173412658969624577/pu/img/lU2grXgKUoOvME1c.jpg",
+						"url": "https://t.co/6PlKFAxFVC",
+						"display_url": "pic.twitter.com/6PlKFAxFVC",
+						"expanded_url": "https://twitter.com/maryhui/status/1173412793158008832/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1173412658969624600,
+						"id_str": "1173412658969624577",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1173412658969624577/pu/img/lU2grXgKUoOvME1c.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1173412658969624577/pu/img/lU2grXgKUoOvME1c.jpg",
+						"url": "https://t.co/6PlKFAxFVC",
+						"display_url": "pic.twitter.com/6PlKFAxFVC",
+						"expanded_url": "https://twitter.com/maryhui/status/1173412793158008832/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 110389,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1173412658969624577/pu/vid/640x360/-KZDVa9euct6fAY-.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1173412658969624577/pu/vid/480x270/KHp2qtO8_1cQbgXu.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1173412658969624577/pu/pl/PRnIcGqz-cVY4OLL.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25796143,
+				"id_str": "25796143",
+				"name": "Mary Hui",
+				"screen_name": "maryhui",
+				"location": "Hong Kong",
+				"description": "Reporter at @qz covering Asia business & geopolitics, & HK protests. Previously: freelancer & @washingtonpost. Trail runner. mhui@qz.com https://t.co/zr4ra8XyNW",
+				"url": "https://t.co/1toXjV4v4T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1toXjV4v4T",
+								"expanded_url": "https://qz.com/author/marykmhui/",
+								"display_url": "qz.com/author/marykmh…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/zr4ra8XyNW",
+								"expanded_url": "http://www.maryhui.org",
+								"display_url": "maryhui.org",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 13466,
+				"friends_count": 682,
+				"listed_count": 345,
+				"created_at": "Sun Mar 22 07:52:45 +0000 2009",
+				"favourites_count": 3950,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6588,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1030738762060292096/hqQC2y8T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030738762060292096/hqQC2y8T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25796143/1482934074",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 244,
+			"favorite_count": 463,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 52,
+		"favorite_count": 251,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "想起何韻詩說，華人社群里對音樂的理解常認為不過是「娛樂」，最常聽到一個說法：「你是唱歌的就不要搞政治了」。她認為，這是非常錯誤的理解，音樂、藝術、繪畫、電影是最基本人生的追求。在雨傘運動時，很多人說音樂沒用、藝術沒用，五年後，她很高興看到音樂、藝術重新在全民抗爭中找到位置。 https://t.co/Al6TBAaajQ"
+	},
+	{
 		"created_at": "Sun Sep 15 14:43:26 +0000 2019",
 		"id": 1173163681896521700,
 		"id_str": "1173245948597854208",
