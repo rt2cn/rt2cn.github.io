@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 17 08:50:43 +0000 2019",
+		"id": 1173880153602056200,
+		"id_str": "1173881958411264001",
+		"full_text": "香港霓虹燈藝術。\n\nArt of Neon Light, Hong Kong.\n\n#光復香港\n#LiberateHongKong\n#時代革命\n#RevolutionOfOurTimes\n#五大訴求\n#FiveDemands\n#缺一不可\n#NotOneLess https://t.co/13c3pbr6dt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "光復香港",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "LiberateHongKong",
+					"indices": [
+						47,
+						64
+					]
+				},
+				{
+					"text": "時代革命",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "RevolutionOfOurTimes",
+					"indices": [
+						71,
+						92
+					]
+				},
+				{
+					"text": "五大訴求",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "FiveDemands",
+					"indices": [
+						99,
+						111
+					]
+				},
+				{
+					"text": "缺一不可",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "NotOneLess",
+					"indices": [
+						118,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1173880144370393000,
+					"id_str": "1173880144370393088",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EEp1xZYU4AAT0Sk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEp1xZYU4AAT0Sk.jpg",
+					"url": "https://t.co/13c3pbr6dt",
+					"display_url": "pic.twitter.com/13c3pbr6dt",
+					"expanded_url": "https://twitter.com/Klafmann/status/1173880153602056194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 676,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 575,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 676,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1173880144370393000,
+					"id_str": "1173880144370393088",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EEp1xZYU4AAT0Sk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEp1xZYU4AAT0Sk.jpg",
+					"url": "https://t.co/13c3pbr6dt",
+					"display_url": "pic.twitter.com/13c3pbr6dt",
+					"expanded_url": "https://twitter.com/Klafmann/status/1173880153602056194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 676,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 575,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 676,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 68315291,
+			"id_str": "68315291",
+			"name": "Klafmann 琴佬",
+			"screen_name": "Klafmann",
+			"location": "Hong Kong",
+			"description": "an independent Hongkonger plays anything on piano.\n香港獨立音樂人。乜撚都彈。\n\nLiberate Hong Kong 🇭🇰\nRevolution of our times\n光復香港 時代革命\nGlory to Hong Kong\n願榮光歸香港",
+			"url": "https://t.co/CMUVxlKFBP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CMUVxlKFBP",
+							"expanded_url": "https://youtu.be/sO7437tbF7Q",
+							"display_url": "youtu.be/sO7437tbF7Q",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2319,
+			"friends_count": 1444,
+			"listed_count": 11,
+			"created_at": "Mon Aug 24 03:29:17 +0000 2009",
+			"favourites_count": 4241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163460301984976898/vC0NzkwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163460301984976898/vC0NzkwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68315291/1566225528",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "香港霓虹燈藝術。\n\nArt of Neon Light, Hong Kong.\n\n#光復香港\n#LiberateHongKong\n#時代革命\n#RevolutionOfOurTimes\n#五大訴求\n#FiveDemands\n#缺一不可\n#NotOneLess https://t.co/13c3pbr6dt"
+	},
+	{
 		"created_at": "Tue Sep 17 03:58:03 +0000 2019",
 		"id": 1173642082575167500,
 		"id_str": "1173808307598974977",
