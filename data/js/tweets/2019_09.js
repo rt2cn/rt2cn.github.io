@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 17 03:58:03 +0000 2019",
+		"id": 1173642082575167500,
+		"id_str": "1173808307598974977",
+		"full_text": "Hua Chunying (#CCP) said it is dispicible to appeal for restoring British Citizenship to HK people, however, I don't understand why many family members of Senior Officers are holding 𝐍𝐎𝐍-𝐂𝐇𝐈𝐍𝐄𝐒𝐄 nationality. \nSurprised?\nBtw, I'm curious of where her asset stays as well. https://t.co/QpT1rPvhJd https://t.co/ZDzFTIQUQi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			294
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CCP",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QpT1rPvhJd",
+					"expanded_url": "https://twitter.com/SolomonYue/status/1173594702622285825",
+					"display_url": "twitter.com/SolomonYue/sta…",
+					"indices": [
+						271,
+						294
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1173642038472007700,
+					"id_str": "1173642038472007686",
+					"indices": [
+						295,
+						318
+					],
+					"media_url": "http://pbs.twimg.com/media/EEmdNzyW4AYJ6p6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEmdNzyW4AYJ6p6.jpg",
+					"url": "https://t.co/ZDzFTIQUQi",
+					"display_url": "pic.twitter.com/ZDzFTIQUQi",
+					"expanded_url": "https://twitter.com/ChrisAn06974440/status/1173642082575167493/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 723,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 723,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1173642038472007700,
+					"id_str": "1173642038472007686",
+					"indices": [
+						295,
+						318
+					],
+					"media_url": "http://pbs.twimg.com/media/EEmdNzyW4AYJ6p6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEmdNzyW4AYJ6p6.jpg",
+					"url": "https://t.co/ZDzFTIQUQi",
+					"display_url": "pic.twitter.com/ZDzFTIQUQi",
+					"expanded_url": "https://twitter.com/ChrisAn06974440/status/1173642082575167493/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 723,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 723,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1171794639478841300,
+			"id_str": "1171794639478841344",
+			"name": "Chris Andrew",
+			"screen_name": "ChrisAn06974440",
+			"location": "",
+			"description": "Freedom and democracy",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64,
+			"friends_count": 10,
+			"listed_count": 0,
+			"created_at": "Wed Sep 11 14:36:36 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171795114005606400/P3D09odO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171795114005606400/P3D09odO_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1173594702622285800,
+		"quoted_status_id_str": "1173594702622285825",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QpT1rPvhJd",
+			"expanded": "https://twitter.com/SolomonYue/status/1173594702622285825",
+			"display": "twitter.com/SolomonYue/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 16 13:49:16 +0000 2019",
+			"id": 1173594702622285800,
+			"id_str": "1173594702622285825",
+			"full_text": "I would add Hong Kong human rights crisis to your list! https://t.co/AOWOuxuyHP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				55
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AOWOuxuyHP",
+						"expanded_url": "https://twitter.com/abresler/status/1173560501848199168",
+						"display_url": "twitter.com/abresler/statu…",
+						"indices": [
+							56,
+							79
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1339488762,
+				"id_str": "1339488762",
+				"name": "Solomon Yue",
+				"screen_name": "SolomonYue",
+				"location": "Salem, Oregon, USA",
+				"description": "Vice Chairman & CEO at Republicans Overseas, RNC Member since 2000, Co-founder of RNC Republican National Conservative Caucus & Conservative Steering Committee",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13429,
+				"friends_count": 218,
+				"listed_count": 33,
+				"created_at": "Tue Apr 09 15:38:48 +0000 2013",
+				"favourites_count": 16713,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8626,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3499264534/b845149daf3df8b1a1e16291acabe4fb_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3499264534/b845149daf3df8b1a1e16291acabe4fb_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1339488762/1438029934",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1173560501848199200,
+			"quoted_status_id_str": "1173560501848199168",
+			"quoted_status_permalink": {
+				"url": "https://t.co/AOWOuxuyHP",
+				"expanded": "https://twitter.com/abresler/status/1173560501848199168",
+				"display": "twitter.com/abresler/statu…"
+			},
+			"retweet_count": 192,
+			"favorite_count": 619,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 338,
+		"favorite_count": 575,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hua Chunying (#CCP) said it is dispicible to appeal for restoring British Citizenship to HK people, however, I don't understand why many family members of Senior Officers are holding 𝐍𝐎𝐍-𝐂𝐇𝐈𝐍𝐄𝐒𝐄 nationality. \nSurprised?\nBtw, I'm curious of where her asset stays as well. https://t.co/QpT1rPvhJd https://t.co/ZDzFTIQUQi"
+	},
+	{
 		"created_at": "Tue Sep 17 02:57:43 +0000 2019",
 		"id": 1173543182811844600,
 		"id_str": "1173793126143729666",
