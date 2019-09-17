@@ -1,6 +1,524 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 17 02:57:43 +0000 2019",
+		"id": 1173543182811844600,
+		"id_str": "1173793126143729666",
+		"full_text": "【中共领导人保健以150岁为目标】\n【301医院广告疑泄密急下架】\n周日大陆微信疯传一条“981首长健康工程”广告，介紹只为中共最高领导层而设的医疗服务，广告又称由2005年启动的“981首长健康工程”，以把寿命延长至150岁为目标，周一广告已被屏蔽。理由是 “不当使用国家机关、工作人员的名义或形象。” https://t.co/aLF3XPtI0L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1173542991341871000,
+					"id_str": "1173542991341871104",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1173542991341871104/pu/img/yetlOxSOw30xZe2H.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1173542991341871104/pu/img/yetlOxSOw30xZe2H.jpg",
+					"url": "https://t.co/aLF3XPtI0L",
+					"display_url": "pic.twitter.com/aLF3XPtI0L",
+					"expanded_url": "https://twitter.com/RFA_Chinese/status/1173543182811844608/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1173542991341871000,
+					"id_str": "1173542991341871104",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1173542991341871104/pu/img/yetlOxSOw30xZe2H.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1173542991341871104/pu/img/yetlOxSOw30xZe2H.jpg",
+					"url": "https://t.co/aLF3XPtI0L",
+					"display_url": "pic.twitter.com/aLF3XPtI0L",
+					"expanded_url": "https://twitter.com/RFA_Chinese/status/1173543182811844608/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 61695,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1173542991341871104/pu/pl/opVtcIzTd72yFVs4.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1173542991341871104/pu/vid/480x480/keOyRylZSeOE-51x.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1173542991341871104/pu/vid/720x720/mWdTEwa6QkGOLEdR.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1173542991341871104/pu/vid/320x320/dWJQnaRAlwRATjoF.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17595489,
+			"id_str": "17595489",
+			"name": "自由亚洲电台",
+			"screen_name": "RFA_Chinese",
+			"location": "Washington, DC",
+			"description": "提供准确及时的新闻资讯以及评论，为多元意见及声音提供平台。RT≠Endorsement",
+			"url": "http://t.co/9V2ltjaU0O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/9V2ltjaU0O",
+							"expanded_url": "http://www.rfa.org/mandarin",
+							"display_url": "rfa.org/mandarin",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 428689,
+			"friends_count": 1442,
+			"listed_count": 1925,
+			"created_at": "Mon Nov 24 16:59:35 +0000 2008",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 103047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104053480455634944/_5U6heYQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104053480455634944/_5U6heYQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17595489/1559317228",
+			"profile_link_color": "228C22",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1090,
+		"favorite_count": 1523,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "【中共领导人保健以150岁为目标】\n【301医院广告疑泄密急下架】\n周日大陆微信疯传一条“981首长健康工程”广告，介紹只为中共最高领导层而设的医疗服务，广告又称由2005年启动的“981首长健康工程”，以把寿命延长至150岁为目标，周一广告已被屏蔽。理由是 “不当使用国家机关、工作人员的名义或形象。” https://t.co/aLF3XPtI0L"
+	},
+	{
+		"created_at": "Tue Sep 17 02:55:21 +0000 2019",
+		"id": 1173784470928756700,
+		"id_str": "1173792529310986242",
+		"full_text": "[人生抉擇題]\n黨鐵教左我地點答啦\n就係why not both \nMtr: hold my beer https://t.co/s6Yx5xbgSL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1173784369590202400,
+					"id_str": "1173784369590202368",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EEoeqkhUcAAxZyB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEoeqkhUcAAxZyB.jpg",
+					"url": "https://t.co/s6Yx5xbgSL",
+					"display_url": "pic.twitter.com/s6Yx5xbgSL",
+					"expanded_url": "https://twitter.com/Anatasi76735741/status/1173784470928756736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1173784369590202400,
+					"id_str": "1173784369590202368",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EEoeqkhUcAAxZyB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEoeqkhUcAAxZyB.jpg",
+					"url": "https://t.co/s6Yx5xbgSL",
+					"display_url": "pic.twitter.com/s6Yx5xbgSL",
+					"expanded_url": "https://twitter.com/Anatasi76735741/status/1173784470928756736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1173784373843226600,
+					"id_str": "1173784373843226625",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EEoeq0XUcAEw_6V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEoeq0XUcAEw_6V.jpg",
+					"url": "https://t.co/s6Yx5xbgSL",
+					"display_url": "pic.twitter.com/s6Yx5xbgSL",
+					"expanded_url": "https://twitter.com/Anatasi76735741/status/1173784470928756736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1135226035685867500,
+			"id_str": "1135226035685867521",
+			"name": "Anatasia",
+			"screen_name": "Anatasi76735741",
+			"location": "",
+			"description": "nobody knows whether you are a cat on the internet\n#followbackhongkong",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109,
+			"friends_count": 96,
+			"listed_count": 0,
+			"created_at": "Sun Jun 02 16:45:53 +0000 2019",
+			"favourites_count": 91,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162323408350134274/YIVmVd7D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162323408350134274/YIVmVd7D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1135226035685867521/1560265243",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "[人生抉擇題]\n黨鐵教左我地點答啦\n就係why not both \nMtr: hold my beer https://t.co/s6Yx5xbgSL"
+	},
+	{
+		"created_at": "Tue Sep 17 02:52:45 +0000 2019",
+		"id": 1173521945696055300,
+		"id_str": "1173791875016400898",
+		"full_text": "何韵诗:\"我们希望从《基本法》中一国两制的架构，让香港人能真正选出自己的特首，让高度自治这个概念实际落实。 我们要争取的并不是港独或是颜色革命。\"https://t.co/mk71NFuM1e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mk71NFuM1e",
+					"expanded_url": "https://p.dw.com/p/3PeaM",
+					"display_url": "p.dw.com/p/3PeaM",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 143810986,
+			"id_str": "143810986",
+			"name": "DW 中文- 德国之声",
+			"screen_name": "dw_chinese",
+			"location": "德国 波恩",
+			"description": "德国之声中文官方推特：德国国际广播电台中文资讯服务，来自德国，介绍德国，聚焦华语区时政、经济、社会新闻，为您提供多媒体信息服务、背景报道、观点评论。欢迎积极参与互动!http://t.co/oMbOaq3Zcw",
+			"url": "http://t.co/Z16eWjXA2b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Z16eWjXA2b",
+							"expanded_url": "http://www.dw.com/chinese",
+							"display_url": "dw.com/chinese",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/oMbOaq3Zcw",
+							"expanded_url": "http://bit.ly/dwlegalnotice",
+							"display_url": "bit.ly/dwlegalnotice",
+							"indices": [
+								83,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 200356,
+			"friends_count": 7,
+			"listed_count": 1316,
+			"created_at": "Fri May 14 13:16:33 +0000 2010",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F4F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905053498173214721/3PZLD_5D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905053498173214721/3PZLD_5D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/143810986/1535356877",
+			"profile_link_color": "0099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 222,
+		"favorite_count": 718,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "何韵诗:\"我们希望从《基本法》中一国两制的架构，让香港人能真正选出自己的特首，让高度自治这个概念实际落实。 我们要争取的并不是港独或是颜色革命。\"https://t.co/mk71NFuM1e"
+	},
+	{
 		"created_at": "Mon Sep 16 13:28:31 +0000 2019",
 		"id": 1173252214577479700,
 		"id_str": "1173589482140053505",
