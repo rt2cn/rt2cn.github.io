@@ -1,6 +1,1369 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 18 01:42:13 +0000 2019",
+		"id": 1174098473685278700,
+		"id_str": "1174136510590926851",
+		"full_text": "It’s important that we get the support from the both houses. Keep fighting!💪 https://t.co/B6ns0mm1jW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B6ns0mm1jW",
+					"expanded_url": "https://twitter.com/sentoddyoung/status/1173966350756253697",
+					"display_url": "twitter.com/sentoddyoung/s…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 735811158469423100,
+			"id_str": "735811158469423105",
+			"name": "Nathan Law 羅冠聰",
+			"screen_name": "nathanlawkc",
+			"location": "Hong Kong",
+			"description": "Founding chair of @demosisto. Elected at 23, forcefully unseated #HongKong lawmaker under Chinese suppression. Pro-freedom and pro-democracy. Yale grad student.",
+			"url": "https://t.co/t1A3TUCFmf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t1A3TUCFmf",
+							"expanded_url": "https://www.facebook.com/NathanLawKC",
+							"display_url": "facebook.com/NathanLawKC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64322,
+			"friends_count": 272,
+			"listed_count": 366,
+			"created_at": "Thu May 26 12:33:45 +0000 2016",
+			"favourites_count": 241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/953263245678215168/gKWkzY_f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/953263245678215168/gKWkzY_f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/735811158469423105/1522015235",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1173966350756253700,
+		"quoted_status_id_str": "1173966350756253697",
+		"quoted_status_permalink": {
+			"url": "https://t.co/B6ns0mm1jW",
+			"expanded": "https://twitter.com/sentoddyoung/status/1173966350756253697",
+			"display": "twitter.com/sentoddyoung/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 17 14:26:03 +0000 2019",
+			"id": 1173966350756253700,
+			"id_str": "1173966350756253697",
+			"full_text": "Proud to meet with @joshuawongcf @hoccgoomusic &amp; @nathanlawkc ahead of the @CECCgov hearing on the situation in #HongKong. I am proud of their courage as they fight for democracy and human rights. https://t.co/LcK19sV1Ek",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				200
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HongKong",
+						"indices": [
+							116,
+							125
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "joshuawongcf",
+						"name": "Joshua Wong 黃之鋒",
+						"id": 18798768,
+						"id_str": "18798768",
+						"indices": [
+							19,
+							32
+						]
+					},
+					{
+						"screen_name": "hoccgoomusic",
+						"name": "Denise Ho (HOCC)",
+						"id": 22910230,
+						"id_str": "22910230",
+						"indices": [
+							33,
+							46
+						]
+					},
+					{
+						"screen_name": "nathanlawkc",
+						"name": "Nathan Law 羅冠聰",
+						"id": 735811158469423100,
+						"id_str": "735811158469423105",
+						"indices": [
+							53,
+							65
+						]
+					},
+					{
+						"screen_name": "CECCgov",
+						"name": "China Commission",
+						"id": 196324920,
+						"id_str": "196324920",
+						"indices": [
+							79,
+							87
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1173966341717528600,
+						"id_str": "1173966341717528576",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/EErEKvhWkAASpeO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EErEKvhWkAASpeO.jpg",
+						"url": "https://t.co/LcK19sV1Ek",
+						"display_url": "pic.twitter.com/LcK19sV1Ek",
+						"expanded_url": "https://twitter.com/SenToddYoung/status/1173966350756253697/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1007,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1719,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 571,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1173966341717528600,
+						"id_str": "1173966341717528576",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/EErEKvhWkAASpeO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EErEKvhWkAASpeO.jpg",
+						"url": "https://t.co/LcK19sV1Ek",
+						"display_url": "pic.twitter.com/LcK19sV1Ek",
+						"expanded_url": "https://twitter.com/SenToddYoung/status/1173966350756253697/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1007,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1719,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 571,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 234128524,
+				"id_str": "234128524",
+				"name": "Senator Todd Young",
+				"screen_name": "SenToddYoung",
+				"location": "Indiana",
+				"description": "I proudly serve Hoosier families in the U.S. Senate. Contact my office at (202) 224-5623 for assistance. You can also visit our website for additional info.",
+				"url": "https://t.co/IhAAMvhCKv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IhAAMvhCKv",
+								"expanded_url": "http://Young.Senate.Gov",
+								"display_url": "Young.Senate.Gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44638,
+				"friends_count": 504,
+				"listed_count": 1493,
+				"created_at": "Tue Jan 04 22:35:16 +0000 2011",
+				"favourites_count": 196,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5304,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00346F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839534166727360514/sm9KrCLP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839534166727360514/sm9KrCLP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/234128524/1555085359",
+				"profile_link_color": "1D69A7",
+				"profile_sidebar_border_color": "1D69A7",
+				"profile_sidebar_fill_color": "EAEAEA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 564,
+			"favorite_count": 1350,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 104,
+		"favorite_count": 372,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s important that we get the support from the both houses. Keep fighting!💪 https://t.co/B6ns0mm1jW"
+	},
+	{
+		"created_at": "Wed Sep 18 01:40:42 +0000 2019",
+		"id": 1174128956015927300,
+		"id_str": "1174136131052605440",
+		"full_text": "有人為我們做了網站推廣香港的事，雖然網站才剛弄，希望大家能給點意見\n香港人不是孤軍作戰的，但是我們不能只站原地大喊，也是回應其他人的幫忙\n\n#StandWithHongKong \n#HongKongProtests\n#HongKongHumanRightsandDemocracyAct https://t.co/be5D4d5yeu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StandWithHongKong",
+					"indices": [
+						70,
+						88
+					]
+				},
+				{
+					"text": "HongKongProtests",
+					"indices": [
+						90,
+						107
+					]
+				},
+				{
+					"text": "HongKongHumanRightsandDemocracyAct",
+					"indices": [
+						108,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/be5D4d5yeu",
+					"expanded_url": "https://twitter.com/GlenwoodNate/status/1173765688197935105",
+					"display_url": "twitter.com/GlenwoodNate/s…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3806030601,
+			"id_str": "3806030601",
+			"name": "一角鯨歌",
+			"screen_name": "cupnarwhal",
+			"location": "海洋",
+			"description": "幻想龍一樣在空中飛翔，海洋是我的天空；如風一樣穿越時空，願你能聽到星海的鯨歌。\n\n\n感謝夜邊贈頭像:)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1023,
+			"friends_count": 197,
+			"listed_count": 13,
+			"created_at": "Mon Sep 28 17:50:24 +0000 2015",
+			"favourites_count": 23058,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079810999715168256/kXtEsr2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079810999715168256/kXtEsr2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3806030601/1520003974",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1173765688197935000,
+		"quoted_status_id_str": "1173765688197935105",
+		"quoted_status_permalink": {
+			"url": "https://t.co/be5D4d5yeu",
+			"expanded": "https://twitter.com/GlenwoodNate/status/1173765688197935105",
+			"display": "twitter.com/GlenwoodNate/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 17 01:08:42 +0000 2019",
+			"id": 1173765688197935000,
+			"id_str": "1173765688197935105",
+			"full_text": "I've put together an example webpage that I would use to reach out to Americans.  Obviously, none of the text is there, and the images are too low resolution, but I hope this conveys some ideas.\n\nhttps://t.co/mSuK2OQt76",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				219
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mSuK2OQt76",
+						"expanded_url": "https://www.hkdemo.site/",
+						"display_url": "hkdemo.site",
+						"indices": [
+							196,
+							219
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 797095853022322700,
+				"id_str": "797095853022322688",
+				"name": "Nate Klingenstein",
+				"screen_name": "GlenwoodNate",
+				"location": "Glenwood Springs, America",
+				"description": "You will be either the Greatest Generation of Hongkongers, or you will be the Last Generation of Hongkongers.",
+				"url": "https://t.co/R8sCs9xT5D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/R8sCs9xT5D",
+								"expanded_url": "https://www.signet.id/",
+								"display_url": "signet.id",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 737,
+				"friends_count": 78,
+				"listed_count": 3,
+				"created_at": "Fri Nov 11 15:17:15 +0000 2016",
+				"favourites_count": 2713,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2266,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1171906476052340736/XoyPYE6l_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171906476052340736/XoyPYE6l_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/797095853022322688/1568238504",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 18,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "有人為我們做了網站推廣香港的事，雖然網站才剛弄，希望大家能給點意見\n香港人不是孤軍作戰的，但是我們不能只站原地大喊，也是回應其他人的幫忙\n\n#StandWithHongKong \n#HongKongProtests\n#HongKongHumanRightsandDemocracyAct https://t.co/be5D4d5yeu"
+	},
+	{
+		"created_at": "Wed Sep 18 01:40:05 +0000 2019",
+		"id": 1173881839108276200,
+		"id_str": "1174135975993380864",
+		"full_text": "915一位“勇武派”示威者冒着被水炮车射中，会断骨甚至有生命危险，却冲向水炮车，这代表一种高贵的姿态：\n“哪怕要粉身碎骨，我也会拉上你一起”\n IF WE BURN, YOU BURN WITH US\n这就是港人 #反送中 的决心 https://t.co/zcnsBNpGjy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "反送中",
+					"indices": [
+						107,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zcnsBNpGjy",
+					"expanded_url": "https://twitter.com/HK_Imaginaire/status/1173633338013171713",
+					"display_url": "twitter.com/HK_Imaginaire/…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2584504160,
+			"id_str": "2584504160",
+			"name": "aigaogao",
+			"screen_name": "aigaogaoUSA",
+			"location": "",
+			"description": "《搞搞钱学》：挖掘和钱有关的情报",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3719,
+			"friends_count": 97,
+			"listed_count": 32,
+			"created_at": "Mon Jun 23 19:49:35 +0000 2014",
+			"favourites_count": 7096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/481178114886619136/uoB0bcOj_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/481178114886619136/uoB0bcOj_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1173633338013171700,
+		"quoted_status_id_str": "1173633338013171713",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zcnsBNpGjy",
+			"expanded": "https://twitter.com/HK_Imaginaire/status/1173633338013171713",
+			"display": "twitter.com/HK_Imaginaire/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 16 16:22:47 +0000 2019",
+			"id": 1173633338013171700,
+			"id_str": "1173633338013171713",
+			"full_text": "(15/9, Admiralty) A protester “armed” with nothing but a pool kickboard “shield” tosses brick at the Police’s water cannon as it fires irritative blue liquid at the protesters. \n\nCredit：Troy Lee / HK.Imaginaire￼\n#StandWithHongKong #HongKongProtests #chinazism #antiELAB https://t.co/1o8kwbaNyr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StandWithHongKong",
+						"indices": [
+							212,
+							230
+						]
+					},
+					{
+						"text": "HongKongProtests",
+						"indices": [
+							231,
+							248
+						]
+					},
+					{
+						"text": "chinazism",
+						"indices": [
+							249,
+							259
+						]
+					},
+					{
+						"text": "antiELAB",
+						"indices": [
+							260,
+							269
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1173633316492210200,
+						"id_str": "1173633316492210176",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1173633316492210176/pu/img/FWxxBePmQjB631FE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1173633316492210176/pu/img/FWxxBePmQjB631FE.jpg",
+						"url": "https://t.co/1o8kwbaNyr",
+						"display_url": "pic.twitter.com/1o8kwbaNyr",
+						"expanded_url": "https://twitter.com/HK_Imaginaire/status/1173633338013171713/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 372,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 464,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 848,
+								"h": 464,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1173633316492210200,
+						"id_str": "1173633316492210176",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1173633316492210176/pu/img/FWxxBePmQjB631FE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1173633316492210176/pu/img/FWxxBePmQjB631FE.jpg",
+						"url": "https://t.co/1o8kwbaNyr",
+						"display_url": "pic.twitter.com/1o8kwbaNyr",
+						"expanded_url": "https://twitter.com/HK_Imaginaire/status/1173633338013171713/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 372,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 464,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 848,
+								"h": 464,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								53,
+								29
+							],
+							"duration_millis": 9040,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1173633316492210176/pu/vid/848x464/ax35ELXZLg3xoKA3.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1173633316492210176/pu/vid/492x270/7GXOAGOQ4w26tnV4.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1173633316492210176/pu/pl/qB0C9PXDNZSeezf_.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 866079894693793800,
+				"id_str": "866079894693793792",
+				"name": "Imaginaire",
+				"screen_name": "HK_Imaginaire",
+				"location": "香港",
+				"description": "🇭🇰Photographer\nFacebook：HK.Imaginaire",
+				"url": "https://t.co/ZHz76facVb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZHz76facVb",
+								"expanded_url": "https://www.facebook.com/HK.Imaginaire/",
+								"display_url": "facebook.com/HK.Imaginaire/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 372,
+				"friends_count": 25,
+				"listed_count": 4,
+				"created_at": "Sat May 20 23:55:12 +0000 2017",
+				"favourites_count": 50,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 68,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1144528848265990144/kap9xXqD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144528848265990144/kap9xXqD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/866079894693793792/1566197214",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 490,
+			"favorite_count": 1105,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 42,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "915一位“勇武派”示威者冒着被水炮车射中，会断骨甚至有生命危险，却冲向水炮车，这代表一种高贵的姿态：\n“哪怕要粉身碎骨，我也会拉上你一起”\n IF WE BURN, YOU BURN WITH US\n这就是港人 #反送中 的决心 https://t.co/zcnsBNpGjy"
+	},
+	{
+		"created_at": "Wed Sep 18 01:37:08 +0000 2019",
+		"id": 1174130949925351400,
+		"id_str": "1174135232234250243",
+		"full_text": "\"This is a global fight.\" Cantonese pop diva Denise Ho wants the world to stand up with Hong Kong https://t.co/1IX8y3ZgpI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1IX8y3ZgpI",
+					"expanded_url": "http://mag.time.com/YXMJ7Ml",
+					"display_url": "mag.time.com/YXMJ7Ml",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14293310,
+			"id_str": "14293310",
+			"name": "TIME",
+			"screen_name": "TIME",
+			"location": "",
+			"description": "Breaking news and current events from around the globe. Hosted by TIME staff.",
+			"url": "http://t.co/4aYbUuAeSh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/4aYbUuAeSh",
+							"expanded_url": "http://www.time.com",
+							"display_url": "time.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16254833,
+			"friends_count": 493,
+			"listed_count": 102378,
+			"created_at": "Thu Apr 03 13:54:30 +0000 2008",
+			"favourites_count": 509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 327854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "CC0000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14293310/1547650813",
+			"profile_link_color": "DE3333",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "D9D9D9",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 186,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"This is a global fight.\" Cantonese pop diva Denise Ho wants the world to stand up with Hong Kong https://t.co/1IX8y3ZgpI"
+	},
+	{
+		"created_at": "Wed Sep 18 01:35:52 +0000 2019",
+		"id": 1174061008727552000,
+		"id_str": "1174134915169959936",
+		"full_text": "Senator Rubio during #HongKong @CECCgov hearing: \"China's leaders must either respect Hong Kong’s autonomy or know that their escalating aggression will lead them to face real consequences — not just from the United States, but from the free world.\" https://t.co/Dw9CXWUpHY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HongKong",
+					"indices": [
+						21,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CECCgov",
+					"name": "China Commission",
+					"id": 196324920,
+					"id_str": "196324920",
+					"indices": [
+						31,
+						39
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1174060885066821600,
+					"id_str": "1174060885066821633",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1174060885066821633/img/fDWSG7ZCBdFDuNZN.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1174060885066821633/img/fDWSG7ZCBdFDuNZN.jpg",
+					"url": "https://t.co/Dw9CXWUpHY",
+					"display_url": "pic.twitter.com/Dw9CXWUpHY",
+					"expanded_url": "https://twitter.com/SenRubioPress/status/1174061008727552001/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1174060885066821600,
+					"id_str": "1174060885066821633",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1174060885066821633/img/fDWSG7ZCBdFDuNZN.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1174060885066821633/img/fDWSG7ZCBdFDuNZN.jpg",
+					"url": "https://t.co/Dw9CXWUpHY",
+					"display_url": "pic.twitter.com/Dw9CXWUpHY",
+					"expanded_url": "https://twitter.com/SenRubioPress/status/1174061008727552001/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 43919,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1174060885066821633/vid/720x720/DYozIU47ZLw9vNSn.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1174060885066821633/pl/whBdJYJAz7M7tdh7.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1174060885066821633/vid/480x480/ad7ZMKcSizjW35V4.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1174060885066821633/vid/320x320/t5PcI3_ug3plqx4Q.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 229966028,
+			"id_str": "229966028",
+			"name": "Senator Rubio Press",
+			"screen_name": "SenRubioPress",
+			"location": "Florida, USA",
+			"description": "Official account of U.S. Senator Marco Rubio’s press shop. For more information please visit his website",
+			"url": "https://t.co/TiIO1bPBQw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TiIO1bPBQw",
+							"expanded_url": "http://rubio.senate.gov",
+							"display_url": "rubio.senate.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88188,
+			"friends_count": 553,
+			"listed_count": 1522,
+			"created_at": "Thu Dec 23 21:22:47 +0000 2010",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/951541361483894784/ZWLWOoil_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/951541361483894784/ZWLWOoil_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/229966028/1486679186",
+			"profile_link_color": "962121",
+			"profile_sidebar_border_color": "DBDBDB",
+			"profile_sidebar_fill_color": "F5F5F5",
+			"profile_text_color": "777777",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 709,
+		"favorite_count": 1551,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Senator Rubio during #HongKong @CECCgov hearing: \"China's leaders must either respect Hong Kong’s autonomy or know that their escalating aggression will lead them to face real consequences — not just from the United States, but from the free world.\" https://t.co/Dw9CXWUpHY"
+	},
+	{
+		"created_at": "Wed Sep 18 01:20:22 +0000 2019",
+		"id": 1173944695883518000,
+		"id_str": "1174131012147863554",
+		"full_text": "#观点 短短几周内，《愿荣光归香港》这首献给香港抗议的进行曲已经成为了这座城市的非官方颂歌。\n\n作为一名在英国殖民统治下度过了上半生、1997年香港移交给中国后努力寻找自己位置的香港人，我从来没有想过会有一首歌曲，能够唤起这样一种自豪感和归属感。https://t.co/NiXgrh27ki",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "观点",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NiXgrh27ki",
+					"expanded_url": "https://nyti.ms/2O2EEml",
+					"display_url": "nyti.ms/2O2EEml",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 620632841,
+			"id_str": "620632841",
+			"name": "纽约时报中文网",
+			"screen_name": "nytchinese",
+			"location": "",
+			"description": "纽约时报中文网官方推特。\niPhone & iPad App: https://t.co/hzbwaOOxA6\nAndroid App:\nhttps://t.co/NIusFpRU2S",
+			"url": "https://t.co/iOfk7hg4wi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iOfk7hg4wi",
+							"expanded_url": "http://cn.nytimes.com",
+							"display_url": "cn.nytimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hzbwaOOxA6",
+							"expanded_url": "http://apple.co/2aLBQZl",
+							"display_url": "apple.co/2aLBQZl",
+							"indices": [
+								32,
+								55
+							]
+						},
+						{
+							"url": "https://t.co/NIusFpRU2S",
+							"expanded_url": "http://bit.ly/2qbAFH4",
+							"display_url": "bit.ly/2qbAFH4",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1197144,
+			"friends_count": 2131,
+			"listed_count": 4380,
+			"created_at": "Thu Jun 28 04:25:01 +0000 2012",
+			"favourites_count": 543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 51816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963709224466374656/W7eiSwd9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963709224466374656/W7eiSwd9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/620632841/1398676021",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 185,
+		"favorite_count": 505,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "#观点 短短几周内，《愿荣光归香港》这首献给香港抗议的进行曲已经成为了这座城市的非官方颂歌。\n\n作为一名在英国殖民统治下度过了上半生、1997年香港移交给中国后努力寻找自己位置的香港人，我从来没有想过会有一首歌曲，能够唤起这样一种自豪感和归属感。https://t.co/NiXgrh27ki"
+	},
+	{
 		"created_at": "Tue Sep 17 08:50:43 +0000 2019",
 		"id": 1173880153602056200,
 		"id_str": "1173881958411264001",
