@@ -1,6 +1,610 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 29 14:42:23 +0000 2019",
+		"id": 1178307228203286500,
+		"id_str": "1178319112893804544",
+		"full_text": "oh my！ this is massive！！！\nreally proud！#LennonWallFlag for HongKong https://t.co/XahgG8hnlY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LennonWallFlag",
+					"indices": [
+						39,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XahgG8hnlY",
+					"expanded_url": "https://twitter.com/heguisen/status/1178221679576641536",
+					"display_url": "twitter.com/heguisen/statu…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 267695291,
+			"id_str": "267695291",
+			"name": "巴丢草  Badiucao",
+			"screen_name": "badiucao",
+			"location": "",
+			"description": "Aussie Chinese Artist hated by Chinese Gov/ Cartoonist for @CDT @HongKongFP/ FreeSpeech & Humanrights / Check out my ArtShop for support me . 他说：人都是王八蛋",
+			"url": "https://t.co/BpqMNRuD3o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BpqMNRuD3o",
+							"expanded_url": "https://www.badiucao.com/artshop",
+							"display_url": "badiucao.com/artshop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47426,
+			"friends_count": 8798,
+			"listed_count": 451,
+			"created_at": "Thu Mar 17 11:22:49 +0000 2011",
+			"favourites_count": 19578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 118106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/267695291/1568004378",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1178221679576641500,
+		"quoted_status_id_str": "1178221679576641536",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XahgG8hnlY",
+			"expanded": "https://twitter.com/heguisen/status/1178221679576641536",
+			"display": "twitter.com/heguisen/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 29 08:15:13 +0000 2019",
+			"id": 1178221679576641500,
+			"id_str": "1178221679576641536",
+			"full_text": "HK Lennon Wall flag designed by Chinese dissident artist @badiucao making its way through downtown Taipei https://t.co/R7M87aUlXI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "badiucao",
+						"name": "巴丢草  Badiucao",
+						"id": 267695291,
+						"id_str": "267695291",
+						"indices": [
+							57,
+							66
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1178221669518758000,
+						"id_str": "1178221669518757888",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/EFniXa5VUAA58f9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFniXa5VUAA58f9.jpg",
+						"url": "https://t.co/R7M87aUlXI",
+						"display_url": "pic.twitter.com/R7M87aUlXI",
+						"expanded_url": "https://twitter.com/heguisen/status/1178221679576641536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 995,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 330,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 583,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1178221669518758000,
+						"id_str": "1178221669518757888",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/EFniXa5VUAA58f9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFniXa5VUAA58f9.jpg",
+						"url": "https://t.co/R7M87aUlXI",
+						"display_url": "pic.twitter.com/R7M87aUlXI",
+						"expanded_url": "https://twitter.com/heguisen/status/1178221679576641536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 995,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 330,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 583,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1520046284,
+				"id_str": "1520046284",
+				"name": "Chris Horton 何貴森",
+				"screen_name": "heguisen",
+				"location": "Taipei",
+				"description": "Taiwan-based journalist contributing to @nytimes, @TheAtlantic, @NAR & elsewhere. Previously Hong Kong, Kunming, Shanghai. Ad astra per aspera.",
+				"url": "https://t.co/TxA28JwzM3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TxA28JwzM3",
+								"expanded_url": "http://chrishortonwriter.com",
+								"display_url": "chrishortonwriter.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8602,
+				"friends_count": 1924,
+				"listed_count": 272,
+				"created_at": "Sat Jun 15 18:03:20 +0000 2013",
+				"favourites_count": 11320,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13883,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/908733596428419072/wPIWp2Xz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/908733596428419072/wPIWp2Xz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1520046284/1528046028",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 44,
+			"favorite_count": 100,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 24,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "oh my！ this is massive！！！\nreally proud！#LennonWallFlag for HongKong https://t.co/XahgG8hnlY"
+	},
+	{
+		"created_at": "Sun Sep 29 14:42:00 +0000 2019",
+		"id": 1178318116192800800,
+		"id_str": "1178319018404515840",
+		"full_text": "Cheers &amp; support all the way from my colleague (w/ her handmade flag🇭🇰) in Sahara Desert. \n\n人在北非，無法與大家走上街頭，故將手製旗幟帶到撒哈拉沙漠，希望在重要時刻聲援香港。\n\n有說非洲是人類起源，人類社會經歷興亡和革命，才得以建立民主制度。...\n\n#929AntiTotalitarianism #LiberateHK https://t.co/k2ER6ioSVn https://t.co/CeFZZPHSJH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "929AntiTotalitarianism",
+					"indices": [
+						176,
+						199
+					]
+				},
+				{
+					"text": "LiberateHK",
+					"indices": [
+						200,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k2ER6ioSVn",
+					"expanded_url": "https://twitter.com/yannnnnn111/status/1178281706140266496",
+					"display_url": "twitter.com/yannnnnn111/st…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1178318104067096600,
+					"id_str": "1178318104067096576",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EFo6EplUwAAW695.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFo6EplUwAAW695.jpg",
+					"url": "https://t.co/CeFZZPHSJH",
+					"display_url": "pic.twitter.com/CeFZZPHSJH",
+					"expanded_url": "https://twitter.com/krissie9111/status/1178318116192800768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1178318104067096600,
+					"id_str": "1178318104067096576",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EFo6EplUwAAW695.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFo6EplUwAAW695.jpg",
+					"url": "https://t.co/CeFZZPHSJH",
+					"display_url": "pic.twitter.com/CeFZZPHSJH",
+					"expanded_url": "https://twitter.com/krissie9111/status/1178318116192800768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1157817061042638800,
+			"id_str": "1157817061042638850",
+			"name": "krissie911",
+			"screen_name": "krissie9111",
+			"location": "Hong Kong",
+			"description": "A fan of solo travel, architecture & history - I share Hong Kong news and personal advice with concerned tourists; I stand with you in safeguarding Hong Kong :)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93,
+			"friends_count": 82,
+			"listed_count": 0,
+			"created_at": "Sun Aug 04 00:54:33 +0000 2019",
+			"favourites_count": 1581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157978206185459712/sNXCcrH6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157978206185459712/sNXCcrH6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1157817061042638850/1564918495",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1178281706140266500,
+		"quoted_status_id_str": "1178281706140266496",
+		"quoted_status_permalink": {
+			"url": "https://t.co/k2ER6ioSVn",
+			"expanded": "https://twitter.com/yannnnnn111/status/1178281706140266496",
+			"display": "twitter.com/yannnnnn111/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 29 12:13:44 +0000 2019",
+			"id": 1178281706140266500,
+			"id_str": "1178281706140266496",
+			"full_text": "是日重點：\n\n1. 全球多國反極權遊行 (重點啊！）\n2. 極權政府打壓言論自由\n\n大家可以用呢2個主題/角度推tweet啊，唔好淨係focus警暴啊~\n\n不過自己覺得休息夠先開工，我都要沖個涼先\n\n加油！Twitter吹雞！\n\n#FollowBackHongKong #929GlobalAntiTotalitarianism",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				164
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FollowBackHongKong",
+						"indices": [
+							115,
+							134
+						]
+					},
+					{
+						"text": "929GlobalAntiTotalitarianism",
+						"indices": [
+							135,
+							164
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 899892458,
+				"id_str": "899892458",
+				"name": "yannnnnn",
+				"screen_name": "yannnnnn111",
+				"location": "Hong Kong",
+				"description": "#929GlobalAntiTotalitarianism ||| 🇭🇰Gwong Fuk Heung Gong, Si Doi Gak Ming 🇭🇰||| A #HongKonger ||| Detail timeline about #HongKongProtests: https://t.co/vdpO29M2PI",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/vdpO29M2PI",
+								"expanded_url": "http://hkrev.info",
+								"display_url": "hkrev.info",
+								"indices": [
+									139,
+									162
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3857,
+				"friends_count": 2584,
+				"listed_count": 11,
+				"created_at": "Tue Oct 23 13:25:18 +0000 2012",
+				"favourites_count": 4385,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2237,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1164418165046034432/1LTxgfQo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164418165046034432/1LTxgfQo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/899892458/1568258764",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 89,
+			"favorite_count": 179,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "zh"
+		},
+		"retweet_count": 5,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "Cheers &amp; support all the way from my colleague (w/ her handmade flag🇭🇰) in Sahara Desert. \n\n人在北非，無法與大家走上街頭，故將手製旗幟帶到撒哈拉沙漠，希望在重要時刻聲援香港。\n\n有說非洲是人類起源，人類社會經歷興亡和革命，才得以建立民主制度。...\n\n#929AntiTotalitarianism #LiberateHK https://t.co/k2ER6ioSVn https://t.co/CeFZZPHSJH"
+	},
+	{
 		"created_at": "Sun Sep 29 14:02:58 +0000 2019",
 		"id": 1177578764118577200,
 		"id_str": "1178309193234882566",
