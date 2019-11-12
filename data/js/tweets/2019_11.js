@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 12 15:54:51 +0000 2019",
+		"id": 1194264474485571600,
+		"id_str": "1194282416376045570",
+		"full_text": "這裏是香港\n這裏是中文大學\n我們只是要求警察不要進入我們的大學\n我們打了兩天仗\n\nThis is Hong Kong \nThis is the Chinese University\nWe just ask the police not to enter our university\nWe are in war for two days\n\n#SOSHK \n#HongKongPoliceTerrorism #hongkongpolicebrutality #saveCUHK https://t.co/S1wCSqMh8A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOSHK",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "HongKongPoliceTerrorism",
+					"indices": [
+						178,
+						202
+					]
+				},
+				{
+					"text": "hongkongpolicebrutality",
+					"indices": [
+						203,
+						227
+					]
+				},
+				{
+					"text": "saveCUHK",
+					"indices": [
+						228,
+						237
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1194264409859707000,
+					"id_str": "1194264409859706880",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194264409859706880/pu/img/jsRX41bFeaG7MSf7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194264409859706880/pu/img/jsRX41bFeaG7MSf7.jpg",
+					"url": "https://t.co/S1wCSqMh8A",
+					"display_url": "pic.twitter.com/S1wCSqMh8A",
+					"expanded_url": "https://twitter.com/Lucy0HKer/status/1194264474485571584/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194264409859707000,
+					"id_str": "1194264409859706880",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194264409859706880/pu/img/jsRX41bFeaG7MSf7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194264409859706880/pu/img/jsRX41bFeaG7MSf7.jpg",
+					"url": "https://t.co/S1wCSqMh8A",
+					"display_url": "pic.twitter.com/S1wCSqMh8A",
+					"expanded_url": "https://twitter.com/Lucy0HKer/status/1194264474485571584/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							23
+						],
+						"duration_millis": 66467,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1194264409859706880/pu/vid/640x368/7KGxv7CDyD9DhKLm.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1194264409859706880/pu/pl/EEcT4Ty9LJLiGpNt.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1194264409859706880/pu/vid/468x270/jUCXk3fHnevbci_e.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1181803131245432800,
+			"id_str": "1181803131245432832",
+			"name": "LucyO",
+			"screen_name": "Lucy0HKer",
+			"location": "Hong Kong",
+			"description": "Fight for freedom stand with Hong Kong #割你老母 #Ifweburnyouburnwithus #科勞手足 #🇭🇰 #followbackHongKong",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2491,
+			"friends_count": 1768,
+			"listed_count": 2,
+			"created_at": "Wed Oct 09 05:26:48 +0000 2019",
+			"favourites_count": 489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1181803635396628480/aMKRv2jo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181803635396628480/aMKRv2jo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1181803131245432832/1570638772",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 624,
+		"favorite_count": 570,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "這裏是香港\n這裏是中文大學\n我們只是要求警察不要進入我們的大學\n我們打了兩天仗\n\nThis is Hong Kong \nThis is the Chinese University\nWe just ask the police not to enter our university\nWe are in war for two days\n\n#SOSHK \n#HongKongPoliceTerrorism #hongkongpolicebrutality #saveCUHK https://t.co/S1wCSqMh8A"
+	},
+	{
 		"created_at": "Tue Nov 12 15:03:03 +0000 2019",
 		"id": 1194221316531871700,
 		"id_str": "1194269379711700992",
