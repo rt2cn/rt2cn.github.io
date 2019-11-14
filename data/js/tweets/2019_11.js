@@ -1,6 +1,1873 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 14 01:56:57 +0000 2019",
+		"id": 1194766798463225900,
+		"id_str": "1194796326480941057",
+		"full_text": "聰仔撐著！求主憐憫及守護聰仔🙏\n\n願平安🙏\n15歲青年疑在天水圍被警方催淚彈射中頭，現時在屯門醫院深切治療部留醫，情況危殆。家屬指出，青年的母親數年前因胃癌離世，父親在三年前亦患病離世，自此便與哥哥相依為命。哥哥、叔叔及三位中學老師凌晨到醫院了解情況…\n\n https://t.co/3oOKts05s0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1194628518396579800,
+					"id_str": "1194628518396579841",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194628518396579841/pu/img/q1qTcyyqLhXNvCCL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194628518396579841/pu/img/q1qTcyyqLhXNvCCL.jpg",
+					"url": "https://t.co/3oOKts05s0",
+					"display_url": "pic.twitter.com/3oOKts05s0",
+					"expanded_url": "https://twitter.com/demosisto/status/1194628642510237698/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 406,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 406,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1194628642510237700,
+					"source_status_id_str": "1194628642510237698",
+					"source_user_id": 717048221592227800,
+					"source_user_id_str": "717048221592227840",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194628518396579800,
+					"id_str": "1194628518396579841",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194628518396579841/pu/img/q1qTcyyqLhXNvCCL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194628518396579841/pu/img/q1qTcyyqLhXNvCCL.jpg",
+					"url": "https://t.co/3oOKts05s0",
+					"display_url": "pic.twitter.com/3oOKts05s0",
+					"expanded_url": "https://twitter.com/demosisto/status/1194628642510237698/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 406,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 406,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1194628642510237700,
+					"source_status_id_str": "1194628642510237698",
+					"source_user_id": 717048221592227800,
+					"source_user_id_str": "717048221592227840",
+					"video_info": {
+						"aspect_ratio": [
+							203,
+							360
+						],
+						"duration_millis": 16160,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1194628518396579841/pu/pl/WnhEDLjxF0-_bs2J.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1194628518396579841/pu/vid/320x566/UeaX1qI8YqbqExY4.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1194628518396579841/pu/vid/406x720/go-rDv9kJQoV_FvF.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 717048221592227800,
+							"id_str": "717048221592227840",
+							"name": "Demosistō 香港眾志 😷",
+							"screen_name": "demosisto",
+							"location": "Hong Kong",
+							"description": "Progressive, movement-oriented youth activist group in Hong Kong that advocates self-determination, both internal and external.",
+							"url": "https://t.co/sxMnoE9Vtt",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/sxMnoE9Vtt",
+											"expanded_url": "http://www.demosisto.hk",
+											"display_url": "demosisto.hk",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 110566,
+							"friends_count": 160,
+							"listed_count": 509,
+							"created_at": "Mon Apr 04 17:56:32 +0000 2016",
+							"favourites_count": 4,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 1812,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1164844457121873920/wkw-StRM_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164844457121873920/wkw-StRM_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/717048221592227840/1566555536",
+							"profile_link_color": "40E0D0",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 857839894684516400,
+			"id_str": "857839894684516352",
+			"name": "Maggie",
+			"screen_name": "MaggieHo20",
+			"location": "香港",
+			"description": "近排屡屡推號被鎖，預防此事發生，不能及時轉發最新資訊🙏請各位關注本人小號@MaggieCourt01。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12215,
+			"friends_count": 118,
+			"listed_count": 77,
+			"created_at": "Fri Apr 28 06:12:23 +0000 2017",
+			"favourites_count": 71643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1188980481888440320/9bu0B3wU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188980481888440320/9bu0B3wU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/857839894684516352/1493563057",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 417,
+		"favorite_count": 481,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "聰仔撐著！求主憐憫及守護聰仔🙏\n\n願平安🙏\n15歲青年疑在天水圍被警方催淚彈射中頭，現時在屯門醫院深切治療部留醫，情況危殆。家屬指出，青年的母親數年前因胃癌離世，父親在三年前亦患病離世，自此便與哥哥相依為命。哥哥、叔叔及三位中學老師凌晨到醫院了解情況…\n\n https://t.co/3oOKts05s0"
+	},
+	{
+		"created_at": "Thu Nov 14 01:53:26 +0000 2019",
+		"id": 1194540644061991000,
+		"id_str": "1194795442619461633",
+		"full_text": "#Police said, 1567 teargas canisters, 1312 rubber bullets, 380 beanbag rounds, and 126 sponge grenades were deployed yesterday. But the figures seem underestimated as 2356 cartridges were found in #CUHK alone. https://t.co/AbT5PNjibQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Police",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "CUHK",
+					"indices": [
+						197,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1194540636394836000,
+					"id_str": "1194540636394835968",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/EJPcYT4VUAApiMh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJPcYT4VUAApiMh.jpg",
+					"url": "https://t.co/AbT5PNjibQ",
+					"display_url": "pic.twitter.com/AbT5PNjibQ",
+					"expanded_url": "https://twitter.com/demosisto/status/1194540644061990912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194540636394836000,
+					"id_str": "1194540636394835968",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/EJPcYT4VUAApiMh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJPcYT4VUAApiMh.jpg",
+					"url": "https://t.co/AbT5PNjibQ",
+					"display_url": "pic.twitter.com/AbT5PNjibQ",
+					"expanded_url": "https://twitter.com/demosisto/status/1194540644061990912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 717048221592227800,
+			"id_str": "717048221592227840",
+			"name": "Demosistō 香港眾志 😷",
+			"screen_name": "demosisto",
+			"location": "Hong Kong",
+			"description": "Progressive, movement-oriented youth activist group in Hong Kong that advocates self-determination, both internal and external.",
+			"url": "https://t.co/sxMnoE9Vtt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sxMnoE9Vtt",
+							"expanded_url": "http://www.demosisto.hk",
+							"display_url": "demosisto.hk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 110566,
+			"friends_count": 160,
+			"listed_count": 509,
+			"created_at": "Mon Apr 04 17:56:32 +0000 2016",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164844457121873920/wkw-StRM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164844457121873920/wkw-StRM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/717048221592227840/1566555536",
+			"profile_link_color": "40E0D0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5378,
+		"favorite_count": 5221,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Police said, 1567 teargas canisters, 1312 rubber bullets, 380 beanbag rounds, and 126 sponge grenades were deployed yesterday. But the figures seem underestimated as 2356 cartridges were found in #CUHK alone. https://t.co/AbT5PNjibQ"
+	},
+	{
+		"created_at": "Thu Nov 14 01:53:15 +0000 2019",
+		"id": 1194544982410924000,
+		"id_str": "1194795395420958720",
+		"full_text": "#Beijing is shooting #Hongkong university students with absurd amounts of ammunition and killing the next generation of this city with guns. The situation will only worsen until the world take actions. #HKHRDA #PoliceBrutalityHK #PoliceState #StandwithHK https://t.co/B9SqEQeZiL https://t.co/L5fPDkh9Ho",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Beijing",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Hongkong",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"text": "HKHRDA",
+					"indices": [
+						202,
+						209
+					]
+				},
+				{
+					"text": "PoliceBrutalityHK",
+					"indices": [
+						210,
+						228
+					]
+				},
+				{
+					"text": "PoliceState",
+					"indices": [
+						229,
+						241
+					]
+				},
+				{
+					"text": "StandwithHK",
+					"indices": [
+						242,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B9SqEQeZiL",
+					"expanded_url": "https://twitter.com/demosisto/status/1194540644061990912",
+					"display_url": "twitter.com/demosisto/stat…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1194544974735405000,
+					"id_str": "1194544974735405056",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EJPgU1dU8AAhBV8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJPgU1dU8AAhBV8.jpg",
+					"url": "https://t.co/L5fPDkh9Ho",
+					"display_url": "pic.twitter.com/L5fPDkh9Ho",
+					"expanded_url": "https://twitter.com/demosisto/status/1194544982410924034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 262,
+									"y": 468,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 262,
+									"y": 468,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 164,
+									"y": 294,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 262,
+									"y": 468,
+									"h": 80,
+									"w": 80
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194544974735405000,
+					"id_str": "1194544974735405056",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EJPgU1dU8AAhBV8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJPgU1dU8AAhBV8.jpg",
+					"url": "https://t.co/L5fPDkh9Ho",
+					"display_url": "pic.twitter.com/L5fPDkh9Ho",
+					"expanded_url": "https://twitter.com/demosisto/status/1194544982410924034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 262,
+									"y": 468,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 262,
+									"y": 468,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 164,
+									"y": 294,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 262,
+									"y": 468,
+									"h": 80,
+									"w": 80
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 717048221592227800,
+			"id_str": "717048221592227840",
+			"name": "Demosistō 香港眾志 😷",
+			"screen_name": "demosisto",
+			"location": "Hong Kong",
+			"description": "Progressive, movement-oriented youth activist group in Hong Kong that advocates self-determination, both internal and external.",
+			"url": "https://t.co/sxMnoE9Vtt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sxMnoE9Vtt",
+							"expanded_url": "http://www.demosisto.hk",
+							"display_url": "demosisto.hk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 110566,
+			"friends_count": 160,
+			"listed_count": 509,
+			"created_at": "Mon Apr 04 17:56:32 +0000 2016",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164844457121873920/wkw-StRM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164844457121873920/wkw-StRM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/717048221592227840/1566555536",
+			"profile_link_color": "40E0D0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1194540644061991000,
+		"quoted_status_id_str": "1194540644061990912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/B9SqEQeZiL",
+			"expanded": "https://twitter.com/demosisto/status/1194540644061990912",
+			"display": "twitter.com/demosisto/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 13 09:00:57 +0000 2019",
+			"id": 1194540644061991000,
+			"id_str": "1194540644061990912",
+			"full_text": "#Police said, 1567 teargas canisters, 1312 rubber bullets, 380 beanbag rounds, and 126 sponge grenades were deployed yesterday. But the figures seem underestimated as 2356 cartridges were found in #CUHK alone. https://t.co/AbT5PNjibQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Police",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"text": "CUHK",
+						"indices": [
+							197,
+							202
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1194540636394836000,
+						"id_str": "1194540636394835968",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/EJPcYT4VUAApiMh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJPcYT4VUAApiMh.jpg",
+						"url": "https://t.co/AbT5PNjibQ",
+						"display_url": "pic.twitter.com/AbT5PNjibQ",
+						"expanded_url": "https://twitter.com/demosisto/status/1194540644061990912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 960,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1194540636394836000,
+						"id_str": "1194540636394835968",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/EJPcYT4VUAApiMh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJPcYT4VUAApiMh.jpg",
+						"url": "https://t.co/AbT5PNjibQ",
+						"display_url": "pic.twitter.com/AbT5PNjibQ",
+						"expanded_url": "https://twitter.com/demosisto/status/1194540644061990912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 960,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 717048221592227800,
+				"id_str": "717048221592227840",
+				"name": "Demosistō 香港眾志 😷",
+				"screen_name": "demosisto",
+				"location": "Hong Kong",
+				"description": "Progressive, movement-oriented youth activist group in Hong Kong that advocates self-determination, both internal and external.",
+				"url": "https://t.co/sxMnoE9Vtt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sxMnoE9Vtt",
+								"expanded_url": "http://www.demosisto.hk",
+								"display_url": "demosisto.hk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 110566,
+				"friends_count": 160,
+				"listed_count": 509,
+				"created_at": "Mon Apr 04 17:56:32 +0000 2016",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1812,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1164844457121873920/wkw-StRM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164844457121873920/wkw-StRM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/717048221592227840/1566555536",
+				"profile_link_color": "40E0D0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5378,
+			"favorite_count": 5221,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 442,
+		"favorite_count": 354,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Beijing is shooting #Hongkong university students with absurd amounts of ammunition and killing the next generation of this city with guns. The situation will only worsen until the world take actions. #HKHRDA #PoliceBrutalityHK #PoliceState #StandwithHK https://t.co/B9SqEQeZiL https://t.co/L5fPDkh9Ho"
+	},
+	{
+		"created_at": "Thu Nov 14 01:53:07 +0000 2019",
+		"id": 1194612306673459200,
+		"id_str": "1194795361841418241",
+		"full_text": "A graffiti in Central. Source: United Social Press https://t.co/O7LmMh6bwn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1194612297596932000,
+					"id_str": "1194612297596932096",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/EJQdjiqUEAAKq6P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJQdjiqUEAAKq6P.jpg",
+					"url": "https://t.co/O7LmMh6bwn",
+					"display_url": "pic.twitter.com/O7LmMh6bwn",
+					"expanded_url": "https://twitter.com/demosisto/status/1194612306673459200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194612297596932000,
+					"id_str": "1194612297596932096",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/EJQdjiqUEAAKq6P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJQdjiqUEAAKq6P.jpg",
+					"url": "https://t.co/O7LmMh6bwn",
+					"display_url": "pic.twitter.com/O7LmMh6bwn",
+					"expanded_url": "https://twitter.com/demosisto/status/1194612306673459200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 717048221592227800,
+			"id_str": "717048221592227840",
+			"name": "Demosistō 香港眾志 😷",
+			"screen_name": "demosisto",
+			"location": "Hong Kong",
+			"description": "Progressive, movement-oriented youth activist group in Hong Kong that advocates self-determination, both internal and external.",
+			"url": "https://t.co/sxMnoE9Vtt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sxMnoE9Vtt",
+							"expanded_url": "http://www.demosisto.hk",
+							"display_url": "demosisto.hk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 110566,
+			"friends_count": 160,
+			"listed_count": 509,
+			"created_at": "Mon Apr 04 17:56:32 +0000 2016",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164844457121873920/wkw-StRM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164844457121873920/wkw-StRM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/717048221592227840/1566555536",
+			"profile_link_color": "40E0D0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 702,
+		"favorite_count": 798,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A graffiti in Central. Source: United Social Press https://t.co/O7LmMh6bwn"
+	},
+	{
+		"created_at": "Thu Nov 14 01:51:16 +0000 2019",
+		"id": 1194669549267890200,
+		"id_str": "1194794896353366016",
+		"full_text": "Also my daughter and our 🐶 wear black to support brave people of Hong Kong.\n#WorldKindnessDay #HKWEARSBLACK \n#StandWithHongKong Anti #HKPoliceTerrorism https://t.co/3iSJig2Y2Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorldKindnessDay",
+					"indices": [
+						76,
+						93
+					]
+				},
+				{
+					"text": "HKWEARSBLACK",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"text": "StandWithHongKong",
+					"indices": [
+						109,
+						127
+					]
+				},
+				{
+					"text": "HKPoliceTerrorism",
+					"indices": [
+						133,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1194669542062080000,
+					"id_str": "1194669542062080005",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EJRRnm6WwAUqD5t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJRRnm6WwAUqD5t.jpg",
+					"url": "https://t.co/3iSJig2Y2Y",
+					"display_url": "pic.twitter.com/3iSJig2Y2Y",
+					"expanded_url": "https://twitter.com/maslarussa/status/1194669549267890176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1552,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 928,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 249,
+									"y": 102,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 173,
+									"y": 413,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 569,
+									"y": 234,
+									"h": 127,
+									"w": 127
+								},
+								{
+									"x": 395,
+									"y": 944,
+									"h": 200,
+									"w": 200
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 440,
+									"y": 180,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 305,
+									"y": 730,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 569,
+									"y": 234,
+									"h": 127,
+									"w": 127
+								},
+								{
+									"x": 395,
+									"y": 944,
+									"h": 200,
+									"w": 200
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194669542062080000,
+					"id_str": "1194669542062080005",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EJRRnm6WwAUqD5t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJRRnm6WwAUqD5t.jpg",
+					"url": "https://t.co/3iSJig2Y2Y",
+					"display_url": "pic.twitter.com/3iSJig2Y2Y",
+					"expanded_url": "https://twitter.com/maslarussa/status/1194669549267890176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1552,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 928,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 249,
+									"y": 102,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 173,
+									"y": 413,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 569,
+									"y": 234,
+									"h": 127,
+									"w": 127
+								},
+								{
+									"x": 395,
+									"y": 944,
+									"h": 200,
+									"w": 200
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 440,
+									"y": 180,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 305,
+									"y": 730,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 569,
+									"y": 234,
+									"h": 127,
+									"w": 127
+								},
+								{
+									"x": 395,
+									"y": 944,
+									"h": 200,
+									"w": 200
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3172262025,
+			"id_str": "3172262025",
+			"name": "Massimiliano",
+			"screen_name": "maslarussa",
+			"location": "Milano, Lombardia",
+			"description": "Ufficio Stampa e Comunicazione di @AriaLombardia.  Ma qui le opinioni sono soltanto mie.",
+			"url": "https://t.co/hE99HHJV9l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hE99HHJV9l",
+							"expanded_url": "http://www.ariaspa.it",
+							"display_url": "ariaspa.it",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 162,
+			"friends_count": 303,
+			"listed_count": 13,
+			"created_at": "Thu Apr 16 10:34:12 +0000 2015",
+			"favourites_count": 5738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/588652570438152192/ZDz1ZPL__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/588652570438152192/ZDz1ZPL__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3172262025/1484126369",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 141,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Also my daughter and our 🐶 wear black to support brave people of Hong Kong.\n#WorldKindnessDay #HKWEARSBLACK \n#StandWithHongKong Anti #HKPoliceTerrorism https://t.co/3iSJig2Y2Y"
+	},
+	{
+		"created_at": "Thu Nov 14 01:49:02 +0000 2019",
+		"id": 1194463588439613400,
+		"id_str": "1194794334174031873",
+		"full_text": "此文寫於昨天，事因：香港中文大學被香港黑警無理、非法群起入浸，以精良裝備殘害學生。催淚彈及塑膠子彈以千發計。中大學生群起，誓死頑抗，守衛校園，受傷者眾...\nI just published 摧毀大學，等同摧毀文明 https://t.co/Wuwe6d8c2q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wuwe6d8c2q",
+					"expanded_url": "https://link.medium.com/isPwEDvyz1",
+					"display_url": "link.medium.com/isPwEDvyz1",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 978215128842715100,
+			"id_str": "978215128842715136",
+			"name": "Ellan Ou",
+			"screen_name": "ellan_ou",
+			"location": "香港",
+			"description": "A normal writer in Hong Kong | 又名塔巴 | 早撈湯丸 | 文字生成器",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7195,
+			"friends_count": 2363,
+			"listed_count": 26,
+			"created_at": "Mon Mar 26 10:20:35 +0000 2018",
+			"favourites_count": 6152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978215811184656385/hP0_QI-P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978215811184656385/hP0_QI-P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978215128842715136/1522122291",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 232,
+		"favorite_count": 284,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "此文寫於昨天，事因：香港中文大學被香港黑警無理、非法群起入浸，以精良裝備殘害學生。催淚彈及塑膠子彈以千發計。中大學生群起，誓死頑抗，守衛校園，受傷者眾...\nI just published 摧毀大學，等同摧毀文明 https://t.co/Wuwe6d8c2q"
+	},
+	{
+		"created_at": "Thu Nov 14 01:47:33 +0000 2019",
+		"id": 1194590559228182500,
+		"id_str": "1194793963494019072",
+		"full_text": "終於出爐！請廣傳\n\n香港警察濫權實錄資料庫\nH.K. Police Violence Database\n香港警察暴行の事件簿\n\n中文\nhttps://t.co/qT6vhx440Z\n\nEng\nhttps://t.co/8rHNuGAuP8\n\n日文\nhttps://t.co/JoyC9RXtFo\n\n#HKPoliceTerrorists \n#HongKongPoliceTerrorism",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HKPoliceTerrorists",
+					"indices": [
+						149,
+						168
+					]
+				},
+				{
+					"text": "HongKongPoliceTerrorism",
+					"indices": [
+						170,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qT6vhx440Z",
+					"expanded_url": "http://tl.hkrev.info/police-timeline/",
+					"display_url": "tl.hkrev.info/police-timelin…",
+					"indices": [
+						67,
+						90
+					]
+				},
+				{
+					"url": "https://t.co/8rHNuGAuP8",
+					"expanded_url": "http://tl.hkrev.info/en/police-timeline/",
+					"display_url": "tl.hkrev.info/en/police-time…",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/JoyC9RXtFo",
+					"expanded_url": "http://tl.hkrev.info/ja/police-timeline",
+					"display_url": "tl.hkrev.info/ja/police-time…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 721628423160877000,
+			"id_str": "721628423160877056",
+			"name": "hkeriris",
+			"screen_name": "yuenmaniris",
+			"location": "Hong Kong",
+			"description": "stand with Hong Kong, fight for freedom. #followbackhk #FollowBackHongKong",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3130,
+			"friends_count": 1559,
+			"listed_count": 0,
+			"created_at": "Sun Apr 17 09:16:38 +0000 2016",
+			"favourites_count": 1007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194213972469112833/xvGR78Z4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194213972469112833/xvGR78Z4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/721628423160877056/1567422865",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 706,
+		"favorite_count": 566,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "終於出爐！請廣傳\n\n香港警察濫權實錄資料庫\nH.K. Police Violence Database\n香港警察暴行の事件簿\n\n中文\nhttps://t.co/qT6vhx440Z\n\nEng\nhttps://t.co/8rHNuGAuP8\n\n日文\nhttps://t.co/JoyC9RXtFo\n\n#HKPoliceTerrorists \n#HongKongPoliceTerrorism"
+	},
+	{
+		"created_at": "Thu Nov 14 01:46:34 +0000 2019",
+		"id": 1194702886619537400,
+		"id_str": "1194793715790962688",
+		"full_text": "早上去看醫生問我哪裡人\n我跟他說Taiwan\n\n他回我Oh~Taiwan,Taiwan is not part of China.我們就小聊一下\n\n我就說香港現在很糟糕\n他說也有看到新聞香港警察開槍射學生\n\n我問他說如果美國發生怎樣\n\n他淡定的回我\n在美國警察會開槍，我們也會開槍，而且美國人都有槍",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1139955152465682400,
+			"id_str": "1139955152465682432",
+			"name": "NasaQ😷",
+			"screen_name": "yuchennasa",
+			"location": "Texas, USA",
+			"description": "是個中年婦女，還是很討厭的那種。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5744,
+			"friends_count": 223,
+			"listed_count": 21,
+			"created_at": "Sat Jun 15 17:57:42 +0000 2019",
+			"favourites_count": 20151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1188202117762371585/OtIORVuA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188202117762371585/OtIORVuA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1139955152465682432/1562130580",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 334,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "早上去看醫生問我哪裡人\n我跟他說Taiwan\n\n他回我Oh~Taiwan,Taiwan is not part of China.我們就小聊一下\n\n我就說香港現在很糟糕\n他說也有看到新聞香港警察開槍射學生\n\n我問他說如果美國發生怎樣\n\n他淡定的回我\n在美國警察會開槍，我們也會開槍，而且美國人都有槍"
+	},
+	{
 		"created_at": "Wed Nov 13 15:50:32 +0000 2019",
 		"id": 1194553944640381000,
 		"id_str": "1194643718382313472",
