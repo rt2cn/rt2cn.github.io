@@ -1,6 +1,1299 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 16 15:50:13 +0000 2019",
+		"id": 1195726799025533000,
+		"id_str": "1195730802572713984",
+		"full_text": "Some PLA soldiers wore shirts with 雪楓特戰營 &amp; 特戰八連 on them - names of elite teams. ‘Coincidentally’, Chinese media have articles about their history &amp; strengths today.\n\nAre they the real team members, or is this a scare tactic? I asked them, no reply.\n\n(Stand News photo) https://t.co/ilbuExD1AK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195726789563146200,
+					"id_str": "1195726789563146245",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgTLgxUYAUM2iU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJgTLgxUYAUM2iU.jpg",
+					"url": "https://t.co/ilbuExD1AK",
+					"display_url": "pic.twitter.com/ilbuExD1AK",
+					"expanded_url": "https://twitter.com/krislc/status/1195726799025532928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195726789563146200,
+					"id_str": "1195726789563146245",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgTLgxUYAUM2iU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJgTLgxUYAUM2iU.jpg",
+					"url": "https://t.co/ilbuExD1AK",
+					"display_url": "pic.twitter.com/ilbuExD1AK",
+					"expanded_url": "https://twitter.com/krislc/status/1195726799025532928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3204731,
+			"id_str": "3204731",
+			"name": "Kris Cheng",
+			"screen_name": "krislc",
+			"location": "Hong Kong",
+			"description": "@HongKongFP. Hong Kong politics, Greater China, diplomacy, archives, open data. Occasionally editing Wikipedia.",
+			"url": "https://t.co/f2lU8xwNPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f2lU8xwNPi",
+							"expanded_url": "http://www.hongkongfp.com",
+							"display_url": "hongkongfp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32714,
+			"friends_count": 3022,
+			"listed_count": 771,
+			"created_at": "Mon Apr 02 11:17:21 +0000 2007",
+			"favourites_count": 2360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 62541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863702786453549056/b-CPvA4X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863702786453549056/b-CPvA4X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3204731/1570267921",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some PLA soldiers wore shirts with 雪楓特戰營 &amp; 特戰八連 on them - names of elite teams. ‘Coincidentally’, Chinese media have articles about their history &amp; strengths today.\n\nAre they the real team members, or is this a scare tactic? I asked them, no reply.\n\n(Stand News photo) https://t.co/ilbuExD1AK"
+	},
+	{
+		"created_at": "Sat Nov 16 15:50:02 +0000 2019",
+		"id": 1194884131395555300,
+		"id_str": "1195730756175302657",
+		"full_text": "#HongKongProstests #HongKongProtests #HongKongPolice #HongKonger 香港警察在五個月來不斷投射催淚彈，催淚彈中涵有大量化學物品，已有前線記者患上氯痤瘡。the Hong Kong police use the tg frequently. The tg have many Chemical material. Frontline reporter are appear chloracne. https://t.co/sDCqzfCLN6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HongKongProstests",
+					"indices": [
+						0,
+						18
+					]
+				},
+				{
+					"text": "HongKongProtests",
+					"indices": [
+						19,
+						36
+					]
+				},
+				{
+					"text": "HongKongPolice",
+					"indices": [
+						37,
+						52
+					]
+				},
+				{
+					"text": "HongKonger",
+					"indices": [
+						53,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1194884121656356900,
+					"id_str": "1194884121656356864",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EJUUxyMU8AAJHlM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJUUxyMU8AAJHlM.jpg",
+					"url": "https://t.co/sDCqzfCLN6",
+					"display_url": "pic.twitter.com/sDCqzfCLN6",
+					"expanded_url": "https://twitter.com/heyimHongKonger/status/1194884131395555328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1151,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1190,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 652,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 213,
+									"y": 783,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 13,
+									"y": 221,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 20,
+									"y": 271,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 214,
+									"y": 296,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 221,
+									"y": 810,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 14,
+									"y": 229,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 21,
+									"y": 281,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 222,
+									"y": 307,
+									"h": 71,
+									"w": 71
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 221,
+									"y": 810,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 14,
+									"y": 229,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 21,
+									"y": 281,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 222,
+									"y": 307,
+									"h": 71,
+									"w": 71
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 121,
+									"y": 443,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 7,
+									"y": 125,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 11,
+									"y": 153,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 121,
+									"y": 168,
+									"h": 38,
+									"w": 38
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194884121656356900,
+					"id_str": "1194884121656356864",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EJUUxyMU8AAJHlM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJUUxyMU8AAJHlM.jpg",
+					"url": "https://t.co/sDCqzfCLN6",
+					"display_url": "pic.twitter.com/sDCqzfCLN6",
+					"expanded_url": "https://twitter.com/heyimHongKonger/status/1194884131395555328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1151,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1190,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 652,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 213,
+									"y": 783,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 13,
+									"y": 221,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 20,
+									"y": 271,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 214,
+									"y": 296,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 221,
+									"y": 810,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 14,
+									"y": 229,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 21,
+									"y": 281,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 222,
+									"y": 307,
+									"h": 71,
+									"w": 71
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 221,
+									"y": 810,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 14,
+									"y": 229,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 21,
+									"y": 281,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 222,
+									"y": 307,
+									"h": 71,
+									"w": 71
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 121,
+									"y": 443,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 7,
+									"y": 125,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 11,
+									"y": 153,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 121,
+									"y": 168,
+									"h": 38,
+									"w": 38
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 989868304952000500,
+			"id_str": "989868304952000512",
+			"name": "i’m a Hong Kong secondary student",
+			"screen_name": "heyimHongKonger",
+			"location": "",
+			"description": "sorry for my English is poor #followbackhongkong #手足互科 plz🙏🏻",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 220,
+			"friends_count": 249,
+			"listed_count": 1,
+			"created_at": "Fri Apr 27 14:06:09 +0000 2018",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194884523147743232/GJQjWbms_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194884523147743232/GJQjWbms_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/989868304952000512/1573717660",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "#HongKongProstests #HongKongProtests #HongKongPolice #HongKonger 香港警察在五個月來不斷投射催淚彈，催淚彈中涵有大量化學物品，已有前線記者患上氯痤瘡。the Hong Kong police use the tg frequently. The tg have many Chemical material. Frontline reporter are appear chloracne. https://t.co/sDCqzfCLN6"
+	},
+	{
+		"created_at": "Sat Nov 16 15:49:45 +0000 2019",
+		"id": 1195640074194444300,
+		"id_str": "1195730683978829825",
+		"full_text": "People’s Liberation Army soldiers based in Hong Kong’s Kowloon Tong barrack are mobilised this afternoon to remove barricades built by student protesters outside the Baptist University. It’s the first time the soldiers are deployed in protest area. #HKprotests #pla https://t.co/WfPxiXvjX1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HKprotests",
+					"indices": [
+						249,
+						260
+					]
+				},
+				{
+					"text": "pla",
+					"indices": [
+						261,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195639904727814100,
+					"id_str": "1195639904727814145",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195639904727814145/pu/img/cqTYH3k8o7j_HhiN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195639904727814145/pu/img/cqTYH3k8o7j_HhiN.jpg",
+					"url": "https://t.co/WfPxiXvjX1",
+					"display_url": "pic.twitter.com/WfPxiXvjX1",
+					"expanded_url": "https://twitter.com/eyepressnews/status/1195640074194444288/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 844,
+							"h": 476,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 476,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195639904727814100,
+					"id_str": "1195639904727814145",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195639904727814145/pu/img/cqTYH3k8o7j_HhiN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195639904727814145/pu/img/cqTYH3k8o7j_HhiN.jpg",
+					"url": "https://t.co/WfPxiXvjX1",
+					"display_url": "pic.twitter.com/WfPxiXvjX1",
+					"expanded_url": "https://twitter.com/eyepressnews/status/1195640074194444288/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 844,
+							"h": 476,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 476,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							211,
+							119
+						],
+						"duration_millis": 121195,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1195639904727814145/pu/pl/fMYgLcPhOpGcQ3Ua.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1195639904727814145/pu/vid/844x476/jFecstJfVQjhmshc.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1195639904727814145/pu/vid/478x270/T_QVM-NtIFMckO9H.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 64346035,
+			"id_str": "64346035",
+			"name": "EYEPRESS NEWS AGENCY",
+			"screen_name": "eyepressnews",
+			"location": "Hong Kong",
+			"description": "Official account of EYEPRESS NEWS AGENCY 亞新社 | Telegram Channel https://t.co/Hsse3VSTRP",
+			"url": "https://t.co/1uK5u4Xlqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1uK5u4Xlqj",
+							"expanded_url": "https://www.eyepressphoto.com",
+							"display_url": "eyepressphoto.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Hsse3VSTRP",
+							"expanded_url": "http://t.me/eyepress",
+							"display_url": "t.me/eyepress",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4766,
+			"friends_count": 502,
+			"listed_count": 63,
+			"created_at": "Mon Aug 10 05:56:29 +0000 2009",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159040785179795456/j0FWeFN3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159040785179795456/j0FWeFN3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64346035/1572082827",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1098,
+		"favorite_count": 1028,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "People’s Liberation Army soldiers based in Hong Kong’s Kowloon Tong barrack are mobilised this afternoon to remove barricades built by student protesters outside the Baptist University. It’s the first time the soldiers are deployed in protest area. #HKprotests #pla https://t.co/WfPxiXvjX1"
+	},
+	{
+		"created_at": "Sat Nov 16 15:48:55 +0000 2019",
+		"id": 1195688077731061800,
+		"id_str": "1195730476188733440",
+		"full_text": "More than 400 pages of internal Chinese documents detail the origins and growth of the indoctrination program in Xinjiang, where a million or more predominately Muslim minorities have been held in a vast network of detention centers https://t.co/4Hwnq478nB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4Hwnq478nB",
+					"expanded_url": "https://www.nytimes.com/interactive/2019/11/16/world/asia/china-xinjiang-documents.html",
+					"display_url": "nytimes.com/interactive/20…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45808079,
+			"id_str": "45808079",
+			"name": "Austin Ramzy",
+			"screen_name": "austinramzy",
+			"location": "Hong Kong",
+			"description": "New York Times reporter in Hong Kong 紐約時報記者王霜舟 previously @UMKnightWallace @TIME            @ucbsoj",
+			"url": "https://t.co/7rwFXJq8io",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7rwFXJq8io",
+							"expanded_url": "https://www.nytimes.com/by/austin-ramzy",
+							"display_url": "nytimes.com/by/austin-ramzy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 92678,
+			"friends_count": 4058,
+			"listed_count": 1547,
+			"created_at": "Tue Jun 09 10:19:51 +0000 2009",
+			"favourites_count": 3281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/795703806914940929/MXMgJpro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/795703806914940929/MXMgJpro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45808079/1525253130",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3613,
+		"favorite_count": 3787,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More than 400 pages of internal Chinese documents detail the origins and growth of the indoctrination program in Xinjiang, where a million or more predominately Muslim minorities have been held in a vast network of detention centers https://t.co/4Hwnq478nB"
+	},
+	{
+		"created_at": "Sat Nov 16 15:47:29 +0000 2019",
+		"id": 1195728248040087600,
+		"id_str": "1195730114321010689",
+		"full_text": "China has detained up to a million Muslims, a campaign it calls a benevolent and routine effort against the pull of extremism. But 403 pages of Communist Party documents we obtained reveal how officials plotted to carry out a ruthless, coercive clampdown. https://t.co/s6Sa2GenA3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s6Sa2GenA3",
+					"expanded_url": "https://nyti.ms/2CV2z01",
+					"display_url": "nyti.ms/2CV2z01",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 807095,
+			"id_str": "807095",
+			"name": "The New York Times",
+			"screen_name": "nytimes",
+			"location": "New York City",
+			"description": "News tips? Share them here: https://t.co/ghL9OoYKMM\n\n\"The Weekly\" is our new TV series. Episodes air Sundays at 10 p.m. on FX and on Hulu the next day.",
+			"url": "http://t.co/ahvuWqicF9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ahvuWqicF9",
+							"expanded_url": "http://www.nytimes.com/",
+							"display_url": "nytimes.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ghL9OoYKMM",
+							"expanded_url": "http://nyti.ms/2FVHq9v",
+							"display_url": "nyti.ms/2FVHq9v",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 44515588,
+			"friends_count": 896,
+			"listed_count": 201274,
+			"created_at": "Fri Mar 02 20:41:42 +0000 2007",
+			"favourites_count": 18405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 377548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1573820420",
+			"profile_link_color": "607696",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 732,
+		"favorite_count": 875,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "China has detained up to a million Muslims, a campaign it calls a benevolent and routine effort against the pull of extremism. But 403 pages of Communist Party documents we obtained reveal how officials plotted to carry out a ruthless, coercive clampdown. https://t.co/s6Sa2GenA3"
+	},
+	{
+		"created_at": "Sat Nov 16 15:46:38 +0000 2019",
+		"id": 1195728879555625000,
+		"id_str": "1195729901070045186",
+		"full_text": "The documents — one of the most significant leaks from inside China's Communist Party in decades — reveal secret speeches by President Xi Jinping laying the groundwork for a crackdown that put a million or more Muslim minorities into camps. \"Show absolutely no mercy,\" he said. https://t.co/JkBUiii64R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195728876120498200,
+					"id_str": "1195728876120498177",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgVE9zW4AEAvbr.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJgVE9zW4AEAvbr.png",
+					"url": "https://t.co/JkBUiii64R",
+					"display_url": "pic.twitter.com/JkBUiii64R",
+					"expanded_url": "https://twitter.com/nytimes/status/1195728879555624961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 560,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 560,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195728876120498200,
+					"id_str": "1195728876120498177",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgVE9zW4AEAvbr.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJgVE9zW4AEAvbr.png",
+					"url": "https://t.co/JkBUiii64R",
+					"display_url": "pic.twitter.com/JkBUiii64R",
+					"expanded_url": "https://twitter.com/nytimes/status/1195728879555624961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 560,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 560,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1195728248040087600,
+		"in_reply_to_status_id_str": "1195728248040087552",
+		"in_reply_to_user_id": 807095,
+		"in_reply_to_user_id_str": "807095",
+		"in_reply_to_screen_name": "nytimes",
+		"user": {
+			"id": 807095,
+			"id_str": "807095",
+			"name": "The New York Times",
+			"screen_name": "nytimes",
+			"location": "New York City",
+			"description": "News tips? Share them here: https://t.co/ghL9OoYKMM\n\n\"The Weekly\" is our new TV series. Episodes air Sundays at 10 p.m. on FX and on Hulu the next day.",
+			"url": "http://t.co/ahvuWqicF9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ahvuWqicF9",
+							"expanded_url": "http://www.nytimes.com/",
+							"display_url": "nytimes.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ghL9OoYKMM",
+							"expanded_url": "http://nyti.ms/2FVHq9v",
+							"display_url": "nyti.ms/2FVHq9v",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 44515588,
+			"friends_count": 896,
+			"listed_count": 201274,
+			"created_at": "Fri Mar 02 20:41:42 +0000 2007",
+			"favourites_count": 18405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 377548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1573820420",
+			"profile_link_color": "607696",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 174,
+		"favorite_count": 202,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The documents — one of the most significant leaks from inside China's Communist Party in decades — reveal secret speeches by President Xi Jinping laying the groundwork for a crackdown that put a million or more Muslim minorities into camps. \"Show absolutely no mercy,\" he said. https://t.co/JkBUiii64R"
+	},
+	{
 		"created_at": "Thu Nov 14 01:56:57 +0000 2019",
 		"id": 1194766798463225900,
 		"id_str": "1194796326480941057",
