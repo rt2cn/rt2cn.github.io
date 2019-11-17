@@ -1,6 +1,824 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 17 15:47:37 +0000 2019",
+		"id": 1196089592719564800,
+		"id_str": "1196092536168865795",
+		"full_text": "What will the international community do at this critical moment?\n\nThe world must #StandwithHK now, or never, to prevent another Tiananmen Square massacre.\n\nThe government is prepared to murder our whole generation.\n\n#HKSOS\n#HongKongProtests\n#FightforFreedom https://t.co/RMV35f8Yji",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StandwithHK",
+					"indices": [
+						82,
+						94
+					]
+				},
+				{
+					"text": "HKSOS",
+					"indices": [
+						217,
+						223
+					]
+				},
+				{
+					"text": "HongKongProtests",
+					"indices": [
+						224,
+						241
+					]
+				},
+				{
+					"text": "FightforFreedom",
+					"indices": [
+						242,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196089169782739000,
+					"id_str": "1196089169782738945",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/EJlcw0SXkAEeA5S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJlcw0SXkAEeA5S.jpg",
+					"url": "https://t.co/RMV35f8Yji",
+					"display_url": "pic.twitter.com/RMV35f8Yji",
+					"expanded_url": "https://twitter.com/Stand_with_HK/status/1196089592719564800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 364,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 277,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 277,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 277,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 277,
+									"h": 68,
+									"w": 68
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196089169782739000,
+					"id_str": "1196089169782738945",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/EJlcw0SXkAEeA5S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJlcw0SXkAEeA5S.jpg",
+					"url": "https://t.co/RMV35f8Yji",
+					"display_url": "pic.twitter.com/RMV35f8Yji",
+					"expanded_url": "https://twitter.com/Stand_with_HK/status/1196089592719564800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 364,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 277,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 277,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 277,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 277,
+									"h": 68,
+									"w": 68
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 934174143939055600,
+			"id_str": "934174143939055617",
+			"name": "Fight For Freedom. Stand With Hong Kong.",
+			"screen_name": "Stand_with_HK",
+			"location": "Hong Kong ",
+			"description": "A group of ordinary Hongkongers urging the world to safeguard Hong Kong’s rights and freedoms. #standwithhk  (RT ≠ endorsement)",
+			"url": "https://t.co/d0iqswk2Be",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d0iqswk2Be",
+							"expanded_url": "https://standwithhk.org/",
+							"display_url": "standwithhk.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84804,
+			"friends_count": 203,
+			"listed_count": 195,
+			"created_at": "Fri Nov 24 21:37:26 +0000 2017",
+			"favourites_count": 559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1153699912791592961/nMAr86AL_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1153699912791592961/nMAr86AL_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/934174143939055617/1563898469",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 458,
+		"favorite_count": 438,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What will the international community do at this critical moment?\n\nThe world must #StandwithHK now, or never, to prevent another Tiananmen Square massacre.\n\nThe government is prepared to murder our whole generation.\n\n#HKSOS\n#HongKongProtests\n#FightforFreedom https://t.co/RMV35f8Yji"
+	},
+	{
+		"created_at": "Sun Nov 17 15:41:59 +0000 2019",
+		"id": 1196089062840385500,
+		"id_str": "1196091117093216257",
+		"full_text": "The #HKPoliceTerrorist has LIED AGAIN AND AGAIN when they call everyone to evacuate PolyU and arrested ALL of them. UNACCEPTABLE!!\n\n#SOSHK \n#PoliceTerrorism https://t.co/KzJCWqNim5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HKPoliceTerrorist",
+					"indices": [
+						4,
+						22
+					]
+				},
+				{
+					"text": "SOSHK",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "PoliceTerrorism",
+					"indices": [
+						140,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196089048676257800,
+					"id_str": "1196089048676257793",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EJlcpxIVUAEaFi3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJlcpxIVUAEaFi3.jpg",
+					"url": "https://t.co/KzJCWqNim5",
+					"display_url": "pic.twitter.com/KzJCWqNim5",
+					"expanded_url": "https://twitter.com/lamalex1224/status/1196089062840385536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196089048676257800,
+					"id_str": "1196089048676257793",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EJlcpxIVUAEaFi3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJlcpxIVUAEaFi3.jpg",
+					"url": "https://t.co/KzJCWqNim5",
+					"display_url": "pic.twitter.com/KzJCWqNim5",
+					"expanded_url": "https://twitter.com/lamalex1224/status/1196089062840385536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1196089056368578600,
+					"id_str": "1196089056368578561",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EJlcqNyU0AE7qDD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJlcqNyU0AE7qDD.jpg",
+					"url": "https://t.co/KzJCWqNim5",
+					"display_url": "pic.twitter.com/KzJCWqNim5",
+					"expanded_url": "https://twitter.com/lamalex1224/status/1196089062840385536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 722,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 782273698061361200,
+			"id_str": "782273698061361152",
+			"name": "Alex Lam",
+			"screen_name": "lamalex1224",
+			"location": "Hong Kong",
+			"description": "Liberate Hong Kong, Revolution of our times!! 🇭🇰\n\n#fightforfreedom\n#standwithhk\n#手足互科",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 389,
+			"listed_count": 0,
+			"created_at": "Sat Oct 01 17:39:18 +0000 2016",
+			"favourites_count": 679,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195697472137334784/5frX5gcl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195697472137334784/5frX5gcl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/782273698061361152/1573744411",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #HKPoliceTerrorist has LIED AGAIN AND AGAIN when they call everyone to evacuate PolyU and arrested ALL of them. UNACCEPTABLE!!\n\n#SOSHK \n#PoliceTerrorism https://t.co/KzJCWqNim5"
+	},
+	{
+		"created_at": "Sun Nov 17 15:41:47 +0000 2019",
+		"id": 1196086624171352000,
+		"id_str": "1196091069596868614",
+		"full_text": "\"I love buddies.\" The most popular last word from PolyU students. They are students, they are kids. They are scared but they will stay with buddies until their lives end. @senatemajldr @SenRubioPress @HawleyMO @HawleyMO @SpeakerPelosi @SecPompeo #StandWithHongKong #PolyU https://t.co/75zm3pbciW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StandWithHongKong",
+					"indices": [
+						246,
+						264
+					]
+				},
+				{
+					"text": "PolyU",
+					"indices": [
+						265,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "senatemajldr",
+					"name": "Leader McConnell",
+					"id": 1249982359,
+					"id_str": "1249982359",
+					"indices": [
+						171,
+						184
+					]
+				},
+				{
+					"screen_name": "SenRubioPress",
+					"name": "Senator Rubio Press",
+					"id": 229966028,
+					"id_str": "229966028",
+					"indices": [
+						185,
+						199
+					]
+				},
+				{
+					"screen_name": "HawleyMO",
+					"name": "Josh Hawley",
+					"id": 2352629311,
+					"id_str": "2352629311",
+					"indices": [
+						200,
+						209
+					]
+				},
+				{
+					"screen_name": "HawleyMO",
+					"name": "Josh Hawley",
+					"id": 2352629311,
+					"id_str": "2352629311",
+					"indices": [
+						210,
+						219
+					]
+				},
+				{
+					"screen_name": "SpeakerPelosi",
+					"name": "Nancy Pelosi",
+					"id": 15764644,
+					"id_str": "15764644",
+					"indices": [
+						220,
+						234
+					]
+				},
+				{
+					"screen_name": "SecPompeo",
+					"name": "Secretary Pompeo",
+					"id": 988573326376427500,
+					"id_str": "988573326376427520",
+					"indices": [
+						235,
+						245
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196086617384968200,
+					"id_str": "1196086617384968192",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EJlacP3UYAAE3Px.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJlacP3UYAAE3Px.jpg",
+					"url": "https://t.co/75zm3pbciW",
+					"display_url": "pic.twitter.com/75zm3pbciW",
+					"expanded_url": "https://twitter.com/savehongkongki1/status/1196086624171352065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 562,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 562,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 373,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196086617384968200,
+					"id_str": "1196086617384968192",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EJlacP3UYAAE3Px.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJlacP3UYAAE3Px.jpg",
+					"url": "https://t.co/75zm3pbciW",
+					"display_url": "pic.twitter.com/75zm3pbciW",
+					"expanded_url": "https://twitter.com/savehongkongki1/status/1196086624171352065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 562,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 562,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 373,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1180893292382146600,
+			"id_str": "1180893292382146560",
+			"name": "savehongkongkids",
+			"screen_name": "savehongkongki1",
+			"location": "",
+			"description": "Ordinary Hong Kong Mum. Fight for a safe, better future for my kid, and kids all around the world.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9,
+			"friends_count": 43,
+			"listed_count": 0,
+			"created_at": "Sun Oct 06 17:11:24 +0000 2019",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182524520357228549/4on44RcR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182524520357228549/4on44RcR_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"I love buddies.\" The most popular last word from PolyU students. They are students, they are kids. They are scared but they will stay with buddies until their lives end. @senatemajldr @SenRubioPress @HawleyMO @HawleyMO @SpeakerPelosi @SecPompeo #StandWithHongKong #PolyU https://t.co/75zm3pbciW"
+	},
+	{
 		"created_at": "Sun Nov 17 14:58:12 +0000 2019",
 		"id": 1196059790587261000,
 		"id_str": "1196080099445166080",
