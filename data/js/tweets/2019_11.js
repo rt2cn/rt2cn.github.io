@@ -1,6 +1,1031 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 17 14:58:12 +0000 2019",
+		"id": 1196059790587261000,
+		"id_str": "1196080099445166080",
+		"full_text": "民間記者會緊急呼籲：和理非出發救理大！\n\n30年前我們無能力阻止六四屠城，但今日我們必定要拯救理大手足。\n\n理大情況極為惡劣，數以百計手足被困在內，已是被困死局，民間記者會在此懇求，所有香港人請用自己方法前往油尖旺、紅磡一帶，反包圍救人。有車出車，有人出人，人手嚴重不足，人多方有轉機。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1954947793,
+			"id_str": "1954947793",
+			"name": "新彊嶺軒sir😷",
+			"screen_name": "hins9411",
+			"location": "Hong Kong",
+			"description": "光復香港時代革命 五大訴求缺一不可 願榮光歸香港 我愛香港人 香港人加油 HongKongers/FGO死忠/巌窟王係我老公,梅林係我二奶/專練男角開後宮 想加我好友可以PM我",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4034,
+			"friends_count": 3449,
+			"listed_count": 6,
+			"created_at": "Fri Oct 11 19:32:01 +0000 2013",
+			"favourites_count": 2123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192642400381849601/WpZCLqCG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192642400381849601/WpZCLqCG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1954947793/1566286686",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 143,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "民間記者會緊急呼籲：和理非出發救理大！\n\n30年前我們無能力阻止六四屠城，但今日我們必定要拯救理大手足。\n\n理大情況極為惡劣，數以百計手足被困在內，已是被困死局，民間記者會在此懇求，所有香港人請用自己方法前往油尖旺、紅磡一帶，反包圍救人。有車出車，有人出人，人手嚴重不足，人多方有轉機。"
+	},
+	{
+		"created_at": "Sun Nov 17 14:57:12 +0000 2019",
+		"id": 1196078564266762200,
+		"id_str": "1196079847082201088",
+		"full_text": "警察最后通牒的时间过后，理工大学内的勇武手足纷纷留下遗书。 https://t.co/SxSTuubkvX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196078556595417000,
+					"id_str": "1196078556595417088",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EJlTHDFU8AAQH87.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJlTHDFU8AAQH87.jpg",
+					"url": "https://t.co/SxSTuubkvX",
+					"display_url": "pic.twitter.com/SxSTuubkvX",
+					"expanded_url": "https://twitter.com/hnjhj/status/1196078564266762241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 683,
+							"h": 1810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 257,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 453,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1,
+									"y": 652,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1,
+									"y": 652,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 0,
+									"y": 245,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 0,
+									"y": 432,
+									"h": 79,
+									"w": 79
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196078556595417000,
+					"id_str": "1196078556595417088",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EJlTHDFU8AAQH87.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJlTHDFU8AAQH87.jpg",
+					"url": "https://t.co/SxSTuubkvX",
+					"display_url": "pic.twitter.com/SxSTuubkvX",
+					"expanded_url": "https://twitter.com/hnjhj/status/1196078564266762241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 683,
+							"h": 1810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 257,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 453,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1,
+									"y": 652,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1,
+									"y": 652,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 0,
+									"y": 245,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 0,
+									"y": 432,
+									"h": 79,
+									"w": 79
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35219547,
+			"id_str": "35219547",
+			"name": "Jian Alan Huang",
+			"screen_name": "hnjhj",
+			"location": "Shanghai, Hong Kong, Sydney",
+			"description": "An atheistic, skeptic, liberalist. A software engineer and researcher. I seek, I think, I speak.",
+			"url": "https://t.co/8dc82SjorG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8dc82SjorG",
+							"expanded_url": "http://blog.hnjhj.com",
+							"display_url": "blog.hnjhj.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36746,
+			"friends_count": 526,
+			"listed_count": 354,
+			"created_at": "Sat Apr 25 14:15:32 +0000 2009",
+			"favourites_count": 367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 33412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35219547/1348406013",
+			"profile_link_color": "22497E",
+			"profile_sidebar_border_color": "AFAFAF",
+			"profile_sidebar_fill_color": "E7E7E7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "警察最后通牒的时间过后，理工大学内的勇武手足纷纷留下遗书。 https://t.co/SxSTuubkvX"
+	},
+	{
+		"created_at": "Sun Nov 17 14:56:10 +0000 2019",
+		"id": 1196067499571171300,
+		"id_str": "1196079589971222528",
+		"full_text": "一个小时前香港示威者TG频道管理员发出求救，大量勇武派手足被警方包围在香港理工大学校园内，形势比几天前中文大学更危急，一旦失守大量勇武手足将落网。号召港人立刻前去支援。 https://t.co/YTB1Dl2qwV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196067494064033800,
+					"id_str": "1196067494064033793",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EJlJDH8UEAE3MkL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJlJDH8UEAE3MkL.jpg",
+					"url": "https://t.co/YTB1Dl2qwV",
+					"display_url": "pic.twitter.com/YTB1Dl2qwV",
+					"expanded_url": "https://twitter.com/hnjhj/status/1196067499571171330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 913,
+							"h": 834,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 621,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 913,
+							"h": 834,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 143,
+									"y": 210,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 106,
+									"y": 156,
+									"h": 67,
+									"w": 67
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 143,
+									"y": 210,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 143,
+									"y": 210,
+									"h": 90,
+									"w": 90
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196067494064033800,
+					"id_str": "1196067494064033793",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EJlJDH8UEAE3MkL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJlJDH8UEAE3MkL.jpg",
+					"url": "https://t.co/YTB1Dl2qwV",
+					"display_url": "pic.twitter.com/YTB1Dl2qwV",
+					"expanded_url": "https://twitter.com/hnjhj/status/1196067499571171330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 913,
+							"h": 834,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 621,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 913,
+							"h": 834,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 143,
+									"y": 210,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 106,
+									"y": 156,
+									"h": 67,
+									"w": 67
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 143,
+									"y": 210,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 143,
+									"y": 210,
+									"h": 90,
+									"w": 90
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35219547,
+			"id_str": "35219547",
+			"name": "Jian Alan Huang",
+			"screen_name": "hnjhj",
+			"location": "Shanghai, Hong Kong, Sydney",
+			"description": "An atheistic, skeptic, liberalist. A software engineer and researcher. I seek, I think, I speak.",
+			"url": "https://t.co/8dc82SjorG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8dc82SjorG",
+							"expanded_url": "http://blog.hnjhj.com",
+							"display_url": "blog.hnjhj.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36746,
+			"friends_count": 526,
+			"listed_count": 354,
+			"created_at": "Sat Apr 25 14:15:32 +0000 2009",
+			"favourites_count": 367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 33412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35219547/1348406013",
+			"profile_link_color": "22497E",
+			"profile_sidebar_border_color": "AFAFAF",
+			"profile_sidebar_fill_color": "E7E7E7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "一个小时前香港示威者TG频道管理员发出求救，大量勇武派手足被警方包围在香港理工大学校园内，形势比几天前中文大学更危急，一旦失守大量勇武手足将落网。号召港人立刻前去支援。 https://t.co/YTB1Dl2qwV"
+	},
+	{
+		"created_at": "Sun Nov 17 14:56:01 +0000 2019",
+		"id": 1196048111107358700,
+		"id_str": "1196079548644954113",
+		"full_text": "這是香港最高級前官員出來說公道話了。前特首候選人，前財政司司長曾俊華上港台《視點31》節目談香港現在社會亂象。他說到的重點就是，香港社會現在已經不是撕裂，而是仇恨，其中政府應負最大責任。如果仇恨持續，會演變成北愛爾蘭，以色列這樣的局面。暴力是果，但這個因不解決，永遠不能止暴制亂。 https://t.co/u04v8Gmxr8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196048106753626000,
+					"id_str": "1196048106753626114",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EJk3aolUEAIn9rx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJk3aolUEAIn9rx.jpg",
+					"url": "https://t.co/u04v8Gmxr8",
+					"display_url": "pic.twitter.com/u04v8Gmxr8",
+					"expanded_url": "https://twitter.com/panzerwong/status/1196048111107358720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 488,
+									"y": 150,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 277,
+									"y": 149,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 99,
+									"y": 134,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 861,
+									"y": 265,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 489,
+									"y": 264,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 176,
+									"y": 237,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 958,
+									"y": 295,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 544,
+									"y": 294,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 196,
+									"y": 264,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 958,
+									"y": 295,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 544,
+									"y": 294,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 196,
+									"y": 264,
+									"h": 84,
+									"w": 84
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196048106753626000,
+					"id_str": "1196048106753626114",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EJk3aolUEAIn9rx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJk3aolUEAIn9rx.jpg",
+					"url": "https://t.co/u04v8Gmxr8",
+					"display_url": "pic.twitter.com/u04v8Gmxr8",
+					"expanded_url": "https://twitter.com/panzerwong/status/1196048111107358720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 488,
+									"y": 150,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 277,
+									"y": 149,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 99,
+									"y": 134,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 861,
+									"y": 265,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 489,
+									"y": 264,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 176,
+									"y": 237,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 958,
+									"y": 295,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 544,
+									"y": 294,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 196,
+									"y": 264,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 958,
+									"y": 295,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 544,
+									"y": 294,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 196,
+									"y": 264,
+									"h": 84,
+									"w": 84
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1196048106753626000,
+					"id_str": "1196048106753626113",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EJk3aolUEAEKVdj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJk3aolUEAEKVdj.jpg",
+					"url": "https://t.co/u04v8Gmxr8",
+					"display_url": "pic.twitter.com/u04v8Gmxr8",
+					"expanded_url": "https://twitter.com/panzerwong/status/1196048111107358720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 478,
+									"y": 202,
+									"h": 223,
+									"w": 223
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 532,
+									"y": 225,
+									"h": 248,
+									"w": 248
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 271,
+									"y": 114,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 532,
+									"y": 225,
+									"h": 248,
+									"w": 248
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 220592336,
+			"id_str": "220592336",
+			"name": "阿基里斯的黎明",
+			"screen_name": "panzerwong",
+			"location": "San Francisco, CA",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4684,
+			"friends_count": 337,
+			"listed_count": 30,
+			"created_at": "Sun Nov 28 07:11:44 +0000 2010",
+			"favourites_count": 271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193490440164560896/jw0pRG39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193490440164560896/jw0pRG39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/220592336/1572376403",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "這是香港最高級前官員出來說公道話了。前特首候選人，前財政司司長曾俊華上港台《視點31》節目談香港現在社會亂象。他說到的重點就是，香港社會現在已經不是撕裂，而是仇恨，其中政府應負最大責任。如果仇恨持續，會演變成北愛爾蘭，以色列這樣的局面。暴力是果，但這個因不解決，永遠不能止暴制亂。 https://t.co/u04v8Gmxr8"
+	},
+	{
 		"created_at": "Sat Nov 16 15:50:13 +0000 2019",
 		"id": 1195726799025533000,
 		"id_str": "1195730802572713984",
