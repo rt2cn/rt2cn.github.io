@@ -1,6 +1,610 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 18 03:08:01 +0000 2019",
+		"id": 1196205257254027300,
+		"id_str": "1196263765307736065",
+		"full_text": "【理大現場編委報導】\n[06:57］滿身防具的示威者雖經整晚攻防後疲憊不堪，仍在校園A core平台上堅守入口。\n#hongkong #PolyU https://t.co/YmjsK4vETv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hongkong",
+					"indices": [
+						57,
+						66
+					]
+				},
+				{
+					"text": "PolyU",
+					"indices": [
+						67,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196205250169827300,
+					"id_str": "1196205250169827328",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EJnGVlbUcAADRvh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJnGVlbUcAADRvh.jpg",
+					"url": "https://t.co/YmjsK4vETv",
+					"display_url": "pic.twitter.com/YmjsK4vETv",
+					"expanded_url": "https://twitter.com/DCheng36387164/status/1196205257254027264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 719,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 719,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196205250169827300,
+					"id_str": "1196205250169827328",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EJnGVlbUcAADRvh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJnGVlbUcAADRvh.jpg",
+					"url": "https://t.co/YmjsK4vETv",
+					"display_url": "pic.twitter.com/YmjsK4vETv",
+					"expanded_url": "https://twitter.com/DCheng36387164/status/1196205257254027264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 719,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 719,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1167721911935127600,
+			"id_str": "1167721911935127552",
+			"name": "Panda😷",
+			"screen_name": "DCheng36387164",
+			"location": "Hong Kong",
+			"description": "一個香港人\nI am just a normal Hong Kong people",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3827,
+			"friends_count": 1329,
+			"listed_count": 6,
+			"created_at": "Sat Aug 31 08:53:04 +0000 2019",
+			"favourites_count": 8951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167722420599279616/nXIXbACj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167722420599279616/nXIXbACj_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 129,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "【理大現場編委報導】\n[06:57］滿身防具的示威者雖經整晚攻防後疲憊不堪，仍在校園A core平台上堅守入口。\n#hongkong #PolyU https://t.co/YmjsK4vETv"
+	},
+	{
+		"created_at": "Mon Nov 18 03:07:26 +0000 2019",
+		"id": 1195880010046828500,
+		"id_str": "1196263617202667522",
+		"full_text": "沒有混亂就製造混亂\n\n沒有暴徒就製造暴徒 https://t.co/fdiug9l7YX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fdiug9l7YX",
+					"expanded_url": "https://twitter.com/laichinan/status/1195873713737986048",
+					"display_url": "twitter.com/laichinan/stat…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 261655484,
+			"id_str": "261655484",
+			"name": "🌈民主/反核/台灣建國🌈",
+			"screen_name": "Osmosis404",
+			"location": "Republic of Taiwan",
+			"description": "🌈“我們是小國小民,但我們是好國好民。https://t.co/fR1dNQE07g ”🌈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fR1dNQE07g",
+							"expanded_url": "http://www.rotpnetwork.tw/TPSovDBYTP.php?LAN=TW",
+							"display_url": "rotpnetwork.tw/TPSovDBYTP.php…",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2378,
+			"friends_count": 699,
+			"listed_count": 59,
+			"created_at": "Sun Mar 06 11:59:45 +0000 2011",
+			"favourites_count": 101949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 115030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065956886376198146/hg7Fj7eh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065956886376198146/hg7Fj7eh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/261655484/1529980980",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1195873713737986000,
+		"quoted_status_id_str": "1195873713737986048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fdiug9l7YX",
+			"expanded": "https://twitter.com/laichinan/status/1195873713737986048",
+			"display": "twitter.com/laichinan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 17 01:18:06 +0000 2019",
+			"id": 1195873713737986000,
+			"id_str": "1195873713737986048",
+			"full_text": "看起來警方跟暴民真的是一家親 https://t.co/U3IpG1wqpq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				14
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1195873700756607000,
+						"id_str": "1195873700756606978",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/EJiYy3nUUAIIanx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJiYy3nUUAIIanx.jpg",
+						"url": "https://t.co/U3IpG1wqpq",
+						"display_url": "pic.twitter.com/U3IpG1wqpq",
+						"expanded_url": "https://twitter.com/laichinan/status/1195873713737986048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 821,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 465,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 821,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1195873700756607000,
+						"id_str": "1195873700756606978",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/EJiYy3nUUAIIanx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJiYy3nUUAIIanx.jpg",
+						"url": "https://t.co/U3IpG1wqpq",
+						"display_url": "pic.twitter.com/U3IpG1wqpq",
+						"expanded_url": "https://twitter.com/laichinan/status/1195873713737986048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 821,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 465,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 821,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 804543102132158500,
+				"id_str": "804543102132158464",
+				"name": "剿匪學院",
+				"screen_name": "laichinan",
+				"location": "Taichung City, Taiwan",
+				"description": "剿匪尚未成功，同志仍需努力",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6482,
+				"friends_count": 660,
+				"listed_count": 38,
+				"created_at": "Fri Dec 02 04:29:58 +0000 2016",
+				"favourites_count": 3575,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6395,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1123813074375520256/NPrItV1o_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123813074375520256/NPrItV1o_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/804543102132158464/1556772890",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 46,
+			"favorite_count": 109,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "zh"
+		},
+		"retweet_count": 87,
+		"favorite_count": 132,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "沒有混亂就製造混亂\n\n沒有暴徒就製造暴徒 https://t.co/fdiug9l7YX"
+	},
+	{
+		"created_at": "Mon Nov 18 03:06:46 +0000 2019",
+		"id": 1196241896986697700,
+		"id_str": "1196263451062087680",
+		"full_text": "昨天半夜理工大学内被困的学生向社会发出求助，无数港人转发，市民从被窝里爬起来上街反包围，或者就地开花分散警力，私家车堵的红磡水泄不通，今天一早再去理大护送学生们撤出。这就是香港人的凝聚力。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35219547,
+			"id_str": "35219547",
+			"name": "Jian Alan Huang",
+			"screen_name": "hnjhj",
+			"location": "Shanghai, Hong Kong, Sydney",
+			"description": "An atheistic, skeptic, liberalist. A software engineer and researcher. I seek, I think, I speak.",
+			"url": "https://t.co/8dc82SjorG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8dc82SjorG",
+							"expanded_url": "http://blog.hnjhj.com",
+							"display_url": "blog.hnjhj.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36740,
+			"friends_count": 526,
+			"listed_count": 355,
+			"created_at": "Sat Apr 25 14:15:32 +0000 2009",
+			"favourites_count": 369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 33424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2438844180/b56d7dce-b672-478d-8145-3335408da4f5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35219547/1348406013",
+			"profile_link_color": "22497E",
+			"profile_sidebar_border_color": "AFAFAF",
+			"profile_sidebar_fill_color": "E7E7E7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "昨天半夜理工大学内被困的学生向社会发出求助，无数港人转发，市民从被窝里爬起来上街反包围，或者就地开花分散警力，私家车堵的红磡水泄不通，今天一早再去理大护送学生们撤出。这就是香港人的凝聚力。"
+	},
+	{
 		"created_at": "Sun Nov 17 15:47:37 +0000 2019",
 		"id": 1196089592719564800,
 		"id_str": "1196092536168865795",
