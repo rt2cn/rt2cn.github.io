@@ -1,6 +1,997 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 19 09:43:55 +0000 2019",
+		"id": 1196700263542739000,
+		"id_str": "1196725783231897600",
+		"full_text": "大陆奴隶，第三次喝茶后的感想。 https://t.co/Lbc2hE5qsZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196700238469202000,
+					"id_str": "1196700238469201922",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EJuIhsiVAAIxonM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJuIhsiVAAIxonM.jpg",
+					"url": "https://t.co/Lbc2hE5qsZ",
+					"display_url": "pic.twitter.com/Lbc2hE5qsZ",
+					"expanded_url": "https://twitter.com/xxx_fee/status/1196700263542738945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196700238469202000,
+					"id_str": "1196700238469201922",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EJuIhsiVAAIxonM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJuIhsiVAAIxonM.jpg",
+					"url": "https://t.co/Lbc2hE5qsZ",
+					"display_url": "pic.twitter.com/Lbc2hE5qsZ",
+					"expanded_url": "https://twitter.com/xxx_fee/status/1196700263542738945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1141434975218069500,
+			"id_str": "1141434975218069504",
+			"name": "nameless",
+			"screen_name": "xxx_fee",
+			"location": "",
+			"description": "freedom",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1993,
+			"friends_count": 80,
+			"listed_count": 6,
+			"created_at": "Wed Jun 19 19:57:59 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141435321344643072/G_oPfa8Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141435321344643072/G_oPfa8Q_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "大陆奴隶，第三次喝茶后的感想。 https://t.co/Lbc2hE5qsZ"
+	},
+	{
+		"created_at": "Tue Nov 19 09:43:14 +0000 2019",
+		"id": 1196725065934491600,
+		"id_str": "1196725610837663744",
+		"full_text": "我認識一個淺藍的前輩，移居香港幾十年，平常就是非常港豬那種不問世事。只想世界和平\n\n時不時他也會問一下我時事的問題，不表意見，就是聽。\n\n然後今天他發了這段信息給我，說希望他的故事要說出來，不能就這麼過去。 https://t.co/50ylygExdw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196725049492816000,
+					"id_str": "1196725049492815872",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EJufF4zUwAA-2ai.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJufF4zUwAA-2ai.jpg",
+					"url": "https://t.co/50ylygExdw",
+					"display_url": "pic.twitter.com/50ylygExdw",
+					"expanded_url": "https://twitter.com/midwaydude/status/1196725065934491649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1447,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 113,
+									"y": 679,
+									"h": 455,
+									"w": 455
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 130,
+									"y": 776,
+									"h": 520,
+									"w": 520
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 37,
+									"y": 225,
+									"h": 151,
+									"w": 151
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 66,
+									"y": 398,
+									"h": 266,
+									"w": 266
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196725049492816000,
+					"id_str": "1196725049492815872",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EJufF4zUwAA-2ai.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJufF4zUwAA-2ai.jpg",
+					"url": "https://t.co/50ylygExdw",
+					"display_url": "pic.twitter.com/50ylygExdw",
+					"expanded_url": "https://twitter.com/midwaydude/status/1196725065934491649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1447,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 113,
+									"y": 679,
+									"h": 455,
+									"w": 455
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 130,
+									"y": 776,
+									"h": 520,
+									"w": 520
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 37,
+									"y": 225,
+									"h": 151,
+									"w": 151
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 66,
+									"y": 398,
+									"h": 266,
+									"w": 266
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2845909596,
+			"id_str": "2845909596",
+			"name": "中流青年",
+			"screen_name": "midwaydude",
+			"location": "",
+			"description": "時政有害信息博主\n香港自由之夏時序：https://t.co/dAHvbwZ9Tj",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dAHvbwZ9Tj",
+							"expanded_url": "https://hkrev.info/",
+							"display_url": "hkrev.info",
+							"indices": [
+								18,
+								41
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19237,
+			"friends_count": 406,
+			"listed_count": 113,
+			"created_at": "Wed Oct 08 03:41:56 +0000 2014",
+			"favourites_count": 2315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192651017407483904/VV9P9GRs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192651017407483904/VV9P9GRs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2845909596/1568102272",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "我認識一個淺藍的前輩，移居香港幾十年，平常就是非常港豬那種不問世事。只想世界和平\n\n時不時他也會問一下我時事的問題，不表意見，就是聽。\n\n然後今天他發了這段信息給我，說希望他的故事要說出來，不能就這麼過去。 https://t.co/50ylygExdw"
+	},
+	{
+		"created_at": "Tue Nov 19 09:42:04 +0000 2019",
+		"id": 1196312182314520600,
+		"id_str": "1196725315957088256",
+		"full_text": "From discover real hong kong \n     //歷史在重演\n相隔三十年，暴政又再以槍口對準市民、學生、知識分子、急救員 .....抺黑忠良為外國勢力，批鬥異見者，散播白色恐怖, 由示威演變成人道災難，一大堆人道罪行 ~ 要還的！\n\n#行如流水莫死守 \n#天佑香港 \n#DiscoverRealHongKong https://t.co/NfIWIjXpFT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "行如流水莫死守",
+					"indices": [
+						129,
+						137
+					]
+				},
+				{
+					"text": "天佑香港",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "DiscoverRealHongKong",
+					"indices": [
+						146,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196312167655657500,
+					"id_str": "1196312167655657472",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EJonlAGX0AAAVGj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJonlAGX0AAAVGj.jpg",
+					"url": "https://t.co/NfIWIjXpFT",
+					"display_url": "pic.twitter.com/NfIWIjXpFT",
+					"expanded_url": "https://twitter.com/sillycrazycandy/status/1196312182314520577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1139,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1139,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 645,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196312167655657500,
+					"id_str": "1196312167655657472",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EJonlAGX0AAAVGj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJonlAGX0AAAVGj.jpg",
+					"url": "https://t.co/NfIWIjXpFT",
+					"display_url": "pic.twitter.com/NfIWIjXpFT",
+					"expanded_url": "https://twitter.com/sillycrazycandy/status/1196312182314520577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1139,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1139,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 645,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125955117,
+			"id_str": "125955117",
+			"name": "Candy 🇭🇰HOME KONG🇭🇰",
+			"screen_name": "sillycrazycandy",
+			"location": "Hong Kong",
+			"description": "Stand With 🇭🇰HONG KONG!\n\n \n\n     「人民不應該害怕政府，\n政府才應該害怕人民。」\nPeople should not be afraid of their governments.\u0003\nGovernments should be afraid of their people.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 206,
+			"friends_count": 276,
+			"listed_count": 1,
+			"created_at": "Wed Mar 24 11:35:58 +0000 2010",
+			"favourites_count": 134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193923822396641281/xy6agVOX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193923822396641281/xy6agVOX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125955117/1571394079",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 481,
+		"favorite_count": 461,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "From discover real hong kong \n     //歷史在重演\n相隔三十年，暴政又再以槍口對準市民、學生、知識分子、急救員 .....抺黑忠良為外國勢力，批鬥異見者，散播白色恐怖, 由示威演變成人道災難，一大堆人道罪行 ~ 要還的！\n\n#行如流水莫死守 \n#天佑香港 \n#DiscoverRealHongKong https://t.co/NfIWIjXpFT"
+	},
+	{
+		"created_at": "Tue Nov 19 09:41:54 +0000 2019",
+		"id": 1196430510026715100,
+		"id_str": "1196725276954308608",
+		"full_text": "墙国的教育是仇恨教育，西方列强、洋鬼子、日本鬼子、黑鬼，到现在政府可以随便把香港人民叫做“蟑螂”，都是一种对人的不尊重，墙国教育出来的孩子，对待异族、异己、异见的人真的有一种咬牙切齿的对待害虫的莫名仇恨，觉得灭掉一只是一只，戏弄一只是一只，却没有仔细想一想，究竟为什么会恨呢？",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44299475,
+			"id_str": "44299475",
+			"name": "MMK",
+			"screen_name": "MianMaoKu",
+			"location": "",
+			"description": "家庭主妇推 政治推 建筑学专业推 娃推 狗子推 万推齐飞",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9566,
+			"friends_count": 720,
+			"listed_count": 205,
+			"created_at": "Wed Jun 03 05:15:23 +0000 2009",
+			"favourites_count": 593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091015539214868480/n4ILpjyX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091015539214868480/n4ILpjyX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44299475/1394495646",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "墙国的教育是仇恨教育，西方列强、洋鬼子、日本鬼子、黑鬼，到现在政府可以随便把香港人民叫做“蟑螂”，都是一种对人的不尊重，墙国教育出来的孩子，对待异族、异己、异见的人真的有一种咬牙切齿的对待害虫的莫名仇恨，觉得灭掉一只是一只，戏弄一只是一只，却没有仔细想一想，究竟为什么会恨呢？"
+	},
+	{
+		"created_at": "Tue Nov 19 09:41:42 +0000 2019",
+		"id": 1196424368726790100,
+		"id_str": "1196725227549581312",
+		"full_text": "翻译：我们是理工勇武，连炸弹都绑在了腰上，因为没希望，好多手足不在了，怎也无法冲出理工。\n但是，这么多手足一晚又一晚用命来救我们，打锐武，每日狂攻，到现在还在拼命救我们。我们真的好感动，我们感受到，每一位香港人都是手足，我们没有被人放弃！\n我们也决不放弃，大家一齐抗争到底。 https://t.co/6rRHwMe5xU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196424353950257200,
+					"id_str": "1196424353950257152",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EJqNnGnU0AA7OOJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJqNnGnU0AA7OOJ.jpg",
+					"url": "https://t.co/6rRHwMe5xU",
+					"display_url": "pic.twitter.com/6rRHwMe5xU",
+					"expanded_url": "https://twitter.com/Libertiesss/status/1196424368726790145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 623,
+							"h": 1115,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 380,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 623,
+							"h": 1115,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 71,
+									"y": 56,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 71,
+									"y": 56,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 43,
+									"y": 34,
+									"h": 36,
+									"w": 36
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 71,
+									"y": 56,
+									"h": 60,
+									"w": 60
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196424353950257200,
+					"id_str": "1196424353950257152",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EJqNnGnU0AA7OOJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJqNnGnU0AA7OOJ.jpg",
+					"url": "https://t.co/6rRHwMe5xU",
+					"display_url": "pic.twitter.com/6rRHwMe5xU",
+					"expanded_url": "https://twitter.com/Libertiesss/status/1196424368726790145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 623,
+							"h": 1115,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 380,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 623,
+							"h": 1115,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 71,
+									"y": 56,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 71,
+									"y": 56,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 43,
+									"y": 34,
+									"h": 36,
+									"w": 36
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 71,
+									"y": 56,
+									"h": 60,
+									"w": 60
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 50050020,
+			"id_str": "50050020",
+			"name": "☘️芋圓 🇭🇰",
+			"screen_name": "Libertiesss",
+			"location": "願榮光歸香港",
+			"description": "❤️真·香港人。💙自由。兄弟爬山，各自努力。 Contributing in our own ways, we traverse towards the same summit as one. 🇭🇰是我們的香港。香港人一定會贏。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1715,
+			"friends_count": 814,
+			"listed_count": 32,
+			"created_at": "Tue Jun 23 18:03:37 +0000 2009",
+			"favourites_count": 1696,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0D541E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1181583314693394435/GBoUIPB6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181583314693394435/GBoUIPB6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/50050020/1527435210",
+			"profile_link_color": "188258",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "0D381E",
+			"profile_text_color": "BD7D89",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 116,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "翻译：我们是理工勇武，连炸弹都绑在了腰上，因为没希望，好多手足不在了，怎也无法冲出理工。\n但是，这么多手足一晚又一晚用命来救我们，打锐武，每日狂攻，到现在还在拼命救我们。我们真的好感动，我们感受到，每一位香港人都是手足，我们没有被人放弃！\n我们也决不放弃，大家一齐抗争到底。 https://t.co/6rRHwMe5xU"
+	},
+	{
 		"created_at": "Mon Nov 18 03:19:35 +0000 2019",
 		"id": 1196219706455273500,
 		"id_str": "1196266672916717570",
